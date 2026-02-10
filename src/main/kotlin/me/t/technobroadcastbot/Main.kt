@@ -45,6 +45,7 @@ suspend fun fetchArticle(client: HttpClient): Article? {
         header("User-Agent", "Mozilla/5.0")
         parameter("token", NEWS_API_KEY)
         parameter("lang", "ru")
+        parameter("country", "ru")
         parameter("topic", "technology")
         parameter("max", 1)
     }
