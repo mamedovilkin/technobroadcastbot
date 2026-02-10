@@ -35,6 +35,12 @@
             "description": "Lenovo попыталась объяснить, для чего в грядущем планшете Legion Y700 (2026) установлен экран с частотой обновления 165 Гц. По данным Lenovo, Legion Y700 (2026) оснащен 3K-дисплеем с разрешением 3040 x 1904 пикселей и плотностью пикселей 409 ppi. Компания объясняет, что дисплей с частотой обновления 60 Гц обновляется каждые 16,67 мс, в то время как дисплей с частотой 144 Гц сокращает этот интервал до 6,94 мс.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/Lenovo-Legion-Y700-2026-display.jpg",
             "url": "https://www.ixbt.com/news/2026/02/10/lenovo-popytalas-objasnit-zachem-mobilnym-ustrojstvam-jekrany-165-gc.html"
+        },
+        {
+            "title": "Claude Cowork попросили \"навести порядок\" на десктопе - ИИ удалил семейные фото за 15 лет",
+            "description": "Американский венчурный инвестор Ник Давидов поделился историей в X о том, как попросил Claude Cowork «навести порядок» на десктопе его супруги под управлением macOS и удалить...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/08e/3ff/2b0/08e3ff2b0cd240f29ee3d554a39bfcac.jpg",
+            "url": "https://habr.com/ru/news/994742/"
         }
     ]
 }
