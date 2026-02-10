@@ -11,6 +11,12 @@
             "description": "Сейсмолог Александр Кендзера пояснил, что землетрясение в Полтавской области не несло угрозы, а вот подземные толчки в Азовском море - другое дело.",
             "image": "https://images.unian.net/photos/2026_02/thumb_files/1000_545_1770683635-3897.jpg?1",
             "url": "https://www.unian.net/economics/energetics/zemletryaseniya-v-ukraine-seysmolog-obyasnil-est-li-ugroza-dlya-aes-13281432.html"
+        },
+        {
+            "title": "DeepMind открыла код AlphaGenome - ИИ, который читает миллион букв ДНК за раз",
+            "description": "Google DeepMind опубликовала в Nature модель AlphaGenome — нейросеть, которая анализирует до миллиона пар оснований ДНК и предсказывает функцию некодирующих участков генома. Это те самые 98% ДНК,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/fdf/ebe/c12/fdfebec12df2f4648aca916fb3949dfc.jpg",
+            "url": "https://habr.com/ru/news/994680/"
         }
     ]
 }
