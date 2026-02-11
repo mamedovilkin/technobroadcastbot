@@ -197,6 +197,12 @@
             "description": "TL;DR : Обычный MTProxy с Fake TLS маскирует протокол, но палится при активном зондировании. Telemt при попытке «пощупать» ваш прокси извне отдаёт настоящий сайт с настоящим TLS-сертификатом. Для DPI...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/963/00f/9ef/96300f9efc4f4012c1c78e00c988e497.jpeg",
             "url": "https://habr.com/ru/articles/995102/"
+        },
+        {
+            "title": "Anthropic описала 8 угроз от Claude - включая саботаж науки и кражу собственных весов",
+            "description": "Anthropic  опубликовала  53-страничный Sabotage Risk Report — первый публичный отчет о рисках саботажа для конкретной ИИ-модели. Компания проанализировала, как Claude Opus 4.6, который...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f02/2a3/0e8/f022a30e8ba82c6371e9daf3e17b4c5d.jpg",
+            "url": "https://habr.com/ru/news/995256/"
         }
     ]
 }
