@@ -101,6 +101,12 @@
             "description": "YouTube заблокирован в России: домен пропал из DNS-серверов Роскомнадзора. Узнайте подробности и причины ограничения доступа. - Власть - 10 февраля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/lw_hWN6hI5YwvSArvj6q2A/article-id6826074-16x9.jpg?1770729473",
             "url": "https://www.fontanka.ru/2026/02/10/76257666/"
+        },
+        {
+            "title": "Создатель Redis написал ИИ-распознавание речи на чистом C - без Python и зависимостей",
+            "description": "Создатель Redis Сальваторе Санфилиппо (antirez) выложил на GitHub проект  voxtral.c  — реализацию инференса модели Voxtral Realtime 4B от Mistral на чистом C. Модель с 4 миллиардами...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/17f/674/5e1/17f6745e16af22a3d5602d6e0ff90d00.jpg",
+            "url": "https://habr.com/ru/news/994952/"
         }
     ]
 }
