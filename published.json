@@ -131,6 +131,12 @@
             "description": "Печально это все. Телеграм — единственная площадка, с которой мы транслируем нашу повестку мировому сообществу. Видимо, Роскомнадзор хочет, чтобы граждане читали вражеские ресурсы. Патриотический сегмент в телеграме сильнейший — и от этого хотят отказаться без боя. Мы провалили ютьюб, мы провалили инсту, мы провалили твиттер и фейсбук. Давайте теперь и здесь. Это стимул для массовой установки VPN. И теперь все чаще в метро видно людей с открытым ютьюбом — где у них в предложках сплошь иноагенты и террористы.",
             "image": "https://meduza.io/imgly/share/1770740926/feature/2026/02/10/roskomnadzor-hochet-chtoby-grazhdane-chitali-vrazheskie-resursy-prosto-konchenye-urody",
             "url": "https://meduza.io/feature/2026/02/10/roskomnadzor-hochet-chtoby-grazhdane-chitali-vrazheskie-resursy-prosto-konchenye-urody"
+        },
+        {
+            "title": "Toyota представила игровой движок Fluorite с открытым исходным кодом",
+            "description": "На конференции FOSDEM Toyota представила Fluorite — 3D-игровой движок с открытым исходным кодом, который может хорошо работать на встроенном оборудовании, например на чипах в автомобиле, пишет The...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/7a3/202/da1/7a3202da1ef59b0d0ce897ab6cc26d96.jpg",
+            "url": "https://habr.com/ru/news/995060/"
         }
     ]
 }
