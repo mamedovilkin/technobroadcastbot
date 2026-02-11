@@ -191,6 +191,12 @@
             "description": "В Санкт-Петербурге температура может казаться ниже, чем показывает смартфон. Главный синоптик города предупреждает о расхождении цифр. - Город - 11 февраля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/71fwMZuPt0eofG4Z4zQhtg/article-id6827805-16x9.jpg?1770799842",
             "url": "https://www.fontanka.ru/2026/02/11/76259005/"
+        },
+        {
+            "title": "Партизанский Telegram: как поднять прокси-невидимку, прикидываясь онлайн-магазином",
+            "description": "TL;DR : Обычный MTProxy с Fake TLS маскирует протокол, но палится при активном зондировании. Telemt при попытке «пощупать» ваш прокси извне отдаёт настоящий сайт с настоящим TLS-сертификатом. Для DPI...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/963/00f/9ef/96300f9efc4f4012c1c78e00c988e497.jpeg",
+            "url": "https://habr.com/ru/articles/995102/"
         }
     ]
 }
