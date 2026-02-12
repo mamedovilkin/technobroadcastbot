@@ -275,6 +275,12 @@
             "description": "Стоимость устройства составила 30,1 тыс. рублей, сообщили в группе",
             "image": "https://resizer.mail.ru/p/88aac265-bcb1-538a-884e-29151a3352e3/AQAzyqTpaURZpar-6kqf390a1vdCGt3ZAF0--ij-Tum_5UTptRW479uPJIsedr6IfCBgymvoUZfjVGp8gozh1-QNIVU.png",
             "url": "https://finance.mail.ru/article/v-mvideo-nazvali-srednyuyu-tsenu-televizorov-v-2025-godu-69198170/"
+        },
+        {
+            "title": "243 строки, ноль библиотек: Андрей Карпати написал GPT на чистом Python",
+            "description": "Основатель AI-образовательного стартапа Eureka Labs Андрей Карпати  опубликовал  microGPT — полную реализацию обучения и инференса GPT в 243 строках Python без единой внешней зависимости. Из...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/604/ab4/9b3/604ab49b3c4cc45c425321ea54b7a360.jpg",
+            "url": "https://habr.com/ru/news/995638/"
         }
     ]
 }
