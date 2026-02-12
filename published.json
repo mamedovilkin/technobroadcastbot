@@ -311,6 +311,12 @@
             "description": "Гендиректор Google DeepMind Демис Хассабис в интервью Fortune поделился своим рабочим графиком. Он рассказал, что спит около шести часов в сутки и фактически, а время бодрствования делит на два...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2f7/131/2c4/2f71312c4cfea135f79c45d1b426a1a4.JPG",
             "url": "https://habr.com/ru/news/995780/"
+        },
+        {
+            "title": "Представлено открытое хранилище медиафайлов YouTube",
+            "description": "Разработчик опубликовал на GitHub проект хранилища медиафайлов YouTube, созданного с использованием C++ и нескольких библиотек. Программа сохраняет файлы на YouTube, кодируя их в видео без потерь и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/aea/679/1f7/aea6791f72effbf9df32be90f6f1cf29.JPG",
+            "url": "https://habr.com/ru/news/995792/"
         }
     ]
 }
