@@ -293,6 +293,12 @@
             "description": "Новости",
             "image": "https://www.bnkomi.ru/content/news/images/195216/DSC_0331-7_mainPhoto.jpg",
             "url": "https://www.bnkomi.ru/data/news/195216/"
+        },
+        {
+            "title": "Steam Deck полностью пропали из продажи в США - и Valve молчит о причинах",
+            "description": "По всей видимости, Valve распродала все запасы портативных игровых консолей Steam Deck в США. На этой неделе в интернет-магазине компании в стране на страницах всех трёх доступных в настоящее время моделей устройства появилась пометка «нет в наличии»..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/12/1136750/76.jpg",
+            "url": "https://3dnews.ru/1136750/steam-deck-polnostyu-propali-iz-prodagi-v-ssha-i-valve-molchit-o-prichinah"
         }
     ]
 }
