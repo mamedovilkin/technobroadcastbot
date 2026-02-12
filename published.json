@@ -239,6 +239,12 @@
             "description": "10 февраля 2026 года почти одновременно с новостью о новом «замедлении» телеграма российские СМИ сообщили о начале полной блокировки YouTube в России после полутора лет «замедления». Журналисты обратили внимание, что домен видеохостинга исчез из записей Национальной системы доменных имен (НСДИ). Это якобы привело к тому, что ютьюб полностью перестал работать во всей России без VPN. Профильные эксперты предположили, что это было сделано ради экономии ресурсов — по их мнению, Роскомнадзору не хватает мощностей для ограничения одновременно и телеграма, и ютьюба. «Медуза» рассказывает, что на самом деле произошло с ютьюбом (а еще вотсапом, фейсбуком и сайтами независимых изданий) и насколько эффективен такой способ блокировки.",
             "image": "https://meduza.io/imgly/share/1770837455/feature/2026/02/11/vse-pishut-chto-v-rossii-primenili-novyy-sposob-blokirovki-yutyuba-instagrama-i-votsapa",
             "url": "https://meduza.io/feature/2026/02/11/vse-pishut-chto-v-rossii-primenili-novyy-sposob-blokirovki-yutyuba-instagrama-i-votsapa"
+        },
+        {
+            "title": "Вышла iOS 26.3. Нашли много новых функций",
+            "description": "Apple в очередной раз изменила дизайн Liquid Glass.",
+            "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F02%2Fios-26-cnet-3.jpeg",
+            "url": "https://www.iphones.ru/iNotes/vyshla-ios-263-est-mnogo-novyh-funkciy"
         }
     ]
 }
