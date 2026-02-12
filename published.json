@@ -245,6 +245,12 @@
             "description": "Apple в очередной раз изменила дизайн Liquid Glass.",
             "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F02%2Fios-26-cnet-3.jpeg",
             "url": "https://www.iphones.ru/iNotes/vyshla-ios-263-est-mnogo-novyh-funkciy"
+        },
+        {
+            "title": "DeepSeek обновился - в чате модель называет себя \"предрелизной версией V4\"",
+            "description": "DeepSeek тихо обновил приложение до версии 1.7.4 — и пользователи обнаружили радикальные изменения . Контекстное окно выросло с 128 тысяч токенов до более чем миллиона, а база знаний обновлена до мая...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/545/669/be7/545669be7f8e0e42bb00583fb13cad52.jpg",
+            "url": "https://habr.com/ru/news/995572/"
         }
     ]
 }
