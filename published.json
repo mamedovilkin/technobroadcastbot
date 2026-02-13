@@ -389,6 +389,12 @@
             "description": "Всероссийский союз страховщиков (ВСС) считает, что рынку пока не требуется отдельный стандарт страхования для кредитов, обеспеченных криптовалютой. Об этом говорится в официальном аккаунте объединения в мессенджере Max.",
             "image": "https://resizer.mail.ru/p/15fab7fc-080f-57fc-8c48-289d62488782/AQAzzk1RPG59XJZ2Q4snVLROpmfHRrePfVplJ71tSTMFuHrxNr4EPsvs-iZ255VfWp5wbl2_HaFQs6-bQuf_XjuNPu0.jpg",
             "url": "https://finance.mail.ru/article/v-vss-ne-schitayut-neobhodimyim-standart-strahovaniya-kreditov-pod-zalog-kriptovalyutyi-69198314/"
+        },
+        {
+            "title": "90% кода на странице не нужно ИИ-агентам. Cloudflare встроил конвертер HTML → Markdown прямо в CDN",
+            "description": "Cloudflare запустил функцию , которая прямо на лету превращает тяжелый HTML в легкий Markdown. Веб, построенный для людей, внезапно оказался плохим собеседником для машин. Там, где человек...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2c8/85a/58e/2c885a58ec0c475fde7bebd320c4d0fe.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/996090/"
         }
     ]
 }
