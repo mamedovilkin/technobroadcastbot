@@ -461,6 +461,12 @@
             "description": "Исследователи безопасности из компании Koi обнаружили масштабную вредоносную кампанию, направленную на пользователей социальной сети ВКонтакте. Злоумышленники использовали сеть из пяти расширений для браузера Google Chrome, которые суммарно установили более пятисот тысяч человек. Под видом инструментов...",
             "image": "https://i.playground.ru/e/3fGiefriUmKgcnJVhQkUOQ.png",
             "url": "https://www.playground.ru/misc/news/populyarnye_rasshireniya_dlya_smeny_dizajna_vkontakte_tajno_upravlyali_akkauntami_polumilliona_polzovatelej-1824449"
+        },
+        {
+            "title": "\"Мы у конца экспоненты\": глава Anthropic - о пике развития ИИ и триллионных ставках",
+            "description": "Глава Anthropic Дарио Амодеи в  интервью Дваркешу Пателю  заявил, что индустрия ИИ приближается к пику экспоненциального роста. По его оценке, модели уровня \"страна гениев в дата-центре\" —...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/848/08d/1d1/84808d1d1369c1c3af470117f907146d.webp",
+            "url": "https://habr.com/ru/news/996422/"
         }
     ]
 }
