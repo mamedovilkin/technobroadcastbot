@@ -533,6 +533,12 @@
             "description": "Генеральный директор Cisco Чак Роббинс официально объявил о повышении цен на продукцию компании. Основной причиной подорожания названа критическая ситуация на рынке комплектующих: стремительный рост цен на оперативную память вынуждает компанию корректировать прайс-листы, чтобы сохранить маржинальность.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/cisco_building700.jpg",
             "url": "https://www.ixbt.com/news/2026/02/14/cisco-povyshaet-ceny-izza-zolotoj-pamjati.html"
+        },
+        {
+            "title": "Micron запустила массовое производство первого в мире SSD с PCIe 6.0 - Micron 9650 обеспечит до 28 000 Мбайт/с",
+            "description": "Micron Technology объявила о запуске в массовое производство Micron 9650 — компания объявила его первым в мире серийным твердотельным накопителем с поддержкой стандарта PCIe 6.0..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/14/1136876/micron_1.jpg",
+            "url": "https://3dnews.ru/1136876/micron-zapustila-massovoe-proizvodstvo-pervogo-v-mire-ssd-s-pcie-60-micron-9650-obespechit-do-28-000-mbayts"
         }
     ]
 }
