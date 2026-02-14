@@ -437,6 +437,12 @@
             "description": "В сообществе разработчиков популярной Python-библиотеки для визуализации данных Matplotlib, которая насчитывает около 130 миллионов ежемесячных загрузок, произошёл инцидент. Разработчик и куратор проекта Скотт Шамбо (Scott Shambaugh) отклонил запрос на изменение кода, поступивший от ИИ-агента под именем MJ Rathbun. После чего бот публично стал атаковать разработчика, пытаясь очернить его репутацию.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/13/1136832/mts1102.png",
             "url": "https://3dnews.ru/1136832/iiagent-vpervie-popitalsya-publichno-ochernit-programmista-za-otkaz-prinyat-ego-kod"
+        },
+        {
+            "title": "Комплекты памяти DDR5 на 64 ГБ стали стоить дороже нового MacBook Air",
+            "description": "Некоторые комплекты оперативной памяти DDR5 на 64 ГБ стали стоить более $1 тыс., подсчитал портал PCPartPicker. Таким образом две планки ОЗУ стали дороже нового 13-дюймового MacBook Air на чипе M4. В...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e35/346/0ce/e353460cee03b2c214398c4b307dc6e6.jpg",
+            "url": "https://habr.com/ru/news/996250/"
         }
     ]
 }
