@@ -587,6 +587,12 @@
             "description": "Как мы уже сообщали, продажи процессоров в американском Amazon за пару месяцев рухнули почти втрое. Если посмотреть на статистику ближе, то можно видеть, что AMD продолжает лидировать с огромным отрывом. За январь на платформе Amazon в США было продано 23 050 процессоров Ryzen и лишь 3050 CPU Intel.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/image%20(1)_1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/14/amd-ryzen-7-5800xt-9800x3d-amazon-usa.html"
+        },
+        {
+            "title": "Microsoft Teams меняет расположение кнопки \"Выйти\", чтобы пользователи случайно не завершили разговор",
+            "description": "Microsoft завершает внедрение нового списка быстрого доступа для Microsoft Teams в Windows. Компания переместила значок завершения звонка в системный трей, чтобы предотвратить случайное завершение...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5ab/f54/540/5abf54540e3e82ddfad48db21aac5f46.jpg",
+            "url": "https://habr.com/ru/news/995590/"
         }
     ]
 }
