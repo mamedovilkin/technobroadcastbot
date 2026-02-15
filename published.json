@@ -659,6 +659,12 @@
             "description": "Всем привет! В этой статье разберем один из самых частых вопросов, связанных с Telegram: как узнать Telegram ID - и не только свой, но и группы, канала, чата или бота. Покажу множество способов - как...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fc9/002/88c/fc900288cd7e7ad0ea4191c78607a2f3.png",
             "url": "https://habr.com/ru/companies/amvera/articles/996686/"
+        },
+        {
+            "title": "Пользователи теперь могут делиться номерами телефона друзей с ChatGPT",
+            "description": "OpenAI позволила пользователям ChatGPT синхронизировать контакты и видеть, используют ли их друзья этот чат-бот или какой-либо другой продукт компании. Разработчик пока не поделился изображениями...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/455/1eb/b2f/4551ebb2f31390234457a0353d6fe8c4.jpg",
+            "url": "https://habr.com/ru/news/996694/"
         }
     ]
 }
