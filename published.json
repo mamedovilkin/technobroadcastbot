@@ -665,6 +665,12 @@
             "description": "OpenAI позволила пользователям ChatGPT синхронизировать контакты и видеть, используют ли их друзья этот чат-бот или какой-либо другой продукт компании. Разработчик пока не поделился изображениями...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/455/1eb/b2f/4551ebb2f31390234457a0353d6fe8c4.jpg",
             "url": "https://habr.com/ru/news/996694/"
+        },
+        {
+            "title": "В расширениях Chrome обнаружили 30 поддельных ИИ-ассистентов, которые крали пароли и читали почту",
+            "description": "Исследователи компании LayerX обнаружили координированную кампанию из 30 вредоносных расширений для Google Chrome, которые маскировались под популярных ИИ-ассистентов — Claude, ChatGPT, Gemini и Grok....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/7a4/69d/5c7/7a469d5c7dc784bc245af2ababb4d2c9.jpg",
+            "url": "https://habr.com/ru/news/996698/"
         }
     ]
 }
