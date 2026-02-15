@@ -671,6 +671,12 @@
             "description": "Исследователи компании LayerX обнаружили координированную кампанию из 30 вредоносных расширений для Google Chrome, которые маскировались под популярных ИИ-ассистентов — Claude, ChatGPT, Gemini и Grok....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7a4/69d/5c7/7a469d5c7dc784bc245af2ababb4d2c9.jpg",
             "url": "https://habr.com/ru/news/996698/"
+        },
+        {
+            "title": "Из Linux удалили поддержку чипсета 30-летнего Intel 440BX. Работать в системе он перестал ещё 19 лет назад",
+            "description": "По различным причинам Linux поддерживает различные аппаратные решения десятилетиями. Однако всему приходит конец, и авторы Phoronix сообщают, что система больше не поддерживает чипсет Intel 440BX. Ядро Linux 7.0 не содержит поддержки драйвера EDAC для этого чипсета.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/0/image_0.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/15/linux-30-intel-440bx-19.html"
         }
     ]
 }
