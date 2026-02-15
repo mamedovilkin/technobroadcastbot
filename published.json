@@ -593,6 +593,12 @@
             "description": "Microsoft завершает внедрение нового списка быстрого доступа для Microsoft Teams в Windows. Компания переместила значок завершения звонка в системный трей, чтобы предотвратить случайное завершение...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/5ab/f54/540/5abf54540e3e82ddfad48db21aac5f46.jpg",
             "url": "https://habr.com/ru/news/995590/"
+        },
+        {
+            "title": "HDD тоже очень нужны для развития ИИ. Производственные мощности Western Digital на текущий год почти полностью забронированы",
+            "description": "Развитие ИИ-ЦОД ведёт к росту спроса не только на память DRAM и NAND, но и на HDD. Western Digital рассказала, что спрос на жёсткие диски взлетели настолько, что производственные мощности уже заняты. Как мы уже отмечали, на 2026 календарный год у нас заняты практически все производственные мощности.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/Toshiba-HDD_large.png",
+            "url": "https://www.ixbt.com/news/2026/02/14/hdd-western-digital.html"
         }
     ]
 }
