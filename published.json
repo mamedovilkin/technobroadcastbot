@@ -629,6 +629,12 @@
             "description": "Дисклеймер : статья написана лично мной и затем отредактирована с помощью нейросети — для исправления ошибок и улучшения стиля . Можете называть меня старовером, но как я считал воздушное охлаждение...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/5b4/764/bf6/5b4764bf6f2bb3ff988adf88ac3f0806.png",
             "url": "https://habr.com/ru/articles/996626/"
+        },
+        {
+            "title": "SmarterMail стал воротами в ад: хакеры готовят волну атак шифровальщиками через почтовые серверы",
+            "description": "SmarterMail + Storm-2603 = рецепт кибернетического судного дня для корпораций.",
+            "image": "https://www.securitylab.ru/upload/iblock/dec/tcoqdkfitpkp0fkzr0injwpdpt3qav4x.jpg",
+            "url": "https://www.securitylab.ru/news/569351.php"
         }
     ]
 }
