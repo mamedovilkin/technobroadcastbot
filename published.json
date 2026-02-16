@@ -749,6 +749,12 @@
             "description": "Вполне возможно, что программирование как профессия исчезнет в ближайшее время. Илон Маск предсказывает, что к концу 2026 года заниматься непосредственно программированием больше не нужно будет.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/1/Без%20названия%20(92)_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/16/vy-dazhe-ne-budete-pytatsja-zanimatsja-programmirovaniem-ilon-mask-zajavil-chto-ii-budet-spravljatsja-s-jetoj-zadachej.html"
+        },
+        {
+            "title": "Европа доказала, что может создать собственный серверный CPU - на архитектуре RISC-V и техпроцессе Intel 3",
+            "description": "Снижение импортозависимости имеет значение и для европейских создателей критической инфраструктуры, поэтому представители Суперкомпьютерного центра в Барселоне (BSC-CNS) подтвердили работоспособность спроектированных ими процессоров TC1 с архитектурой RISC-V, выпущенных по технологии Intel 3..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/16/1136927/risc_01.jpg",
+            "url": "https://3dnews.ru/1136927/evropa-dokazala-chto-moget-sozdat-sobstvenniy-serverniy-cpu-na-arhitekture-riscv-i-tehprotsesse-intel-3"
         }
     ]
 }
