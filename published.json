@@ -785,6 +785,12 @@
             "description": "Бывший CEO GitHub Томас Домке запустил стартап Entire, который строит платформу для разработки ПО в мире, где большую часть кода пишут ИИ-агенты. Компания  привлекла $60 млн  в seed-раунде...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/361/f7d/7a0/361f7d7a013d26200a50eaee235bc4b7.jpg",
             "url": "https://habr.com/ru/news/997008/"
+        },
+        {
+            "title": "Бывший руководитель Microsoft заявил о борьбе за сохранение вертикальной панели задач в Windows 11",
+            "description": "На днях стало известно , что Microsoft возвращает вертикальную ориентацию панели задач в операционную систему. Теперь бывший гендиректор по рекламе и веб-сервисам Михаил Парахин рассказал , как он...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/39d/10e/06f/39d10e06fb6afe381e04d1904f5ef6e3.JPG",
+            "url": "https://habr.com/ru/news/997024/"
         }
     ]
 }
