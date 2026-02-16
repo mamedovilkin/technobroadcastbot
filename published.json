@@ -779,6 +779,12 @@
             "description": "Российская IXI представила мобильную экосистему IXIUS. Проект нацелен на организации с повышенными требованиями к безопасности, где критически важно предотвратить передачу данных за пределы страны.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/1/serv_you_large.png",
             "url": "https://www.ixbt.com/news/2026/02/16/google-apple-ixius-ixios.html"
+        },
+        {
+            "title": "\"Git не был создан для эры ИИ\" - так считает бывший CEO GitHub, который поднял $60 млн на замену",
+            "description": "Бывший CEO GitHub Томас Домке запустил стартап Entire, который строит платформу для разработки ПО в мире, где большую часть кода пишут ИИ-агенты. Компания  привлекла $60 млн  в seed-раунде...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/361/f7d/7a0/361f7d7a013d26200a50eaee235bc4b7.jpg",
+            "url": "https://habr.com/ru/news/997008/"
         }
     ]
 }
