@@ -83,6 +83,12 @@
             "description": "Корпорация Apple не будет обновлять планшеты iPad Pro в ближайшие годы. Об этом сообщает издание MacRumors со ссылкой на инсайдера Instant Digital",
             "image": "https://icdn.lenta.ru/images/2026/02/17/09/20260217095409297/share_8f82e176a736231c7fc783997d854998.jpg",
             "url": "https://tve24.ru/news/2026/02/17/apple-ipad/"
+        },
+        "https://habr.com/ru/news/1000302/": {
+            "title": "$118 за одно сообщение в Cursor: почему ИИ-агенты сжигают ваши деньги",
+            "description": "Пользователь Reddit пожаловался на то, как Курсор списал с него 118 долларов за ОДНО сообщение. Не за день работы, не за неделю, а за один запрос. Захотелось разобраться, как такое вообще возможно,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4a0/043/c1e/4a0043c1eb03fdc3d757bf5018d8fe63.jpg",
+            "url": "https://habr.com/ru/news/1000302/"
         }
     }
 }
