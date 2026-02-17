@@ -77,6 +77,12 @@
             "description": "Губернатор Прикамья Дмитрий Махонин сообщил о прилете беспилотника в Прикамье - Происшествия - 17 февраля 2026 | 59.ру",
             "image": "https://59.ru/html-to-img/og/WndC70nBsGD7DaiRPDqVpQ/article-id6840176-16x9.jpg?1771307990",
             "url": "https://59.ru/text/incidents/2026/02/17/76268203/"
+        },
+        "https://tve24.ru/news/2026/02/17/apple-ipad/": {
+            "title": "Apple забросила один свой продукт",
+            "description": "Корпорация Apple не будет обновлять планшеты iPad Pro в ближайшие годы. Об этом сообщает издание MacRumors со ссылкой на инсайдера Instant Digital",
+            "image": "https://icdn.lenta.ru/images/2026/02/17/09/20260217095409297/share_8f82e176a736231c7fc783997d854998.jpg",
+            "url": "https://tve24.ru/news/2026/02/17/apple-ipad/"
         }
     }
 }
