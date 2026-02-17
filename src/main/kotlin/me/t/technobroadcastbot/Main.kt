@@ -47,28 +47,17 @@ suspend fun fetchArticle(client: HttpClient): Article? {
         parameter("lang", "ru")
         parameter("country", "ru")
         parameter("topic", "technology")
-        parameter("max", 1)
     }
 
     val news = json.decodeFromString(Response.serializer(), response.body())
+    val published = loadPublished()
 
-    val article = news.articles.firstOrNull()
-
-    if (article != null) {
-        val published = loadPublished()
-
-        if (published.articles.isEmpty()) {
-            published.articles.add(article)
+    news.articles.forEach { article ->
+        if (published.articles[article.url] == null) {
+            published.articles[article.url] = article
             savePublished(published)
 
             return article
-        } else {
-            if (published.articles.last().url != article.url) {
-                published.articles.add(article)
-                savePublished(published)
-
-                return article
-            }
         }
     }
 

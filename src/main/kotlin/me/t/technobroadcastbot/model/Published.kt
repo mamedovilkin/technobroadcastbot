@@ -4,5 +4,5 @@ import kotlinx.serialization.Serializable
 
 @Serializable
 data class Published(
-    val articles: MutableList<Article> = mutableListOf()
+    val articles: MutableMap<String, Article> = mutableMapOf()
 )
