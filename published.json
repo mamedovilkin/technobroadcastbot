@@ -107,6 +107,12 @@
             "description": "«Лаборатория Касперского» выявила троян Keenadu на 13 тысячах новых Android-устройств. Из них почти 9 тысяч подвергшихся атакам Keenadu устройств оказались в России, остальные — в Японии, Германии, Бразилии и Нидерландах.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/image_6_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/17/novyj-smartfon-s-sjurprizom-v-rossii-obnaruzhili-trojan-massovo-popadajushij-na-android-s-zavoda.html"
+        },
+        "https://www.securitylab.ru/news/569419.php": {
+            "title": "Технологии защиты веб-приложений | Исследование \"Гарда\" и TAdviser",
+            "description": "В исследовании вы узнаете, почему инструменты веб-защиты централизуются в комплексные платформы WAAP.",
+            "image": "https://www.securitylab.ru/upload/iblock/896/dx0fjr2r8k77r44iv9a9u2uwx8gec0oq.jpg",
+            "url": "https://www.securitylab.ru/news/569419.php"
         }
     }
 }
