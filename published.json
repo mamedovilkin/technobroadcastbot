@@ -101,6 +101,12 @@
             "description": "Ветеран игровой индустрии и ныне ярый борец с повесткой Марк Керн, известный под ником Grummz (бывший тимлид World of Warcraft, продюсер Diablo II и Starcraft), объявил о запуске экспериментального игрового новостного портала NoClip360.com. По его...",
             "image": "https://i.playground.ru/e/4v37gXbe-vZlfQtwAKkLDg.png",
             "url": "https://www.playground.ru/misc/news/grummz_zapustil_anti_povestochnyj_igrovoj_novostnoj_sajt_v_kotorom_vse_stati_pishut_ii-1825166"
+        },
+        "https://www.ixbt.com/news/2026/02/17/novyj-smartfon-s-sjurprizom-v-rossii-obnaruzhili-trojan-massovo-popadajushij-na-android-s-zavoda.html": {
+            "title": "Новый смартфон с сюрпризом: в России обнаружили троян, массово попадающий на Android с завода",
+            "description": "«Лаборатория Касперского» выявила троян Keenadu на 13 тысячах новых Android-устройств. Из них почти 9 тысяч подвергшихся атакам Keenadu устройств оказались в России, остальные — в Японии, Германии, Бразилии и Нидерландах.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/2/image_6_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/17/novyj-smartfon-s-sjurprizom-v-rossii-obnaruzhili-trojan-massovo-popadajushij-na-android-s-zavoda.html"
         }
     }
 }
