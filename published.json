@@ -113,6 +113,12 @@
             "description": "В исследовании вы узнаете, почему инструменты веб-защиты централизуются в комплексные платформы WAAP.",
             "image": "https://www.securitylab.ru/upload/iblock/896/dx0fjr2r8k77r44iv9a9u2uwx8gec0oq.jpg",
             "url": "https://www.securitylab.ru/news/569419.php"
+        },
+        "https://www.ixbt.com/news/2026/02/17/50-ssd-1500.html": {
+            "title": "Геймер купил сломанную материнскую плату за 50 долларов и нашел на ней четыре SSD на 1500 долларов",
+            "description": "Один из пользователей форума Reddit с ником R550MAGIC2 обратил внимание на объявление на eBay, где продавалась неисправная материнская плата MSI Pro Z690-A WiFi с погнутыми контактами в сокете всего за 50 долларов.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/2/VsNpKoc6kQr5GxhDxNpzej-1200-80.jpg%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/17/50-ssd-1500.html"
         }
     }
 }
