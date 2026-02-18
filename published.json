@@ -155,6 +155,12 @@
             "description": "Anthropic  выпустила  Claude Sonnet 4.6 — обновленную версию своей средней модели, которая на ряде бенчмарков вплотную приближается к флагманскому Opus 4.6, а кое-где его обходит. Цена...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/525/162/0ce/5251620cebb5811a91b547a7ef48ea1a.jpg",
             "url": "https://habr.com/ru/news/1000686/"
+        },
+        "https://www.playground.ru/misc/news/tehnicheskij_direktor_kojima_productions_rasskazal_pochemu_studiya_prodolzhaet_ispolzovat_dvizhok_decima-1825214": {
+            "title": "Технический директор Kojima Productions рассказал, почему студия продолжает использовать движок Decima",
+            "description": "Когда Хидео Кодзима основал Kojima Productions при поддержке PlayStation, студия Guerrilla Games предоставила команде доступ к движку Decima. Спустя десять лет технология остаётся ключевой для проектов разработчиков.",
+            "image": "https://i.playground.ru/e/Htk_B5a4FnoePJeNPqnz2Q.jpeg",
+            "url": "https://www.playground.ru/misc/news/tehnicheskij_direktor_kojima_productions_rasskazal_pochemu_studiya_prodolzhaet_ispolzovat_dvizhok_decima-1825214"
         }
     }
 }
