@@ -185,6 +185,12 @@
             "description": "Индийский IT-гигант Infosys  заключил партнерство  с Anthropic для создания корпоративных ИИ-агентов. Компания интегрирует модели Claude в свою платформу Topaz и уже использует Claude Code...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ab2/b46/0c3/ab2b460c367f5e3a169f38a755e504dd.jpg",
             "url": "https://habr.com/ru/news/1000772/"
+        },
+        "https://www.ixbt.com/news/2026/02/18/xiaomi-17-ultra-leica-edition.html": {
+            "title": "Xiaomi 17 Ultra Leica Edition показал возможности перед выходом",
+            "description": "Глобальная версия Xiaomi 17 Ultra Leica Edition появилась в базе Geekbench AI до ожидаемой мировой премьеры, раскрыв ключевые параметры производительности. Глобальная версия с индексом 25128PNA1G набрала 1973 балла в тесте single precision, 3322 — в half precision и 4754 — в quantized. Изображение Grok Согласно данным бенчмарка, смартфон построен на платформе Qualcomm ARMv8 с шестью энергоэффективными ядрами (до 3,63 ГГц) и двумя производительными ядрами с частотой до 4,61 ГГц, что соответствует однокристальной системе Snapdragon 8 Elite Gen 5.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/3/image%20(75)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/18/xiaomi-17-ultra-leica-edition.html"
         }
     }
 }
