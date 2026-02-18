@@ -119,6 +119,12 @@
             "description": "Один из пользователей форума Reddit с ником R550MAGIC2 обратил внимание на объявление на eBay, где продавалась неисправная материнская плата MSI Pro Z690-A WiFi с погнутыми контактами в сокете всего за 50 долларов.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/VsNpKoc6kQr5GxhDxNpzej-1200-80.jpg%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/17/50-ssd-1500.html"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/02/17/1177016-gosduma-obyazala": {
+            "title": "Госдума обязала сотовых операторов отключать связь по требованию ФСБ",
+            "description": "Депутаты Госдумы приняли во втором и третьем чтениях поправки, обязывающие операторов отключать связь по требованию Федеральной службы безопасности (ФСБ).",
+            "image": "https://sharing.vedomosti.ru/1771329697/vedomosti.ru/technology/news/2026/02/17/1177016-gosduma-obyazala.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/02/17/1177016-gosduma-obyazala"
         }
     }
 }
