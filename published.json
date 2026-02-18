@@ -215,6 +215,12 @@
             "description": "Востребованными становятся даже барабанные тормоза.",
             "image": "https://resizer.mail.ru/p/193a3cef-031a-5601-9ec6-6be897cd76d2/AQABcOApBi_psFtfXSMVpdja-e--B32cNZq3906izse93c6Z_L1F9Wa-TPQba1jM9S_FTc6UsyfgTYZV9Uh3k1NJgeA.jpg",
             "url": "https://auto.mail.ru/article/118661-avtoproizvoditeli-vozvraschayutsya-k-tehnologiyam-xx-veka/"
+        },
+        "https://www.ixbt.com/news/2026/02/18/dlss-4-5-fsr-4-amd.html": {
+            "title": "Слепой тест показал: технология Nvidia DLSS 4.5 с разгромом победила FSR 4 от AMD и даже нативное разрешение",
+            "description": "Издание ComputerBase недавно организовало масштабное слепое тестирование, пригласив тысячи игроков оценить качество изображения, обеспечиваемое новейшими технологиями Nvidia DLSS 4.5, AMD FSR 4 и традиционными эффектами рендеринга в нативном разрешении, не указывая названия технологий.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/3/Снимок%20экрана%202026-02-18%20100422_large.png",
+            "url": "https://www.ixbt.com/news/2026/02/18/dlss-4-5-fsr-4-amd.html"
         }
     }
 }
