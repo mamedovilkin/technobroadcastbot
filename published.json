@@ -251,6 +251,12 @@
             "description": "АвтоВАЗ запустил лазерную сварку кузовов для LADA Azimut",
             "image": "https://www.32cars.ru/uploads/materials/16930/inner/J4ndrPwlen91QprJrgGD.jpg",
             "url": "https://www.32cars.ru/posts/id-16930-avtovaz-zapuskaet-lazernuju-svarku-dlja-lada-azimut"
+        },
+        "https://habr.com/ru/news/1000936/": {
+            "title": "Claude написал код с ошибкой - криптоплатформа потеряла $1,78 млн за минуты",
+            "description": "Криптовалютная платформа Moonwell  потеряла  $1,78 млн из-за бага в коде, написанном совместно с Claude Opus 4.6. Ошибка в ценовом оракуле — сервисе, который сообщает смарт-контрактам...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/60e/324/215/60e324215837e86b3e9581c749f5ef41.jpg",
+            "url": "https://habr.com/ru/news/1000936/"
         }
     }
 }
