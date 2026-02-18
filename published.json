@@ -233,6 +233,12 @@
             "description": "Подэкранный Face ID, первый в мире 2-нм чип A20 Pro и камера с переменной апертурой — iPhone 18 Pro обещает стать самым масштабным апгрейдом за последние несколько лет.",
             "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F02%2Fmaxresdefault-1771342222961.jpg",
             "url": "https://www.iphones.ru/iNotes/chto-budet-novogo-v-iphone-18-pro-i-18-pro-max-podekrannyy-face-id-chip-2-nm-i-drugie-sekrety-flagmana-2026-goda"
+        },
+        "https://3dnews.ru/1137035/posle-skandalnogo-vzloma-obnovleniya-notepad-zashchitili-po-sheme-dvoynoy-blokirovki": {
+            "title": "После скандального взлома обновления Notepad++ защитили по схеме \"двойной блокировки\"",
+            "description": "Разработчики популярного текстового редактора Notepad++ внедрили в его механизм обновления схему двойной блокировки, чтобы закрыть уязвимость, из-за которой некоторые пользователи программы получали вредоносные обновления..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/18/1137035/npp.jpg",
+            "url": "https://3dnews.ru/1137035/posle-skandalnogo-vzloma-obnovleniya-notepad-zashchitili-po-sheme-dvoynoy-blokirovki"
         }
     }
 }
