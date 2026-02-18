@@ -161,6 +161,12 @@
             "description": "Сообщается, что новый скафандр AxEMU для лунной программы NASA «Артемида», разработанный и изготовленный компанией Axiom Space, успешно прошёл ключевой этап проверки — внутреннюю техническую приёмку. Этот скафандр предназначен специально для миссии Artemis III, в ходе которой американские астронавты впервые после программы «Аполлон» вернутся на поверхность Луны..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/17/1137011/astronauts-prac_00.jpg",
             "url": "https://3dnews.ru/1137011/noviy-lunniy-skafandr-zavershil-zavodskie-ispitaniya-i-peredan-dlya-priyomki-nasa"
+        },
+        "https://3dnews.ru/1137015/menshe-gallyutsinatsiy-i-millionniy-kontekst-anthropic-predstavila-sonnet-46-i-ona-uge-dostupna-besplatno-v-claude": {
+            "title": "Меньше галлюцинаций и миллионный контекст: Anthropic представила Sonnet 4.6 и она уже доступна бесплатно в Claude",
+            "description": "Anthropic обновила свою большую языковую модель Sonnet среднего уровня. В анонсе Sonnet 4.6 разработчики Anthropic подчеркнули улучшения в генерации программного кода, рассуждениях с длинным контекстом, выполнении инструкций и работе с компьютером.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/17/1137015/claude_sonnet_46_01.jpg",
+            "url": "https://3dnews.ru/1137015/menshe-gallyutsinatsiy-i-millionniy-kontekst-anthropic-predstavila-sonnet-46-i-ona-uge-dostupna-besplatno-v-claude"
         }
     }
 }
