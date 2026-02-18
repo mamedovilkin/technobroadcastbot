@@ -179,6 +179,12 @@
             "description": "Пользователи считают , что РКН случайно заблокировал Linux, а также сайты с курсами по Python и важными библиотеками для Linux. В середине февраля 2026 года разработчикам отечественных ОС пришлось...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fcd/734/4ac/fcd7344ac4bacea527ac1202d8155737.jpg",
             "url": "https://habr.com/ru/news/1000770/"
+        },
+        "https://habr.com/ru/news/1000772/": {
+            "title": "IT-аутсорсинг убьет сам себя? Infosys строит агентов на Claude",
+            "description": "Индийский IT-гигант Infosys  заключил партнерство  с Anthropic для создания корпоративных ИИ-агентов. Компания интегрирует модели Claude в свою платформу Topaz и уже использует Claude Code...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ab2/b46/0c3/ab2b460c367f5e3a169f38a755e504dd.jpg",
+            "url": "https://habr.com/ru/news/1000772/"
         }
     }
 }
