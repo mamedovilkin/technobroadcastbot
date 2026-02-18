@@ -149,6 +149,12 @@
             "description": "Самая долгая из них продолжалась 36 календарных дней",
             "image": "https://sharing.vedomosti.ru/1771395393/vedomosti.ru/technology/articles/2026/02/18/1177142-hakeri-proveli-bolee-140-000-ddos-atak-na-rossiiskie-kompanii.jpg",
             "url": "https://www.vedomosti.ru/technology/articles/2026/02/18/1177142-hakeri-proveli-bolee-140-000-ddos-atak-na-rossiiskie-kompanii"
+        },
+        "https://www.ixbt.com/news/2026/02/18/grok-4-2.html": {
+            "title": "Илон Маск представил нейросеть Grok 4.2 со сверхбыстрым обучением",
+            "description": "Илон Маск официально объявил о выходе версии Grok 4.2 — новейшего обновления большой языковой модели xAI. На данный момент нейросеть доступна в статусе публичной бета-версии.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/3/grok_large.JPG",
+            "url": "https://www.ixbt.com/news/2026/02/18/grok-4-2.html"
         }
     }
 }
