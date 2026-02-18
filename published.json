@@ -239,6 +239,12 @@
             "description": "Разработчики популярного текстового редактора Notepad++ внедрили в его механизм обновления схему двойной блокировки, чтобы закрыть уязвимость, из-за которой некоторые пользователи программы получали вредоносные обновления..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/18/1137035/npp.jpg",
             "url": "https://3dnews.ru/1137035/posle-skandalnogo-vzloma-obnovleniya-notepad-zashchitili-po-sheme-dvoynoy-blokirovki"
+        },
+        "https://www.ixbt.com/news/2026/02/18/windows-asus-windows-11-pure.html": {
+            "title": "Это более \"чистая\" версия Windows? Asus начала устанавливать на свои ноутбуки некую Windows 11 Pure",
+            "description": "Компания Asus без лишнего шума начала устанавливать на свои ноутбуки какую-то особую версию Windows 11. Для моделей ExpertBook B5 G2 в описании указана версия Windows 11 Pure.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/3/Screenshot_1_8_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/18/windows-asus-windows-11-pure.html"
         }
     }
 }
