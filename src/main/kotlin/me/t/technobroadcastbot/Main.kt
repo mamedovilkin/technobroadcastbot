@@ -11,6 +11,7 @@ import me.t.technobroadcastbot.model.Article
 import me.t.technobroadcastbot.model.Published
 import me.t.technobroadcastbot.model.Response
 import me.t.technobroadcastbot.util.escapeMarkdownV2
+import me.t.technobroadcastbot.util.filterArticle
 import java.io.File
 
 private val NEWS_API_KEY = System.getenv("NEWS_API_KEY")
@@ -51,9 +52,10 @@ suspend fun fetchArticle(client: HttpClient): Article? {
 
     val news = json.decodeFromString(Response.serializer(), response.body())
     val published = loadPublished()
+    val words = listOf("беспилотник", "бпла", "дрон")
 
     news.articles.forEach { article ->
-        if (published.articles[article.url] == null) {
+        if (!article.title.filterArticle(words) && !article.description.filterArticle(words) && published.articles[article.url] == null) {
             published.articles[article.url] = article
             savePublished(published)
 
