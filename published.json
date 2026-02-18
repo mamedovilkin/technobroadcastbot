@@ -149,6 +149,12 @@
             "description": "В биржевом выражении бум искусственного интеллекта берёт своё начало с осени 2022 года, когда OpenAI запустила ChatGPT и породила массовый интерес к соответствующим технологиям. С тех пор капитализация основных выгодоприобретателей бума ИИ практически неуклонно росла, но с начала этого года наблюдается довольно выраженная коррекция по ценным бумагам многих эмитентов..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/17/1136992/tsmc_01.jpg",
             "url": "https://3dnews.ru/1136992/iipuzir-dal-treshchinu-u-bigtehov-isparilis-sotni-milliardov-kapitalizatsii-s-nachala-goda-no-ne-u-vseh"
+        },
+        "https://habr.com/ru/news/1000686/": {
+            "title": "Представлен Sonnet 4.6 - лишь чуть хуже Opus 4.6",
+            "description": "Anthropic  выпустила  Claude Sonnet 4.6 — обновленную версию своей средней модели, которая на ряде бенчмарков вплотную приближается к флагманскому Opus 4.6, а кое-где его обходит. Цена...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/525/162/0ce/5251620cebb5811a91b547a7ef48ea1a.jpg",
+            "url": "https://habr.com/ru/news/1000686/"
         }
     }
 }
