@@ -311,6 +311,12 @@
             "description": "Флагман, в котором решили улучшить по мелочи практически все, но софт остался сырым и есть вопросы. Цена на уровне Apple, что делает модель странной по восприятию.",
             "image": "https://mobile-review.com/all/wp-content/uploads/2026/02/86496846.jpg",
             "url": "https://mobile-review.com/all/reviews/smartphones/obzor-honor-magic-8-pro-povtorenie-projdennogo/"
+        },
+        "https://habr.com/ru/news/1001038/": {
+            "title": "Пользователь Reddit купил нерабочую материнскую плату за $50 и нашёл на ней SSD на $1500",
+            "description": "Пользователь Reddit под ником R550MAGIC2 приобрёл на eBay неисправную материнскую плату MSI Pro Z690-A WiFi за $50. У платы был повреждённый сокет, но на фото в объявлении были видны радиаторы на всех...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/385/f17/ebf/385f17ebf1fb5b9aacb5907b769ba7ec.jpg",
+            "url": "https://habr.com/ru/news/1001038/"
         }
     }
 }
