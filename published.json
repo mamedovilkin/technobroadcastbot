@@ -365,6 +365,12 @@
             "description": "Спустя почти год после релиза долгожданного ремастера The Elder Scrolls 4: Oblivion от Bethesda Game Studios фанаты продолжают устраивать свои обычные безумства. Один из игроков по никнейму Scylax_Vitarrn уже 10...",
             "image": "https://cdn.shazoo.ru/852220_M2IGDsm_wwrd93ydpl.jpg",
             "url": "https://shazoo.ru/2026/02/19/179860/igrok-oblivion-remastered-provel-300-dnei-presleduia-straznika-ctoby-zapolucit-ego-broniu-i-tolko-seicas-uvidel-ego-lico"
+        },
+        "https://habr.com/ru/news/1001242/": {
+            "title": "За использование Claude в OpenClaw забанят? Anthropic обновила правила использования и всех запутала",
+            "description": "Anthropic обновила  документацию по Claude Code, явно прописав запрет на использование OAuth-токенов от подписок Free, Pro и Max в сторонних инструментах. Под запрет попали не только OpenClaw и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0b8/481/a25/0b8481a25bc6bf420653ef0cd350120a.jpg",
+            "url": "https://habr.com/ru/news/1001242/"
         }
     }
 }
