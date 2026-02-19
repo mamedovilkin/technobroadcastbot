@@ -407,6 +407,12 @@
             "description": "Группа «Соллерс» начала выпуск 7-местной пассажирской версии Sollers SF1 по технологии полного цикла на заводе в Елабуге.",
             "image": "https://resizer.mail.ru/p/f9a0982c-9855-51ea-bf3f-e847e3a4a493/AQABnulQmXKtkkw-6p3xUNhoBE7jcuzu94jGNbVyRYTa2FHipK-lXS8ADuWv5XAig1SPqB42Jc3Ii-X_E732t85lreM.jpg",
             "url": "https://auto.mail.ru/article/118728-v-elabuge-nachalos-serijnoe-proizvodstvo-minivenov-sf1-za-225-mln-rublej/"
+        },
+        "https://habr.com/ru/news/1001344/": {
+            "title": "27-летний Apple iBook смог подключаться к Wi-Fi и загружать обновления",
+            "description": "Пользователь Reddit поделился своим опытом — он смог подключить 27-летний ноутбук Apple iBook с macOS X 10.4 (Tiger) к современной сети Wi-Fi и загружать обновления с серверов Apple без каких-либо...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/135/6a1/aa1/1356a1aa1f3e45621fbe663a8b82b177.JPG",
+            "url": "https://habr.com/ru/news/1001344/"
         }
     }
 }
