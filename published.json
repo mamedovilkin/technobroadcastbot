@@ -371,6 +371,12 @@
             "description": "Anthropic обновила  документацию по Claude Code, явно прописав запрет на использование OAuth-токенов от подписок Free, Pro и Max в сторонних инструментах. Под запрет попали не только OpenClaw и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0b8/481/a25/0b8481a25bc6bf420653ef0cd350120a.jpg",
             "url": "https://habr.com/ru/news/1001242/"
+        },
+        "https://www.ixbt.com/news/2026/02/19/xiaomi-redmi-poco-hyperos.html": {
+            "title": "Когда Xiaomi, Redmi или Poco перестанут получать обновления HyperOS. Опубликован детальный список актуальных устройств с датами",
+            "description": "Xiaomi может похвастаться одной из лучших политик обновления программного обеспечения среди Android-брендов, но поддержка всё равно не вечная. Изображение Grok Авторы gizmochina изучили официальный сайт Xiaomi и подготовили список, в котором указано, когда конкретное устройство Xiaomi, Redmi или Poco перестанет получать обновления программного обеспечения.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/4/Без%20названия%20-%202026-02-19T084436.215_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/19/xiaomi-redmi-poco-hyperos.html"
         }
     }
 }
