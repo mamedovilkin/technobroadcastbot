@@ -413,6 +413,12 @@
             "description": "Пользователь Reddit поделился своим опытом — он смог подключить 27-летний ноутбук Apple iBook с macOS X 10.4 (Tiger) к современной сети Wi-Fi и загружать обновления с серверов Apple без каких-либо...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/135/6a1/aa1/1356a1aa1f3e45621fbe663a8b82b177.JPG",
             "url": "https://habr.com/ru/news/1001344/"
+        },
+        "https://habr.com/ru/news/1001322/": {
+            "title": "Студия The Dor Brothers утверждает, что заработала $3 млн на ИИ-видеосъёмке всего за один день",
+            "description": "Специализирующаяся на ИИ-фильмах и вымышленных трейлерах студия The Dor Brothers сообщила , что заработала $3 млн на видеосъёмке одного ролика с помощью ИИ всего за один день. Пользователи сразу нашли...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/465/1d5/147/4651d5147663ddc58778896f4c3b5d11.jpeg",
+            "url": "https://habr.com/ru/news/1001322/"
         }
     }
 }
