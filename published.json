@@ -293,6 +293,12 @@
             "description": "Microsoft объявила о реализации полноценной поддержки стандарта MIDI 2.0 в Windows 11 на уровне операционной системы. Все новые функции, предусмотренные этим стандартом, смогут работать со штатными средствами, без установки драйверов и специализированного ПО от производителей оборудования.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/18/1137058/sm.midi_1.800.jpg",
             "url": "https://3dnews.ru/1137058/windows-11-poluchila-polnotsennuyu-poddergku-midi-20"
+        },
+        "https://tve24.ru/news/2026/02/18/xiaomi-ads/": {
+            "title": "Назван способ отключения рекламы в смартфонах Xiaomi",
+            "description": "Журналисты издания GizmoChina перечислили способы отключения рекламы в смартфонах Xiaomi. Материал доступен на сайте медиа",
+            "image": "https://icdn.lenta.ru/images/2026/02/18/17/20260218174711484/share_1291cef1e9de0a8cc88f39c0a6b42b10.jpg",
+            "url": "https://tve24.ru/news/2026/02/18/xiaomi-ads/"
         }
     }
 }
