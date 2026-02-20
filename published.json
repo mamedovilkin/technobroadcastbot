@@ -479,6 +479,12 @@
             "description": "Компания rePebble поделилась свежими планами по выводу часов Pebble Time 2, круглых Round 2 и кольца Index 01. Все устройства поступят в продажу уже в этом году. Pebble Time 2 Классические Pebble Time...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7a0/9c9/d0a/7a09c9d0a8b51d44a6f1af729215c865.jpg",
             "url": "https://habr.com/ru/news/1001652/"
+        },
+        "https://habr.com/ru/news/1001594/": {
+            "title": "СМИ: \"Создатель средств блокировки Рунета переходит с российского ПО на Microsoft Exchange 2019\"",
+            "description": "Компания «РДП Энтерпрайз», которая занимается созданием средств для суверенного Рунета и принадлежит структурам «Ростелекома», планирует перейти с российского программного обеспечения...",
+            "image": "https://habr.com/share/publication/1001594/7f78146b765a5f3fafa4287e9982ec40/",
+            "url": "https://habr.com/ru/news/1001594/"
         }
     }
 }
