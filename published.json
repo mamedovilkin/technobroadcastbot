@@ -587,6 +587,12 @@
             "description": "Intel запускает «Ask Intel» — дополнение к своему сайту поддержки Intel, работающее на платформе Microsoft Copilot. Сотрудник PCWorld опробовал ИИ-помощника и чуть не лишился ПК, с которым у него...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/f82/4e8/934/f824e89342310fef48a62acecc9979cf.JPG",
             "url": "https://habr.com/ru/news/1001776/"
+        },
+        "https://www.profinance.ru/news2/2026/02/20/cikn-uvazhaemyj-chatgpt-pozhalujsta-sostavte-dlya-menya-optimalnyj-investitsionnyj-po.html": {
+            "title": "Уважаемый ChatGPT, пожалуйста, составьте для меня оптимальный инвестиционный портфель",
+            "description": "Искусственный интеллект уже сейчас умнее и компетентнее всех финансовых консультантов",
+            "image": "https://www.profinance.ru/img/news/583943-1.png?15875560",
+            "url": "https://www.profinance.ru/news2/2026/02/20/cikn-uvazhaemyj-chatgpt-pozhalujsta-sostavte-dlya-menya-optimalnyj-investitsionnyj-po.html"
         }
     }
 }
