@@ -449,6 +449,12 @@
             "description": "Акции Samsung Electronics взлетели до рекорда после сообщения о переговорах по цене на новейший чип памяти HBM4 для ИИ, который на 30% дороже предыдущего поколения. По данным Chosun Ilbo, цена на HBM4 составит 700 долларов, что обусловлено ослаблением опасений по поводу влияния ИИ и позитивным развитием отрасли. Отчет Samsung подчеркивает «ценовую власть» компании и прогнозирует операционную прибыль от HBM4 в 50-60%.",
             "image": "https://www.profinance.ru/img/news/583926-1.png?1051669245",
             "url": "https://www.profinance.ru/news2/2026/02/19/cik6-aktsii-samsung-vzleteli-do-rekordnogo-urovnya-posle-soobscheniya-o-povyshenii-ts.html"
+        },
+        "https://habr.com/ru/news/1001524/": {
+            "title": "Создатель Claude Code от Anthropic предсказал, что должность инженера-программиста начнет \"исчезать\" в 2026 году",
+            "description": "Борис Черни, разработчик популярного ИИ-агента Claude Code от компании Anthropic, предупредил, что профессия инженера-программиста скоро уйдёт в прошлое. По его словам, искусственный интеллект...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/3d1/181/d01/3d1181d0130b75b72b1b599952aaf3cb.jpg",
+            "url": "https://habr.com/ru/news/1001524/"
         }
     }
 }
