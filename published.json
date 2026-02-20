@@ -581,6 +581,12 @@
             "description": "Видеоиграм всё сложнее привлекать внимание – и дело не в более сильных конкурентах, а в смартфонах. Согласно отчёту консалтинговой компании Epyllion, индустрия столкнулась с кризисом удержания аудитории.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1124259/01KHX4D4PEWFCZTT41HFPFW3ED.jpg",
             "url": "https://ixbt.games/news/2026/02/20/geimery-vse-cashhe-vybiraiut-bystrye-ukoly-dofamina-smartfony-vytesniaiut-videoigry-issledovanie.html"
+        },
+        "https://habr.com/ru/news/1001776/": {
+            "title": "В PCWorld проверили ИИ-помощника Ask Intel и чуть не усугубили ситуацию с поломанным ПК",
+            "description": "Intel запускает «Ask Intel» — дополнение к своему сайту поддержки Intel, работающее на платформе Microsoft Copilot. Сотрудник PCWorld опробовал ИИ-помощника и чуть не лишился ПК, с которым у него...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f82/4e8/934/f824e89342310fef48a62acecc9979cf.JPG",
+            "url": "https://habr.com/ru/news/1001776/"
         }
     }
 }
