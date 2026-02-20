@@ -437,6 +437,12 @@
             "description": "Шедевральный смартфон.",
             "image": "https://click-or-die.ru/app/uploads/2026/02/bk6a1233.jpg",
             "url": "https://click-or-die.ru/2026/02/glavnyj-hit-xiaomi-vnezapno-obesczenilsya-hvataem-poka-on-snova-ne-podorozhal/"
+        },
+        "https://habr.com/ru/news/1001452/": {
+            "title": "Gemini 3.1 Pro создала интерфейс Windows 11 с одного промпта",
+            "description": "Пользователь X под ником @chetaslua  опубликовал видео , в котором еще не вышедшая официально Gemini 3.1 Pro за один промпт создает интерактивный клон интерфейса Windows 11 — на чистом HTML, CSS...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/36e/5a5/22f/36e5a522f65b61c3f120b5473a61f9b0.jpeg",
+            "url": "https://habr.com/ru/news/1001452/"
         }
     }
 }
