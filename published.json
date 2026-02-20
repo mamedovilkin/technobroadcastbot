@@ -521,6 +521,12 @@
             "description": "Клон Samsung Galaxy S26 Ultra появился в продаже до релиза оригинального смартфона. Об этом сообщает издание GizmoChina",
             "image": "https://icdn.lenta.ru/images/2026/02/19/10/20260219103434708/share_71e8ddabab950763802f6e4db40c8499.jpg",
             "url": "https://tve24.ru/news/2026/02/20/galaxy-clone/"
+        },
+        "https://3dnews.ru/1137143/intel-vnedrila-iiv-tehpoddergku-no-on-dayot-glupie-i-opasnie-soveti": {
+            "title": "Intel внедрила ИИ в техподдержку - но он даёт глупые и опасные советы",
+            "description": "Компания Intel внедрила на свой сайт технической поддержки цифрового помощника на базе ИИ, призванного помочь пользователям быстро решить их проблемы. Новая форма обратной связи Ask Intel позволяет задавать вопросы искусственному интеллекту, не вызывая для этого человека-оператора. Пользы от него мало.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/19/1137143/Ask-Intel-large.jpg",
+            "url": "https://3dnews.ru/1137143/intel-vnedrila-iiv-tehpoddergku-no-on-dayot-glupie-i-opasnie-soveti"
         }
     }
 }
