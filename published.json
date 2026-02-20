@@ -443,6 +443,12 @@
             "description": "Пользователь X под ником @chetaslua  опубликовал видео , в котором еще не вышедшая официально Gemini 3.1 Pro за один промпт создает интерактивный клон интерфейса Windows 11 — на чистом HTML, CSS...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/36e/5a5/22f/36e5a522f65b61c3f120b5473a61f9b0.jpeg",
             "url": "https://habr.com/ru/news/1001452/"
+        },
+        "https://www.profinance.ru/news2/2026/02/19/cik6-aktsii-samsung-vzleteli-do-rekordnogo-urovnya-posle-soobscheniya-o-povyshenii-ts.html": {
+            "title": "Акции Samsung взлетели до рекордного уровня после сообщения о повышении цен на чипы",
+            "description": "Акции Samsung Electronics взлетели до рекорда после сообщения о переговорах по цене на новейший чип памяти HBM4 для ИИ, который на 30% дороже предыдущего поколения. По данным Chosun Ilbo, цена на HBM4 составит 700 долларов, что обусловлено ослаблением опасений по поводу влияния ИИ и позитивным развитием отрасли. Отчет Samsung подчеркивает «ценовую власть» компании и прогнозирует операционную прибыль от HBM4 в 50-60%.",
+            "image": "https://www.profinance.ru/img/news/583926-1.png?1051669245",
+            "url": "https://www.profinance.ru/news2/2026/02/19/cik6-aktsii-samsung-vzleteli-do-rekordnogo-urovnya-posle-soobscheniya-o-povyshenii-ts.html"
         }
     }
 }
