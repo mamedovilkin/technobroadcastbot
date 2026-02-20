@@ -545,6 +545,12 @@
             "description": "Южнокорейская корпорация Samsung примет беспрецедентные меры по защите от слива информации. Об этом сообщает издание The Korea Herald",
             "image": "https://icdn.lenta.ru/images/2026/02/19/20/20260219204048588/share_0eeb5a97e1c4253b5b7ddf8190469378.jpg",
             "url": "https://tve24.ru/news/2026/02/20/leaks/"
+        },
+        "https://news.rambler.ua/tech/56071834-v-rossii-vypustili-dorogoy-iphone-v-chest-dnya-zaschitnika-otechestva/": {
+            "title": "В России выпустили дорогой iPhone в честь Дня защитника Отечества",
+            "description": "Специализирующаяся на производстве смартфонов и носимой электроники из дорогих материалов компания Caviar представила iPhone с миниатюрой Медного Всадника ко Дню защитника Отечества.",
+            "image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=56071834&format=png",
+            "url": "https://news.rambler.ua/tech/56071834-v-rossii-vypustili-dorogoy-iphone-v-chest-dnya-zaschitnika-otechestva/"
         }
     }
 }
