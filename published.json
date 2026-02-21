@@ -683,6 +683,12 @@
             "description": "Роскомнадзор обновил настройки средств противодействия угрозам, из-за чего, по некоторым данным, перестали работать RDP-подключения. Именно они позволяли сотрудникам подключаться к своим удаленным рабочим столам на базе Windows. Правда ли это угрожает корпоративной удаленке?",
             "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/02/20/young-adult-dealing-with-imposter-syndrome.jpg",
             "url": "https://www.bfm.ru/news/598756"
+        },
+        "https://www.ixbt.com/news/2026/02/20/amd-ryzen-10000-zen-6-2027-am5.html": {
+            "title": "Новые процессоры AMD Ryzen 10000 на архитектуре Zen 6 выйдут не раньше 2027 года, но они будут совместимы с сокетом AM5",
+            "description": "По данным ресурса Benchlife, новые процессоры AMD Ryzen для настольных ПК — семейства Olympic Ridge — выйдут не раньше 2027 года (хотя ранее сообщалось, что релиз может состояться в 2026 году).",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/5/AMD-RYZEN-OLYMPIC-RIDGE-ZEN6-HERO-1200x624_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/20/amd-ryzen-10000-zen-6-2027-am5.html"
         }
     }
 }
