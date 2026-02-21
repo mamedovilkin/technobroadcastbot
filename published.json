@@ -701,6 +701,12 @@
             "description": "Gentoo — один из самых старых дистрибутивов Linux. Он появился в 2002 году и до сих пор работает по тем же принципам: сборка пакетов из исходных текстов, тщательная настройка под любое железо и полное...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/c62/35c/028/c6235c0289b7dfdbaf6c3ca1536ab6e2.png",
             "url": "https://habr.com/ru/companies/ru_mts/articles/1001920/"
+        },
+        "https://www.ixbt.com/news/2026/02/20/v-pensilvanii-zemlevladelec-otkazalsja-prodat-zemljuza-15-millionov-dollarovi-zashitil-svoi-polja-ot-stroitelstva.html": {
+            "title": "В Пенсильвании землевладелец отказался продать землю за 15 миллионов долларов и защитил свои поля от строительства датацентра",
+            "description": "В США быстрый рост индустрии искусственного интеллекта привёл к строительству крупных датацентров по всей стране. Такие объекты требуют много энергии и земли, что вызывает интерес у местных жителей и властей.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/5/converted%20-%202026-02-20T171758.736_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/20/v-pensilvanii-zemlevladelec-otkazalsja-prodat-zemljuza-15-millionov-dollarovi-zashitil-svoi-polja-ot-stroitelstva.html"
         }
     }
 }
