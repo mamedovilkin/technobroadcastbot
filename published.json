@@ -677,6 +677,12 @@
             "description": "На предприятии «Москвич» запущено производство электромобилей и гибридов бренда Umo, разработанных компанией EVM, сообщает РБК. Церемонию запуска производства провели первый вице-премьер России Денис Мантуров, мэр Москвы Сергей Собянин и советник по корпоративному развитию «Яндекса» Алексей Кудрин..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/20/1137201/photo_2026-02-20_18-30-51.jpg",
             "url": "https://3dnews.ru/1137201/moskvich-zapustil-proizvodstvo-elektromobiley-umo-s-ii-dlya-yandeks-taksi-vnutri-u-nih-iiyandeksa"
+        },
+        "https://www.bfm.ru/news/598756": {
+            "title": "Из-за блокировок Telegram и VPN бизнес может вернуть сотрудников в офисы",
+            "description": "Роскомнадзор обновил настройки средств противодействия угрозам, из-за чего, по некоторым данным, перестали работать RDP-подключения. Именно они позволяли сотрудникам подключаться к своим удаленным рабочим столам на базе Windows. Правда ли это угрожает корпоративной удаленке?",
+            "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/02/20/young-adult-dealing-with-imposter-syndrome.jpg",
+            "url": "https://www.bfm.ru/news/598756"
         }
     }
 }
