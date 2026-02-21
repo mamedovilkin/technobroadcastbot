@@ -695,6 +695,12 @@
             "description": "Пользователи из разных уголков мира вечером 20 февраля начали жаловаться на проблемы в работе игровой платформы Steam. Судя по объёму сообщений в сервисе Downdetector, проблема носит массовый характер. В качестве причины сбоя Valve приводит проблемы у Cloudflare и других провайдеров интернет-сервисов.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/20/1137206/steam_deck_01.jpg",
             "url": "https://3dnews.ru/1137206/u-steam-proizoshyol-massoviy-sboy-tisyachi-igrokov-ne-mogut-voyti-v-cs2-dota-2-i-drugie-igri"
+        },
+        "https://habr.com/ru/companies/ru_mts/articles/1001920/": {
+            "title": "Создатели Gentoo уходят с GitHub из-за ИИ. Разбираем причины и нюансы",
+            "description": "Gentoo — один из самых старых дистрибутивов Linux. Он появился в 2002 году и до сих пор работает по тем же принципам: сборка пакетов из исходных текстов, тщательная настройка под любое железо и полное...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c62/35c/028/c6235c0289b7dfdbaf6c3ca1536ab6e2.png",
+            "url": "https://habr.com/ru/companies/ru_mts/articles/1001920/"
         }
     }
 }
