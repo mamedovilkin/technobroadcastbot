@@ -689,6 +689,12 @@
             "description": "По данным ресурса Benchlife, новые процессоры AMD Ryzen для настольных ПК — семейства Olympic Ridge — выйдут не раньше 2027 года (хотя ранее сообщалось, что релиз может состояться в 2026 году).",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/5/AMD-RYZEN-OLYMPIC-RIDGE-ZEN6-HERO-1200x624_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/20/amd-ryzen-10000-zen-6-2027-am5.html"
+        },
+        "https://3dnews.ru/1137206/u-steam-proizoshyol-massoviy-sboy-tisyachi-igrokov-ne-mogut-voyti-v-cs2-dota-2-i-drugie-igri": {
+            "title": "У Steam произошёл массовый сбой: миллионы игроков не могут войти в CS2, Dota 2 и другие игры",
+            "description": "Пользователи из разных уголков мира вечером 20 февраля начали жаловаться на проблемы в работе игровой платформы Steam. Судя по объёму сообщений в сервисе Downdetector, проблема носит массовый характер. В качестве причины сбоя Valve приводит проблемы у Cloudflare и других провайдеров интернет-сервисов.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/20/1137206/steam_deck_01.jpg",
+            "url": "https://3dnews.ru/1137206/u-steam-proizoshyol-massoviy-sboy-tisyachi-igrokov-ne-mogut-voyti-v-cs2-dota-2-i-drugie-igri"
         }
     }
 }
