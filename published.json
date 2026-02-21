@@ -773,6 +773,12 @@
             "description": "Фонд The Document Foundation (TDF) раскритиковал разработчика пакета офисных приложений OnlyOffice за «поддельный открытый исходный код». По мнению представителей TDF, OnlyOffice сотрудничает с...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2bc/a5d/664/2bca5d6643b4d852fcaabc71b72bafa8.JPG",
             "url": "https://habr.com/ru/news/1002146/"
+        },
+        "https://habr.com/ru/news/1001802/": {
+            "title": "Релиз Trayy 3.0 - открытого приложения для Windows 10/11, которое расширяет возможности системного трея",
+            "description": "19 февраля 2025 года состоялся релиз проекта Trayy 3.0. Это небольшое открытое приложение для ПК на Windows 10/11, которое расширяет возможности системного трея. Исходный код решения написан на C++ и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/97a/ce0/2e6/97ace02e65717ae5a2156db1fe1ab2bb.png",
+            "url": "https://habr.com/ru/news/1001802/"
         }
     }
 }
