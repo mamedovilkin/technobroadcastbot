@@ -737,6 +737,12 @@
             "description": "Компания ASRock опубликовала подробные технические характеристики своих мини-ПК серии NUC Ultra 300, с возможностью установки процессора Intel Core X7 358H и 128 ГБ оперативной памяти DDR5.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/33d93d02-9b3d-4ec9-8c0f-5c0e9edd_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/21/intel-core-x7-358h-128-ddr5-asrock-nuc-ultra-300.html"
+        },
+        "https://www.securitylab.ru/news/569609.php": {
+            "title": "\"Запрещённый\" процесс оказался возможным. ChatGPT нашёл в физике частиц лазейку, которую люди не замечали десятилетиями",
+            "description": "ИИ упростил громоздкие выражения и подсказал общий вид формулы, который затем проверили вручную.",
+            "image": "https://www.securitylab.ru/upload/iblock/958/7anef8jkj4l71zej2p7lhihf9xay64j0.jpg",
+            "url": "https://www.securitylab.ru/news/569609.php"
         }
     }
 }
