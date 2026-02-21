@@ -767,6 +767,12 @@
             "description": "Издание Kotaku сделало то, о чём давно говорил весь игровой интернет – официально объявило Xbox мёртвой. Дата смерти – 20 февраля 2026 года (ночью 21 февраля по МСК). Именно в...",
             "image": "https://cdn.shazoo.ru/852778_8Hvg5bA_0cq5n70hpf.jpg",
             "url": "https://shazoo.ru/2026/02/21/179999/smi-nacali-xoronit-xbox-posle-uxoda-fila-spensera-i-prixoda-ii-bossa-microsoft"
+        },
+        "https://habr.com/ru/news/1002146/": {
+            "title": "LibreOffice раскритиковала \"поддельный открытый исходный код\" OnlyOffice за сотрудничество с Microsoft",
+            "description": "Фонд The Document Foundation (TDF) раскритиковал разработчика пакета офисных приложений OnlyOffice за «поддельный открытый исходный код». По мнению представителей TDF, OnlyOffice сотрудничает с...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2bc/a5d/664/2bca5d6643b4d852fcaabc71b72bafa8.JPG",
+            "url": "https://habr.com/ru/news/1002146/"
         }
     }
 }
