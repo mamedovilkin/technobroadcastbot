@@ -791,6 +791,12 @@
             "description": "Компания Akasa расширила свою линейку безвентиляторных решений корпусом Euler CMX. Новинка рассчитана на материнские платы типоразмера Mini-ITX и ориентирована на создание относительно мощных, но абсолютно бесшумных систем.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/ASKASA-PASSIVE-DESKTOP-35W-CASE-1200x624_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/21/4-akasa-euler-cmx-intel-lga1851-lga1700-lga1200-lga115x.html"
+        },
+        "https://www.ixbt.com/news/2026/02/21/ssd-2026-sk-hynix.html": {
+            "title": "Цены на ОЗУ и SSD будут расти весь 2026 год: SK Hynix заявила о критически низких запасах чипов на складах",
+            "description": "Один из крупнейших мировых производителей чипов, компания SK Hynix, озвучила крайне жесткий прогноз на 2026 год. В ходе конференции с аналитиками Goldman Sachs руководство компании заявило, что цены на оперативную и флеш-память будут расти непрерывно в течение всего года.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/321-Layer-QLC-NAND-Flash_01_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/21/ssd-2026-sk-hynix.html"
         }
     }
 }
