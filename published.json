@@ -665,6 +665,12 @@
             "description": "Отличные модели для большинства задач.",
             "image": "https://click-or-die.ru/app/uploads/2026/02/section9-pc.jpeg",
             "url": "https://click-or-die.ru/2026/02/nashli-samye-deshyovye-planshety-samsung-i-honor-luchshie-varianty-dlya-uchyoby-i-prosmotra-video-za-svoi-dengi/"
+        },
+        "https://habr.com/ru/news/1002072/": {
+            "title": "Claude Opus 4.6 поставил рекорд времени автономной работы - и сломал бенчмарк METR",
+            "description": "Организация METR  опубликовала  результаты оценки Claude Opus 4.6 по бенчмарку Time Horizon 1.1, который измеряет сложность задач, доступных ИИ-агентам. Новая модель Anthropic показала 50%-й...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/322/69c/ad7/32269cad7fa528ea4f025e87811a3785.jpeg",
+            "url": "https://habr.com/ru/news/1002072/"
         }
     }
 }
