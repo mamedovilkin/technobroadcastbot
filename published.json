@@ -653,6 +653,12 @@
             "description": "Канадское подразделение Toyota приступает к использованию человекоподобных роботов: компания подписала коммерческое соглашение с разработчиком Agility Robotics на поставку андроидов Digit.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/5/rav4_large.JPG",
             "url": "https://www.ixbt.com/news/2026/02/20/chelovekopodobnye-roboty-budut-sobirat-toyota-rav4.html"
+        },
+        "https://3dnews.ru/1137193/iiboti-tupeyut-pri-dlitelnom-obshchenii-s-chelovekom-pokazalo-bolshoe-issledovanie-microsoft": {
+            "title": "ИИ-боты тупеют при длительном общении с человеком, показало большое исследование Microsoft",
+            "description": "Microsoft Research и Salesforce проанализировали более 200 000 диалогов с передовыми моделями ИИ, включая GPT-4.1, Gemini 2.5 Pro, Claude 3.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/20/1137193/ai-human-unsplash.jpg",
+            "url": "https://3dnews.ru/1137193/iiboti-tupeyut-pri-dlitelnom-obshchenii-s-chelovekom-pokazalo-bolshoe-issledovanie-microsoft"
         }
     }
 }
