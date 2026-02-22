@@ -815,6 +815,12 @@
             "description": "Слишком любопытным программам указали на дверь.",
             "image": "https://www.securitylab.ru/upload/iblock/816/z0a08cjj8bt05wii9tmrpa3exqvpylz6.jpg",
             "url": "https://www.securitylab.ru/news/569602.php"
+        },
+        "https://www.ixbt.com/news/2026/02/21/intel-nova-lake.html": {
+            "title": "Intel не выпустит новые процессоры Nova Lake в этом году",
+            "description": "Как и ожидалось, в Сети начинают появляться слухи о том, что в этом году никаких новых процессоров мы не увидим ни от AMD, ни от Intel. Инсайдер Golden Pig Upgrade говорит, что процессоры Intel Nova Lake тоже выйдут лишь в 2027 году. Тоже, потому что вчера появились данные, что новые Ryzen в этом году не выйдут, и ждать их стоит лишь в следующем.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/INTEL-NOVA-LAKE-CORE-ULTRA-400-CES-2027-HERO-1200x624_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/21/intel-nova-lake.html"
         }
     }
 }
