@@ -851,6 +851,12 @@
             "description": "В декабре 2025 года на Stack Overflow задали 3 862 вопроса — на 78% меньше, чем годом ранее. На пике, в 2014-м, платформа принимала более 200 000 вопросов в месяц. По данным самого сервиса, 84%...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6ef/dcf/1b3/6efdcf1b3d2638b584d5876645807d75.jpg",
             "url": "https://habr.com/ru/news/1002280/"
+        },
+        "https://habr.com/ru/news/1002306/": {
+            "title": "Полгода назад ИИ не мог нарисовать часы. Теперь - 5 из 5 попыток идеальны",
+            "description": "Исследователь из Goodeye Labs Рэнди Олсон дал 22 ИИ-моделям — от GPT-3.5 (2023) до свежих релизов 2026 года — один и тот же промпт: создать в одном HTML-файле работающие аналоговые часы с тремя...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b8f/a7d/a20/b8fa7da206a65e7814cc63dffc662e86.png",
+            "url": "https://habr.com/ru/news/1002306/"
         }
     }
 }
