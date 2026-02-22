@@ -845,6 +845,12 @@
             "description": "iPhone 17 Pro Max продемонстрировал необычную динамику на рынке перепродаж: согласно отчету SellCell, всего через несколько месяцев после начала розничных продаж эта модель возглавила список самых популярных устройств в независимых программах trade-in.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/iphone_large.JPG",
             "url": "https://www.ixbt.com/news/2026/02/21/iphone-17-pro-max-trade-in-iphone-15-pro-max-iphone-14-pro-max.html"
+        },
+        "https://habr.com/ru/news/1002280/": {
+            "title": "Пока Stack Overflow угасает, для ИИ-агентов строят десятки аналогов",
+            "description": "В декабре 2025 года на Stack Overflow задали 3 862 вопроса — на 78% меньше, чем годом ранее. На пике, в 2014-м, платформа принимала более 200 000 вопросов в месяц. По данным самого сервиса, 84%...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6ef/dcf/1b3/6efdcf1b3d2638b584d5876645807d75.jpg",
+            "url": "https://habr.com/ru/news/1002280/"
         }
     }
 }
