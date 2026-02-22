@@ -965,6 +965,12 @@
             "description": "Игровая консоль Steam Deck уже недоступна в онлайн-магазине Valve далеко не только в США. Дефицит превратился в глобальный. Если сейчас зайти на сайт компании в Европе, США, Канаде или Японии, то везде консоль отсутствует.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/0/20984613671771582966gol2_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/22/portativnaja-konsol-steam-deck-nedostupna-uzhe-na-vsjom-globalnom-rynke.html"
+        },
+        "https://www.securitylab.ru/news/569614.php": {
+            "title": "Забудьте про CVE. ИБ-шники заглянули в теневые реестры Китая и нашли сотни неизвестных Западу уязвимостей",
+            "description": "Мир привык слепо верить метрикам CVSS, но правила игры изменились.",
+            "image": "https://www.securitylab.ru/upload/iblock/75c/3zbrtkw2a6kp7xsjkqioorqh2ixb39rr.jpg",
+            "url": "https://www.securitylab.ru/news/569614.php"
         }
     }
 }
