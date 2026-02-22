@@ -893,6 +893,12 @@
             "description": "Honor официально выпустила тизерное видео, объявив, что складной телефон Magic V6 оснащен чипом Snapdragon 8 Elite Gen 5, и заявив, что он «дебютирует со всей мощью и не пожалеет усилий».",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/0/honormagicv5-kv-bg@2x.avif_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/22/honor-magic-v6.html"
+        },
+        "https://3dnews.ru/1137238/phison-e28-dobralsya-do-msi-kompaniya-predstavila-ssd-s-zashchitoy-ot-poteri-dannih": {
+            "title": "Phison E28 добрался до MSI: компания представила SSD с защитой от потери данных",
+            "description": "MSI начала продажи твердотельного накопителя Spatium M571 DLP, построенного на флагманском контроллере Phison E28. Это вторая доступная на рынке модель с этим чипом после Corsair MP700 Pro XT, которая выступает в качестве альтернативы для пользователей, которым нужна максимальная производительность интерфейса PCIe 5.0.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/22/1137238/Spatium-M571-DLP.jpg",
+            "url": "https://3dnews.ru/1137238/phison-e28-dobralsya-do-msi-kompaniya-predstavila-ssd-s-zashchitoy-ot-poteri-dannih"
         }
     }
 }
