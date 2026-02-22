@@ -935,6 +935,12 @@
             "description": "Следующее обновление Microsoft Edge внесёт важные изменения для пользователей встроенного менеджера паролей браузера. Microsoft решила отказаться от основного пароля в пользу входа в систему с...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/96e/1eb/c6b/96e1ebc6bb52257fdb071a4647d03eec.jpg",
             "url": "https://habr.com/ru/news/1002368/"
+        },
+        "https://3dnews.ru/1137242/amd-prekratila-vipuskat-obnovleniya-drayverov-dlya-ryzen-z1-extreme": {
+            "title": "AMD прекратила выпускать обновления драйверов для Ryzen Z1 Extreme",
+            "description": "AMD прекратила выпуск обновлений драйверов для процессора Ryzen Z1 Extreme, предназначенного для использования в портативных игровых консолях. Об этом сообщил портал TechPowerUp со ссылкой на данные корейского подразделения компании Lenovo, занимающейся производством портативных консолей..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/22/1137242/157.jpg",
+            "url": "https://3dnews.ru/1137242/amd-prekratila-vipuskat-obnovleniya-drayverov-dlya-ryzen-z1-extreme"
         }
     }
 }
