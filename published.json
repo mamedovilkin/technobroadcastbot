@@ -899,6 +899,12 @@
             "description": "MSI начала продажи твердотельного накопителя Spatium M571 DLP, построенного на флагманском контроллере Phison E28. Это вторая доступная на рынке модель с этим чипом после Corsair MP700 Pro XT, которая выступает в качестве альтернативы для пользователей, которым нужна максимальная производительность интерфейса PCIe 5.0.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/22/1137238/Spatium-M571-DLP.jpg",
             "url": "https://3dnews.ru/1137238/phison-e28-dobralsya-do-msi-kompaniya-predstavila-ssd-s-zashchitoy-ot-poteri-dannih"
+        },
+        "https://www.ixbt.com/news/2026/02/22/colossus-2-2026.html": {
+            "title": "Первый в мире гигаваттный суперкомпьютер Colossus 2 Илона Маска выйдёт на полную мощность уже в июне 2026",
+            "description": "Илон Маск заявил, что суперкомпьютер Colossus 2 будет полностью введён в эксплуатацию в июне этого года, а Grok будет лучше справляться с задачами программирования, чем Claude.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/0/Снимок%20экрана%202026-02-22%20074849_large.png",
+            "url": "https://www.ixbt.com/news/2026/02/22/colossus-2-2026.html"
         }
     }
 }
