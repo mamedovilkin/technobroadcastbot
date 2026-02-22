@@ -875,6 +875,12 @@
             "description": "Каждая микросхема CMOS уникальна из-за микроскопических вариаций при производстве — как отпечаток пальца у человека. Эти различия формируют физически неклонируемую функцию (PUF), которую используют для аутентификации устройств.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/0/converted%20-%202026-02-22T000740.706_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/21/dvojnye-otpechatki-novyj-metod-autentifikaciichipov-bez-serverov.html"
+        },
+        "https://gorodovoy.ru/news/telefon-ubete-v-hlam-vot-kak-nelzya-zaryazhat-smartfony--sovety-ekspertov_id902634_a200_c1248_dp260221": {
+            "title": "Телефон \"убьете в хлам\": вот как нельзя заряжать смартфоны - советы экспертов",
+            "description": "Эксперты рассказали о правилах зарядки смартфонов",
+            "image": "https://gorodovoy.ru/upload/upload/news/998723904401.jpg",
+            "url": "https://gorodovoy.ru/news/telefon-ubete-v-hlam-vot-kak-nelzya-zaryazhat-smartfony--sovety-ekspertov_id902634_a200_c1248_dp260221"
         }
     }
 }
