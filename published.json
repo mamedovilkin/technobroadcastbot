@@ -881,6 +881,12 @@
             "description": "Эксперты рассказали о правилах зарядки смартфонов",
             "image": "https://gorodovoy.ru/upload/upload/news/998723904401.jpg",
             "url": "https://gorodovoy.ru/news/telefon-ubete-v-hlam-vot-kak-nelzya-zaryazhat-smartfony--sovety-ekspertov_id902634_a200_c1248_dp260221"
+        },
+        "https://3dnews.ru/1137235/google-lishaet-gmail-dvuh-vagnih-funktsiy-chtobi-povisit-loyalnost-klientov": {
+            "title": "Google лишает Gmail двух важных функций, чтобы повысить лояльность клиентов",
+            "description": "Такое простое и привычное приложение, как почтовый клиент Gmail продолжает непрерывно эволюционировать, хотя не всегда изменения могут восприниматься пользователями положительно. Как сообщает Wired, сейчас из Gmail удаляется поддержка протокола POP и функции Gmailify..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/22/1137235/gmail_01.jpg",
+            "url": "https://3dnews.ru/1137235/google-lishaet-gmail-dvuh-vagnih-funktsiy-chtobi-povisit-loyalnost-klientov"
         }
     }
 }
