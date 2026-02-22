@@ -869,6 +869,12 @@
             "description": "Новая глава Xbox и подразделения Microsoft Gaming Аша Шарма считает, что искусственный интеллект может сыграть важную роль в преодолении глобального снижения рождаемости. Об этом она говорила ещё летом 2025 года в интервью на Lenny's Podcast...",
             "image": "https://i.playground.ru/e/33SZZzWhc0d57orAvfnyug.png",
             "url": "https://www.playground.ru/misc/news/novaya_glava_xbox_vidit_v_ii_sposob_resheniya_demograficheskogo_krizisa-1826213"
+        },
+        "https://www.ixbt.com/news/2026/02/21/dvojnye-otpechatki-novyj-metod-autentifikaciichipov-bez-serverov.html": {
+            "title": "\"Двойные\" отпечатки: новый метод аутентификации чипов без серверов",
+            "description": "Каждая микросхема CMOS уникальна из-за микроскопических вариаций при производстве — как отпечаток пальца у человека. Эти различия формируют физически неклонируемую функцию (PUF), которую используют для аутентификации устройств.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/0/converted%20-%202026-02-22T000740.706_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/21/dvojnye-otpechatki-novyj-metod-autentifikaciichipov-bez-serverov.html"
         }
     }
 }
