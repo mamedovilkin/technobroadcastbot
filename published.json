@@ -929,6 +929,12 @@
             "description": "Вот так моя клавиатура выглядит сейчас. На мой взгляд, очень футуристично. Привет, Хабр. Ну что, я провел порядочно времени с беспроводной сплит-клавиатурой  Lily58 Pro. Напомню, я ее переделал...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/52e/a21/342/52ea21342860ccbfa02cde0a4cc41678.png",
             "url": "https://habr.com/ru/companies/selectel/articles/1001202/"
+        },
+        "https://habr.com/ru/news/1002368/": {
+            "title": "Microsoft изменила работу встроенного в браузер Edge менеджера паролей",
+            "description": "Следующее обновление Microsoft Edge внесёт важные изменения для пользователей встроенного менеджера паролей браузера. Microsoft решила отказаться от основного пароля в пользу входа в систему с...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/96e/1eb/c6b/96e1ebc6bb52257fdb071a4647d03eec.jpg",
+            "url": "https://habr.com/ru/news/1002368/"
         }
     }
 }
