@@ -809,6 +809,12 @@
             "description": "Несмотря на то, что ноутбук Apple iBook G4 был выпущен в 2003 году, он, как оказалось, до сих пор способен подключаться к официальным серверам Apple и загружать пакеты обновлений.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/macos-which-officially-supports-27-year-old-ibooks-can-v0-ta4stromdakg1%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/21/apple-23-apple-ibook-g4-apple.html"
+        },
+        "https://www.securitylab.ru/news/569602.php": {
+            "title": "1,75 миллиона заблокированных программ. Google отчиталась о большой чистке Android за год",
+            "description": "Слишком любопытным программам указали на дверь.",
+            "image": "https://www.securitylab.ru/upload/iblock/816/z0a08cjj8bt05wii9tmrpa3exqvpylz6.jpg",
+            "url": "https://www.securitylab.ru/news/569602.php"
         }
     }
 }
