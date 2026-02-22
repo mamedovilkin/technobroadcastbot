@@ -905,6 +905,12 @@
             "description": "Илон Маск заявил, что суперкомпьютер Colossus 2 будет полностью введён в эксплуатацию в июне этого года, а Grok будет лучше справляться с задачами программирования, чем Claude.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/0/Снимок%20экрана%202026-02-22%20074849_large.png",
             "url": "https://www.ixbt.com/news/2026/02/22/colossus-2-2026.html"
+        },
+        "https://www.securitylab.ru/news/569613.php": {
+            "title": "Идеальная копия банка на экране → украденный пароль → новый кредит на вашем счету. Встречайте троян Massiv",
+            "description": "Мошенники придумали новый оригинальный способ взять под контроль чужой телефон.",
+            "image": "https://www.securitylab.ru/upload/iblock/beb/9i5m5r0qtf1tey0tmwafa9di8djegv5o.jpg",
+            "url": "https://www.securitylab.ru/news/569613.php"
         }
     }
 }
