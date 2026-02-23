@@ -1019,6 +1019,12 @@
             "description": "В конце 1970-х — начале 1980-х годов развернулась одна из самых известных «войн форматов» в истории потребительской электроники — противостояние форматов",
             "image": "https://img.ixbt.site/live/topics/preview/00/14/15/63/a6f9511350.jpg",
             "url": "https://www.ixbt.com/live/dv/kogda-kachestvo-ne-glavnoe-pochemu-prostoy-format-vhs-pobedil-betamax.html"
+        },
+        "https://habr.com/ru/news/1002572/": {
+            "title": "ИИ-агент zclaw работает на микроконтроллере за $5 - в 35 КБ кода",
+            "description": "Разработчик под ником tnm опубликовал open-source ИИ-агента zclaw, который запускается на микроконтроллерах ESP32 — при общем размере прошивки менее 888 КБ. Сам код агента занимает около 35 КБ,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/773/978/0ac/7739780ac6f76651c488973991fbc2c6.jpg",
+            "url": "https://habr.com/ru/news/1002572/"
         }
     }
 }
