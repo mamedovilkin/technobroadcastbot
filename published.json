@@ -971,6 +971,12 @@
             "description": "Мир привык слепо верить метрикам CVSS, но правила игры изменились.",
             "image": "https://www.securitylab.ru/upload/iblock/75c/3zbrtkw2a6kp7xsjkqioorqh2ixb39rr.jpg",
             "url": "https://www.securitylab.ru/news/569614.php"
+        },
+        "https://www.ixbt.com/news/2026/02/22/operativnaja-pamjat-ddr5-dejstvitelno-nachala-deshevet-grafiki-izmenenija-cen-pokazyvajut-uverennoe-snizhenie.html": {
+            "title": "Оперативная память DDR5 действительно начала дешеветь. Графики изменения цен показывают уверенное снижение",
+            "description": "Авторы Tom’s Hardware провели анализ рынка DDR5 в Европе и обратили внимание на то, что цены в последнее время начали снижаться. Создано Grok На графике ниже можно видеть совокупные цены на некий условный средний комплект оперативной памяти DDR5 объемом 32 ГБ по всему Европейскому союзу в период с конца июля 2025 года по февраль 2026 года.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/0/image_2_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/22/operativnaja-pamjat-ddr5-dejstvitelno-nachala-deshevet-grafiki-izmenenija-cen-pokazyvajut-uverennoe-snizhenie.html"
         }
     }
 }
