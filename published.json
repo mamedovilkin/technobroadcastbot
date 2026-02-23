@@ -1097,6 +1097,12 @@
             "description": "Пользователи обратили внимание на то, что браузер Google Chrome начал без предупреждения загружать на ПК локальную версию искусственного интеллекта Gemini Nano. Данная функция активирована по умолчанию в чистых сборках программы. Нейросеть не только незаметно скачивается...",
             "image": "https://i.playground.ru/e/MR8XTzrqd_ZrAUqh-nfbvg.png",
             "url": "https://www.playground.ru/misc/news/google_chrome_skrytno_skachivaet_nejroset_gemini_na_kompyutery_polzovatelej-1826482"
+        },
+        "https://habr.com/ru/articles/1001646/": {
+            "title": "Я дал 100 AI-агентам равный бюджет - они изобрели кредиты под 15%",
+            "description": "Меня давно интересовала тема emergent behavior в мультиагентных системах. Все пишут про AI-агентов, которые пишут код или отвечают на письма. Я хотел другое: что будет, если дать агентам абстрактную...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cfe/fca/c46/cfefcac4656b8f7adf3c9f7c3b8be302.png",
+            "url": "https://habr.com/ru/articles/1001646/"
         }
     }
 }
