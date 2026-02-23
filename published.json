@@ -1115,6 +1115,12 @@
             "description": "Китайским производителям микросхем памяти пока не удаётся наладить выпуск передовых видов продукции, но в тех сегментах рынка, где они уже догнали зарубежных конкурентов, они не стесняются демпинговать. В частности, китайская CXMT предлагает чипы DDR4 в два раза дешевле по сравнению с южнокорейскими конкурентами..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137264/cxmt_01.jpg",
             "url": "https://3dnews.ru/1137264/kitayskaya-cxmt-obrushila-tseni-na-ddr4-vdvoe-deshevle-samsung-i-sk-hynix"
+        },
+        "https://habr.com/ru/news/1002674/": {
+            "title": "Самый амбициозный ИИ-проект разваливается на глазах: OpenAI уходит из Stargate",
+            "description": "Stargate LLC — совместное предприятие OpenAI, SoftBank и Oracle на $500 млрд — спустя год после помпезного анонса в Белом доме так и не заработало. По данным The Information , у СП нет выделенной...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/098/23c/c84/09823cc84b80e84194c26ce5f3e4e3b7.jpg",
+            "url": "https://habr.com/ru/news/1002674/"
         }
     }
 }
