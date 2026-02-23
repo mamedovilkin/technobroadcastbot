@@ -989,6 +989,12 @@
             "description": "OpenAI снова пересмотрела финансовые прогнозы до 2030 года — во второй раз за полгода. Согласно внутренним документам, с которыми ознакомилось издание The Information, совокупные расходы на обучение и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/336/b63/5ae/336b635ae6851b342749be42bea9ac76.webp",
             "url": "https://habr.com/ru/news/1002488/"
+        },
+        "https://habr.com/ru/news/1002510/": {
+            "title": "Claws - новый слой ИИ-стека. Карпати оценил OpenClaw и его конкурентов",
+            "description": "Бывший директор по ИИ в Tesla Андрей Карпати  опубликовал  развернутый пост о Claws — категории персональных ИИ-агентов, выросшей вокруг вирусного проекта OpenClaw (более 217 000...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f74/911/c1a/f74911c1a5cc18a73656dae2f9e26745.jpg",
+            "url": "https://habr.com/ru/news/1002510/"
         }
     }
 }
