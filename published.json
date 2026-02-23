@@ -977,6 +977,12 @@
             "description": "Авторы Tom’s Hardware провели анализ рынка DDR5 в Европе и обратили внимание на то, что цены в последнее время начали снижаться. Создано Grok На графике ниже можно видеть совокупные цены на некий условный средний комплект оперативной памяти DDR5 объемом 32 ГБ по всему Европейскому союзу в период с конца июля 2025 года по февраль 2026 года.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/0/image_2_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/22/operativnaja-pamjat-ddr5-dejstvitelno-nachala-deshevet-grafiki-izmenenija-cen-pokazyvajut-uverennoe-snizhenie.html"
+        },
+        "https://news.rambler.ua/world/56080760-ilon-mask-sdelal-priznanie-posle-voprosa-o-schaste/": {
+            "title": "Илон Маск сделал признание после вопроса о счастье",
+            "description": "Американский предприниматель, основатель компаний Space X и Tesla Илон Маск написал в соцсети X, что нечасто бывает счастлив. Его пост стал ответом на вопрос одного из пользователей: «Думаете,...",
+            "image": "https://img-renderer.rambler.ru/api/generate/media/?clusterId=56080760&format=png",
+            "url": "https://news.rambler.ua/world/56080760-ilon-mask-sdelal-priznanie-posle-voprosa-o-schaste/"
         }
     }
 }
