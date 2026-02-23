@@ -1079,6 +1079,12 @@
             "description": "Блогер Сахил Карул сегодня опубликовал на платформе X сообщение о том, что стилус S Pen на Samsung Galaxy S26 Ultra не поддерживает функцию управления камерой по Bluetooth.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/1/Снимок%20экрана%202026-02-23%20094230.png",
             "url": "https://www.ixbt.com/news/2026/02/23/samsung-galaxy-s26-ultra-bluetooth.html"
+        },
+        "https://habr.com/ru/news/1002626/": {
+            "title": "ИИ-бум может обернуться убытками для производителей памяти - глава SK Hynix",
+            "description": "Председатель SK Group Чхе Тхэ-вон, выступая на конференции в Вашингтоне 20 февраля, заявил, что средний прогноз аналитиков по операционной прибыли SK Hynix на 2026 год вырос с $50 млрд до $70 млрд...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/617/a52/739/617a52739765114da1dc4ffb4180eb18.jpg",
+            "url": "https://habr.com/ru/news/1002626/"
         }
     }
 }
