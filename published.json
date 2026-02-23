@@ -1091,6 +1091,12 @@
             "description": "Пользователи жалуются на сбой Google Maps и Waze в Android Auto",
             "image": "https://www.32cars.ru/uploads/materials/17045/inner/y9nf5ImYwPORvSxaXZQZ.jpg",
             "url": "https://www.32cars.ru/posts/id-17045-navigatsija-ischezla-s-proektsii-android-auto-snova-dal-sboj"
+        },
+        "https://www.playground.ru/misc/news/google_chrome_skrytno_skachivaet_nejroset_gemini_na_kompyutery_polzovatelej-1826482": {
+            "title": "Google Chrome скрытно скачивает нейросеть Gemini на компьютеры пользователей",
+            "description": "Пользователи обратили внимание на то, что браузер Google Chrome начал без предупреждения загружать на ПК локальную версию искусственного интеллекта Gemini Nano. Данная функция активирована по умолчанию в чистых сборках программы. Нейросеть не только незаметно скачивается...",
+            "image": "https://i.playground.ru/e/MR8XTzrqd_ZrAUqh-nfbvg.png",
+            "url": "https://www.playground.ru/misc/news/google_chrome_skrytno_skachivaet_nejroset_gemini_na_kompyutery_polzovatelej-1826482"
         }
     }
 }
