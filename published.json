@@ -1037,6 +1037,12 @@
             "description": "В соцсети X разошлось видео, на котором энтузиаст протестировал спутниковый интернет Starlink прямо посреди океана. Находясь в небольшой лодке вдали от берега, он подключился к сети и запустил Counter-Strike 2.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/1/Снимок%20экрана%202026-02-23%20054937_large.png",
             "url": "https://www.ixbt.com/news/2026/02/23/starlink-posredi-okeana-gejmer-zapustil-cs2-na-lodke--ping-okazalsja-pochti-idealnym.html"
+        },
+        "https://3dnews.ru/1137255/dell-reshila-namertvo-prikrutit-skandalno-izvestniy-16kontaktniy-razyom-pitaniya-videokarti-chtobi-tot-ne-rasplavilsya": {
+            "title": "Dell решила намертво прикрутить скандально известный 16-контактный разъём питания видеокарты, чтобы тот не расплавился",
+            "description": "Флагманские видеокарты Nvidia обрели дурную славу у энтузиастов из-за проблем с 16-контактным разъёмом дополнительного питания, который в результате неплотного прилегания мог перегреваться и оплавляться. Dell решила подстраховаться в этом смысле весьма радикальным методом, механически прикрепив разъём питания к корпусу видеокарты..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137255/dell_01.jpg",
+            "url": "https://3dnews.ru/1137255/dell-reshila-namertvo-prikrutit-skandalno-izvestniy-16kontaktniy-razyom-pitaniya-videokarti-chtobi-tot-ne-rasplavilsya"
         }
     }
 }
