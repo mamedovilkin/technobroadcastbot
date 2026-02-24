@@ -1313,6 +1313,12 @@
             "description": "Акции IBM накануне продемонстрировали рекордное однодневное падение после того, как разработчик систем искусственного интеллекта Anthropic обучил сервис Claude Code модернизации кода на устаревшем языке Cobol, который продолжает использоваться на компьютерах IBM..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137320/ibm.jpg",
             "url": "https://3dnews.ru/1137320/anthropic-nauchila-ii-yaziku-cobol-i-vizvala-rekordnoe-obrushenie-aktsiy-ibm"
+        },
+        "https://www.ixbt.com/news/2026/02/24/gpu-nvidia-nvidia-soc-nvidia-n1-n1x-lenovo-dell.html": {
+            "title": "И GPU от Nvidia, и процессор от Nvidia. Первые ноутбуки на SoC Nvidia N1/N1X выпустят Lenovo и Dell",
+            "description": "Чип Nvidia N1/N1X (точное название пока неизвестно) дебютирует как минимум в ноутбуках Dell и Lenovo. Об этом сообщает ресурс The Wall Street Journal. Источники, знакомые с цепочкой поставок Nvidia, сообщили, что производители ПК, включая Dell Technologies и Lenovo, работают с производителем чипов над моделями, использующими систему на кристалле Nvidia-MediaTek, построенную на архитектуре британского разработчика чипов Arm.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/2/NVIDIA-N1-HERO_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/24/gpu-nvidia-nvidia-soc-nvidia-n1-n1x-lenovo-dell.html"
         }
     }
 }
