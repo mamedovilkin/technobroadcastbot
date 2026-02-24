@@ -1181,6 +1181,12 @@
             "description": "Компания Intel, вероятно, рассматривает возможность вернуться к единой архитектуре процессорных ядер, отказавшись от нынешнего разделения на производительные и энергоэффективные ядра. Во всяком случае на это указывает то, что компания ищет ведущего инженера в «команду разработчиков унифицированных ядер», который займётся будущими архитектурами процессорных ядер. .",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137283/SMrWFUhqJwu1rmZh.jpg",
             "url": "https://3dnews.ru/1137283/intel-moget-otkazatsya-ot-e-i-pyader-v-polzu-edinoy-arhitekturi-no-perehod-zaymyot-godi"
+        },
+        "https://3dnews.ru/1137286/tverdotelniy-akkumulyator-donut-lab-zaryadilsya-na-80-menee-chem-za-5-minut-v-nezavisimih-testah": {
+            "title": "Твердотельный аккумулятор Donut Lab зарядился на 80 % менее чем за 5 минут в независимых тестах",
+            "description": "Компания Donut Lab опубликовала отчёт о тестировании своей твердотельной батареи, в котором подтверждается возможность отказа от сложных систем жидкостного охлаждения. По сообщению The Verge, в ходе серии экспериментов устройство достигло заряда от 0 до 80 % менее чем за 5 минут, сохранив 99 % ёмкости..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137286/donut-solid-state.jpg",
+            "url": "https://3dnews.ru/1137286/tverdotelniy-akkumulyator-donut-lab-zaryadilsya-na-80-menee-chem-za-5-minut-v-nezavisimih-testah"
         }
     }
 }
