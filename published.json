@@ -1319,6 +1319,12 @@
             "description": "Чип Nvidia N1/N1X (точное название пока неизвестно) дебютирует как минимум в ноутбуках Dell и Lenovo. Об этом сообщает ресурс The Wall Street Journal. Источники, знакомые с цепочкой поставок Nvidia, сообщили, что производители ПК, включая Dell Technologies и Lenovo, работают с производителем чипов над моделями, использующими систему на кристалле Nvidia-MediaTek, построенную на архитектуре британского разработчика чипов Arm.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/NVIDIA-N1-HERO_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/24/gpu-nvidia-nvidia-soc-nvidia-n1-n1x-lenovo-dell.html"
+        },
+        "https://habr.com/ru/news/1002986/": {
+            "title": "Panasonic больше не будет производить собственные телевизоры",
+            "description": "Panasonic объявила о прекращении производства собственных телевизоров. Японская компания передаст производство, маркетинг и продажу ТВ под брендом Panasonic китайской Skyworth. Летом прошлого года...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a32/100/441/a32100441a7ba94e8b290afe7665b44b.jpg",
+            "url": "https://habr.com/ru/news/1002986/"
         }
     }
 }
