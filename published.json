@@ -1217,6 +1217,12 @@
             "description": "Операторы апеллируют к тому, что УК стали переносить расходы за размещение интернет-сетей на другие виды инфраструктуры",
             "image": "https://sharing.vedomosti.ru/1771882148/vedomosti.ru/society/articles/2026/02/24/1178453-pravitelstvo-ne-podderzhalo-otmenu-plati-za-razmeschenie-setei-dlya-kabelnogo-tv.jpg",
             "url": "https://www.vedomosti.ru/society/articles/2026/02/24/1178453-pravitelstvo-ne-podderzhalo-otmenu-plati-za-razmeschenie-setei-dlya-kabelnogo-tv"
+        },
+        "https://habr.com/ru/articles/1002728/": {
+            "title": "Цифровой суверенитет в кармане: почему пора поднять свой Matrix-сервер, пока мессенджеры лихорадит",
+            "description": "(В статье описывается простой и безопасный способ поднятия собственного Matrix Synapse сервера с компонентами web интерфейса пользователя и видеосвязи на основе opensource скрипта. Статья состоит из...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ba5/1c4/196/ba51c4196a261f17dad340c0fbc0ba3a.png",
+            "url": "https://habr.com/ru/articles/1002728/"
         }
     }
 }
