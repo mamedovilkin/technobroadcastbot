@@ -1295,6 +1295,12 @@
             "description": "В соцсетях активно обсуждается перспектива «закрытия» Telegram уже с апреля. В Госдуме это называют чушью, в Роскомнадзоре - Страна и мир - 24 февраля 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/IzDan-TgsEJCSq1oezXyeQ/article-id6850402-16x9.jpg?1771595961",
             "url": "https://www.e1.ru/text/world/2026/02/24/76276211/"
+        },
+        "https://habr.com/ru/news/1002932/": {
+            "title": "Американские IT‑компании строят \"теневую\" энергосистему для дата‑центров",
+            "description": "Крупные технологические компании США, в том числе Meta*, OpenAI и Oracle, строят дата‑центры с собственными электростанциями, которые изолированы от гражданских энергосетей, тем самым...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d9d/921/bd2/d9d921bd28bc42503984824ffdea0135.jpg",
+            "url": "https://habr.com/ru/news/1002932/"
         }
     }
 }
