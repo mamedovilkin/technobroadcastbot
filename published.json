@@ -1283,6 +1283,12 @@
             "description": "Ультратонкий iPhone Air получил неожиданную версию: на канале Linzin Tech показали модификацию с полностью прозрачной задней панелью и физическим слотом для nano-SIM.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/Снимок%20экрана%202026-02-24%20091035_large.png",
             "url": "https://www.ixbt.com/news/2026/02/24/iphone-air-sim-apple.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1002858/": {
+            "title": "Microsoft и Nvidia отворачиваются от Сэма Альтмана. Что ждет OpenAI дальше?",
+            "description": "К этому моменту мы все понимаем, что OpenAI находится в крайне затруднительном положении, плывя по течению без весел. От их моделей, которые порой выдают совершенно непредсказуемые результаты, до...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/075/21c/f5c/07521cf5c46e4e5a588d9cd279be75e4.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1002858/"
         }
     }
 }
