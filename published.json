@@ -1307,6 +1307,12 @@
             "description": "Компания iQOO расширила свой флагманский модельный ряд, выпустив iQOO 15R. Новая модель, позиционируемая ниже iQOO 15, ориентирована на высокую производительность, длительное время автономной работы и удобство использования.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/image-118-1024x577_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/24/144-7600-100-snapdragon-8-gen-sony-iqoo-15r.html"
+        },
+        "https://3dnews.ru/1137320/anthropic-nauchila-ii-yaziku-cobol-i-vizvala-rekordnoe-obrushenie-aktsiy-ibm": {
+            "title": "Anthropic научила ИИ языку Cobol и вызвала рекордное обрушение акций IBM",
+            "description": "Акции IBM накануне продемонстрировали рекордное однодневное падение после того, как разработчик систем искусственного интеллекта Anthropic обучил сервис Claude Code модернизации кода на устаревшем языке Cobol, который продолжает использоваться на компьютерах IBM..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137320/ibm.jpg",
+            "url": "https://3dnews.ru/1137320/anthropic-nauchila-ii-yaziku-cobol-i-vizvala-rekordnoe-obrushenie-aktsiy-ibm"
         }
     }
 }
