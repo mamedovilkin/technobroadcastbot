@@ -1223,6 +1223,12 @@
             "description": "(В статье описывается простой и безопасный способ поднятия собственного Matrix Synapse сервера с компонентами web интерфейса пользователя и видеосвязи на основе opensource скрипта. Статья состоит из...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ba5/1c4/196/ba51c4196a261f17dad340c0fbc0ba3a.png",
             "url": "https://habr.com/ru/articles/1002728/"
+        },
+        "https://3dnews.ru/1136974/obzor-sama-l70": {
+            "title": "Система жидкостного охлаждения SAMA L70: сила красоты",
+            "description": "Сегодня на тестировании как раз тот вариант системы жидкостного охлаждения, который не только выполняет все свои функции, но и становится украшением системного блока",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/17/1136974/sm.00_samaL70_pumpLed2.800.jpg",
+            "url": "https://3dnews.ru/1136974/obzor-sama-l70"
         }
     }
 }
