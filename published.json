@@ -1199,6 +1199,12 @@
             "description": "Эксперимент с созданным сотрудником OpenAI автономным ИИ-агентом завершился потерей активов на сумму около $250 тыс",
             "image": "https://resizer.mail.ru/p/c6b4f1df-582a-5a6c-843b-39d98570eacc/AQA16xv1rmRseI5N44K_IeBqRtgMJeWTtmNY4EII8re1jNid1qTVWgNQ0rpguwFswtoLsM7ldPrAorJn_bPJi9TCNPQ.jpg",
             "url": "https://vfokuse.mail.ru/news/69609704-polzovatel-sotssetej-poprosil-dengi-u-nejroseti-i-poluchil-250-tyisyach/"
+        },
+        "https://servernews.ru/1137269": {
+            "title": "Чипы AMD прожорливы, NVIDIA - дороги, а Intel - ненадёжны: Ericsson остаётся верна кастомным ASIC",
+            "description": "Ericsson представила свой первый набор продуктов AI-RAN, подчеркнув приверженность стратегии, основанной на собственных ASIC для повышения производительности сетей радиодоступа (RAN). В то время как беспроводная индустрия всё чаще обращается к виртуализированным/облачным RAN с использованием универсальных процессоров (GPP) Intel, Ericsson защищает свои продолжающиеся инвестиции в кастомные чипы для высокопроизводительных задач, отметил ресурс IEEE ComSoc Technology Blog. Впрочем, Intel остаётся ключевым партнёром Ericsson, а вот с AMD и NVIDIA у компании не заладилось.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137269/sm.ericsson-silicon.800.jpg",
+            "url": "https://servernews.ru/1137269"
         }
     }
 }
