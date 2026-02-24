@@ -1187,6 +1187,12 @@
             "description": "Компания Donut Lab опубликовала отчёт о тестировании своей твердотельной батареи, в котором подтверждается возможность отказа от сложных систем жидкостного охлаждения. По сообщению The Verge, в ходе серии экспериментов устройство достигло заряда от 0 до 80 % менее чем за 5 минут, сохранив 99 % ёмкости..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/23/1137286/donut-solid-state.jpg",
             "url": "https://3dnews.ru/1137286/tverdotelniy-akkumulyator-donut-lab-zaryadilsya-na-80-menee-chem-za-5-minut-v-nezavisimih-testah"
+        },
+        "https://lifehacker.ru/vidzhety-na-rabochij-stol-android/": {
+            "title": "7 отличных виджетов для Android, чтобы прокачать рабочий стол",
+            "description": "Эти виджеты на рабочий стол Android-смартфона не только добавят ему стиля, но и полностью изменят ваш опыт использования смартфона.",
+            "image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/02/7_besplatnyh_vidzhetov_dlya_Android_s_kotorymi_vy_snova_vlyubites_v_svoj_smartfon_1771797276.png",
+            "url": "https://lifehacker.ru/vidzhety-na-rabochij-stol-android/"
         }
     }
 }
