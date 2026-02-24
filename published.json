@@ -1277,6 +1277,12 @@
             "description": "Илон Маск заявил, что SpaceX активно снижает цены на спутниковый интернет Starlink, чтобы сделать сервис доступнее для большего числа пользователей, особенно в развивающихся странах.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/2/Без%20названия%20-%202026-02-24T083542.921_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/24/amazon-kuiper-starlink.html"
+        },
+        "https://www.ixbt.com/news/2026/02/24/iphone-air-sim-apple.html": {
+            "title": "Прозрачный iPhone Air с лотком для SIM-карты: моддер сделал то, что не сделала Apple",
+            "description": "Ультратонкий iPhone Air получил неожиданную версию: на канале Linzin Tech показали модификацию с полностью прозрачной задней панелью и физическим слотом для nano-SIM.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/2/Снимок%20экрана%202026-02-24%20091035_large.png",
+            "url": "https://www.ixbt.com/news/2026/02/24/iphone-air-sim-apple.html"
         }
     }
 }
