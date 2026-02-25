@@ -1373,6 +1373,12 @@
             "description": "24 февраля 1955 года родился Стив Джобс — инженер, изобретатель и сооснователь Apple. Рассказываем о его жизни, инновациях и влиянии на цифровую культуру",
             "image": "https://resizer.mail.ru/p/121f2863-92cf-5175-9311-5878b6809ccb/AQA4eq8g_S-CcAzfNrCRHbOWYL9N4veFouWlE6wtBRjiGobrGl3KFVVp17_RF2UxOdkLkCY8Yq7NAdmHd16_vPJLelY.png",
             "url": "https://science.mail.ru/articles/44862-biografiya-steva-jobsa/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1003254/": {
+            "title": "ИИ даст толчок сверхпроводимости, но без технологического прорыва и не там, где все ждали",
+            "description": "Дата-центры для ИИ сталкиваются с острым дефицитом электроэнергии и ограничениями традиционных медных кабельных электрораспределительных систем. Поскольку рост мощностей генерации связан с длительными...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/be2/9c9/01a/be29c901a570ab0c8c85eb4c052c693c.png",
+            "url": "https://habr.com/ru/companies/bothub/news/1003254/"
         }
     }
 }
