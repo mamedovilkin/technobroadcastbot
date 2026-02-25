@@ -1343,6 +1343,12 @@
             "description": "Журналисты издания Android Authority предостерегли пользователей от покупки смартфонов серии Samsung Galaxy S25. Об этом сообщается на сайте медиа",
             "image": "https://icdn.lenta.ru/images/2026/02/24/14/20260224140605293/share_a4dfec11c0b59943c20a65052bf09501.jpg",
             "url": "https://tve24.ru/news/2026/02/24/dont-buy/"
+        },
+        "https://3dnews.ru/1137323/v-rukovodstve-microsoft-nachali-opasatsya-chto-ii-vimoet-nachinayushchih-programmistov": {
+            "title": "В руководстве Microsoft начали опасаться, что ИИ вымоет начинающих программистов",
+            "description": "Технический директор Microsoft Azure Марк Руссинович (Mark Russinovich) и вице-президент подразделения разработки ПО Скотт Хансельман (Scott Hanselman) опубликовали статью, в которой призвали старших инженеров-программистов наставлять младших разработчиков и не допускать, чтобы база навыков в этой профессии истощилась из-за ИИ..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137323/code.jpg",
+            "url": "https://3dnews.ru/1137323/v-rukovodstve-microsoft-nachali-opasatsya-chto-ii-vimoet-nachinayushchih-programmistov"
         }
     }
 }
