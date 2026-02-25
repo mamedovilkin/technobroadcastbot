@@ -1349,6 +1349,12 @@
             "description": "Технический директор Microsoft Azure Марк Руссинович (Mark Russinovich) и вице-президент подразделения разработки ПО Скотт Хансельман (Scott Hanselman) опубликовали статью, в которой призвали старших инженеров-программистов наставлять младших разработчиков и не допускать, чтобы база навыков в этой профессии истощилась из-за ИИ..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137323/code.jpg",
             "url": "https://3dnews.ru/1137323/v-rukovodstve-microsoft-nachali-opasatsya-chto-ii-vimoet-nachinayushchih-programmistov"
+        },
+        "https://habr.com/ru/news/1003106/": {
+            "title": "Anthropic объяснила, почему ИИ ведет себя как человек - и почему иначе не получится",
+            "description": "Исследователи Anthropic  опубликовали  теорию, которая описывает ИИ-ассистентов не как программы с набором правил и не как непостижимых \"инопланетян\", а как актеров, играющих роль. Согласно...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/91e/16e/619/91e16e619b8564ec20648f371b673936.png",
+            "url": "https://habr.com/ru/news/1003106/"
         }
     }
 }
