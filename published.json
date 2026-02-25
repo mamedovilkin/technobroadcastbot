@@ -1403,6 +1403,12 @@
             "description": "Управление по контролю за иностранными активами Минфина США (OFAC) объявило 24 февраля, что включило в санкционные списки по России четырех человек и три компании.",
             "image": "https://meduza.io/imgly/share/1771966596/news/2026/02/24/ssha-vveli-sanktsii-protiv-rossiyskogo-razrabotchika-uyazvimostey-nulevogo-dnya",
             "url": "https://meduza.io/news/2026/02/24/ssha-vveli-sanktsii-protiv-rossiyskogo-razrabotchika-uyazvimostey-nulevogo-dnya"
+        },
+        "https://www.vedomosti.ru/technology/articles/2026/02/25/1178770-razrabotchikov-neirosetei-mogut-obyazat-raskrivat-ishodnie-dannie": {
+            "title": "Разработчиков нейросетей могут обязать раскрывать исходные данные",
+            "description": "Это вызовет дискуссию о правомерности использования таких материалов без разрешения их владельцев, в том числе издателей",
+            "image": "https://sharing.vedomosti.ru/1771968178/vedomosti.ru/technology/articles/2026/02/25/1178770-razrabotchikov-neirosetei-mogut-obyazat-raskrivat-ishodnie-dannie.jpg",
+            "url": "https://www.vedomosti.ru/technology/articles/2026/02/25/1178770-razrabotchikov-neirosetei-mogut-obyazat-raskrivat-ishodnie-dannie"
         }
     }
 }
