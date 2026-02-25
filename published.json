@@ -1331,6 +1331,12 @@
             "description": "Кому-то традиционные «страшилки» экспертов о близости момента замещения человека в некоторых профессиях роботами могут показаться угрозой достаточно отдалённой, но бывший представитель Citi Global Insights уверен, что программные и человекоподобные роботы уже сейчас способны делать за человека его работу с адекватной финансовой отдачей для бизнеса..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137325/unitree_01.jpg",
             "url": "https://3dnews.ru/1137325/zamena-cheloveka-robotom-uge-seychas-sposobna-okupitsya-vsego-za-10-nedel"
+        },
+        "https://habr.com/ru/news/1002962/": {
+            "title": "Сэм Альтман: \"компании врут про увольнения из-за ИИ\"",
+            "description": "Глава OpenAI Сэм Альтман на India AI Impact Summit  заявил , что компании занимаются «AI washing» — используют ИИ как удобное прикрытие для увольнений, которые произошли бы и без всяких...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5ca/033/f59/5ca033f590128b1afb9bfa3e561656d4.webp",
+            "url": "https://habr.com/ru/news/1002962/"
         }
     }
 }
