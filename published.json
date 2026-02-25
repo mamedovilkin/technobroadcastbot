@@ -1415,6 +1415,12 @@
             "description": "«Разблокируй телефон.» — Он разблокирует. Открывается мессенджер. Чаты с «Alex», «Mila», «Family». Всё выглядит нормально. Всё — подделка. Привет, Хабр! Я разрабатываю open-source мессенджер Xipher...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d29/3dc/668/d293dc668f73c822fda90f6256414abf.png",
             "url": "https://habr.com/ru/articles/1002826/"
+        },
+        "https://habr.com/ru/news/1003296/": {
+            "title": "Исследователи нашли критические уязвимости в расширениях для VS Code, которые суммарно установили более 125 млн раз",
+            "description": "Исследователи из OX Security обнаружили критические уязвимости в популярных расширениях для Visual Studio Code. С их помощью злоумышленники могут похищать локальные файлы, выполнять произвольный код и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/880/6ab/09c/8806ab09c4374953e55e747ed69e826c.jpg",
+            "url": "https://habr.com/ru/news/1003296/"
         }
     }
 }
