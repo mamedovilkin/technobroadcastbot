@@ -1409,6 +1409,12 @@
             "description": "Это вызовет дискуссию о правомерности использования таких материалов без разрешения их владельцев, в том числе издателей",
             "image": "https://sharing.vedomosti.ru/1771968178/vedomosti.ru/technology/articles/2026/02/25/1178770-razrabotchikov-neirosetei-mogut-obyazat-raskrivat-ishodnie-dannie.jpg",
             "url": "https://www.vedomosti.ru/technology/articles/2026/02/25/1178770-razrabotchikov-neirosetei-mogut-obyazat-raskrivat-ishodnie-dannie"
+        },
+        "https://habr.com/ru/articles/1002826/": {
+            "title": "\"Разблокируй телефон\" - как я реализовал фейковый мессенджер для допроса",
+            "description": "«Разблокируй телефон.» — Он разблокирует. Открывается мессенджер. Чаты с «Alex», «Mila», «Family». Всё выглядит нормально. Всё — подделка. Привет, Хабр! Я разрабатываю open-source мессенджер Xipher...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d29/3dc/668/d293dc668f73c822fda90f6256414abf.png",
+            "url": "https://habr.com/ru/articles/1002826/"
         }
     }
 }
