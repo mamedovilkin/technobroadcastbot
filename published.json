@@ -1337,6 +1337,12 @@
             "description": "Глава OpenAI Сэм Альтман на India AI Impact Summit  заявил , что компании занимаются «AI washing» — используют ИИ как удобное прикрытие для увольнений, которые произошли бы и без всяких...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/5ca/033/f59/5ca033f590128b1afb9bfa3e561656d4.webp",
             "url": "https://habr.com/ru/news/1002962/"
+        },
+        "https://tve24.ru/news/2026/02/24/dont-buy/": {
+            "title": "Смартфоны Samsung призвали не покупать в феврале",
+            "description": "Журналисты издания Android Authority предостерегли пользователей от покупки смартфонов серии Samsung Galaxy S25. Об этом сообщается на сайте медиа",
+            "image": "https://icdn.lenta.ru/images/2026/02/24/14/20260224140605293/share_a4dfec11c0b59943c20a65052bf09501.jpg",
+            "url": "https://tve24.ru/news/2026/02/24/dont-buy/"
         }
     }
 }
