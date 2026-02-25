@@ -1469,6 +1469,12 @@
             "description": "В России стартовали продажи трёхстворчатого смартфона Samsung Galaxy Z TriFold. Новинка доступна в чёрном цвете с 16/512 Гбайт памяти по цене 399 990 рублей, что на 100 000 рублей дешевле стоимости предзаказа..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/24/1137357/5.jpg",
             "url": "https://3dnews.ru/1137357/tryohstvorchatiy-samsung-galaxy-z-trifold-postupil-v-prodagu-v-rossii-za-dve-nedeli-predzakaza-on-sbrosil-100-000-rubley"
+        },
+        "https://habr.com/ru/news/1003344/": {
+            "title": "ИИ-агенты нашли 100+ багов в ядре Windows. Исследование стоило $600",
+            "description": "Два исследователя в области кибербезопасности — Ярон Динкин и Эяль Крафт —  построили автоматизированную платформу  на основе роя ИИ-агентов, которая реверс-инжинирит драйверы ядра Windows и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/557/695/497/557695497b6d78c727bb7bb2c5812e19.jpg",
+            "url": "https://habr.com/ru/news/1003344/"
         }
     }
 }
