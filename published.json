@@ -1625,6 +1625,12 @@
             "description": "Заместитель директора ФИЦ биотехнологии РАН о том, почему именно сейчас актуален нацпроект по биоэкономике. «Ведомости» – эксклюзивы, истории успеха, интервью.",
             "image": "https://sharing.vedomosti.ru/1772054199/vedomosti.ru/society/characters/2026/02/26/1179068-alina-osmakovakazalos-chto-miroporyadok-pochti-neziblem.jpg",
             "url": "https://www.vedomosti.ru/society/characters/2026/02/26/1179068-alina-osmakovakazalos-chto-miroporyadok-pochti-neziblem"
+        },
+        "https://habr.com/ru/articles/1003732/": {
+            "title": "Как я написал оптимизатор Windows для геймеров и выложил в open source",
+            "description": "Привет, Хабр! Меня зовут Sonic. Я собрал SonicBoost — бесплатную утилиту с открытым кодом, которая вытаскивает из Windows 10/11 максимум FPS. 28 твиков реестра, управление службами, блокировка...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c42/6e8/0f2/c426e80f2f6f4d96b51f2362db949510.png",
+            "url": "https://habr.com/ru/articles/1003732/"
         }
     }
 }
