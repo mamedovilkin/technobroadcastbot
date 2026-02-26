@@ -1535,6 +1535,12 @@
             "description": "В начале проекта он кажется всемогущим демиургом. Но это ощущение проходит быстро и навсегда. Вот математическое доказательство того, почему ИИ никогда не заменит программистов. У меня для вас две...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b19/e00/0b4/b19e000b40695cdea0ef71cc6c7fa7be.jpg",
             "url": "https://habr.com/ru/companies/bothub/articles/1003350/"
+        },
+        "https://habr.com/ru/news/1003456/": {
+            "title": "Claude распознает бред в 94% случаев. GPT-5.2 поддакивает пользователю",
+            "description": "Руководитель по ИИ в компании Arena Питер Гостев  опубликовал  Bullshit Benchmark — тест из 55 бессмысленных вопросов, которые звучат умно, но не имеют смысла. Например: \"Как скорректировать...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/3e8/800/9ee/3e88009eeb1e7c3ba825eefe66beb423.jpeg",
+            "url": "https://habr.com/ru/news/1003456/"
         }
     }
 }
