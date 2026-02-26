@@ -1691,6 +1691,12 @@
             "description": "Периодичность публикации годовой отчётности Nvidia настроена таким образом, что на мартовской конференции GTC руководство компании рассказывает о перспективных продуктах этой марки, текущий год не станет исключением. Основатель Nvidia Дженсен Хуанг (Jensen Huang) уверен, что компания сможет составить конкуренцию Intel и AMD в сегменте CPU..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/26/1137434/grace_cpu.jpg",
             "url": "https://3dnews.ru/1137434/mi-lyubim-cpu-tak-ge-kak-gpu-glava-nvidia-poobeshchal-prevzoyti-intel-i-amd-v-tsentralnih-protsessorah"
+        },
+        "https://habr.com/ru/articles/1003856/": {
+            "title": "Неочевидные плюсы подорожавшего железа",
+            "description": "Дисклеймер:  эта статья — текстовая адаптация  данного  видеоролика. В последнее время наблюдается рост цен на комплектующие и не только.  Всё это связано с тем, что производители...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/913/e80/740/913e807401e6211dfb3675194c8efd84.jpg",
+            "url": "https://habr.com/ru/articles/1003856/"
         }
     }
 }
