@@ -1631,6 +1631,12 @@
             "description": "Привет, Хабр! Меня зовут Sonic. Я собрал SonicBoost — бесплатную утилиту с открытым кодом, которая вытаскивает из Windows 10/11 максимум FPS. 28 твиков реестра, управление службами, блокировка...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/c42/6e8/0f2/c426e80f2f6f4d96b51f2362db949510.png",
             "url": "https://habr.com/ru/articles/1003732/"
+        },
+        "https://mobile-review.com/all/articles/gadgets-month/6-glavnyh-gadzhetov-fevralya/": {
+            "title": "6 главных гаджетов февраля",
+            "description": "Нашли самый стильный 16-дюймовый ноутбук и компьютер, встроенный в клавиатуру.",
+            "image": "https://mobile-review.com/all/wp-content/uploads/2026/02/68561556161.jpg",
+            "url": "https://mobile-review.com/all/articles/gadgets-month/6-glavnyh-gadzhetov-fevralya/"
         }
     }
 }
