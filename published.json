@@ -1685,6 +1685,12 @@
             "description": "Разработчик Бенджи Смит провёл эксперимент, в ходе которого пытался выяснить, как языковые модели обрабатывают случайности. Он попросил модели Claude назвать 37 500 случайных имён, и ИИ не переставал...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/418/2f4/99d/4182f499d628e32de8df4e32f7f539da.JPG",
             "url": "https://habr.com/ru/news/1003802/"
+        },
+        "https://3dnews.ru/1137434/mi-lyubim-cpu-tak-ge-kak-gpu-glava-nvidia-poobeshchal-prevzoyti-intel-i-amd-v-tsentralnih-protsessorah": {
+            "title": "\"Мы любим CPU так же, как GPU\": глава Nvidia пообещал превзойти Intel и AMD в центральных процессорах",
+            "description": "Периодичность публикации годовой отчётности Nvidia настроена таким образом, что на мартовской конференции GTC руководство компании рассказывает о перспективных продуктах этой марки, текущий год не станет исключением. Основатель Nvidia Дженсен Хуанг (Jensen Huang) уверен, что компания сможет составить конкуренцию Intel и AMD в сегменте CPU..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/26/1137434/grace_cpu.jpg",
+            "url": "https://3dnews.ru/1137434/mi-lyubim-cpu-tak-ge-kak-gpu-glava-nvidia-poobeshchal-prevzoyti-intel-i-amd-v-tsentralnih-protsessorah"
         }
     }
 }
