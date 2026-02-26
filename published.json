@@ -1661,6 +1661,12 @@
             "description": "Интерфакс: Ведомство предложило дополнительно регламентировать такие закупки для решения проблемы",
             "image": "https://www.interfax.ru/aspimg/1074668.jpg",
             "url": "https://www.interfax.ru/russia/1074668"
+        },
+        "https://www.ixbt.com/news/2026/02/26/120-nfc-3-5-fm-ultralink-1-infinix-smart-20.html": {
+            "title": "120 Гц, влагозащита, NFC, 3,5 мм, FM-радио, ИК-передатчик и офлайн-связь UltraLink на расстоянии до 1 км. Представлен смартфон Infinix Smart 20",
+            "description": "Представлен смартфон Infinix Smart 20, который получил дисплей с частотой обновления 120 Гц, процессор MediaTek Helio G81 Ultimate и тонкий корпус толщиной всего 7,7 мм.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/4/Снимок%20экрана%202026-02-26%20074034_large.png",
+            "url": "https://www.ixbt.com/news/2026/02/26/120-nfc-3-5-fm-ultralink-1-infinix-smart-20.html"
         }
     }
 }
