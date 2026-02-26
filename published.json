@@ -1553,6 +1553,12 @@
             "description": "Идеальный камерофон.",
             "image": "https://click-or-die.ru/app/uploads/2026/02/pt3aypx25qclrrzw8tbb7r.jpg",
             "url": "https://click-or-die.ru/2026/02/flagmanskij-realme-vnezapno-obesczenilsya-teper-ego-tochno-stoit-brat/"
+        },
+        "https://habr.com/ru/news/1003578/": {
+            "title": "Claude Code отладил баг в Linux за 5 минут вместо нескольких часов",
+            "description": "Разработчик ядра Linux Йозеф Бачик  выпустил systing 1.0  — инструмент для отладки, который вместо ручного анализа трейсов использует Claude Code. В двух реальных случаях ИИ нашел причину...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/311/b83/cb1/311b83cb1cdff342cf76795fad026b4f.jpg",
+            "url": "https://habr.com/ru/news/1003578/"
         }
     }
 }
