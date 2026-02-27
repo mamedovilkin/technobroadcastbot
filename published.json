@@ -1745,6 +1745,12 @@
             "description": "Компания Samsung, долгое время придерживавшаяся консервативной стратегии в вопросах автономности, официально объявила о переходе к новым технологиям. Мун Сун Хун, исполнительный вице-президент и глава подразделения исследований и разработок Samsung Electronics, подтвердил, что компания ведет активную работу над смартфонами с кремний-углеродными аккумуляторами.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/4/006-product-galaxy-s26ultra-cobaltviolet-black-skyblue-white_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/26/samsung-10-000-samsung.html"
+        },
+        "https://habr.com/ru/news/1003836/": {
+            "title": "Блогер собрал мини-ПК из старого смартфона с чипом Snapdragon 865 и 6 ГБ ОЗУ",
+            "description": "Автор YouTube-канала ETA Prime продемонстрировал сборку мини-компьютера из старого смартфона с разбитым экраном. Стоимость проекта составила менее $100. Автор блога купил на онлайн-аукционе eBay...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9d6/d7f/a33/9d6d7fa33cdc670270d1b6f9b91103cd.JPG",
+            "url": "https://habr.com/ru/news/1003836/"
         }
     }
 }
