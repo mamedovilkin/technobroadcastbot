@@ -1895,6 +1895,12 @@
             "description": "Сергей Уваров создал «Тензор» в конце 1990-х вместе с партнерами. Сейчас ему 60 лет, и он основной владелец компании. В 2025 году ее выручка составила около 22,5 млрд рублей, чистая прибыль — не менее 3 млрд рублей. В рейтинге самых дорогих компаний",
             "image": "https://cdn.forbes.ru/forbes-static/shareimages/556219.jpg?v=1772184318",
             "url": "https://www.forbes.ru/tekhnologii/556219-milliardy-pod-otcet-kak-aroslavskij-inzener-postroil-odnu-iz-krupnejsih-it-kompanij"
+        },
+        "https://habr.com/ru/news/1004452/": {
+            "title": "В sudo-rs по умолчанию включили обратную связь при вводе пароля",
+            "description": "В последних сборках Ubuntu 26.04 при запросе пароля командой sudo обратная связь по паролю теперь включена по умолчанию и отображает символы звёздочки (*) при вводе. Традиционно sudo не предоставляла...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2b4/5af/44a/2b45af44ae489090cb7bd76e4f0a06c2.JPG",
+            "url": "https://habr.com/ru/news/1004452/"
         }
     }
 }
