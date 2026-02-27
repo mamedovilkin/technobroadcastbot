@@ -1781,6 +1781,12 @@
             "description": "О чём эта статья VMware не идеальная система. Исторических костылей там столько, что впору писать отдельную статью, и некоторые архитектурные решения заставляют задуматься о количестве пива на той...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/5cf/e14/e27/5cfe14e27e6d4276287683eaa78dadaa.jpg",
             "url": "https://habr.com/ru/articles/1004262/"
+        },
+        "https://www.ixbt.com/news/2026/02/26/exynos-2600-samsung-galaxy-s26-snapdragon-8-elite-gen5-galaxy-s26-ultra.html": {
+            "title": "Чуда не случилось: Exynos 2600 в Samsung Galaxy S26 уступает по производительности Snapdragon 8 Elite Gen5 в Galaxy S26 Ultra",
+            "description": "Сразу после официального анонса серии Samsung Galaxy S26 в Cети появились результаты первых сравнительных тестов двух платформ, на которых базируются новинки — Exynos 2600, которая используется в европейских Galaxy S26 и Galaxy S26 Plus, и Snapdragon 8 Elite Gen5 for Galaxy в Galaxy S26 Ultra.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/4/008-galaxy-s26ultra-cobaltviolet-s26plus-cobaltviolet-s26-cobaltviolet_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/26/exynos-2600-samsung-galaxy-s26-snapdragon-8-elite-gen5-galaxy-s26-ultra.html"
         }
     }
 }
