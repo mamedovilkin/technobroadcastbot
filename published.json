@@ -1739,6 +1739,12 @@
             "description": "Пользователи смартфонов Xiaomi, Redmi и POCO массово начали жаловаться на неработоспособность устройств после установки прошивки HyperOS 3. Выяснилось, что обновление активирует механизм региональной блокировки, который превращает аппараты в «кирпичи»..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/26/1137438/Xiaomi.jpg",
             "url": "https://3dnews.ru/1137438/polzovateli-xiaomi-redmi-i-poco-massovo-galuyutsya-na-okirpichivanie-smartfonov-pri-obnovlenii-do-hyperos-3"
+        },
+        "https://www.ixbt.com/news/2026/02/26/samsung-10-000-samsung.html": {
+            "title": "В смартфонах Samsung появятся батареи в 10 000 мАч? Samsung официально подтвердила разработку кремний-углеродных аккумуляторов",
+            "description": "Компания Samsung, долгое время придерживавшаяся консервативной стратегии в вопросах автономности, официально объявила о переходе к новым технологиям. Мун Сун Хун, исполнительный вице-президент и глава подразделения исследований и разработок Samsung Electronics, подтвердил, что компания ведет активную работу над смартфонами с кремний-углеродными аккумуляторами.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/4/006-product-galaxy-s26ultra-cobaltviolet-black-skyblue-white_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/26/samsung-10-000-samsung.html"
         }
     }
 }
