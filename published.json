@@ -1871,6 +1871,12 @@
             "description": "Пользователи заметили , что некоторые продавцы на Amazon пытаются продавать ноутбуки с завышенными характеристиками хранилищ. На самом деле заявленные объёмы приходятся на облачное хранение OneDrive....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6cc/8c0/f7c/6cc8c0f7c8d2165c6781ff6b39b26f83.png",
             "url": "https://habr.com/ru/news/1004390/"
+        },
+        "https://habr.com/ru/news/1003674/": {
+            "title": "Вышла интегрированная среда разработки Apache NetBeans 29",
+            "description": "В конце февраля 2026 года состоялся релиз интегрированной среды разработки Apache NetBeans 29 . Проект имеет поддержку языков программирования Java SE, Java EE, PHP, C/C++, JavaScript, Rust и Groovy....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5de/f79/6fc/5def796fcae9fc61c42f09a0280b678c.jpg",
+            "url": "https://habr.com/ru/news/1003674/"
         }
     }
 }
