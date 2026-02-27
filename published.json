@@ -1847,6 +1847,12 @@
             "description": "Известный инсайдер Ice Universe опубликовал в X видео, демонстрирующее новую «вау-функцию» флагманского смартфона Samsung Galaxy S26 Ultra.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/5/Снимок%20экрана%202026-02-27%20073032_large.png",
             "url": "https://www.ixbt.com/news/2026/02/27/samsung-galaxy-s26-ultra.html"
+        },
+        "https://habr.com/ru/news/1003890/": {
+            "title": "Вышло обновление Wireshark 4.6.4",
+            "description": "В конце февраля 2026 года состоялся выпуск обновления стабильной версии свободного программного сетевого анализатора Wireshark 4.6.4. Первый релиз ветки 4.6 открытого проекта вышел в октябре...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/78f/bd9/660/78fbd96609bb8505de0b73270c67f14b.jpg",
+            "url": "https://habr.com/ru/news/1003890/"
         }
     }
 }
