@@ -1817,6 +1817,12 @@
             "description": "Скандал вокруг Videogamer набирает обороты: Metacritic удалил рецензию на Resident Evil Requiem после того, как пользователи обнаружили, что её написал несуществующий \"журналист\" - а фактически нейросеть, замаскированная под человека.",
             "image": "https://i.playground.ru/e/RXSnrhWJNxioe29LwQ2HsQ.png",
             "url": "https://www.playground.ru/resident_evil_requiem/news/metacritic_udalil_retsenziyu_videogamer_na_resident_evil_requiem_posle_obnaruzheniya_fejkovyh_ii_avtorov-1827405"
+        },
+        "https://habr.com/ru/news/1004330/": {
+            "title": "\"Лаборатория Касперского\" обнаружила новый предустановленный вирус Keenadu на Android-планшетах",
+            "description": "Компания «Лаборатория Касперского» обнаружила новое вредоносное программное обеспечение для Android. Зловред получил название Keenadu. Он распространяется разными способами. В том числе вредонос может...",
+            "image": "https://habr.com/share/publication/1004330/35d30a16b9fc771e9c8f49bed00af7ae/",
+            "url": "https://habr.com/ru/news/1004330/"
         }
     }
 }
