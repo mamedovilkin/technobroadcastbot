@@ -1775,6 +1775,12 @@
             "description": "В Steam появилась страница приключенческого экшена Kena: Scars of Kosmora. Продолжение красочной Bridge of Spirits, анонсированное ранее в этом году, уже можно добавить в список желаемого на ПК.",
             "image": "https://i.playground.ru/e/PpRvPNUHPi4g_l73DUUteQ.jpeg",
             "url": "https://www.playground.ru/kena_scars_of_kosmora/news/v_steam_poyavilas_stranitsa_kena_scars_of_kosmora_igra_budet_ozvuchena_na_russkom_yazyke-1827346"
+        },
+        "https://habr.com/ru/articles/1004262/": {
+            "title": "25 ЛЕТ НА ИГЛЕ VMWARE: Почему ломка длится дольше, чем вы думаете",
+            "description": "О чём эта статья VMware не идеальная система. Исторических костылей там столько, что впору писать отдельную статью, и некоторые архитектурные решения заставляют задуматься о количестве пива на той...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5cf/e14/e27/5cfe14e27e6d4276287683eaa78dadaa.jpg",
+            "url": "https://habr.com/ru/articles/1004262/"
         }
     }
 }
