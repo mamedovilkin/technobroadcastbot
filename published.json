@@ -1835,6 +1835,12 @@
             "description": "Для смартфонов Apple создали вредоносное программное обеспечение (ПО), которое может действовать скрытно. На это обратило внимание издание TechRadar",
             "image": "https://icdn.lenta.ru/images/2026/02/26/20/20260226203526036/share_e35106686dcac47f1296d36c6a753337.jpg",
             "url": "https://tve24.ru/news/2026/02/27/virus-iphone/"
+        },
+        "https://habr.com/ru/news/1004352/": {
+            "title": "Claude Code и Великая паника производительности 2026 года",
+            "description": "Предполагалось, что “Vibe coding” будет классным. Бывший исследователь OpenAI Андрей Карпати ввел этот термин в культурный лексикон в феврале 2025 года, чтобы описать новый вид...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e13/0af/640/e130af640b5e2ae3f1d95f5974e7b345.png",
+            "url": "https://habr.com/ru/news/1004352/"
         }
     }
 }
