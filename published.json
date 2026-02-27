@@ -1751,6 +1751,12 @@
             "description": "Автор YouTube-канала ETA Prime продемонстрировал сборку мини-компьютера из старого смартфона с разбитым экраном. Стоимость проекта составила менее $100. Автор блога купил на онлайн-аукционе eBay...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/9d6/d7f/a33/9d6d7fa33cdc670270d1b6f9b91103cd.JPG",
             "url": "https://habr.com/ru/news/1003836/"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1002598/": {
+            "title": "От микроменеджмента до автопилота: 4 стадии рефакторинга AI-кода на примере десктопного приложения",
+            "description": "Реддит и Хабр забиты историями о том, как кто-то «написал приложение за вечер с помощью ChatGPT, вообще не зная программирования». Маркетологи называют это вайбкодингом — ты просто описываешь свои...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c99/74e/ea4/c9974eea47bfa337c06dcacc3966dadd.png",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1002598/"
         }
     }
 }
