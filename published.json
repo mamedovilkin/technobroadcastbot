@@ -1829,6 +1829,12 @@
             "description": "Владимир Путин создал комиссию при президенте России по вопросам развития технологий искусственного интеллекта. Соответствующий указ опубликован на портале правовой информации.",
             "image": "https://meduza.io/imgly/share/1772114769/news/2026/02/26/iskusstvennyy-intellekt-v-rossii-budut-razvivat-glavy-fsb-i-minoborony-a-takzhe-byvshiy-ohrannik-putina",
             "url": "https://meduza.io/news/2026/02/26/iskusstvennyy-intellekt-v-rossii-budut-razvivat-glavy-fsb-i-minoborony-a-takzhe-byvshiy-ohrannik-putina"
+        },
+        "https://tve24.ru/news/2026/02/27/virus-iphone/": {
+            "title": "Коварный вирус обошел защиту iPhone",
+            "description": "Для смартфонов Apple создали вредоносное программное обеспечение (ПО), которое может действовать скрытно. На это обратило внимание издание TechRadar",
+            "image": "https://icdn.lenta.ru/images/2026/02/26/20/20260226203526036/share_e35106686dcac47f1296d36c6a753337.jpg",
+            "url": "https://tve24.ru/news/2026/02/27/virus-iphone/"
         }
     }
 }
