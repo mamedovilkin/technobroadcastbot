@@ -2069,6 +2069,12 @@
             "description": "Достался по случаю неисправный 5G роутер Askey RTL6310VW , брендированный под сотового оператора Telefonica, с битой прошивкой (вечный ребут). Прошивок в открытом доступе нет (только FOTA),...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7a0/8f3/97f/7a08f397f38b564151b06a521f365d25.jpg",
             "url": "https://habr.com/ru/articles/1004778/"
+        },
+        "https://habr.com/ru/news/1004880/": {
+            "title": "OpenAI уволила работника за инсайдерскую торговлю на рынке прогнозов",
+            "description": "Компания OpenAI уволила сотрудника за инсайдерскую торговлю на рынке прогнозов. Внутреннее расследование показало, что работник пользовался конфиденциальными данными компании при торговле на таких...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ce2/d5a/6c1/ce2d5a6c1480bae02c611c41c40c10da.jpg",
+            "url": "https://habr.com/ru/news/1004880/"
         }
     }
 }
