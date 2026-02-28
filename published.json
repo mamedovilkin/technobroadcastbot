@@ -2045,6 +2045,12 @@
             "description": "Xiaomi расширяет линейку бытовой техники, представив серию центральных кондиционеров Mi Home, соответствующих стандарту энергоэффективности Китая 2026 года. Новинки предназначены для многокомнатного охлаждения и обогрева квартир и больших домов.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/afab1614-412b-43a0-a030-f29c412a.jpg",
             "url": "https://www.ixbt.com/news/2026/02/28/28-c-65-c-xiaomi-mi-home.html"
+        },
+        "https://www.securitylab.ru/news/569852.php": {
+            "title": "Ваш пароль в терминале больше не секрет. Ubuntu 26.04 радикально изменила sudo",
+            "description": "Разработчики решили показывать длину вашего пароля в консоли.",
+            "image": "https://www.securitylab.ru/upload/iblock/3b1/bxhf7hon3aat1ve6gpf7qp77bavx9i7x.jpg",
+            "url": "https://www.securitylab.ru/news/569852.php"
         }
     }
 }
