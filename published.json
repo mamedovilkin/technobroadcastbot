@@ -2063,6 +2063,12 @@
             "description": "Компания Ericsson объявила об успешном завершении, как утверждается, первого в мире испытания технологии 6G в реальном времени по беспроводной связи (OTA), которое прошло в её штаб-квартире в Плано (США)..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/28/1137571/a-connected-pre-standards-6g-powered-ai-robot-and-video-in-the-ota-demo-at-ericsson-s-us-headquarters.jpg",
             "url": "https://3dnews.ru/1137571/ericsson-vpervie-ispitala-6g-v-realnom-vremeni-i-uspeshno-poupravlyala-robotami"
+        },
+        "https://habr.com/ru/articles/1004778/": {
+            "title": "Походно-полевой 5G роутер из микротика и металлолома",
+            "description": "Достался по случаю неисправный 5G роутер Askey RTL6310VW , брендированный под сотового оператора Telefonica, с битой прошивкой (вечный ребут). Прошивок в открытом доступе нет (только FOTA),...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/7a0/8f3/97f/7a08f397f38b564151b06a521f365d25.jpg",
+            "url": "https://habr.com/ru/articles/1004778/"
         }
     }
 }
