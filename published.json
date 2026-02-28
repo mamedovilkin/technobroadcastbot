@@ -1919,6 +1919,12 @@
             "description": "Узнайте, как бум в сфере искусственного интеллекта может повлиять на госдолг крупнейших экономик",
             "image": "https://resizer.mail.ru/p/22db1cc5-70f6-5e6d-b37d-fb6875720953/AQAzsyEI7GHzACXRFFZRI1WwC5tZ2oHN-B_s5xhRnfdOCXE9SuKHN6Yyd8MurSlye9E0y_9DvmfpfvF3Sf60OOYa_aE.jpg",
             "url": "https://finance.mail.ru/article/reuters-ii-bum-ne-stanet-spaseniem-dlya-obremenennyh-dolgami-krupnyh-ekonomik-69199869/"
+        },
+        "https://www.interfax.ru/digital/1075046": {
+            "title": "РКН сообщил о сложной DDoS-атаке на ресурсы Роскомнадзора и Минобороны",
+            "description": "Интерфакс: Ресурсы Роскомнадзора (РКН) и Минобороны в пятницу подверглись сложной многовекторной DDoS-атаке, которая в настоящее время продолжается, сообщили журналистам в пресс-службе РКН.\"27 февраля 2026 года в 09:11 Центр мониторинга и управления сетью связи общего пользования зафиксировал начало DDoS-атаки на информационные ресурсы Роскомнадзора, Министерства обороны РФ и инфраструктуру ФГУП \"ГРЧЦ\" (подведомственный РКН \"Главный радиочастотный центр\" - ИФ)\", - сказали в пресс-службе.",
+            "image": "https://www.interfax.ru/aspimg/1075046.jpg",
+            "url": "https://www.interfax.ru/digital/1075046"
         }
     }
 }
