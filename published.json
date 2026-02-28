@@ -1907,6 +1907,12 @@
             "description": "Группа экспертов в области кибербезопасности опубликовала работу, посвящённую методу атаки AirSnitch, которая осуществляется на сети Wi-Fi. Действуя на двух нижних уровнях беспроводной сети, она не взламывает шифрование данных, а позволяет его обходить, перехватывать трафик и производить подмену данных..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/27/1137522/wifi_1.jpg",
             "url": "https://3dnews.ru/1137522/novaya-ataka-airsnitch-pozvolyaet-perehvativat-trafik-v-lyuboy-setiwifi-bez-vzloma"
+        },
+        "https://3dnews.ru/1137514/asml-zayavila-o-gotovnosti-highna-euv-k-seriynomu-proizvodstvu-angstremnih-chipov": {
+            "title": "ASML заявила о готовности High-NA EUV к серийному производству ангстремных чипов",
+            "description": "Литографическим оборудованием ASML нового поколения интересуются даже те производители чипов, которые в ближайшие годы не собираются использовать сканеры с высоким значением числовой апертуры (High-NA). При этом сама нидерландская компания утверждает, что испытания подтвердили высокую степень готовности такого оборудования к массовому производству чипов..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/27/1137514/asml_01.jpg",
+            "url": "https://3dnews.ru/1137514/asml-zayavila-o-gotovnosti-highna-euv-k-seriynomu-proizvodstvu-angstremnih-chipov"
         }
     }
 }
