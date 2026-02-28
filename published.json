@@ -1961,6 +1961,12 @@
             "description": "Microsoft включила поддержку загрузки отказоустойчивой файловой системы ReFS в последних сборках Windows Server. Пока она доступна только участникам программы Windows Server Insiders в тестовом...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/966/6ca/384/9666ca384f7673bdafde9a90261b87b8.jpg",
             "url": "https://habr.com/ru/news/1004656/"
+        },
+        "https://habr.com/ru/news/1004234/": {
+            "title": "Android-разработчики опубликовали открытое письмо с требованием отменить обязательную верификацию Google",
+            "description": "Десятки организаций и независимых разработчиков подписали открытое письмо с критикой новой политики Google, которая обяжет всех создателей Android-приложений проходить централизованную верификацию,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/3ce/410/b70/3ce410b7090f12b434c2fd52927fef0f.jpg",
+            "url": "https://habr.com/ru/news/1004234/"
         }
     }
 }
