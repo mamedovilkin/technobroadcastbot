@@ -2087,6 +2087,12 @@
             "description": "Настоящий король Android-флагманов.",
             "image": "https://click-or-die.ru/app/uploads/2026/02/oneplus-15-015.jpg",
             "url": "https://click-or-die.ru/2026/02/topovyj-oneplus-okonchatelno-obesczenilsya-teper-ego-mozhno-brat-ne-glyadya/"
+        },
+        "https://habr.com/ru/articles/1004912/": {
+            "title": "Как я 3 года делал мобильное приложение",
+            "description": "Я не разработчик, но теперь у меня есть своё приложение в App Store, которое помогло мне больше ходить и в прошлом месяце я прошёл 500 000 шагов. В этой статье рассказываю как я к этому пришёл и...",
+            "image": "https://habr.com/share/publication/1004912/7df16ac2317012365ee815993b2e0514/",
+            "url": "https://habr.com/ru/articles/1004912/"
         }
     }
 }
