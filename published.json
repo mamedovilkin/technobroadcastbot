@@ -1955,6 +1955,12 @@
             "description": "Японская компания Rapidus успешно закрыла очередной раунд финансирования на сумму 250 млрд иен (1,6 млрд долларов). Инвесторами выступили правительство Японии и консорциум из 30 крупнейших частных корпораций, включая Sony, Toyota, SoftBank, Canon, Fujitsu и Denso.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/5/87bb7e61-1a06-4364-8a3d-0a943b22d5ea_large.png",
             "url": "https://www.ixbt.com/news/2026/02/27/sony-toyota-tsmc-rapidus-2027-2.html"
+        },
+        "https://habr.com/ru/news/1004656/": {
+            "title": "Windows Server получил поддержку загрузки ReFS через 14 лет после запуска файловой системы",
+            "description": "Microsoft включила поддержку загрузки отказоустойчивой файловой системы ReFS в последних сборках Windows Server. Пока она доступна только участникам программы Windows Server Insiders в тестовом...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/966/6ca/384/9666ca384f7673bdafde9a90261b87b8.jpg",
+            "url": "https://habr.com/ru/news/1004656/"
         }
     }
 }
