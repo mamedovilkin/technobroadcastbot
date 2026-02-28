@@ -2033,6 +2033,12 @@
             "description": "В сети появились детали о перспективном смартфоне, который может предложить очень интересное сочетание характеристик. Подробности опубликовал Digital Chat Station.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/0334e180-074c-4301-a627-40eb2a4da9fe_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/28/nebolshoj-jekran-9000-mach-i-200-mp-s-teleobektivom-v-tonkom-i-ljogkom-metallicheskom-korpuse-insajder-raskryl-novyj.html"
+        },
+        "https://servernews.ru/1137547": {
+            "title": "Dell представила подвесной уличный сервер PowerEdge XR9700 с замкнутой СЖО",
+            "description": "Dell анонсировала сервер PowerEdge XR9700, предназначенный для инфраструктур Cloud RAN и ИИ-приложений на периферии. Устройство рассчитано на эксплуатацию в неблагоприятных условиях, в том числе на открытом воздухе: оно может монтироваться на опорах линий электропередач, крышах и фасадах зданий..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/02/27/1137547/sm.dell-poweredge-pexr9700-glamor.800.jpg",
+            "url": "https://servernews.ru/1137547"
         }
     }
 }
