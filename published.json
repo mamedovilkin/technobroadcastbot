@@ -2207,6 +2207,12 @@
             "description": "Семь миллиардов устройств. Тридцать пять лет истории. Linux 7.0 — это первое крупное обновление мажорной версии с 2022 года, и на этот раз цифра действительно имеет вес. Ядро Linux — это та самая...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/649/da0/4d8/649da04d8851e6d0451c74018ae28f59.jpg",
             "url": "https://habr.com/ru/companies/bothub/articles/1005084/"
+        },
+        "https://habr.com/ru/news/1005096/": {
+            "title": "Microsoft анонсировала новые \"мини-ПК\" для Windows 365",
+            "description": "Microsoft расширяет линейку Windows 365 Link за счёт поддержки двух новых устройств Asus и Dell. Это мини-ПК с компактными размерами, которые можно установить на заднюю панель монитора.  Первое...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/64f/760/27c/64f76027c0254bbcc2088e490601f3cb.jpg",
+            "url": "https://habr.com/ru/news/1005096/"
         }
     }
 }
