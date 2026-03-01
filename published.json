@@ -2237,6 +2237,12 @@
             "description": "Проект Taara, выделившийся из корпорации Google, продолжает работу над созданием технологий высокоскоростной связи без использования подземных кабелей. Новая разработка компании получила название Beam и представляет собой устройство для передачи данных по городским территориям с помощью...",
             "image": "https://i.playground.ru/e/ibuu_bGrDAZIq2BjvJA3_A.png",
             "url": "https://www.playground.ru/misc/news/dochernyaya_kompaniya_google_predstavila_tehnologiyu_peredachi_interneta_s_pomoschyu_sveta_na_skorosti_25_gigabit_v_sekundu-1827914"
+        },
+        "https://3dnews.ru/1137607/prilogeniya-dlya-smart-tv-nezametno-vikachivayut-internet-chtobi-obuchat-iimodeli": {
+            "title": "Приложения для Smart TV незаметно выкачивают интернет, чтобы обучать ИИ-модели",
+            "description": "Компании, которые собирают открытые данные из интернета для обучения ИИ-моделей, всё активнее ищут новые источники трафика. Одна из них — Bright Data, оператор глобальной прокси-сети. Компания выпустила SDK для приложений Smart TV, позволяющий использовать телевизоры пользователей для сбора веб-данных.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/01/1137607/114.jpg",
+            "url": "https://3dnews.ru/1137607/prilogeniya-dlya-smart-tv-nezametno-vikachivayut-internet-chtobi-obuchat-iimodeli"
         }
     }
 }
