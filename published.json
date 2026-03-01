@@ -2189,6 +2189,12 @@
             "description": "Группа исследователей из Калифорнийского университета в Риверсайде обнаружила ряд серьёзных уязвимостей в существующей системе безопасности Wi-Fi. Эти уязвимости специалисты назвали AirSnitch. Обнаруженные дыры позволяют перехватывать данные в сети, к которой уже подключены пользователи, даже при наличии изоляции клиентов. Создано Grok Уязвимость использует присущие сетевому стеку недостатки.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/image_8_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/28/jeto-dejstvitelno-ugroza-globalnoj-setevoj-bezopasnosti-obnaruzhena-gruppa--serjoznyh-ujazvimostej-v-sushestvujushej.html"
+        },
+        "https://www.ixbt.com/news/2026/03/01/xiaomi-leica-leitzphone.html": {
+            "title": "Топовый камерофон Xiaomi Leica Leitzphone показали вживую со всех сторон сразу после анонса",
+            "description": "На выставке MWC 2026 компания Xiaomi анонсировала глобальную версию Xiaomi 17 Ultra Leica Edition под названием Leica Leitzphone. Журналисты IT Home протестировали новинку в Барселоне и показали её вживую.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/0/6fe5b08c-f631-4d5b-897b-a24af2d8_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/01/xiaomi-leica-leitzphone.html"
         }
     }
 }
