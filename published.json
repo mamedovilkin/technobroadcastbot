@@ -2147,6 +2147,12 @@
             "description": "В рамках мероприятия, приуроченного к выставке MWC 2026, Xiaomi представила свой первый гиперкар — Vision Gran Turismo. Правда, гиперкар этот «цифровой» — он разработан эксклюзивно для популярного гоночного симулятора Gran Turismo.",
             "image": "https://www.ixbt.com/img/n1/news/2026/1/6/arenaev_002_large.jpg",
             "url": "https://www.ixbt.com/news/2026/02/28/xiaomi-ferrari-lamboghini-xiaomi-vision-gran-turismo.html"
+        },
+        "https://habr.com/ru/news/1005024/": {
+            "title": "В 1Password назвали информацию о повышении цен ошибкой",
+            "description": "Клиенты менеджера паролей 1Password начали получать письма с опровержением недавней информации о повышении цен. Как объясняют представители компании, это сообщение было ошибкой. «Мы уточняем...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6b0/937/899/6b09378999cc3e435f0c7ea76abedd6d.jpg",
+            "url": "https://habr.com/ru/news/1005024/"
         }
     }
 }
