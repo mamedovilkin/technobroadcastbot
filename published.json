@@ -2201,6 +2201,12 @@
             "description": "я + AI Я продуктовый дизайнер с 7-летним стажем. За последний месяц я в одиночку запустил 9 цифровых продуктов — без разработчиков, тестировщиков и девопсов. И самое странное: лучший результат я...",
             "image": "https://habr.com/share/publication/1005086/888a2e23b8fc657c9c2de625189a3134/",
             "url": "https://habr.com/ru/articles/1005086/"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1005084/": {
+            "title": "Дыра в безопасности, которая обошлась Google в $1 млн. Что скрывает релиз Linux 7.0?",
+            "description": "Семь миллиардов устройств. Тридцать пять лет истории. Linux 7.0 — это первое крупное обновление мажорной версии с 2022 года, и на этот раз цифра действительно имеет вес. Ядро Linux — это та самая...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/649/da0/4d8/649da04d8851e6d0451c74018ae28f59.jpg",
+            "url": "https://habr.com/ru/companies/bothub/articles/1005084/"
         }
     }
 }
