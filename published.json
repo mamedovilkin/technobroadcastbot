@@ -2117,6 +2117,12 @@
             "description": "Стоимость биткоина снизилась до $63,5 тысячи на фоне ударов по Ирану. Об этом пишут РИА Новости.",
             "image": "https://resizer.mail.ru/p/3aa5dc43-0215-5d9d-a835-9c9ade92d566/AQAzosu9Tw_S9hDFYCLY7iMnMmCLt3uW0ctR2N3khgIXGAfCf8e9gTQBYvU6p6KhMhJ1SStccFIhtoZ6I_bnYOdmnXM.jpg",
             "url": "https://finance.mail.ru/article/stoimost-bitkoina-snizhaetsya-na-fone-eskalacii-na-blizhnem-vostoke-69199915/"
+        },
+        "https://habr.com/ru/news/1004852/": {
+            "title": "Google потребовала от сотрудников более широко использовать ИИ",
+            "description": "Google усиливает давление на сотрудников, требуя от них более широкого использования ИИ — и это касается не только инженеров-программистов. В последние недели руководители сообщили некоторым...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2d3/62b/e3b/2d362be3bd71526397dee50bc837f9fb.JPG",
+            "url": "https://habr.com/ru/news/1004852/"
         }
     }
 }
