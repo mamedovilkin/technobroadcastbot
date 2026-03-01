@@ -2183,6 +2183,12 @@
             "description": "Введение Я писал код всю свою жизнь. И сейчас осознаю — если бы я родился на 15 лет позже, я бы не написал ни одной строчки. Но я бы всё равно создавал отличные продукты. Это не антиутопическая...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d60/e17/d33/d60e17d33eecf40989df938ac11a58ef.png",
             "url": "https://habr.com/ru/articles/1003640/"
+        },
+        "https://www.ixbt.com/news/2026/02/28/jeto-dejstvitelno-ugroza-globalnoj-setevoj-bezopasnosti-obnaruzhena-gruppa--serjoznyh-ujazvimostej-v-sushestvujushej.html": {
+            "title": "\"Это действительно угроза глобальной сетевой безопасности\". Обнаружена группа серьёзных уязвимостей в существующей системе безопасности Wi-Fi",
+            "description": "Группа исследователей из Калифорнийского университета в Риверсайде обнаружила ряд серьёзных уязвимостей в существующей системе безопасности Wi-Fi. Эти уязвимости специалисты назвали AirSnitch. Обнаруженные дыры позволяют перехватывать данные в сети, к которой уже подключены пользователи, даже при наличии изоляции клиентов. Создано Grok Уязвимость использует присущие сетевому стеку недостатки.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/image_8_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/28/jeto-dejstvitelno-ugroza-globalnoj-setevoj-bezopasnosti-obnaruzhena-gruppa--serjoznyh-ujazvimostej-v-sushestvujushej.html"
         }
     }
 }
