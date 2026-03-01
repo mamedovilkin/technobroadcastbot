@@ -2153,6 +2153,12 @@
             "description": "Клиенты менеджера паролей 1Password начали получать письма с опровержением недавней информации о повышении цен. Как объясняют представители компании, это сообщение было ошибкой. «Мы уточняем...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6b0/937/899/6b09378999cc3e435f0c7ea76abedd6d.jpg",
             "url": "https://habr.com/ru/news/1005024/"
+        },
+        "https://habr.com/ru/companies/timeweb/articles/1004318/": {
+            "title": "Тайна Samsung, которая стоила жизни тысячам смартфонов",
+            "description": "Вообще, я большой любитель экзотических гаджетов и разной диковинки. Порой мониторю барахолки в поисках чего-то такого, что не продавалось в условной «Евросети», а если гаджет попадается нерабочий, то...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/64a/174/e58/64a174e5823a56099a045e8fb47b560d.jpg",
+            "url": "https://habr.com/ru/companies/timeweb/articles/1004318/"
         }
     }
 }
