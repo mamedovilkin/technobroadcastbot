@@ -2225,6 +2225,12 @@
             "description": "Отчёт Cisco Talos о новом бэкдоре под названием Dohdoor.",
             "image": "https://www.securitylab.ru/upload/iblock/050/dk21hbrjtbit8pqej7fjrqlcuwg1llkk.jpg",
             "url": "https://www.securitylab.ru/news/569868.php"
+        },
+        "https://habr.com/ru/companies/bothub/news/1005116/": {
+            "title": "Anthropic сделал мобильный пульт для Claude - Remote Control",
+            "description": "Тренд на вайбкодинг дошел до того, что теперь для этого даже необязательно сидеть за компьютером. Anthropic, не дожидаясь, пока сообщество изобретет очередную связку tmux + SSH + Tailscale, выпустила...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a0a/319/204/a0a3192042074fe2e0dec96030909039.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1005116/"
         }
     }
 }
