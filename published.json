@@ -2177,6 +2177,12 @@
             "description": "Компания LG начала принимать предварительные заказы на «самый большой в мире 5K2K-монитор с частотой 240 Гц» — 52-дюймовый UltraGear evo 52G930B-B. Новинку впервые показали на выставке CES 2026 в начале января. На рынке США монитор оценён в $1999,99.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/02/28/1137591/LG-ULTRAGEAR-5K2K-MONITOR-1200x624.jpg",
             "url": "https://3dnews.ru/1137591/lg-otsenila-samiy-bolshoy-v-mire-5k2kmonitor-s-chastotoy-240-gts-v-2000"
+        },
+        "https://habr.com/ru/articles/1003640/": {
+            "title": "Код больше не ваш. Разработка в эпоху AI",
+            "description": "Введение Я писал код всю свою жизнь. И сейчас осознаю — если бы я родился на 15 лет позже, я бы не написал ни одной строчки. Но я бы всё равно создавал отличные продукты. Это не антиутопическая...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d60/e17/d33/d60e17d33eecf40989df938ac11a58ef.png",
+            "url": "https://habr.com/ru/articles/1003640/"
         }
     }
 }
