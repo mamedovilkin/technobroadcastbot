@@ -2219,6 +2219,12 @@
             "description": "Примеры фотографий с OnePlus 15T дают первые представления о фотовозможностях компактного флагмана, который выйдет в марте в Китае. Фото Wang Meng Studio Снимки студии Wang Meng Studio подтверждают наличие 50-мегапиксельного перископического модуля с телеобъективом и 3,5-кратным оптическим зумом.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/0/OnePlus-15T-camera-sample-1-5-sc_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/01/7000-oneplus-15t.html"
+        },
+        "https://www.securitylab.ru/news/569868.php": {
+            "title": "Бэкдор замаскировали под обычный HTTPS - выглядит как YouTube, работает как слив данных",
+            "description": "Отчёт Cisco Talos о новом бэкдоре под названием Dohdoor.",
+            "image": "https://www.securitylab.ru/upload/iblock/050/dk21hbrjtbit8pqej7fjrqlcuwg1llkk.jpg",
+            "url": "https://www.securitylab.ru/news/569868.php"
         }
     }
 }
