@@ -2123,6 +2123,12 @@
             "description": "Google усиливает давление на сотрудников, требуя от них более широкого использования ИИ — и это касается не только инженеров-программистов. В последние недели руководители сообщили некоторым...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2d3/62b/e3b/2d362be3bd71526397dee50bc837f9fb.JPG",
             "url": "https://habr.com/ru/news/1004852/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1004968/": {
+            "title": "Судья не нашла доказательств неправомерных действий OpenAI: уволившиеся - это не вина нового работодателя",
+            "description": "Федеральный суд во вторник вынес решение в пользу OpenAI по одному из исков, поданных конкурирующей компанией Илона Маска xAI. Дело касалось обвинений в переманивании сотрудников и хищении...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d17/e43/5b6/d17e435b6b5feb91604dd7ab8e65bb96.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1004968/"
         }
     }
 }
