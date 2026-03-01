@@ -2129,6 +2129,12 @@
             "description": "Федеральный суд во вторник вынес решение в пользу OpenAI по одному из исков, поданных конкурирующей компанией Илона Маска xAI. Дело касалось обвинений в переманивании сотрудников и хищении...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d17/e43/5b6/d17e435b6b5feb91604dd7ab8e65bb96.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1004968/"
+        },
+        "https://www.ixbt.com/news/2026/02/28/fevralskoe-obnovlenie-dlja-smartfonov-samsung-ubivaet-polovinu-punktov-menju-recovery--ostalas-tolko-perezagruzka-i.html": {
+            "title": "Февральское обновление для смартфонов Samsung \"убивает\" половину пунктов меню Recovery - осталась только перезагрузка и сброс до заводских настроек",
+            "description": "Пользователи смартфонов Samsung Galaxy столкнулись с неожиданным и радикальным упрощением системного меню Recovery. После установки февральского патча безопасности 2026 года из сервисного раздела исчезло большинство функций, которыми десятилетиями пользовались опытные владельцы и мастера сервисных центров.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/galaxy1_large.JPG",
+            "url": "https://www.ixbt.com/news/2026/02/28/fevralskoe-obnovlenie-dlja-smartfonov-samsung-ubivaet-polovinu-punktov-menju-recovery--ostalas-tolko-perezagruzka-i.html"
         }
     }
 }
