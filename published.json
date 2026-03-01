@@ -2249,6 +2249,12 @@
             "description": "В последнее время ИТ-сообщество активно обсуждает интеграцию автономных ИИ-агентов в реальные рабочие процессы. Свежий препринт под интригующим названием «Агенты Хаоса» подливает масла в огонь:...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/1b6/0cd/a3c/1b60cda3c2e2f3535b2e2afe9522ace2.png",
             "url": "https://habr.com/ru/articles/1005104/"
+        },
+        "https://smartpress.by/idea/iskusstvennyy-intellekt/neyroseti-vzrosleyut-menshe-fokusov-bolshe-kontrolya-i-ofisnoy-rutiny/": {
+            "title": "Нейросети взрослеют: меньше фокусов, больше контроля и офисной рутины",
+            "description": "Февраль 2026 для ИИ вышел странно трудолюбивым: почти все большие игроки не просто обновляли модели, а доделывали к ним то, без чего они оставались игрушкой: длинный контекст, агентские сценарии, офисные интеграции, контроль доступа. То есть все, ...",
+            "image": "https://smartpress.by/upload/medialibrary/bcf/tozxxkvyc3la72dgshjft4g8nxia8xa5/5eedab25_1cda_49e3_af49_f8e267f65241.png",
+            "url": "https://smartpress.by/idea/iskusstvennyy-intellekt/neyroseti-vzrosleyut-menshe-fokusov-bolshe-kontrolya-i-ofisnoy-rutiny/"
         }
     }
 }
