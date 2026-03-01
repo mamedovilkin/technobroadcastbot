@@ -2243,6 +2243,12 @@
             "description": "Компании, которые собирают открытые данные из интернета для обучения ИИ-моделей, всё активнее ищут новые источники трафика. Одна из них — Bright Data, оператор глобальной прокси-сети. Компания выпустила SDK для приложений Smart TV, позволяющий использовать телевизоры пользователей для сбора веб-данных.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/01/1137607/114.jpg",
             "url": "https://3dnews.ru/1137607/prilogeniya-dlya-smart-tv-nezametno-vikachivayut-internet-chtobi-obuchat-iimodeli"
+        },
+        "https://habr.com/ru/articles/1005104/": {
+            "title": "\"Агенты Хаоса\": ИИ стирает сервера, или почему нельзя давать языковым моделям права root",
+            "description": "В последнее время ИТ-сообщество активно обсуждает интеграцию автономных ИИ-агентов в реальные рабочие процессы. Свежий препринт под интригующим названием «Агенты Хаоса» подливает масла в огонь:...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1b6/0cd/a3c/1b60cda3c2e2f3535b2e2afe9522ace2.png",
+            "url": "https://habr.com/ru/articles/1005104/"
         }
     }
 }
