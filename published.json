@@ -2159,6 +2159,12 @@
             "description": "Вообще, я большой любитель экзотических гаджетов и разной диковинки. Порой мониторю барахолки в поисках чего-то такого, что не продавалось в условной «Евросети», а если гаджет попадается нерабочий, то...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/64a/174/e58/64a174e5823a56099a045e8fb47b560d.jpg",
             "url": "https://habr.com/ru/companies/timeweb/articles/1004318/"
+        },
+        "https://www.ixbt.com/news/2026/02/28/galaxy-s26-galaxy-s26-plus-galaxy-s26-ultra.html": {
+            "title": "В смартфонах Galaxy S26, Galaxy S26 Plus и Galaxy S26 Ultra нашли секретную антенну",
+            "description": "Линейка флагманов Samsung Galaxy S26, S26+ и S26 Ultra получила важное аппаратное обновление, о котором компания не рассказывала на презентации. Смартфоны теперь оснащены второй антенной NFC, расположенной в верхней части корпуса.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/1/6/005-galaxy-s26-cobaltviolet-black-skyblue-white_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/02/28/galaxy-s26-galaxy-s26-plus-galaxy-s26-ultra.html"
         }
     }
 }
