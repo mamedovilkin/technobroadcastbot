@@ -2231,6 +2231,12 @@
             "description": "Тренд на вайбкодинг дошел до того, что теперь для этого даже необязательно сидеть за компьютером. Anthropic, не дожидаясь, пока сообщество изобретет очередную связку tmux + SSH + Tailscale, выпустила...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a0a/319/204/a0a3192042074fe2e0dec96030909039.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1005116/"
+        },
+        "https://www.playground.ru/misc/news/dochernyaya_kompaniya_google_predstavila_tehnologiyu_peredachi_interneta_s_pomoschyu_sveta_na_skorosti_25_gigabit_v_sekundu-1827914": {
+            "title": "Дочерняя компания Google представила технологию передачи интернета с помощью света на скорости 25 гигабит в секунду",
+            "description": "Проект Taara, выделившийся из корпорации Google, продолжает работу над созданием технологий высокоскоростной связи без использования подземных кабелей. Новая разработка компании получила название Beam и представляет собой устройство для передачи данных по городским территориям с помощью...",
+            "image": "https://i.playground.ru/e/ibuu_bGrDAZIq2BjvJA3_A.png",
+            "url": "https://www.playground.ru/misc/news/dochernyaya_kompaniya_google_predstavila_tehnologiyu_peredachi_interneta_s_pomoschyu_sveta_na_skorosti_25_gigabit_v_sekundu-1827914"
         }
     }
 }
