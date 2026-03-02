@@ -2363,6 +2363,12 @@
             "description": "В ходе свежего интервью, которое дал Илон Маск на заводе Giga Berlin в Германии, миллиардер попытался успокоить людей, переживающих на тему искусственного интеллекта.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/1/image%20-%202026-03-02T084413.197_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/02/mask-ne-stoit-bespokoitsja-o-potere-raboty-izza-ii-cherez-10-let-rabota-stanet-polnostju-dobrovolnoj.html"
+        },
+        "https://www.ixbt.com/news/2026/03/02/gory-v-3d-2gis-zapustil-realistichnyj-relef-na-kartah.html": {
+            "title": "Горы в 3D: 2ГИС запустил реалистичный рельеф на картах",
+            "description": "Команда популярного справочно-картографического сервиса 2ГИС запустила важное обновление. Пользователям стал доступен реалистичный 3D-рельеф, позволяющий увидеть горы и перепады высот в их естественной форме.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/paper-attachments.dropboxusercontent_large.png",
+            "url": "https://www.ixbt.com/news/2026/03/02/gory-v-3d-2gis-zapustil-realistichnyj-relef-na-kartah.html"
         }
     }
 }
