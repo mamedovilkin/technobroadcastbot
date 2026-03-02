@@ -2399,6 +2399,12 @@
             "description": "В Cloud Backup от VK Cloud появилась функция неудаляемых резервных копий. Под капотом — S3 Object Lock в модели WORM (Write Once, Read Many) на базе VK Object Storage. По данным центра...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0db/4fd/89f/0db4fd89f69a1209e2d385f42280965c.jpg",
             "url": "https://habr.com/ru/companies/vktech/news/1005458/"
+        },
+        "https://www.ixbt.com/news/2026/03/02/nelepaja-ideej-kotoraja-nikogda-ne-srabotaet-znamenitye-poslednie-slova-mezhdu-osnovateljami-wikipedia-i-grokipedia.html": {
+            "title": "\"Нелепая идея, которая никогда не сработает\", \"Знаменитые последние слова\". Между основателями Wikipedia и Grokipedia развернулся публичный спор",
+            "description": "Илон Маск ответил сооснователю Wikipedia Джимми Уэйлсу после того, как многолетний руководитель онлайн-энциклопедии назвал новую альтернативу от xAI, Grokipedia, основанную на искусственном интеллекте, «нелепой» идеей, обреченной на провал.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/image%20-%202026-03-02T101609.432_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/02/nelepaja-ideej-kotoraja-nikogda-ne-srabotaet-znamenitye-poslednie-slova-mezhdu-osnovateljami-wikipedia-i-grokipedia.html"
         }
     }
 }
