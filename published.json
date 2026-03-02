@@ -2303,6 +2303,12 @@
             "description": "https://www.reddit.com/r/ClaudeCode/comments/1rhe89z/i_split_my_claudemd_into_27_files_heres_the/ Один из пользователей Claude Code рассказал , что отказался от монолитного CLAUDE.md примерно на 800...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a89/a0e/d33/a89a0ed33653ff0c3b70b9da03eeb632.png",
             "url": "https://habr.com/ru/news/1005288/"
+        },
+        "https://tve24.ru/news/2026/02/27/tv-spy/": {
+            "title": "Телевизоры Samsung улучили в слежке",
+            "description": "Корпорация Samsung пообещала не следить за пользователями через свои телевизоры. Об этом сообщает издание PCMag",
+            "image": "https://icdn.lenta.ru/images/2026/02/27/19/20260227195551387/share_805273beef801a0d4fd8b0eb9ffddf29.jpg",
+            "url": "https://tve24.ru/news/2026/02/27/tv-spy/"
         }
     }
 }
