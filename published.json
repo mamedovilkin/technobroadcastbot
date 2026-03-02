@@ -2387,6 +2387,12 @@
             "description": "Исследование JD Power показало рекордное снижение надёжности автомобилей в США. Главные жалобы связаны с мультимедиа, мобильной интеграцией и обновлениями ПО.",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/b3s8MW8jR9rDWm7Z5OBV.webp",
             "url": "https://tarantas.news/posts/id65173-android-auto-i-carplay-razocharovali-vseh-kakie-novye-avto-berut-ljudi"
+        },
+        "https://www.ixbt.com/news/2026/03/02/amd-ryzen-ai-400-cpu-npu-copilot.html": {
+            "title": "AMD представила процессоры Ryzen AI 400. Это первые на рынке настольные CPU с мощным блоком NPU, которые входят в категорию Copilot+",
+            "description": "Компания AMD представила первую линейку настольных процессоров Ryzen AI. Точнее, формально даже две линейки. Ryzen AI Pro 400 и Ryzen AI 400 включают переведённые в настольный формат мобильные APU Ryzen AI 400, которые, в свою очередь, являются переименованными версиями Ryzen AI 300. К счастью, несмотря на первые утечки, AMD, как видим, выпускает две линейки, так что в рознице Ryzen AI 400 тоже появятся.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/1445776_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/02/amd-ryzen-ai-400-cpu-npu-copilot.html"
         }
     }
 }
