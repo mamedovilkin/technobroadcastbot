@@ -2393,6 +2393,12 @@
             "description": "Компания AMD представила первую линейку настольных процессоров Ryzen AI. Точнее, формально даже две линейки. Ryzen AI Pro 400 и Ryzen AI 400 включают переведённые в настольный формат мобильные APU Ryzen AI 400, которые, в свою очередь, являются переименованными версиями Ryzen AI 300. К счастью, несмотря на первые утечки, AMD, как видим, выпускает две линейки, так что в рознице Ryzen AI 400 тоже появятся.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/1/1445776_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/02/amd-ryzen-ai-400-cpu-npu-copilot.html"
+        },
+        "https://habr.com/ru/companies/vktech/news/1005458/": {
+            "title": "Неудаляемые бэкапы в VK Cloud",
+            "description": "В Cloud Backup от VK Cloud появилась функция неудаляемых резервных копий. Под капотом — S3 Object Lock в модели WORM (Write Once, Read Many) на базе VK Object Storage. По данным центра...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0db/4fd/89f/0db4fd89f69a1209e2d385f42280965c.jpg",
+            "url": "https://habr.com/ru/companies/vktech/news/1005458/"
         }
     }
 }
