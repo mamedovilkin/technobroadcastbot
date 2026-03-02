@@ -2273,6 +2273,12 @@
             "description": "Компания Microsoft официально подтвердила выпуск функции Shader Execution Reordering (SER) для трассировки лучей в DirectX. Нововведение опубликовано в блоге разработчиков DirectX и призвано решить проблему неравномерной нагрузки при трассировке лучей.",
             "image": "https://i.playground.ru/e/_6zR5mzdSmjkMuLz4yp71Q.png",
             "url": "https://www.playground.ru/misc/news/shader_execution_reordering_povyshaet_proizvoditelnost_geforce_rtx_4090_na_40_a_na_videokartah_intel_arc_b_na_90-1827954"
+        },
+        "https://www.ixbt.com/news/2026/03/01/windows-10-windows-windows-11.html": {
+            "title": "Конец эпохи Windows 10: почти три четверти Windows-компьютеров в мире работают на Windows 11 (несмотря на огромное количество багов)",
+            "description": "Операционная система Windows 11 окончательно закрепила за собой статус доминирующей платформы для настольных ПК. Согласно свежим данным аналитического агентства StatCounter, рыночная доля системы достигла 72,78%.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/0/A3bqjPsbEd6W9WtTAebSpJ-1920-80.jpg%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/01/windows-10-windows-windows-11.html"
         }
     }
 }
