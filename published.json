@@ -2327,6 +2327,12 @@
             "description": "Зато можно оценить новый проект Saber Interactive и выживание про пиратов.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1126318/01KJP108C5XRY4YWPYZCZ0NK33.png",
             "url": "https://ixbt.games/news/2026/03/02/glavnyi-xit-festivalia-nedostupen-v-rossii-valve-nazvala-10-samyx-populiarnyx-demoversii-steam-next-fest.html"
+        },
+        "https://habr.com/ru/news/1005130/": {
+            "title": "Первый стабильный релиз легковесного проекта Winslop 26.02.02 для удаления ненужного системного мусора в Windows 11",
+            "description": "В конце февраля 2026 года разработчик по имени Belim (aka Builtbybel) выпустил первый стабильный Winslop 26.02.02 для удаления ненужного системного мусора, уменьшения избыточности и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/908/258/bb5/908258bb5abcc08f48d3bddf0b73f014.jpg",
+            "url": "https://habr.com/ru/news/1005130/"
         }
     }
 }
