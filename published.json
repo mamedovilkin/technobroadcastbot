@@ -2339,6 +2339,12 @@
             "description": "Спутники Starlink Mobile нового поколения обеспечат скорость 5G из космоса с плотностью данных в 100 раз большей, чем у нынешних спутников поколения V1. Спутники Starlink поколения V2 позволят беспрепятственно осуществлять потоковую передачу данных, просмотр веб-страниц, использовать высокоскоростные приложения и совершать голосовые вызовы, как при подключении к наземной сети.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/1/HCXpdsKacAAnHFm_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/02/starlink-mobile-100.html"
+        },
+        "https://www.ixbt.com/news/2026/03/02/starlink-direct-to-cell-starlink-mobile.html": {
+            "title": "\"Самая высокопроизводительная спутниково-мобильная сеть из когда-либо созданных\". Starlink Direct-to-cell превратился в Starlink Mobile",
+            "description": "Сервис спутниковой связи Starlink Direct-to-cell для смартфонов официально переименован в Starlink Mobile. Первые подробности мы уже сообщали, а теперь появились интересные детали.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/starlinkMobile_reliable_d_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/02/starlink-direct-to-cell-starlink-mobile.html"
         }
     }
 }
