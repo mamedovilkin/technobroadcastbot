@@ -2267,6 +2267,12 @@
             "description": "На выставке MWC 2026 компания Honor официально представила свой новый складной флагман Honor Magic V6. Инженерам удалось одновременно уменьшить толщину корпуса до рекордных 8,75 мм (в сложенном виде) и радикально увеличить емкость аккумулятора.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/0/photo_2026-03-01_15-51-12_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/01/7100-8-75-snapdragon-8-elite-gen5-ip69-honor-magic-v6.html"
+        },
+        "https://www.playground.ru/misc/news/shader_execution_reordering_povyshaet_proizvoditelnost_geforce_rtx_4090_na_40_a_na_videokartah_intel_arc_b_na_90-1827954": {
+            "title": "Shader Execution Reordering повышает производительность GeForce RTX 4090 на 40%, а на видеокартах Intel Arc B на 90%",
+            "description": "Компания Microsoft официально подтвердила выпуск функции Shader Execution Reordering (SER) для трассировки лучей в DirectX. Нововведение опубликовано в блоге разработчиков DirectX и призвано решить проблему неравномерной нагрузки при трассировке лучей.",
+            "image": "https://i.playground.ru/e/_6zR5mzdSmjkMuLz4yp71Q.png",
+            "url": "https://www.playground.ru/misc/news/shader_execution_reordering_povyshaet_proizvoditelnost_geforce_rtx_4090_na_40_a_na_videokartah_intel_arc_b_na_90-1827954"
         }
     }
 }
