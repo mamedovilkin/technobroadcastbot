@@ -2351,6 +2351,12 @@
             "description": "Компания Agibot представила на выставке MWC 2026 полный спектр своих человекоподобных роботов, а также интегрированные роботизированные системы, разработанные для розничной торговли, производства, логистики и сферы услуг.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/1/image-15_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/02/900-evro-v-den-agibot-predstavila-linejku-chelovekopodobnyh-robotov-s-vozmozhnostju-arendy.html"
+        },
+        "https://habr.com/ru/news/1005338/": {
+            "title": "MatX обещает ускоритель в 10 раз быстрее Nvidia. Инвесторы уже вложили $500 млн",
+            "description": "Стартап MatX, основанный бывшими инженерами Google TPU,  привлек $500 млн  в раунде Series B. Раунд возглавили торговая фирма Jane Street и фонд Situational Awareness, созданный Леопольдом...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4e8/b98/a90/4e8b98a909eab3fc7e537f8da6ad9525.jpg",
+            "url": "https://habr.com/ru/news/1005338/"
         }
     }
 }
