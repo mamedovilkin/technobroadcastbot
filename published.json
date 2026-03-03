@@ -2489,6 +2489,12 @@
             "description": "Рекорд, который React удерживал годами, пал меньше чем через неделю после того, как OpenClaw прошел отметку в 224K и обогнал Linux. Путь от нуля до первого места занял четыре месяца — быстрее, чем...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/696/8dc/00d/6968dc00da448b2b2610b60b07c72d80.jpg",
             "url": "https://habr.com/ru/news/1005698/"
+        },
+        "https://3dnews.ru/1137670/steam-opublikovala-otchyot-ob-ispolzuemom-geymerami-oborudovanii-v-kotoriy-nikto-ne-poveril": {
+            "title": "Steam опубликовала отчёт об используемом геймерами оборудовании, в который никто не поверил",
+            "description": "Анализ последнего выпуска статистических данных об оборудовании игровых ПК Steam Survey, который Valve ежемесячно проводит для понимания тенденций рынка и определения потребностей геймеров, заставил усомниться в достоверности представленных результатов из-за множества казусов..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/02/1137670/steam_02.jpg",
+            "url": "https://3dnews.ru/1137670/steam-opublikovala-otchyot-ob-ispolzuemom-geymerami-oborudovanii-v-kotoriy-nikto-ne-poveril"
         }
     }
 }
