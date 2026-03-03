@@ -2543,6 +2543,12 @@
             "description": "На фото ниже - Tungsten T5, пожалуй самый мощный КПК от Palm на ARM-процессоре. Будучи построенным на чипсете Intel PXA270 и с невероятными для PalmOS 64МБ SDRAM ОЗУ, девайс стал одним из последних...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/25e/664/f87/25e664f8788555179cb4a63855c29e8e.jpg",
             "url": "https://habr.com/ru/articles/1005798/"
+        },
+        "https://www.ixbt.com/news/2026/03/03/v-avtoru-zapustili-iipomoshnika-dlja-vybora-avtomobilja.html": {
+            "title": "В \"Авто.ру\" запустили ИИ-помощника для выбора автомобиля",
+            "description": "Команда «Авто.ру» объявила о запуске новой функции сервиса по продаже авто — бета-версию ИИ-помощника «Авто.ру AI», который упрощает выбор автомобиля.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/111_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/03/v-avtoru-zapustili-iipomoshnika-dlja-vybora-avtomobilja.html"
         }
     }
 }
