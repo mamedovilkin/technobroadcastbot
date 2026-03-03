@@ -2603,6 +2603,12 @@
             "description": "Редактор Android Authority Адамия Шарма (Adamya Sharma) протестировала складной смартфон следующего поколения Oppo Find N6, который показали на выставке MWC 2026.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/2/OPPO-Find-N6-1-1536w-864h.jpg_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/03/oppo-find-n6.html"
+        },
+        "https://habr.com/ru/news/1005930/": {
+            "title": "Пользователь заявил об автоматической загрузке и установке Windows 11 на его компьютер",
+            "description": "Пользователь Reddit пожаловался , что Microsoft якобы автоматически установила Windows 11 на его ПК, пока он отсутствовал за компьютером полчаса, принимая душ. Он утверждает, что неоднократно...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/362/884/bbe/362884bbe10f89ccb18652a90310d730.JPG",
+            "url": "https://habr.com/ru/news/1005930/"
         }
     }
 }
