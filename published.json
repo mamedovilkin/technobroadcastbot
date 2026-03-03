@@ -2483,6 +2483,12 @@
             "description": "Когда лидеры индустрий обретают слишком много власти, происходит нечто странное. Они начинают чувствовать себя настолько комфортно, что порой забывают поддерживать свой публичный образ, позволяя нам...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/388/ff8/9b0/388ff89b0e5bbe22029dfad55c33f425.jpg",
             "url": "https://habr.com/ru/companies/bothub/articles/1005412/"
+        },
+        "https://habr.com/ru/news/1005698/": {
+            "title": "OpenClaw обогнал React и стал самым популярным программным проектом на GitHub - 250K звезд за четыре месяца",
+            "description": "Рекорд, который React удерживал годами, пал меньше чем через неделю после того, как OpenClaw прошел отметку в 224K и обогнал Linux. Путь от нуля до первого места занял четыре месяца — быстрее, чем...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/696/8dc/00d/6968dc00da448b2b2610b60b07c72d80.jpg",
+            "url": "https://habr.com/ru/news/1005698/"
         }
     }
 }
