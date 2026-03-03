@@ -2525,6 +2525,12 @@
             "description": "Бенчмарк AnTuTu опубликовал февральский рейтинг производительности Android- субфлагманов за февраль 2026 года. Первое место в списке занял Honor Power2, набравший в среднем 2 201 537 баллов.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/2/gsmarena_000_large_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/03/honor-power2-10-080-antutu.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1005722/": {
+            "title": "Пользователи всё чаще переходят с ChatGPT на Claude",
+            "description": "Журналисты TechCrunch обратили внимание на новую тенденцию: часть пользователей начинает менять основной ИИ-ассистент и переходит с ChatGPT на Claude. Речь не о массовом отказе от одного сервиса, а...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d36/c93/20a/d36c9320ab4e6bc0492e7eee2a9d3a5b.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1005722/"
         }
     }
 }
