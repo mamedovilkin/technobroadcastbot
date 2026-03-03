@@ -2531,6 +2531,12 @@
             "description": "Журналисты TechCrunch обратили внимание на новую тенденцию: часть пользователей начинает менять основной ИИ-ассистент и переходит с ChatGPT на Claude. Речь не о массовом отказе от одного сервиса, а...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d36/c93/20a/d36c9320ab4e6bc0492e7eee2a9d3a5b.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1005722/"
+        },
+        "https://www.gismeteo.ru/news/health/somnolog-obyasnil-pochemu-nelzya-brat-v-ruki-smartfon-srazu-posle-probuzhdeniya/": {
+            "title": "Сомнолог объяснил, почему нельзя брать в руки смартфон сразу после пробуждения",
+            "description": "Начинать утро с просмотра уведомлений — привычка, которая может негативно сказаться на работе мозга.",
+            "image": "https://news-img.gismeteo.st/ru/2026/03/shutterstock_2145920455.jpg",
+            "url": "https://www.gismeteo.ru/news/health/somnolog-obyasnil-pochemu-nelzya-brat-v-ruki-smartfon-srazu-posle-probuzhdeniya/"
         }
     }
 }
