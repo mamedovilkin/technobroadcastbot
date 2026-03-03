@@ -2453,6 +2453,12 @@
             "description": "Человекоподобный робот Xiaomi в полностью автономном режиме успешно отработал в течение 3 часов подряд на станции сборки самонарезающих гаек на заводе по производству электромобилей компании. Согласно результатам испытаний, робот совершил 90,2 % успешных операций, уложившись в самые жёсткие требования цикла производственной линии..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/02/1137661/robot-xiaomi.jpg",
             "url": "https://3dnews.ru/1137661/gumanoidniy-robot-xiaomi-porabotal-na-sborke-avtomobiley-kak-nado-zakrucheno-9-gaek-iz-10"
+        },
+        "https://habr.com/ru/news/1005692/": {
+            "title": "AI-отторжение: Почему генеративный контент снижает конверсию",
+            "description": "Пока отделы маркетинга внедряют GenAI для оптимизации пайплайнов, академическая среда накопила достаточно данных о «побочных эффектах». Исследования, опубликованные в Journal of Hospitality Marketing...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/336/656/797/336656797f83f4f518f022c31a88738d.jpg",
+            "url": "https://habr.com/ru/news/1005692/"
         }
     }
 }
