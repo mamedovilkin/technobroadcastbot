@@ -2537,6 +2537,12 @@
             "description": "Начинать утро с просмотра уведомлений — привычка, которая может негативно сказаться на работе мозга.",
             "image": "https://news-img.gismeteo.st/ru/2026/03/shutterstock_2145920455.jpg",
             "url": "https://www.gismeteo.ru/news/health/somnolog-obyasnil-pochemu-nelzya-brat-v-ruki-smartfon-srazu-posle-probuzhdeniya/"
+        },
+        "https://habr.com/ru/articles/1005798/": {
+            "title": "Легендарный КПК, который возможно никогда больше не увидит свет…",
+            "description": "На фото ниже - Tungsten T5, пожалуй самый мощный КПК от Palm на ARM-процессоре. Будучи построенным на чипсете Intel PXA270 и с невероятными для PalmOS 64МБ SDRAM ОЗУ, девайс стал одним из последних...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/25e/664/f87/25e664f8788555179cb4a63855c29e8e.jpg",
+            "url": "https://habr.com/ru/articles/1005798/"
         }
     }
 }
