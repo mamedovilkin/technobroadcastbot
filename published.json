@@ -2435,6 +2435,12 @@
             "description": "Команда Qwen (Alibaba Cloud) опубликовала пять компактных моделей серии Qwen3.5: на 9B, 4B, 2B и 0.8B параметров — все в dense-формате и с открытыми весами под Apache 2.0. Это финальная часть линейки,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6e9/039/e07/6e9039e07cbc0382424e0f80bb58cce3.jpg",
             "url": "https://habr.com/ru/news/1005612/"
+        },
+        "https://www.ixbt.com/news/2026/03/02/iphone-17e-a19-6-1-48-600.html": {
+            "title": "Представлен \"народный\" iPhone 17e: топовая платформа A19, спутниковая связь, магнитная зарядка, экран 6,1 дюйма, улучшенная камера 48 Мп - всего 600 долларов",
+            "description": "Apple официально представила iPhone 17e — новую базовую модель. Смартфон получил ряд технологий, ранее доступных только в Pro-сериях. Версий у новинки две: 256 ГБ — 600 долларов, 512 ГБ — 800 долларов.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/1/highlights_design_endframe__crx8inqsi8k2_large_2x_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/02/iphone-17e-a19-6-1-48-600.html"
         }
     }
 }
