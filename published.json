@@ -2429,6 +2429,12 @@
             "description": "Российский рынок мобильной электроники переживает бум в сегменте восстановленных устройств. Как сообщает «Коммерсантъ» со ссылкой на данные сети «М.Видео», за последний год спрос на такие гаджеты вырос в три раза.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/1/Apple_iPhone-11-Pro_Matte-Glass-Back_091019_big.jpg.large_2x_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/02/iphone-iphone-11-galaxy-a12.html"
+        },
+        "https://habr.com/ru/news/1005612/": {
+            "title": "Вышли младшие модели Qwen-3.5 - и 9B-версия обходит ИИ в 13 раз крупнее",
+            "description": "Команда Qwen (Alibaba Cloud) опубликовала пять компактных моделей серии Qwen3.5: на 9B, 4B, 2B и 0.8B параметров — все в dense-формате и с открытыми весами под Apache 2.0. Это финальная часть линейки,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6e9/039/e07/6e9039e07cbc0382424e0f80bb58cce3.jpg",
+            "url": "https://habr.com/ru/news/1005612/"
         }
     }
 }
