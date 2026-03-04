@@ -2795,6 +2795,12 @@
             "description": "Хакеры в последнее время очень сильно радовали любителей «бесплатных ознакомительных копий».",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1126872/01KJW7TC7152CA4HY2T6QF83CR.png",
             "url": "https://ixbt.games/news/2026/03/04/vzlom-denuvo-v-den-reliza-resident-evil-requiem-stal-poslednei-kaplei-krupneisie-piratskie-saity-prekratili-publikovat-vzlomy-s-gipervizorom.html"
+        },
+        "https://habr.com/ru/news/1006370/": {
+            "title": "СМИ: OpenAI работает над альтернативой GitHub",
+            "description": "OpenAI приступила к созданию собственной альтернативы популярной платформе для размещения кода GitHub. По данным The Information, проект призван снизить зависимость компании от Microsoft. Подробностей...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/abc/6e1/bf1/abc6e1bf11714f56feef577684addb6c.png",
+            "url": "https://habr.com/ru/news/1006370/"
         }
     }
 }
