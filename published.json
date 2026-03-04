@@ -2717,6 +2717,12 @@
             "description": "Представлен проект легковесного инструмента MaxBlocker на основе ADB. Это решение для отключения, удаления или повторного включения мессенджера Max на устройствах Android,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0c1/ba5/3f5/0c1ba53f5c46b7527c8a5450275e9ce5.png",
             "url": "https://habr.com/ru/news/1006236/"
+        },
+        "https://www.ixbt.com/news/2026/03/04/39-spacex-starlink.html": {
+            "title": "Интернет от $39 в месяц и без платы за оборудование. SpaceX снова опустила цены на Starlink в США",
+            "description": "Компания SpaceX запустила акцию для новых абонентов сервиса Starlink Residential в США. В течение первых шести месяцев пользователи смогут подключиться по сниженным тарифам — от $39 в месяц, без первоначального взноса за оборудование и без ежемесячной платы за комплект.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/3/residential_b_videocalls_d_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/04/39-spacex-starlink.html"
         }
     }
 }
