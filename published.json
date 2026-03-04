@@ -2783,6 +2783,12 @@
             "description": "Иранские власти через связанные с ними компании еще несколько лет назад купили программное обеспечение для распознавания лиц FindFace, разработанное российской компанией NtechLab. Об этом говорится в совместном расследовании Forbidden Stories и Le Monde при участии еще нескольких СМИ, в распоряжении которых оказались соответствующие документы.",
             "image": "https://meduza.io/imgly/share/1772616011/feature/2026/03/04/iran-kupil-u-rossii-sistemu-raspoznavaniya-lits-s-pomoschyu-kotoroy-sledyat-za-oppozitsionerami",
             "url": "https://meduza.io/feature/2026/03/04/iran-kupil-u-rossii-sistemu-raspoznavaniya-lits-s-pomoschyu-kotoroy-sledyat-za-oppozitsionerami"
+        },
+        "https://habr.com/ru/companies/amvera/news/1006402/": {
+            "title": "Запущен аналог Cursor из России",
+            "description": "Cursor является самой популярной независимой ИИ-IDE в мире. Но у пользователей из России возникают сложности при работе с этим инструментом. 4 марта Amvera Cloud выпустила собственную онлайн ИИ-IDE -...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/69d/5cd/58a/69d5cd58a66e6b58778dff0458b494c9.png",
+            "url": "https://habr.com/ru/companies/amvera/news/1006402/"
         }
     }
 }
