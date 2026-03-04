@@ -2675,6 +2675,12 @@
             "description": "Мировой дефицит оперативной памяти стандарта DDR5, вызванный взрывным спросом со стороны индустрии искусственного интеллекта, породил новую проблему — массовое нашествие ботов-перекупщиков.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/2/image_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/03/vosstanie-mashin-nachalos-nejroseti-pomogajut-skupajut-pamjat-ddr5-kotoraja-potom-idet-na-rasshirenie-obuchenija.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1005840/": {
+            "title": "Уволить 40% штата из-за ИИ: как плохой менеджмент прячут за красивыми технологиями",
+            "description": "Искусственный интеллект обладает настолько колоссальным влиянием, что меняет мир не столько благодаря своим реальным возможностям, сколько благодаря возможностям, которые ему приписывают. Он словно...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e6a/2d9/d02/e6a2d9d0232234c3bf6abd8b82d6f278.jpg",
+            "url": "https://habr.com/ru/companies/bothub/articles/1005840/"
         }
     }
 }
