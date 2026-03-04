@@ -2735,6 +2735,12 @@
             "description": "Новый день — новая угроза. Эксперты предупреждают: появился очередной вирус, который ворует ваши персональные данные - Город - 4 марта 2026 | НГС.ру",
             "image": "https://ngs.ru/html-to-img/og/9RpVkYzr2LAsKRZ50aNihQ/article-id6873008-16x9.jpg?1772550249",
             "url": "https://ngs.ru/text/gorod/2026/03/04/76293029/"
+        },
+        "https://habr.com/ru/news/1006264/": {
+            "title": "Seagate выпустила жёсткий диск объёмом 44 ТБ",
+            "description": "Seagate объявила о начале поставок жёстких дисков ёмкостью 44 ТБ двум своим поставщикам облачных услуг. Новые HDD основаны на платформе Mozaic 4+, использующей технологию термомагнитной записи (HAMR)...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/579/10c/212/57910c212116f7d62aae94911f2f3c4d.jpg",
+            "url": "https://habr.com/ru/news/1006264/"
         }
     }
 }
