@@ -2711,6 +2711,12 @@
             "description": "Журналисты шведских изданий Svenska Dagbladet и Göteborgs-Posten провели расследование и выяснили, что Meta* использует записи с умных очков Ray-Ban для обучения нейросетей. Кроме того, у подрядчиков...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/674/d7a/0eb/674d7a0ebbde6bcd7b504da52407cb2d.jpg",
             "url": "https://habr.com/ru/news/1006228/"
+        },
+        "https://habr.com/ru/news/1006236/": {
+            "title": "Вышел легковесный инструмент MaxBlocker для отключения, удаления или повторного включения мессенджера Max на Android",
+            "description": "Представлен проект легковесного инструмента MaxBlocker на основе ADB. Это решение для отключения, удаления или повторного включения мессенджера Max на устройствах Android,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0c1/ba5/3f5/0c1ba53f5c46b7527c8a5450275e9ce5.png",
+            "url": "https://habr.com/ru/news/1006236/"
         }
     }
 }
