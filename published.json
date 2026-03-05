@@ -2849,6 +2849,12 @@
             "description": "В смартфонах Xiaomi нашли новую функцию, которая замедляет скорость работы и способствует быстрой разрядке батареи. На это обратило внимание профильное издание XiaomiTime",
             "image": "https://icdn.lenta.ru/images/2026/03/04/12/20260304120302503/share_4fc055e424ed2e97870ccd298e6fff5a.jpg",
             "url": "https://tve24.ru/news/2026/03/05/xiaomi-slow/"
+        },
+        "https://www.playground.ru/misc/news/nvidia_vypustila_hotfiks_geforce_595_76_ustranyayuschij_ogranichenie_napryazheniya_i_sboi_v_igrah-1828790": {
+            "title": "NVIDIA выпустила хотфикс GeForce 595.76, устраняющий ограничение напряжения и сбои в играх",
+            "description": "NVIDIA выпустила драйвер GeForce Hotfix версии 595.76, основанный на недавно выпущенном драйвере 595.71 WHQL Game Ready. Обновление специально направлено на устранение проблемы с ограничением напряжения графического процессора, затрагивающей разогнанные видеокарты, которая не позволяла им достигать...",
+            "image": "https://i.playground.ru/e/-MMa0jb1r7f36EH2y8KUbg.png",
+            "url": "https://www.playground.ru/misc/news/nvidia_vypustila_hotfiks_geforce_595_76_ustranyayuschij_ogranichenie_napryazheniya_i_sboi_v_igrah-1828790"
         }
     }
 }
