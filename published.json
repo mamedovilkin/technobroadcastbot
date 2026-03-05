@@ -2897,6 +2897,12 @@
             "description": "Портал YTechB поделился рендерами, которые дают полное представление о дизайне и расцветках моделей Samsung Galaxy A57 и Galaxy A37. Судя по утечке, Samsung делает ставку на разнообразные цвета корпуса.",
             "image": "https://www.ixbt.com/img/n1/news/2026/2/4/Samsung-Galaxy-A57-Render-04-Navy.jpg",
             "url": "https://www.ixbt.com/news/2026/03/05/samsung-galaxy-a57-galaxy-a37.html"
+        },
+        "https://habr.com/ru/news/1006748/": {
+            "title": "Испания, MIR 2026: дисквалификация за использование связки смарт-очков и умных часов",
+            "description": "На государственном экзамене MIR (Medico Interno Residente — ключевой отбор для испанских врачей, определяющий их будущую специализацию) зафиксирован случай высокотехнологичного читерства. В...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0b7/530/8e0/0b75308e09a2ea9a07d06147cf2c26fe.jpeg",
+            "url": "https://habr.com/ru/news/1006748/"
         }
     }
 }
