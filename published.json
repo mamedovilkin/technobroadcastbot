@@ -2855,6 +2855,12 @@
             "description": "NVIDIA выпустила драйвер GeForce Hotfix версии 595.76, основанный на недавно выпущенном драйвере 595.71 WHQL Game Ready. Обновление специально направлено на устранение проблемы с ограничением напряжения графического процессора, затрагивающей разогнанные видеокарты, которая не позволяла им достигать...",
             "image": "https://i.playground.ru/e/-MMa0jb1r7f36EH2y8KUbg.png",
             "url": "https://www.playground.ru/misc/news/nvidia_vypustila_hotfiks_geforce_595_76_ustranyayuschij_ogranichenie_napryazheniya_i_sboi_v_igrah-1828790"
+        },
+        "https://habr.com/ru/articles/1006686/": {
+            "title": "История из студенчества",
+            "description": "Я был ещё студентом. Учился на третьем курсе информационных технологий. И вот пришла наша группа - 13ИВ1б, значит, на практические занятия. По физике, если мне память не изменяет. Все занятия были...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/107/056/493/107056493907078d017c9a3c2548cad8.JPG",
+            "url": "https://habr.com/ru/articles/1006686/"
         }
     }
 }
