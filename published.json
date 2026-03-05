@@ -2867,6 +2867,12 @@
             "description": "Ещё недавно считалось, что Nvidia вложит в капитал OpenAI обещанные $100 млрд, но позже условия сделки были пересмотрены в пользу единовременной инвестиции на сумму $30 млрд. На этой неделе основатель первой из компаний Дженсен Хуанг (Jensen Huang) вообще заявил, что данная инвестиция в капитал OpenAI, возможно, была последней, да и конкурирующей Anthropic нет смысла рассчитывать на дополнительные вложения..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/05/1137808/nvidia_01.jpg",
             "url": "https://3dnews.ru/1137808/glava-nvidia-dal-ponyat-chto-kompaniya-bolshe-ne-sobiraetsya-vkladivatsya-v-kapital-openai-i-anthropic"
+        },
+        "https://habr.com/ru/news/1006706/": {
+            "title": "Gemini 3 Flash поставили управлять кафе. Она прокричала \"погнали!\" 574 раза и обанкротилась",
+            "description": "Авторы  FoodTruck Bench  — агентного бенчмарка, в котором ИИ-модели 30 дней управляют фудтраком в Остине, —  обнаружили , что Gemini 3 Flash Preview не способна пройти симуляцию. В 5 из...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/59a/7fe/cd1/59a7fecd16cd427e29f7471a19b31384.jpg",
+            "url": "https://habr.com/ru/news/1006706/"
         }
     }
 }
