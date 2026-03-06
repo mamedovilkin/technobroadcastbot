@@ -2969,6 +2969,12 @@
             "description": "OpenAI  выпустила  GPT-5.4 — новую флагманскую модель, которая заменяет сразу две предшественницы: GPT-5.2 (универсальную) и GPT-5.3-Codex (кодерскую). Контекстное окно выросло до 1,05 млн...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/24e/36b/b79/24e36bb7987d15b87960e474dcfe5a7f.png",
             "url": "https://habr.com/ru/news/1007096/"
+        },
+        "https://habr.com/ru/articles/1007060/": {
+            "title": "Как я искал замену MinIO S3 и написал свой S4 на Rust",
+            "description": "Спойлер для тех кто не в курсе: В начале 2025 года компания MinIO в лице сооснователя Harshavardhana начала поэтапно сворачивать свою версию Community Edition. В феврале из open-source версии был...",
+            "image": "https://habr.com/share/publication/1007060/b7d59e6452977c29e5892d10deb6c989/",
+            "url": "https://habr.com/ru/articles/1007060/"
         }
     }
 }
