@@ -3083,6 +3083,12 @@
             "description": "Ведомство предупредило о возможной ответственности за интеграции на площадках",
             "image": "https://assets3.klops.ru/media/W1siZiIsIjIwMjYvMDMvMDYvZWQ3ZDU0NzMtY2U1YS00ZDk1LTk2NjItOTUwZTRkM2M3OGY2X2ZpbGUuanBlZyJdLFsicCIsInRodW1iIiwiMTIwMHg2MzArMCs4NSJdLFsicCIsInRodW1iIiwiMTIwMHg2MzAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0/file.jpg?sha=e4569270fa534d6a",
             "url": "https://klops.ru/other/2026-03-06/379122-fas-uvidela-priznaki-narusheniy-pri-razmeschenii-reklamy-v-instagram-facebook-youtube-telegrame-i-whatsapp"
+        },
+        "https://habr.com/ru/news/1007302/": {
+            "title": "Все продам ради OpenAI: SoftBank занимает $40 млрд, чтобы профинансировать компанию Альтмана",
+            "description": "SoftBank ведет переговоры с банками о кредите на сумму до $40 млрд сроком на 12 месяцев - крупнейшем долларовом займе в истории компании. Основная часть средств пойдет на финансирование доли в OpenAI,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/89c/68f/fb2/89c68ffb20e7adc5a247961e7e3614df.jpg",
+            "url": "https://habr.com/ru/news/1007302/"
         }
     }
 }
