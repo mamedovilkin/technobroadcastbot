@@ -2927,6 +2927,12 @@
             "description": "Американец Джоэл Гавалас подал в суд на Google, утверждая, что чат-бот на базе искусственного интеллекта Gemini виновен в причинении смерти по неосторожности его 36-летнего сына. Истец указал, что...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/880/b84/013/880b84013c0511665765b3be70083663.jpg",
             "url": "https://habr.com/ru/news/1006808/"
+        },
+        "https://www.ixbt.com/news/2026/03/05/megafon-obnaruzhen-vstroennyj-trojan-v-knopochnyh-telefonah-nokia-na-urovne-proshivki.html": {
+            "title": "\"МегаФон\": обнаружен встроенный троян в кнопочных телефонах Nokia на уровне прошивки",
+            "description": "«МегаФон» обнаружил вредоносное ПО на отдельных кнопочных телефонах Nokia 105 и Nokia 106 (Dual). Специалисты оператора зарегистрировали около 280 устройств с аномалиями сетевого трафика, что может свидетельствовать о поддельных экземплярах.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/4/90166_original_front.png",
+            "url": "https://www.ixbt.com/news/2026/03/05/megafon-obnaruzhen-vstroennyj-trojan-v-knopochnyh-telefonah-nokia-na-urovne-proshivki.html"
         }
     }
 }
