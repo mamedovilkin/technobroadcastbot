@@ -3173,6 +3173,12 @@
             "description": "Anthropic и Стэнфорд доказали, что ИИ пожирает рабочие места молодых. Медиа опять ликуют, все заголовки кричат, LinkedIn (и внезапно threads) рыдает, нууууу, надеюсь, чашка чая наготове - потому что...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ef5/3e1/312/ef53e13122944c882e0161586a14b4fa.png",
             "url": "https://habr.com/ru/articles/1007510/"
+        },
+        "https://www.ixbt.com/news/2026/03/06/oled-monitors-unboxed-msi-mpg-321urx.html": {
+            "title": "Насколько сильно выгорает OLED-монитор за два года при тяжёлых условиях. Автор Monitors Unboxed показал прогресс на примере своего MSI MPG 321URX",
+            "description": "В основном на мониторе он работает",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/maxresdefault_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/06/oled-monitors-unboxed-msi-mpg-321urx.html"
         }
     }
 }
