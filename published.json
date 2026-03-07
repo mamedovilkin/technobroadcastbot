@@ -3167,6 +3167,12 @@
             "description": "Москвичи столкнулись со сбоем мобильного интернета 6 марта. Зафиксированы перебои в работе основных операторов связи. - Общество - 6 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/FHGRZu5NdE8Hd9yzPWIUig/article-id6882326-16x9.jpg?1772820564",
             "url": "https://www.fontanka.ru/2026/03/06/76300643/"
+        },
+        "https://habr.com/ru/articles/1007510/": {
+            "title": "Открываю ленту, а там очередной апокалипсис - Anthropic говорит, что ИИ убивает джуниоров :-)",
+            "description": "Anthropic и Стэнфорд доказали, что ИИ пожирает рабочие места молодых. Медиа опять ликуют, все заголовки кричат, LinkedIn (и внезапно threads) рыдает, нууууу, надеюсь, чашка чая наготове - потому что...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ef5/3e1/312/ef53e13122944c882e0161586a14b4fa.png",
+            "url": "https://habr.com/ru/articles/1007510/"
         }
     }
 }
