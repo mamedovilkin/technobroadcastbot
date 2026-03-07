@@ -3287,6 +3287,12 @@
             "description": "GPT-5.4 занял первое место на Vibe Code Bench v1.1 с результатом 67,42% — на 5,7 п.п. выше предыдущего лидера GPT-5.3 Codex (61,77%). Третье место — у Claude Opus 4.6 без режима рассуждений с 57,57%....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/9ba/efd/db2/9baefddb28847f19498acf2c1e985856.jpg",
             "url": "https://habr.com/ru/news/1007620/"
+        },
+        "https://www.securitylab.ru/news/570096.php": {
+            "title": "Живые нейроны играют в \"Doom\": как ученые заставили кусок плоти из пробирки расстреливать кибердемонов",
+            "description": "Забудьте про ИИ. Крошечный сгусток мозга освоил трехмерный шутер быстрее любого алгоритма.",
+            "image": "https://www.securitylab.ru/upload/iblock/cec/pihhpzblswy9dch00t0rjkvk3n8c7zz2.jpg",
+            "url": "https://www.securitylab.ru/news/570096.php"
         }
     }
 }
