@@ -3125,6 +3125,12 @@
             "description": "Расследование шведских СМИ утверждает, что сотрудники подрядчика Meta разбирали видео, аудио и расшифровки с бытовыми и интимными моментами.",
             "image": "https://www.securitylab.ru/upload/iblock/67d/qu6zm666988ti64zrwjrofwnsa3e19xa.jpg",
             "url": "https://www.securitylab.ru/news/570074.php"
+        },
+        "https://www.ixbt.com/news/2026/03/06/kopeechnyj-iiserial-sozdannyj-komandoj-iz-3-chelovek-sobral-bolee-500-mln-prosmotrov.html": {
+            "title": "Копеечный ИИ-сериал, созданный командой из 3 человек, собрал более 500 млн просмотров",
+            "description": "Сериал Huo Qiubing, созданный при помощи искусственного интеллекта, стал хитом в Китае. Режисссером выступил Ян Ханьхань. При бюджете в 430 долларов и команде из 3 человек, снявших 80 серий за 5 дней, сериал уже набрал более 500 миллионов просмотров.",
+            "image": "https://www.ixbt.com/img/n1/news/2026/2/5/Снимок%20экрана%202026-03-06%20113633_large.png",
+            "url": "https://www.ixbt.com/news/2026/03/06/kopeechnyj-iiserial-sozdannyj-komandoj-iz-3-chelovek-sobral-bolee-500-mln-prosmotrov.html"
         }
     }
 }
