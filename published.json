@@ -3185,6 +3185,12 @@
             "description": "OpenAI запустила Codex Security — ИИ-агента для поиска уязвимостей в коде. За время закрытой беты, которая шла с прошлого года под кодовым названием Aardvark, агент просканировал более 1,2 млн...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b43/34e/b2c/b4334eb2cdb012c04c5c95ba8d4a98d2.jpg",
             "url": "https://habr.com/ru/news/1007524/"
+        },
+        "https://www.cnews.ru/news/top/2026-03-06_nejroset_ot_sberbanka_ne": {
+            "title": "Власти не признали нейросеть Сбербанка российским ПО",
+            "description": "Минцифры отказало Сбербанку во включении его нейросети Kandinsky в реестр российского ПО. Эксперты считают, что поводом мог стать описанный в руководстве пользователя единственный вход в нейросеть...",
+            "image": "https://static.cnews.ru/img/news/2024/11/11/sb6_700.jpg",
+            "url": "https://www.cnews.ru/news/top/2026-03-06_nejroset_ot_sberbanka_ne"
         }
     }
 }
