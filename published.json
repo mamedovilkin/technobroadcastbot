@@ -3251,6 +3251,12 @@
             "description": "Вблизи Белополья в Сумской области ВС РФ ликвидировали колонну военной техники ВСУ вместе с находившимся в ней личным составом. Об этом сообщили в российских силовых структурах.",
             "image": "https://cdn-img.ura.news/737/617/3e7a4de9-7572-4951-9497-8b2b067970eb/58i90q/L-1200.1.9.jpg",
             "url": "https://ura.news/news/1053075261"
+        },
+        "https://habr.com/ru/news/1007578/": {
+            "title": "Проект Winslop для удаления ненужного системного мусора в Windows 10/11 переведён с WinForms на WinUI 3 (.NET 10)",
+            "description": "В начале марта 2026 года разработчик по имени Belim (aka Builtbybel) выпустил первый стабильный Winslop 26.03.41 для удаления ненужного системного мусора, уменьшения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/bd2/e04/190/bd2e04190025dcb688eca852d3d749f8.png",
+            "url": "https://habr.com/ru/news/1007578/"
         }
     }
 }
