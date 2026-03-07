@@ -3281,6 +3281,12 @@
             "description": "Особенно долго ломали голову над №2.",
             "image": "https://static.kinoafisha.info/upload/articles/747188299754.jpg",
             "url": "https://www.kinoafisha.info/articles/samyy-grustnyy-pes-i-ochen-strannyy-vokzal-ii-narisoval-postery-klassiki-sssr-po-nazvaniyu--my-ne-otgadali-i-25-a-vy-test_id116897_a15787711/"
+        },
+        "https://habr.com/ru/news/1007620/": {
+            "title": "GPT-5.4 стал лучшим ИИ для вайб-кодинга",
+            "description": "GPT-5.4 занял первое место на Vibe Code Bench v1.1 с результатом 67,42% — на 5,7 п.п. выше предыдущего лидера GPT-5.3 Codex (61,77%). Третье место — у Claude Opus 4.6 без режима рассуждений с 57,57%....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9ba/efd/db2/9baefddb28847f19498acf2c1e985856.jpg",
+            "url": "https://habr.com/ru/news/1007620/"
         }
     }
 }
