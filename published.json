@@ -3293,6 +3293,12 @@
             "description": "Забудьте про ИИ. Крошечный сгусток мозга освоил трехмерный шутер быстрее любого алгоритма.",
             "image": "https://www.securitylab.ru/upload/iblock/cec/pihhpzblswy9dch00t0rjkvk3n8c7zz2.jpg",
             "url": "https://www.securitylab.ru/news/570096.php"
+        },
+        "https://habr.com/ru/news/1007492/": {
+            "title": "Вышел почтовый сервер Postfix 3.11.0",
+            "description": "5 марта 2026 года состоялся релиз новой стабильной ветки почтового сервера Postfix 3.11.0. Также разработчики объявили о прекращении поддержки ветки Postfix 3.7 от 2021 года. Исходный код проекта...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4d1/1ee/37f/4d11ee37f496924092ba74e7d05b0e85.png",
+            "url": "https://habr.com/ru/news/1007492/"
         }
     }
 }
