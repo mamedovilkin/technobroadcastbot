@@ -3179,6 +3179,12 @@
             "description": "В основном на мониторе он работает",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/maxresdefault_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/06/oled-monitors-unboxed-msi-mpg-321urx.html"
+        },
+        "https://habr.com/ru/news/1007524/": {
+            "title": "OpenAI выпустила ИИ-агента для поиска уязвимостей - он уже нашел баги в OpenSSH, GnuTLS и Chromium",
+            "description": "OpenAI запустила Codex Security — ИИ-агента для поиска уязвимостей в коде. За время закрытой беты, которая шла с прошлого года под кодовым названием Aardvark, агент просканировал более 1,2 млн...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b43/34e/b2c/b4334eb2cdb012c04c5c95ba8d4a98d2.jpg",
+            "url": "https://habr.com/ru/news/1007524/"
         }
     }
 }
