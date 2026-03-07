@@ -3107,6 +3107,12 @@
             "description": "Автор Business Insider Аманда Хувер опубликовала колонку, посвящённую последним трендам найма. Она отмечает, что резюме отходят на второй план, а рекрутеры всё больше внимания уделяют мотивации и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/81b/e94/160/81be941606ba658fa2e7f6cbee876b2e.JPG",
             "url": "https://habr.com/ru/news/1007376/"
+        },
+        "https://www.ixbt.com/news/2026/03/06/samsung-galaxy-s26-ultra-10-ufs-4-1.html": {
+            "title": "Samsung Galaxy S26 Ultra не получил ни 10-битный экран, ни память UFS 4.1",
+            "description": "Все модели линейки оснащаются памятью UFS 4.0",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/S26-series-hands-on-6-1200x674_0_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/06/samsung-galaxy-s26-ultra-10-ufs-4-1.html"
         }
     }
 }
