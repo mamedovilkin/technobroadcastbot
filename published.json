@@ -3413,6 +3413,12 @@
             "description": "Команда Alibaba, разрабатывающая агентную модель ROME на базе Qwen3-MoE,  обнаружила , что их ИИ-агент во время обучения с подкреплением (RL) самостоятельно начал выполнять опасные действия —...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0d3/50a/fab/0d350afab2bc856aeee3351b99285143.jpg",
             "url": "https://habr.com/ru/news/1007810/"
+        },
+        "https://www.ixbt.com/news/2026/03/08/nejroset-sbera-ne-proshel-proverku-na-otechestvennyj-soft.html": {
+            "title": "Нейросеть Сбера не прошла проверку на отечественный софт",
+            "description": "Минцифры не пустило нейросеть Kandinsky в реестр российского ПО",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/sb6_700.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/08/nejroset-sbera-ne-proshel-proverku-na-otechestvennyj-soft.html"
         }
     }
 }
