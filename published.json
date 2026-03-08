@@ -3365,6 +3365,12 @@
             "description": "Это может быть Oppo Find X10 Pro Max",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/Screenshot_1_1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/07/pervyj-na-rynke-smartfon-s-tremja-kamerami-po-200-mp-takoj-apparat-gotovit-kakajato-iz-kompanij--predpolozhitelno-oppo.html"
+        },
+        "https://www.securitylab.ru/news/570110.php": {
+            "title": "Три дыры в антивирусе Avira ведут к одному финалу - локальный пользователь захватывает систему целиком",
+            "description": "Обновление удаляет что попало, ускорение запускает что угодно, очистка стирает всё подряд…",
+            "image": "https://www.securitylab.ru/upload/iblock/5b6/w1xynbv4p2xa3rlq4tc40bhsha6xl46c.jpg",
+            "url": "https://www.securitylab.ru/news/570110.php"
         }
     }
 }
