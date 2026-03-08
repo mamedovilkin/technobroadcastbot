@@ -3485,6 +3485,12 @@
             "description": "На рынке такие быстрые чипы памяти появятся лишь примерно через год",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/NVIDIA-GeForce-RTX-50-Memory-OC-Bypass-5070-Ti-36-Gbps_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/08/nvidia-geforce-rtx-5070-ti-36.html"
+        },
+        "https://habr.com/ru/news/1007856/": {
+            "title": "Нейросеть Alibaba тайно от своих создателей начала майнить криптовалюту на собственных GPU",
+            "description": "Основатель Pluralis.ai, исследователь в области машинного обучения Александр Лонг поделился техническим отчётом Alibaba, в котором говорится, что нейросеть компании тайно от создателей занялась...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2c2/b9c/a67/2c2b9ca67b9d1517475dcba07fdb80a1.jpeg",
+            "url": "https://habr.com/ru/news/1007856/"
         }
     }
 }
