@@ -3443,6 +3443,12 @@
             "description": "По информации ресурса Nikkei Asian Review, из-за нехватки памяти и её подорожания китайский рынок смартфонов переживает максимальный и широчайший по охвату рост цен за всю свою историю. Почти все марки и ценовые категории оказались затронуты кризисом, и его последствия могут носить разрушительный характер для некоторых участников рынка..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/08/1137961/xiaomi_01.jpg",
             "url": "https://3dnews.ru/1137961/defitsit-pamyati-vizval-rezkiy-rost-tsen-na-smartfoni-kitayskih-marok"
+        },
+        "https://habr.com/ru/articles/1007830/": {
+            "title": "Почему российские космические стартапы не выживают?",
+            "description": "В США NASA выделяет десятки миллионов долларов даже двухлетним стартапам. В России старт космического стартапа почти всегда заканчивается банкротством: SR Space, Dauria Aerospace, КосмоКурс, Lin...",
+            "image": "https://habr.com/share/publication/1007830/74e7f816945b85a6563f6a192da15b41/",
+            "url": "https://habr.com/ru/articles/1007830/"
         }
     }
 }
