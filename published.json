@@ -3323,6 +3323,12 @@
             "description": "Это будет нескладной аппарат",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/unnamed_0_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/07/galaxy-s26-ultra-lenovo-7-5.html"
+        },
+        "https://www.ixbt.com/news/2026/03/07/19-core-utra-300-fevm.html": {
+            "title": "Ультракомпактный мини-ПК толщиной всего 19 мм с множеством портов и новейшими Core Utra 300. FEVM готовит очередной нетипичный продукт",
+            "description": "Внутри есть место для трёх SSD",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/FEVM-MINI-PC-CORE-ULTRA-300-1-1200x624_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/07/19-core-utra-300-fevm.html"
         }
     }
 }
