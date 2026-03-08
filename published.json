@@ -3431,6 +3431,12 @@
             "description": "Апдейт вышел для глобальной версии Xiaomi 15",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/xia_large.JPG",
             "url": "https://www.ixbt.com/news/2026/03/08/xiaomi-15-bolshe-ne-budet-perezagruzhatsja-sam-po-sebe-vyshlo-kriticheskoe-obnovlenie.html"
+        },
+        "https://vgtimes.ru/gaming-news/149953-steam.html": {
+            "title": "В Steam можно бесплатно забрать в свою библиотеку 7 игр. Есть шутер на выживание",
+            "description": "В начале марта в Steam появилась новая порция бесплатных игр. В свежей подборке мы собрали семь проектов, включая два шутера, два платформера и симулятор водителя грузовика.",
+            "image": "https://files.vgtimes.ru/si/post_149953_ru.jpg",
+            "url": "https://vgtimes.ru/gaming-news/149953-steam.html"
         }
     }
 }
