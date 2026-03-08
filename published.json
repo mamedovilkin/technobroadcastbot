@@ -3419,6 +3419,12 @@
             "description": "Минцифры не пустило нейросеть Kandinsky в реестр российского ПО",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/sb6_700.jpg",
             "url": "https://www.ixbt.com/news/2026/03/08/nejroset-sbera-ne-proshel-proverku-na-otechestvennyj-soft.html"
+        },
+        "https://ixbt.games/news/2026/03/08/v-steam-razdaiut-igru-pro-iskatelia-prikliucenii-i-piratov.html": {
+            "title": "В Steam раздают игру про искателя приключений и пиратов",
+            "description": "У игроков появилась возможность заполучить в коллекцию Crowalt: Traces of the Lost Colony.",
+            "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1127622/steamart56.png",
+            "url": "https://ixbt.games/news/2026/03/08/v-steam-razdaiut-igru-pro-iskatelia-prikliucenii-i-piratov.html"
         }
     }
 }
