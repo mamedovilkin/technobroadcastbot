@@ -3353,6 +3353,12 @@
             "description": "OpenAI и выступающая её партнёром по вычислительным ресурсам Oracle отказались от запланированного ранее расширения флагманского центра обработки данных проекта Stargate в техасском Абилине. Переговоры двух компаний зашли в тупик из-за проблем с финансированием и, предположительно, опасений главы OpenAI Сэма Альтмана (Sam Altman) относительно взятия на себя обязательств, передаёт Bloomberg со ссылкой на информированные источники..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/07/1137948/openai.jpg",
             "url": "https://3dnews.ru/1137948/u-openai-i-oracle-zakonchilis-dengi-na-rasshireniegigantskogo-iidatatsentra-v-tehase"
+        },
+        "https://www.ixbt.com/news/2026/03/07/ymtc-ssd-pcie-5-0.html": {
+            "title": "Китайская YMTC представила SSD с интерфейсом PCIe 5.0, основанные на памяти собственного производства",
+            "description": "Они не самые быстрые на фоне конкурентов",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/YMTC-PCIE-GEN5-SSD-1200x624_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/07/ymtc-ssd-pcie-5-0.html"
         }
     }
 }
