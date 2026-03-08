@@ -3479,6 +3479,12 @@
             "description": "Apple разгромно побеждает Huawei и Xiaomi на их домашнем рынке",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/17pro_large.JPG",
             "url": "https://www.ixbt.com/news/2026/03/08/apple-24-iphone-17-iphone-17-pro-max-android.html"
+        },
+        "https://www.ixbt.com/news/2026/03/08/nvidia-geforce-rtx-5070-ti-36.html": {
+            "title": "Энтузиасты взломали защиту Nvidia и разогнали память GeForce RTX 5070 Ti до рекордных 36 Гбит/с",
+            "description": "На рынке такие быстрые чипы памяти появятся лишь примерно через год",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/NVIDIA-GeForce-RTX-50-Memory-OC-Bypass-5070-Ti-36-Gbps_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/08/nvidia-geforce-rtx-5070-ti-36.html"
         }
     }
 }
