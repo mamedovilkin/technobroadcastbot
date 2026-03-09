@@ -3695,6 +3695,12 @@
             "description": "Мираж бесконечного масштабирования. Разбираемся, где заканчивается маркетинг и начинается физика трафика. Про облака написано столько, что легко запутаться. Маркетологи обещают рай, одни эксперты...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/786/97f/7d7/78697f7d71a1913a8e7533ab60fbd8fd.png",
             "url": "https://habr.com/ru/articles/1007814/"
+        },
+        "https://habr.com/ru/companies/selectel/articles/1006712/": {
+            "title": "27 лет AMD K6-III: процессор, который спас Socket 7 и бросил вызов Pentium II",
+            "description": "Источник . Процессор AMD K6-III под кодовым именем Sharptooth вышел в феврале 1999 года в версиях на 400 и 450 МГц и стал очередным шагом в развитии линейки K6. Он появился в то время, когда Intel уже...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/107/df4/2d2/107df42d2d408ba81c4aa726ad7e97ba.png",
+            "url": "https://habr.com/ru/companies/selectel/articles/1006712/"
         }
     }
 }
