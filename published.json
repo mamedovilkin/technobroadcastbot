@@ -3521,6 +3521,12 @@
             "description": "Subaru запатентовала турбину для электромобиля с увеличенным запасом хода",
             "image": "https://www.32cars.ru/uploads/materials/17404/inner/6Yu3EjJWC7iO6zxuO48K.jpg",
             "url": "https://www.32cars.ru/posts/id-17404-japontsy-pridumali-reaktivnyj-elektromobil-subaru-gotovit-novuju-tehnologiju"
+        },
+        "https://habr.com/ru/articles/1007842/": {
+            "title": "Я навайбкодил расширение для VS Code, чтобы не вайбкодить с Claude Code (и пример, как вообще нужно разрабатывать с AI)",
+            "description": "Последние полтора года я использую Cursor IDE в качестве основной среды разработки. Сначала использовал её как среду с просто удобным автодополнением строк (относительно GitHub Copilot). Потом AI стал...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2ea/1dd/5fc/2ea1dd5fcf8210b1282efd46bececa10.png",
+            "url": "https://habr.com/ru/articles/1007842/"
         }
     }
 }
