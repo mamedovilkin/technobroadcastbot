@@ -3593,6 +3593,12 @@
             "description": "Samsung Electronics сохранила за собой звание технологического лидера мирового рынка телевизоров благодаря развитию премиального сегмента. По данным исследовательского агентства Omdia, опубликованным на сайте Samsung, доля выручки производителя в глобальном масштабе составила 29,1 % по итогам 2025 года..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/08/1137980/samsung.jpg",
             "url": "https://3dnews.ru/1137980/samsung-snova-stala-liderom-na-mirovom-rinke-televizorov-dvadtsatiy-god-podryad"
+        },
+        "https://habr.com/ru/companies/bothub/news/1007980/": {
+            "title": "Uni-1 от Luma AI превосходит Nano Banana 2 и GPT Image 1.5 в логических бенчмарках",
+            "description": "Luma AI представила Uni-1 – свою первую модель, в которой понимание изображений и их генерация объединены в единой архитектуре. Подобно Nano Banana Pro от Google и GPT Image 1.5, модель Uni-1...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e63/51f/2ac/e6351f2ac0ae9750b2849870d91a760f.jpg",
+            "url": "https://habr.com/ru/companies/bothub/news/1007980/"
         }
     }
 }
