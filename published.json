@@ -3731,6 +3731,12 @@
             "description": "На прошлой неделе Samsung одержала первую значимую победу в судебном разбирательстве с конкурентами, такими как TCL, которую она обвиняет в неправильной маркировке своих телевизоров и преувеличении их возможностей..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/09/1138004/tcl-55-65-75-c74-keyv-front.jpg",
             "url": "https://3dnews.ru/1138004/samsung-dokazala-v-sude-chto-reklamiruemie-kak-qledtelevizori-tcl-vovse-ne-yavlyayutsya-qled"
+        },
+        "https://habr.com/ru/news/1008114/": {
+            "title": "DRAM подорожает на 100%, а дефицит затянется до 2028 года",
+            "description": "Samsung Electronics  поднял контрактные цены  на DRAM более чем на 100% по итогам первого квартала 2026 года. Конкуренты SK hynix и Micron закрепили сопоставимые расценки. А глава...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/8e8/1d3/1a2/8e81d31a2d0e1e4f51b182a91144ae86.jpg",
+            "url": "https://habr.com/ru/news/1008114/"
         }
     }
 }
