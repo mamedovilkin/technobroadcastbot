@@ -3527,6 +3527,12 @@
             "description": "Последние полтора года я использую Cursor IDE в качестве основной среды разработки. Сначала использовал её как среду с просто удобным автодополнением строк (относительно GitHub Copilot). Потом AI стал...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2ea/1dd/5fc/2ea1dd5fcf8210b1282efd46bececa10.png",
             "url": "https://habr.com/ru/articles/1007842/"
+        },
+        "https://habr.com/ru/news/1007888/": {
+            "title": "$100 млн на одиночестве: корейский ИИ-стартап Wrtn заменяет людям книги и Netflix",
+            "description": "Корейский стартап Wrtn рассчитывает превысить $100 млн годовой выручки благодаря платформе интерактивных ИИ-историй, где каждый пользователь — главный герой персонального романа. Сервис, известный под...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/52c/79f/77e/52c79f77eafbdc02ffc5be88a8c95653.jpg",
+            "url": "https://habr.com/ru/news/1007888/"
         }
     }
 }
