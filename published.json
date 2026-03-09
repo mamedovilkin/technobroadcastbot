@@ -3707,6 +3707,12 @@
             "description": "Шанхайская компания AheadForm представила обновлённую версию своего гуманоидного робота F1, и видео с демонстрацией мимики моментально привлекло внимание. Робот моргает, двигает глазами, слегка наклоняет голову и шевелит губами настолько правдоподобно,...",
             "image": "https://cdn.shazoo.ru/855940_tGnunuX_wdfk9cp86m.jpg",
             "url": "https://shazoo.ru/2026/03/09/180694/kitaiskii-robot-aheadform-stal-eshhe-realisticnee-i-uze-vyzyvaet-sutki-pro-siuzet-ex-machina"
+        },
+        "https://habr.com/ru/articles/1008060/": {
+            "title": "Цифровая муха сделала первый шаг: как Eon Systems загрузил биологический мозг в симуляцию и почему на очереди - человек",
+            "description": "Сегодня технологический мир обсуждает не очередную большую языковую модель, а микроскопическое насекомое в виртуальной среде. 6 марта 2026 года стартап из Сан-Франциско Eon Systems объявил о создании...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/fae/dbf/483/faedbf48390fb53f6e7974e5a6cd0745.jpeg",
+            "url": "https://habr.com/ru/articles/1008060/"
         }
     }
 }
