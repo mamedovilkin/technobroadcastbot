@@ -3599,6 +3599,12 @@
             "description": "Luma AI представила Uni-1 – свою первую модель, в которой понимание изображений и их генерация объединены в единой архитектуре. Подобно Nano Banana Pro от Google и GPT Image 1.5, модель Uni-1...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/e63/51f/2ac/e6351f2ac0ae9750b2849870d91a760f.jpg",
             "url": "https://habr.com/ru/companies/bothub/news/1007980/"
+        },
+        "https://habr.com/ru/companies/tehrevizor/news/1007970/": {
+            "title": "Бум AI-дата-центров приводит к появлению временных рабочих лагерей в США",
+            "description": "Бум строительства инфраструктуры для искусственного интеллекта приводит к появлению новой практики размещения работников. Для размещения сотен или даже тысяч строителей, необходимых для возведения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/bae/e2e/1b7/baee2e1b75e976b3d9012cf52accc88d.png",
+            "url": "https://habr.com/ru/companies/tehrevizor/news/1007970/"
         }
     }
 }
