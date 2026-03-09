@@ -3533,6 +3533,12 @@
             "description": "Корейский стартап Wrtn рассчитывает превысить $100 млн годовой выручки благодаря платформе интерактивных ИИ-историй, где каждый пользователь — главный герой персонального романа. Сервис, известный под...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/52c/79f/77e/52c79f77eafbdc02ffc5be88a8c95653.jpg",
             "url": "https://habr.com/ru/news/1007888/"
+        },
+        "https://www.ixbt.com/news/2026/03/08/intel-core-ultra-300.html": {
+            "title": "Так новейший процессор Intel Core Ultra 300 выглядит под микроскопом",
+            "description": "Можно рассмотреть все основные блоки",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/1_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/08/intel-core-ultra-300.html"
         }
     }
 }
