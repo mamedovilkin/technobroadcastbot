@@ -3815,6 +3815,12 @@
             "description": "Новое поколение смартфонов Samsung Galaxy S26 столкнулось с критикой из-за обилия предустановленных программ. Больше всего вопросов у пользователей вызвала премиальная модель Galaxy S26 Ultra стоимостью от $1300, в которой обнаружено множество приложений от партнёров компании..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/09/1138013/samsung.jpg",
             "url": "https://3dnews.ru/1138013/galaxy-s26-ultra-okazalsya-navodnyon-partnyorskimi-prilogeniyami-kak-kakoyto-byudgetnik"
+        },
+        "https://habr.com/ru/news/1008194/": {
+            "title": "GSMA запустила инициативу по созданию ультрабюджетного 4G-смартфона стоимостью $40",
+            "description": "Ассоциация GSM запустила инициативу по созданию ультрабюджетного 4G-смартфона стоимостью $40 — этот ценовой уровень должен обеспечить подключение к интернету десятков миллионов человек. Однако...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/57e/cd0/d6f/57ecd0d6f1a77dff07aad75275d8967e.jpg",
+            "url": "https://habr.com/ru/news/1008194/"
         }
     }
 }
