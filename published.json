@@ -3839,6 +3839,12 @@
             "description": "По информации профильных ресурсов, разработчик из РФ в поисках вакансии получил доступ к общению с ИИ-эйчаром. Оказалось, что у ИИ не было ограничений по получению указаний от пользователя. В этом...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/08f/0fd/31d/08f0fd31dff2366df1bf0083191951f5.jpg",
             "url": "https://habr.com/ru/news/1008226/"
+        },
+        "https://www.ixbt.com/news/2026/03/09/windows-12-microsoft.html": {
+            "title": "Вокруг Windows 12 разгорелась дискуссия: Microsoft обвиняют в навязывании ИИ и усложнении ОС",
+            "description": "Пользователи и эксперты критикуют планы Microsoft по глубокой интеграции ИИ, отмечая проблемы с безопасностью, производительностью и востребованностью новых функций",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/converted%20-%202026-03-09T220030.108_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/09/windows-12-microsoft.html"
         }
     }
 }
