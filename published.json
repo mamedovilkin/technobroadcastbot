@@ -3929,6 +3929,12 @@
             "description": "Район Лунган в Шэньчжэне  запустил  проект \"Десяти мер для лобстера\" — пакет субсидий для бизнеса и разработчиков, строящих приложения на базе open-source ИИ-агента OpenClaw. Компании могут...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d2e/dc5/37e/d2edc537ecf47a651a730c56da0a93eb.jpg",
             "url": "https://habr.com/ru/news/1008466/"
+        },
+        "https://habr.com/ru/news/1008462/": {
+            "title": "В Китае люди стоят в очереди у штаб-квартиры Tencent для установки OpenClaw на свои ПК",
+            "description": "Около 1 тыс. человек выстроились в очередь у штаб-квартиры Tencent в городе Шэньчжэнь, чтобы установить на свои ПК агент на искусственном интеллекте OpenClaw (Clawdbot/Moltbot), пишет South Morning...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c5c/e5f/ff7/c5ce5fff7f4429a0b02f980d270bf1c8.jpg",
+            "url": "https://habr.com/ru/news/1008462/"
         }
     }
 }
