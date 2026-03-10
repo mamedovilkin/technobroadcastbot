@@ -3953,6 +3953,12 @@
             "description": "Автономные роботы Locus Robotics работают на десятках складов по всему миру и позволяют увеличивать производительность логистики до 180%",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/converted%20-%202026-03-10T131400.778.jpg",
             "url": "https://www.ixbt.com/news/2026/03/10/roboty-na-skladah-dhl-vypolnili-milliard-operacij-po-podboru-tovarov.html"
+        },
+        "https://habr.com/ru/companies/studyai/articles/1008536/": {
+            "title": "Gemini 3.1 Pro: Что нового? Как использовать нейросеть в России без VPN",
+            "description": "Подробный разбор возможностей нейросети Gemini 3.1 Pro: видео, текст, генерация изображений и музыки. Узнайте, как использовать Gemini в России без VPN, купить подписку и писать промпты. Gemini 3.1...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/344/770/ce6/344770ce63054407a0352a47ea74fadc.png",
+            "url": "https://habr.com/ru/companies/studyai/articles/1008536/"
         }
     }
 }
