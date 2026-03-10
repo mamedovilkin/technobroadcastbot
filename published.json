@@ -3941,6 +3941,12 @@
             "description": "Привет, Хабр! Прошло 1,5 года с нашего первого разбора рынка оборудования для ЦОД ов. Тогда задачей было просто понять, куда уходить с «циски», и дать заказчикам шорт-лист доступных производителей с...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/f64/753/91b/f6475391b8ab4a715f63b66b73630acc.jpg",
             "url": "https://habr.com/ru/companies/k2tech/articles/1006894/"
+        },
+        "https://habr.com/ru/news/1008492/": {
+            "title": "Разработчик стартапа остался без продакшн-инфраструктуры из-за Claude Code",
+            "description": "Разработчик стартапа AI Shipping Labs Алексей Григорьев рассказал , как лишился всей продакшн-инфраструктуры после того, как доверил управление ИИ-агенту Claude Code с административными правами....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/38c/40f/0f4/38c40f0f40417dc73640d0fb954267a7.JPG",
+            "url": "https://habr.com/ru/news/1008492/"
         }
     }
 }
