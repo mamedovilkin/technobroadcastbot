@@ -3923,6 +3923,12 @@
             "description": "Завтра, 11 марта, выходят в продажу новые Apple MacBook Pro с процессорами M5 Pro и M5 Max. Уже вышли первые обзоры, и авторы материалов хвалят эти компьютеры: прирост скорости показали не только новые чипы, но и SSD..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/10/1138040/macbook.jpg",
             "url": "https://3dnews.ru/1138040/pervie-obzori-nahvalivayut-macbook-pro-na-chipah-m5-pro-i-m5-max-i-delo-ne-tolko-v-protsessorah"
+        },
+        "https://habr.com/ru/news/1008466/": {
+            "title": "Китай подсаживает население на OpenClaw: субсидии, бесплатное проживание и очереди по 1000 человек",
+            "description": "Район Лунган в Шэньчжэне  запустил  проект \"Десяти мер для лобстера\" — пакет субсидий для бизнеса и разработчиков, строящих приложения на базе open-source ИИ-агента OpenClaw. Компании могут...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d2e/dc5/37e/d2edc537ecf47a651a730c56da0a93eb.jpg",
+            "url": "https://habr.com/ru/news/1008466/"
         }
     }
 }
