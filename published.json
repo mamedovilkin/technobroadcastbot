@@ -3797,6 +3797,12 @@
             "description": "Теперь мы имеем CPU с частотой 5-6 ГГц",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/3769-front_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/09/26-amd-1-athlon-1000-1300.html"
+        },
+        "https://www.ixbt.com/news/2026/03/09/intel-cpu-core-series-2-bartlett-lake-s.html": {
+            "title": "Intel вернулась к старой архитектуре и старому техпроцессу. Представлены CPU Core Series 2 (Bartlett Lake-S) только с большими ядрами",
+            "description": "Но не для обычных пользователей",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/march-9-core-2-launch-16x9-resized-1200x675_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/09/intel-cpu-core-series-2-bartlett-lake-s.html"
         }
     }
 }
