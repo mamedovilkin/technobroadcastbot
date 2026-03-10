@@ -3959,6 +3959,12 @@
             "description": "Подробный разбор возможностей нейросети Gemini 3.1 Pro: видео, текст, генерация изображений и музыки. Узнайте, как использовать Gemini в России без VPN, купить подписку и писать промпты. Gemini 3.1...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/344/770/ce6/344770ce63054407a0352a47ea74fadc.png",
             "url": "https://habr.com/ru/companies/studyai/articles/1008536/"
+        },
+        "https://habr.com/ru/news/1008568/": {
+            "title": "\"Крестный отец ИИ\" привлек $1 млрд: ЛеКун строит альтернативу языковым моделям",
+            "description": "Ян ЛеКун, лауреат Тьюринговской премии и один из трех \"крестных отцов глубокого обучения\",  привлек $1,03 млрд  для своего стартапа AMI Labs при оценке в $3,5 млрд. Это крупнейший сид-раунд...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/708/aad/832/708aad832e75498db5ba606f0e0e8098.jpg",
+            "url": "https://habr.com/ru/news/1008568/"
         }
     }
 }
