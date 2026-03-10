@@ -3803,6 +3803,12 @@
             "description": "Но не для обычных пользователей",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/march-9-core-2-launch-16x9-resized-1200x675_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/09/intel-cpu-core-series-2-bartlett-lake-s.html"
+        },
+        "https://habr.com/ru/companies/paybeam/articles/1008104/": {
+            "title": "Лучшие виртуальные карты для оплаты зарубежных сервисов и расчётов за границей",
+            "description": "Международные виртуальные карты Visa и MasterCard, которые можно оформить через интернет Чтобы почувствовать себя полноправным гражданином мира и платить за иностранные сервисы, такие как OpenAI,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/695/098/183/695098183b924162d3dd0c3cca16069c.webp",
+            "url": "https://habr.com/ru/companies/paybeam/articles/1008104/"
         }
     }
 }
