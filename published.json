@@ -3947,6 +3947,12 @@
             "description": "Разработчик стартапа AI Shipping Labs Алексей Григорьев рассказал , как лишился всей продакшн-инфраструктуры после того, как доверил управление ИИ-агенту Claude Code с административными правами....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/38c/40f/0f4/38c40f0f40417dc73640d0fb954267a7.JPG",
             "url": "https://habr.com/ru/news/1008492/"
+        },
+        "https://www.ixbt.com/news/2026/03/10/roboty-na-skladah-dhl-vypolnili-milliard-operacij-po-podboru-tovarov.html": {
+            "title": "Роботы на складах DHL выполнили миллиард операций по подбору товаров",
+            "description": "Автономные роботы Locus Robotics работают на десятках складов по всему миру и позволяют увеличивать производительность логистики до 180%",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/converted%20-%202026-03-10T131400.778.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/10/roboty-na-skladah-dhl-vypolnili-milliard-operacij-po-podboru-tovarov.html"
         }
     }
 }
