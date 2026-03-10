@@ -3869,6 +3869,12 @@
             "description": "В прошлом году компания работала над батареей емкостью 20 000 мАч, но проект был свернут",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/a0a03dbd-8d55-4685-926c-86e3613daebc_large.png",
             "url": "https://www.ixbt.com/news/2026/03/10/samsung-12-000-18-000.html"
+        },
+        "https://habr.com/ru/news/1008296/": {
+            "title": "ИИ пишет код, но не может его поддерживать: представлен первый CI-бенчмарк для ИИ-агентов",
+            "description": "Исследователи из Alibaba Group и Университета Сунь Ятсена  представили  SWE-CI — первый бенчмарк, оценивающий способность ИИ-агентов не просто писать код, а поддерживать его в долгосрочной...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/13c/cc5/35d/13ccc535dc568944dfc5033563c0349a.jpg",
+            "url": "https://habr.com/ru/news/1008296/"
         }
     }
 }
