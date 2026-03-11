@@ -4091,6 +4091,12 @@
             "description": "Вчера взломщик voices38 обратился к сообществу: он сообщил о том, что для тестирования будущих взломов Denuvo ему понадобятся тестировщики.",
             "image": "https://i.playground.ru/e/n30X7deIeoCNQXmseNlf5w.png",
             "url": "https://www.playground.ru/misc/news/nas_zhdut_bolee_bystrye_i_kachestvennye_vzlomy_voices38_nabral_komandu_testirovschikov_dlya_buduschih_vzlomov_denuvo-1830156"
+        },
+        "https://habr.com/ru/news/1008836/": {
+            "title": "Представлен открытый проект MiroFish - социологическая ИИ-система, которая имитирует цифровое поведение населения стран",
+            "description": "Разработчик из Китая под ником BaiFu представил открытый проект MiroFish . Это социологическая ИИ-система, которая имитирует цифровое поведение населения целых стран. Это буквально целое общество в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/001/e62/c15/001e62c1596226b26bcf2267836f5ff5.jpg",
+            "url": "https://habr.com/ru/news/1008836/"
         }
     }
 }
