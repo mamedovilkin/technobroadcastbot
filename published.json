@@ -4049,6 +4049,12 @@
             "description": "Человеческий интеллект не связан с отдельной областью мозга — он возникает благодаря взаимодействию всей нейронной системы.",
             "image": "https://news-img.gismeteo.st/ru/2026/03/shutterstock_2039541074.jpg",
             "url": "https://www.gismeteo.ru/news/health/uchjonye-vyyasnili-gde-na-samom-dele-zhivjot-chelovecheskij-intellekt/"
+        },
+        "https://www.ixbt.com/news/2026/03/10/nvidia-openclaw-nemoclaw.html": {
+            "title": "Nvidia готовит собственный ответ OpenClaw - платформу NemoClaw для агентных ИИ",
+            "description": "Проект будет представлен на конференции GTC",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/converted%20-%202026-03-10T224420.097_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/10/nvidia-openclaw-nemoclaw.html"
         }
     }
 }
