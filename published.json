@@ -4151,6 +4151,12 @@
             "description": "Сервис стартует в апреле",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/image%20-%202026-03-11T083426.171_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/11/ilon-mask-anonsiroval-zapusk-x-money.html"
+        },
+        "https://habr.com/ru/news/1008860/": {
+            "title": "Amazon ввела обязательный ревью ИИ-кода после сбоя на 6 часов",
+            "description": "Amazon собрала большую группу инженеров на экстренное совещание после четырех инцидентов высшей серьезности (Sev1) за одну неделю — как минимум один из них компания связала с использованием...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/553/c18/d90/553c18d9053f0d0e16e60e90f8df62e7.jpg",
+            "url": "https://habr.com/ru/news/1008860/"
         }
     }
 }
