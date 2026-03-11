@@ -4139,6 +4139,12 @@
             "description": "Директор по инжинирингу DNS в организации ISC Ондржей Cури (создатель проекта CZ.NIC Labs , развивающий DNS‑сервер Knot), подвёл итоги экспериментов по использованию больших языковых...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7a7/c3a/f6f/7a7c3af6f8613b108a4fe6d575e1d543.png",
             "url": "https://habr.com/ru/news/1008406/"
+        },
+        "https://habr.com/ru/news/1008918/": {
+            "title": "Новая техника Zombie ZIP позволяет вредоносному ПО обходить средства защиты",
+            "description": "Новая технология, получившая название «Зомби-ZIP», помогает скрывать вредоносные программы в сжатых файлах. Они создаются специально для того, чтобы избежать обнаружения системами безопасности, такими...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b20/edf/dd4/b20edfdd45975facc01c8a836f313dac.JPG",
+            "url": "https://habr.com/ru/news/1008918/"
         }
     }
 }
