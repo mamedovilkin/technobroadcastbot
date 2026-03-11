@@ -4145,6 +4145,12 @@
             "description": "Новая технология, получившая название «Зомби-ZIP», помогает скрывать вредоносные программы в сжатых файлах. Они создаются специально для того, чтобы избежать обнаружения системами безопасности, такими...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b20/edf/dd4/b20edfdd45975facc01c8a836f313dac.JPG",
             "url": "https://habr.com/ru/news/1008918/"
+        },
+        "https://www.ixbt.com/news/2026/03/11/ilon-mask-anonsiroval-zapusk-x-money.html": {
+            "title": "Илон Маск анонсировал запуск X Money",
+            "description": "Сервис стартует в апреле",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/image%20-%202026-03-11T083426.171_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/11/ilon-mask-anonsiroval-zapusk-x-money.html"
         }
     }
 }
