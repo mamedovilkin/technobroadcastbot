@@ -4121,6 +4121,12 @@
             "description": "Вводные слова Я поставил себе OpenClaw — технология, которая взорвала интернет. Куча роликов, ии-экспертов и блоггеров начали показывать как они настроили себе личного помощника. Я две недели активно...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0cc/f1f/ced/0ccf1fcedbc74f6ecfeffbeb020fd325.jpg",
             "url": "https://habr.com/ru/articles/1008782/"
+        },
+        "https://habr.com/ru/news/1008868/": {
+            "title": "Хакеры продают в даркнете эксплойт нулевого дня для Windows Remote Desktop Services",
+            "description": "Хакер с ником Kamirmassabi разместил на форуме в даркнете объявление о продаже эксплойта для Windows за $220 000. Эксплойт нацелен на службы удалённого рабочего стола Windows и предоставляет...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e5e/487/618/e5e4876186ad1613a85d7c15263f4b5c.jfif",
+            "url": "https://habr.com/ru/news/1008868/"
         }
     }
 }
