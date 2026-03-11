@@ -4115,6 +4115,12 @@
             "description": "Microsoft анонсировала Xbox следующего поколения под кодовым названием Project Helix. В данный момент официально его характеристики не называют, но есть информация от надежного инсайдера Moore’s Law is Dead. Его сведения проанализировали специалисты из Digital Foundry, отметив, что следующая консоль Xbox обещает стать «мощным зверем», но сейчас к ней есть вопросы. На основе анализа озвученных инсайдером …",
             "image": "https://newxboxone.ru/wp-content/uploads/2026/03/project-helix.jpg",
             "url": "https://newxboxone.ru/2026/03/digital-foundry-nazyvayut-xbox-project-helix-moschnym-zverem-no-ne-veryat-v-ee-vysokie-prodazhi.html"
+        },
+        "https://habr.com/ru/articles/1008782/": {
+            "title": "Прагматичный OpenClaw: реальная польза без хайпа",
+            "description": "Вводные слова Я поставил себе OpenClaw — технология, которая взорвала интернет. Куча роликов, ии-экспертов и блоггеров начали показывать как они настроили себе личного помощника. Я две недели активно...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0cc/f1f/ced/0ccf1fcedbc74f6ecfeffbeb020fd325.jpg",
+            "url": "https://habr.com/ru/articles/1008782/"
         }
     }
 }
