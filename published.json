@@ -4211,6 +4211,12 @@
             "description": "Компания Intel внезапно анонсировала обновлённые настольные процессоры семейства Arrow Lake Refresh. Новинки выйдут под названием Core Ultra 200S Plus и предложат увеличенное число энергоэффективных ядер, ускоренный контроллер памяти и ряд архитектурных оптимизаций по сравнению с актуальными Arrow Lake. По данным производителя, в играх они обеспечат прирост производительности до 15 %.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/11/1138137/sm.intel_arrow_lake_refresh_01.800.jpg",
             "url": "https://3dnews.ru/1138137/intel-vnezapno-predstavila-desktopnie-protsessori-core-ultra-200s-plus-yader-bolshe-pamyat-bistree-a-tsena-nige"
+        },
+        "https://habr.com/ru/news/1009124/": {
+            "title": "MacBook Neo появился в продаже: техноблогер разобрал ноутбук, пресса восторгается, а Asus видит в нём угрозу",
+            "description": "Бюджетный MacBook Neo поступил в продажу. Ноутбук с процессором от iPhone 16 Pro и с 8 ГБ оперативной памяти можно купить за 600 долларов. Вместе с этим начали появляться первые восторженные обзоры,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2c4/917/68d/2c491768da4f5bfa42255285f078b8aa.jpg",
+            "url": "https://habr.com/ru/news/1009124/"
         }
     }
 }
