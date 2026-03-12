@@ -4241,6 +4241,12 @@
             "description": "В прошлом году Microsoft прекратила официальную поддержку Windows 10, сделав невостребованными множество ПК, несовместимых с Windows 11. Похоже, что Google этот шаг Microsoft сыграл на руку — он позволит не на шутку увеличить пользовательскую базу ChromeOS. Google в партнёрстве с компанией Back Market предложит владельцам старых ПК USB-накопители с готовой к установке ChromeOS Flex.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/11/1138141/chome-os-flex-google-back-market.jpg",
             "url": "https://3dnews.ru/1138141/google-predlogila-za-3-vernut-v-stroy-starie-pk-nesovmestimie-s-windows-11"
+        },
+        "https://habr.com/ru/news/1009178/": {
+            "title": "ИИ ставит под угрозу новые языки программирования - и вот почему это замкнутый круг",
+            "description": "Разработчик  Эдгар Луке  описал проблему, с которой раньше не сталкивались создатели языков программирования: ИИ-ассистенты вроде Copilot и Claude Code стали настолько привычной частью...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9a2/5d4/154/9a25d4154f16a95bf23d4f8a51825ef2.jpg",
+            "url": "https://habr.com/ru/news/1009178/"
         }
     }
 }
