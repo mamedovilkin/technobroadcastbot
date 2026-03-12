@@ -4349,6 +4349,12 @@
             "description": "Дэвид Тремблей, один из самых известных охотников за трофеями, сообщил о пожизненной блокировке своего аккаунта в PSN.",
             "image": "https://i.playground.ru/e/nyNHwmFKHo1CeXu4WBG1ow.png",
             "url": "https://www.playground.ru/misc/news/odin_iz_samyh_izvestnyh_ohotnikov_za_trofeyami_poluchil_pozhiznennyj_ban_v_psn_iz_za_dejstvij_hakera-1830496"
+        },
+        "https://habr.com/ru/news/1009358/": {
+            "title": "Сбой в работе Telegram",
+            "description": "12 марта 2026 года пользователи из РФ сообщили о сбое в работе мессенджера Telegram, согласно данным российского портала Downdetector . Наблюдаются проблемы...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6e9/03b/1b9/6e903b1b9fa234f273fba105f34e0bb1.png",
+            "url": "https://habr.com/ru/news/1009358/"
         }
     }
 }
