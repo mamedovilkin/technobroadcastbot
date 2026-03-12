@@ -4361,6 +4361,12 @@
             "description": "В последние годы популярность YouTube на телевизорах неуклонно росла, и Google не могла не монетизировать это достижение. Со 2 марта в предназначенной для телевизоров версии приложения появилась реклама формата VRC Non-skip, которая не проматывается..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/12/1138191/youtube.jpg",
             "url": "https://3dnews.ru/1138191/youtube-nachal-pokazivat-nepropuskaemie-30sekundnie-reklamnie-roliki"
+        },
+        "https://habr.com/ru/companies/x-com/articles/1009396/": {
+            "title": "Microsoft рассказала, как устанавливать Windows 11, чтобы компьютер не тормозил",
+            "description": "Узнаете себя? Я себя узнаю. В мире компьютеров можно встретить один довольно стандартный сюжет, который, правда, каждый раз связан с проблемой, требующей разных решений. Вот вы купили новый ноутбук...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4d5/ba0/ac9/4d5ba0ac9d19cc3c664101bca376aa65.jpg",
+            "url": "https://habr.com/ru/companies/x-com/articles/1009396/"
         }
     }
 }
