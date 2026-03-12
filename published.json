@@ -4193,6 +4193,12 @@
             "description": "Amazon ввел новое правило для своих команд разработки: все изменения в коде, сгенерированные с помощью ИИ, теперь обязаны проходить обязательное ревью у старших инженеров перед деплоем. Такое решение...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/891/1c3/d19/8911c3d1948257ce173958df55e12854.jpeg",
             "url": "https://habr.com/ru/companies/bothub/news/1008862/"
+        },
+        "https://www.ixbt.com/news/2026/03/11/iphone-18-pro-iphone-17-pro-2-soc-a20-5000.html": {
+            "title": "iPhone 18 Pro сохранит дизайн модели iPhone 17 Pro, но получит 2-нанометровую SoC A20, улучшенную камеру и батарею емкостью более 5000 мАч",
+            "description": "Подэкранного Face ID не будет и Dynamic Island никуда не исчезнет",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/iphone_large.JPG",
+            "url": "https://www.ixbt.com/news/2026/03/11/iphone-18-pro-iphone-17-pro-2-soc-a20-5000.html"
         }
     }
 }
