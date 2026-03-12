@@ -4313,6 +4313,12 @@
             "description": "В иске вина за аварию возлагается на Илона Маска, потому что он как глава компании продвигает небезопасные технологии.",
             "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F03%2Fimg-45ea79a8-95f4-404a-80a1-325f28fb8039-1.jpg",
             "url": "https://www.iphones.ru/iNotes/tesla-cybertruck-s-vklyuchennym-avtopilotom-vrezalsya-v-stolb-vladelica-trebuet-s-kompanii-1-mln-i-vinit-v-avarii-ilona-maska"
+        },
+        "https://habr.com/ru/news/1009260/": {
+            "title": "Создатели Jira сокращают 1600 человек: ИИ меняет \"микс навыков\"",
+            "description": "Atlassian, создатель Jira, Confluence и Trello,  сокращает  около 1600 сотрудников — 10% штата. Сооснователь и CEO компании Майк Кэннон-Брукс объявил о решении во внутренней записке,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/10b/bf6/ea4/10bbf6ea49ddcf391a030624b6172b2c.jpg",
+            "url": "https://habr.com/ru/news/1009260/"
         }
     }
 }
