@@ -4187,6 +4187,12 @@
             "description": "Время разговоров прошло. Искусственный интеллект больше не абстрактная перспектива — он стал повседневной реальностью. На днях в Сан-Франциско прошла закрытая конференция Morgan Stanley — TMT 2026,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/d86/0ad/820/d860ad8208933c1a576f72ebe13fad1a.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1009060/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1008862/": {
+            "title": "Amazon обязал инженеров проверять сгенерированный ИИ-код",
+            "description": "Amazon ввел новое правило для своих команд разработки: все изменения в коде, сгенерированные с помощью ИИ, теперь обязаны проходить обязательное ревью у старших инженеров перед деплоем. Такое решение...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/891/1c3/d19/8911c3d1948257ce173958df55e12854.jpeg",
+            "url": "https://habr.com/ru/companies/bothub/news/1008862/"
         }
     }
 }
