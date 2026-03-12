@@ -4367,6 +4367,12 @@
             "description": "Узнаете себя? Я себя узнаю. В мире компьютеров можно встретить один довольно стандартный сюжет, который, правда, каждый раз связан с проблемой, требующей разных решений. Вот вы купили новый ноутбук...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/4d5/ba0/ac9/4d5ba0ac9d19cc3c664101bca376aa65.jpg",
             "url": "https://habr.com/ru/companies/x-com/articles/1009396/"
+        },
+        "https://www.bfm.ru/news/600520": {
+            "title": "Обратно к истокам: москвичи скупают рации, пейджеры и домашние телефоны",
+            "description": "Похоже, что бизнес и рядовые пользователи запасаются впрок на фоне последних блокировок интернета и мобильной связи, но в столице давно нет пейджинговой инфраструктуры, да и рацией пользоваться сложно",
+            "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/03/12/hand-dialing-number-telephone-marble-surface.jpg",
+            "url": "https://www.bfm.ru/news/600520"
         }
     }
 }
