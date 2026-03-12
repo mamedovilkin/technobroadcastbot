@@ -4259,6 +4259,12 @@
             "description": "Meta добавляет новые инструменты против мошенничества сразу в Facebook, Messenger и WhatsApp (принадлежат корпорации Meta, признанной экстремистской и запрещённой в России). Идея простая: предупредить пользователя ещё до того, как он успеет",
             "image": "https://www.anti-malware.ru/favicons/android-icon-192x192.png",
             "url": "https://www.anti-malware.ru/news/2026-03-11-111332/49317"
+        },
+        "https://3dnews.ru/1138148/google-zavershila-krupneyshee-pogloshchenie-v-svoey-istorii-wiz-voydyot-v-sostav-google-cloud": {
+            "title": "Google завершила крупнейшее поглощение в своей истории: Wiz войдёт в состав Google Cloud",
+            "description": "Спустя год после анонса и проверок регуляторов Google завершила поглощение компании Wiz, специализирующейся на кибербезопасности, за рекордные $32 млрд. Стартап, ранее отказавшийся от продажи за $23 млрд, поможет техногиганту создать единую защиту для облачной среды Google Cloud и бороться с новыми типами уязвимостей, исходящими от вайб-кодинга..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/11/1138148/google.jpg",
+            "url": "https://3dnews.ru/1138148/google-zavershila-krupneyshee-pogloshchenie-v-svoey-istorii-wiz-voydyot-v-sostav-google-cloud"
         }
     }
 }
