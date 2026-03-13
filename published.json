@@ -4565,6 +4565,12 @@
             "description": "Автомобиль оснащен электронными ассистентами второго уровня",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/photo_2026-03-05_09-05-51_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/13/belgee-belgee-x50.html"
+        },
+        "https://www.playground.ru/misc/news/nvidia_zayavila_o_vozmozhnom_millionokratnom_roste_proizvoditelnosti_path_tracing_v_buduschih_videokartah-1830738": {
+            "title": "NVIDIA заявила о возможном миллионократном росте производительности Path Tracing в будущих видеокартах",
+            "description": "На конференции GDC 2026 компания NVIDIA поделилась планами по развитию графических технологий и представила дорожную карту производительности Path Tracing для своих видеокарт. По словам вице-президента по технологиям разработки и производительности Джона Спитцера, будущие GPU смогут...",
+            "image": "https://i.playground.ru/e/_3nRE30z0d9VfE2R2E7b7A.png",
+            "url": "https://www.playground.ru/misc/news/nvidia_zayavila_o_vozmozhnom_millionokratnom_roste_proizvoditelnosti_path_tracing_v_buduschih_videokartah-1830738"
         }
     }
 }
