@@ -4547,6 +4547,12 @@
             "description": "Уязвимость в Android-смартфонах с чипами MediaTek позволяет взломать гаджет за 45 секунд без необходимости его включать, выяснили специалисты в сфере кибербезопасности из команды Donjon производителя...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/98f/258/eb4/98f258eb42c79226f126bd0af96a4861.jpg",
             "url": "https://habr.com/ru/news/1009714/"
+        },
+        "https://www.ixbt.com/news/2026/03/13/google-maps-gemini.html": {
+            "title": "Google Maps получил крупнейшее обновление навигации за десятилетие: Gemini-ассистент и \"Иммерсивная навигация\"",
+            "description": "В США и Индии запущены новые функции на базе Gemini AI — разговорный помощник Ask Maps и 3D-режим для водителей",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/converted%20-%202026-03-13T110237.147.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/13/google-maps-gemini.html"
         }
     }
 }
