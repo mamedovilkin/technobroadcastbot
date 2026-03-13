@@ -4469,6 +4469,12 @@
             "description": "Microsoft выпустила очередное обновление своей технологии DirectStorage версии 1.4, которая позволяет использовать преимущества быстрых NVMe SSD с предельной эффективностью. В этом обновлении компания представила новый метод сжатия и распаковки игровых ресурсов под названием Zstandard (Zstd), который должен ещё сильнее сократить время загрузки игр и обеспечить гораздо более быструю передачу игровых ресурсов.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/12/1138218/directstorage-microsoft.jpg",
             "url": "https://3dnews.ru/1138218/microsoft-vipustila-directstorage-14-zagruzka-igr-stanet-bistree-s-novim-metodom-sgatiya-i-drugimi-tehnologiyami"
+        },
+        "https://www.ixbt.com/news/2026/03/12/motocikl-s-kotorogo-nevozmozhno-upast--uzhe-realnost-omoway-zapustila-v-serijnoe-proizvodstvo-pervyj-v-mire-motocikl-s.html": {
+            "title": "Мотоцикл, с которого невозможно упасть - уже реальность: Omoway запустила в серийное производство первый в мире мотоцикл с функцией самобалансировки",
+            "description": "На основе аэрокосмического гироскопа",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/4/d4afad96-3f9f-4ca2-a926-cf3611fe3885_omoX1%3FENPC",
+            "url": "https://www.ixbt.com/news/2026/03/12/motocikl-s-kotorogo-nevozmozhno-upast--uzhe-realnost-omoway-zapustila-v-serijnoe-proizvodstvo-pervyj-v-mire-motocikl-s.html"
         }
     }
 }
