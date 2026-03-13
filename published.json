@@ -4487,6 +4487,12 @@
             "description": "Когда сервер с конфигом заблокировали — клиент отвалился. Разбираем способ доставки который сломать сложнее чем сам интернет У любого прокси-сервиса есть слабое место которое не связано с протоколом....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/472/097/365/4720973650894f631215d11da6be6ffd.jpeg",
             "url": "https://habr.com/ru/articles/1009628/"
+        },
+        "https://finance.mail.ru/article/ryinok-kiberbezopasnosti-v-rossii-zamedlil-rost-do-3-69201277/": {
+            "title": "Рынок кибербезопасности в России замедлил рост до 3%",
+            "description": "Число ликвидаций ИБ-компаний в стране выросло почти на 16%",
+            "image": "https://resizer.mail.ru/p/be4b79f0-4a1c-5e34-8dc2-24d534495f83/AQAz44yw6vHEigfMHQ1LnYAUAypxLeKcKWQJJUwEWKgsJPD2JZJQ8RrWjfdPPgCYjjcDAqmZ9zsXoxAdGqM3mSYCxbU.jpg",
+            "url": "https://finance.mail.ru/article/ryinok-kiberbezopasnosti-v-rossii-zamedlil-rost-do-3-69201277/"
         }
     }
 }
