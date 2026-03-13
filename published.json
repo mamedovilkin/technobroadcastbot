@@ -4463,6 +4463,12 @@
             "description": "Lucid представила концепт двухместного роботакси без руля и педалей. Компания также запускает подписку на автопилот стоимостью от $69 в месяц и усиливает конкуренцию с Tesla.",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/KrBruHAvDLTAM4AivDrQ.webp",
             "url": "https://tarantas.news/posts/id65474-ilon-mask-budet-ne-pervym-znamenitoe-robotaksi-tesla-uhodit-na-vtoroj-plan"
+        },
+        "https://3dnews.ru/1138218/microsoft-vipustila-directstorage-14-zagruzka-igr-stanet-bistree-s-novim-metodom-sgatiya-i-drugimi-tehnologiyami": {
+            "title": "Microsoft выпустила DirectStorage 1.4 - загрузка игр станет быстрее с новым методом сжатия и другими технологиями",
+            "description": "Microsoft выпустила очередное обновление своей технологии DirectStorage версии 1.4, которая позволяет использовать преимущества быстрых NVMe SSD с предельной эффективностью. В этом обновлении компания представила новый метод сжатия и распаковки игровых ресурсов под названием Zstandard (Zstd), который должен ещё сильнее сократить время загрузки игр и обеспечить гораздо более быструю передачу игровых ресурсов.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/12/1138218/directstorage-microsoft.jpg",
+            "url": "https://3dnews.ru/1138218/microsoft-vipustila-directstorage-14-zagruzka-igr-stanet-bistree-s-novim-metodom-sgatiya-i-drugimi-tehnologiyami"
         }
     }
 }
