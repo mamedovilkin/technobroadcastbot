@@ -4391,6 +4391,12 @@
             "description": "В Госдуме заявили о неэффективности VPN для Telegram. Роскомнадзор блокирует трафик мессенджера. - Общество - 12 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/loCtGIPH6VEtMTE1BOI2eQ/article-id6892079-16x9.jpg?1773319994",
             "url": "https://www.fontanka.ru/2026/03/12/76307926/"
+        },
+        "https://3dnews.ru/1138204/tisyachi-routerov-prevratili-v-botnet-kotoriy-ne-poluchaetsya-udalit-no-sposob-borbi-est": {
+            "title": "Тысячи роутеров превратили в ботнет, который не получается удалить - но способ борьбы есть",
+            "description": "Исследователи из Black Lotus Labs компании Lumen обнаружили устойчивый к удалению ботнет из 14 тыс. маршрутизаторов и других сетевых устройств, в основном производства Asus..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/12/1138204/markus-spiske-iar-afB0QQw-unsplash.jpg",
+            "url": "https://3dnews.ru/1138204/tisyachi-routerov-prevratili-v-botnet-kotoriy-ne-poluchaetsya-udalit-no-sposob-borbi-est"
         }
     }
 }
