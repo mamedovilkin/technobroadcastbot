@@ -4499,6 +4499,12 @@
             "description": "Известный геймдизайнер и создатель серии Kingdom Come: Deliverance Даниэль Вавра вновь вмешался в дискуссию об использовании искусственного интеллекта в разработке игр. Поводом для этого стала демонстрация новой технологии NVIDIA RTX Mega Geometry в The Witcher...",
             "image": "https://i.playground.ru/e/_zDGZRxRaQeNjjTXVqWfNg.jpeg",
             "url": "https://www.playground.ru/witcher_4/news/deniel_vavra_voshitilsya_novym_video_vedmaka_4_i_zayavil_chto_blagodarya_ii_my_budem_poluchat_takie_igry_gorazdo_chasche-1830659"
+        },
+        "https://habr.com/ru/news/1009254/": {
+            "title": "Вышел пиринговый видеохостинг PeerTube 8.1",
+            "description": "11 марта 2026 года состоялся релиз версии пирингового видеохостинга PeerTube 8.1. Выпуск PeerTube 1.0 вышел в октябре 2018 года. Релиз PeerTube 6.0  состоялся в ноябре...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/aeb/857/605/aeb857605a8dbcaafc2feb667f40778e.jpg",
+            "url": "https://habr.com/ru/news/1009254/"
         }
     }
 }
