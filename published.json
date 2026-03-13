@@ -4397,6 +4397,12 @@
             "description": "Исследователи из Black Lotus Labs компании Lumen обнаружили устойчивый к удалению ботнет из 14 тыс. маршрутизаторов и других сетевых устройств, в основном производства Asus..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/12/1138204/markus-spiske-iar-afB0QQw-unsplash.jpg",
             "url": "https://3dnews.ru/1138204/tisyachi-routerov-prevratili-v-botnet-kotoriy-ne-poluchaetsya-udalit-no-sposob-borbi-est"
+        },
+        "https://habr.com/ru/articles/1009444/": {
+            "title": "Claude Code vs. Codex: исчерпывающее сравнение",
+            "description": "Я использовал Claude Code несколько месяцев, потом перешёл на Codex. Недавно вернулся обратно — и причина не в бенчмарках. Также протестировал оба инструмента на одной и той же задаче. В этой статье я...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e20/1c1/e35/e201c1e35e00a1e3b7a9f0bf4e4a7e72.png",
+            "url": "https://habr.com/ru/articles/1009444/"
         }
     }
 }
