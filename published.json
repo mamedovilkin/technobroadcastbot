@@ -4403,6 +4403,12 @@
             "description": "Я использовал Claude Code несколько месяцев, потом перешёл на Codex. Недавно вернулся обратно — и причина не в бенчмарках. Также протестировал оба инструмента на одной и той же задаче. В этой статье я...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/e20/1c1/e35/e201c1e35e00a1e3b7a9f0bf4e4a7e72.png",
             "url": "https://habr.com/ru/articles/1009444/"
+        },
+        "https://ixbt.games/articles/2026/03/08/poigrat-liuboi-cenoi-no-besplatno-cto-iz-sebia-predstavliaet-novyi-sposob-vzloma-igr-i-kakie-ugrozy-neset-dlia-pk.html": {
+            "title": "Билет в один конец для вашего ПК: как работает взлом Denuvo через гипервизор",
+            "description": "Гипервизор долгое время оставался темой для системных администраторов и специалистов по безопасности. Но теперь он оказался в центре новой волны обходов Denuvo. Разберём, как эта среда превратилась в поле битвы между защитой и взломом, почему игроки вообще начали о ней говорить и чем такие эксперименты могут закончиться для обычного компьютера.",
+            "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1127859/eec8640d590dd65aa033d705ce4b8f68.jpg",
+            "url": "https://ixbt.games/articles/2026/03/08/poigrat-liuboi-cenoi-no-besplatno-cto-iz-sebia-predstavliaet-novyi-sposob-vzloma-igr-i-kakie-ugrozy-neset-dlia-pk.html"
         }
     }
 }
