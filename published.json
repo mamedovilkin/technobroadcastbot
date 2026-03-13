@@ -4427,6 +4427,12 @@
             "description": "В марте 2026 года компания « Бюро цифровых проектов » открыла предзаказ на проект « Смартфон за внимание ». Это модель получения смартфона без предоплаты и ежемесячных...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0a3/ed2/563/0a3ed25635a1c08de3a71c34d6efd350.jpg",
             "url": "https://habr.com/ru/news/1009556/"
+        },
+        "https://habr.com/ru/articles/1009542/": {
+            "title": "Как ТСПУ ловит VLESS в 2026 и почему XHTTP - следующий шаг",
+            "description": "Разбор методов детекции, которые работают прямо сейчас. JA3/JA4-отпечатки, поведенческий анализ и архитектура XHTTP, которая закрывает именно эти дыры Если твой VLESS+Reality сервер лёг в последние...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/3e1/80c/7c1/3e180c7c13ea828880379c18accd77ea.jpeg",
+            "url": "https://habr.com/ru/articles/1009542/"
         }
     }
 }
