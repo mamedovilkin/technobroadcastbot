@@ -4553,6 +4553,12 @@
             "description": "В США и Индии запущены новые функции на базе Gemini AI — разговорный помощник Ask Maps и 3D-режим для водителей",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/converted%20-%202026-03-13T110237.147.jpg",
             "url": "https://www.ixbt.com/news/2026/03/13/google-maps-gemini.html"
+        },
+        "https://www.ixbt.com/news/2026/03/13/comet-ai-perplexity-amazon.html": {
+            "title": "Федеральный суд США заблокировал работу Comet AI-агента Perplexity на Amazon",
+            "description": "Прецедентное решение: разрешение пользователя не заменяет авторизацию платформы для автономных ИИ-агентов",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/converted%20-%202026-03-13T113259.462_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/13/comet-ai-perplexity-amazon.html"
         }
     }
 }
