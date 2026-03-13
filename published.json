@@ -4541,6 +4541,12 @@
             "description": "Глава OpenAI Сэм Альтман выступил на саммите BlackRock по инфраструктуре США и озвучил видение будущего ИИ, которое звучит одновременно как бизнес-план и как антиутопия. В беседе с Адебайо Огунлеси –...",
             "image": "https://cdn.shazoo.ru/857043_ma1EZ6v_twsw09pcls.jpg",
             "url": "https://shazoo.ru/2026/03/13/180957/sem-altman-nakonec-skazal-vslux-to-o-cem-vse-dogadyvalis-on-xocet-prodavat-intellekt-kak-vodu-ili-elektricestvo"
+        },
+        "https://habr.com/ru/news/1009714/": {
+            "title": "Исследование: некоторые Android‑смартфоны с чипами MediaTek можно взломать за 45 секунд без включения устройства",
+            "description": "Уязвимость в Android-смартфонах с чипами MediaTek позволяет взломать гаджет за 45 секунд без необходимости его включать, выяснили специалисты в сфере кибербезопасности из команды Donjon производителя...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/98f/258/eb4/98f258eb42c79226f126bd0af96a4861.jpg",
+            "url": "https://habr.com/ru/news/1009714/"
         }
     }
 }
