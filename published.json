@@ -4715,6 +4715,12 @@
             "description": "Он выйдет уже в апреле",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/Enjoy90ProMax_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/14/harmonyos-6-0-kirin-huawei-enjoy-90-pro-max.html"
+        },
+        "https://habr.com/ru/news/1010104/": {
+            "title": "Гигантские чипы Cerebras для работы с моделями ИИ",
+            "description": "Производство микросхем на основе кремниевых пластин от компании Cerebras Amazon.com Inc. планирует использовать чипы от стартапа Cerebras Systems Inc. вместе со своими собственными...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c8c/9dc/62e/c8c9dc62e96c21a99a8fb1bbd755c35d.webp",
+            "url": "https://habr.com/ru/news/1010104/"
         }
     }
 }
