@@ -4607,6 +4607,12 @@
             "description": "На одном из недавних мероприятий эксперты из Сбера, Яндекса и red_mad_robot обсуждали внедрение ИИ в жизненный цикл разработки продукта — AI PDLC. В выступлениях снова и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/172/4b4/e0d/1724b4e0d7d135bcf57db3565bf71b15.jpg",
             "url": "https://habr.com/ru/companies/sberbank/articles/1009838/"
+        },
+        "https://www.ixbt.com/news/2026/03/13/632-intel-xeon-gold-6338-cpu-loongson-technology.html": {
+            "title": "В России выпустили первую партию серверных процессоров \"Иртыш С 632\" - аналога Intel Xeon Gold 6338. Судя по архитектуре, он базируются на китайском CPU Loongson Technology",
+            "description": "Российские CPU будут дешевле аналога Intel",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/filefromword17732834168040.png%20copy.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/13/632-intel-xeon-gold-6338-cpu-loongson-technology.html"
         }
     }
 }
