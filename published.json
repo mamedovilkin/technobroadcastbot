@@ -4625,6 +4625,12 @@
             "description": "Samsung назвала приложения с поддержкой спутниковой связи",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/Galaxy-S25-cameras-2-1200x675_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/13/google-samsung-find-whatsapp-x-samsung.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1009970/": {
+            "title": "Nvidia представила открытую модель Nemotron 3 Super",
+            "description": "Компания Nvidia анонсировала новую открытую модель Nemotron 3 Super, предназначенную для создания сложных систем из множества AI-агентов. Модель позиционируется как базовая платформа для разработки...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e08/ba3/d3e/e08ba3d3eb1a0737df383251dfb37946.jpeg",
+            "url": "https://habr.com/ru/companies/bothub/news/1009970/"
         }
     }
 }
