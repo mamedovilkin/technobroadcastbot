@@ -4769,6 +4769,12 @@
             "description": "В новом Chrome 146 устранили критическую уязвимость, позволяющую выполнить вредоносный код.",
             "image": "https://www.securitylab.ru/upload/iblock/a85/8kqq1aynnwrm2m6oyx27kn94fh0he6ws.jpg",
             "url": "https://www.securitylab.ru/news/570361.php"
+        },
+        "https://3dnews.ru/1138311/hakeri-nachali-zapolonyat-github-proektami-s-nevidimim-vredonosnim-kodom": {
+            "title": "Хакеры начали заполонять GitHub проектами с \"невидимым\" вредоносным кодом",
+            "description": "Исследователи в области кибербезопасности обнаружили крупномасштабную кампанию по публикации в популярных репозиториях проектов, содержащих вредоносный код, написанный невидимыми для человеческого глаза символами Unicode. При этом такой код в штатном режиме расшифровывается декодерами..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/14/1138311/code_1.jpg",
+            "url": "https://3dnews.ru/1138311/hakeri-nachali-zapolonyat-github-proektami-s-nevidimim-vredonosnim-kodom"
         }
     }
 }
