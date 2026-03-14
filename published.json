@@ -4763,6 +4763,12 @@
             "description": "В честь Дня числа Пи компания Backblaze, занимающаяся облачным хранением данных, сделала доступными одни из самых масштабных вычислений числа. Компания объявила о партнёрстве со StorageReview, чтобы...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/65c/705/5bf/65c7055bf60f86538d29f1e6c9c451e3.JPG",
             "url": "https://habr.com/ru/news/1010142/"
+        },
+        "https://www.securitylab.ru/news/570361.php": {
+            "title": "Пора обновляться (опять). Google закрыла 29 дыр в безопасности Chrome",
+            "description": "В новом Chrome 146 устранили критическую уязвимость, позволяющую выполнить вредоносный код.",
+            "image": "https://www.securitylab.ru/upload/iblock/a85/8kqq1aynnwrm2m6oyx27kn94fh0he6ws.jpg",
+            "url": "https://www.securitylab.ru/news/570361.php"
         }
     }
 }
