@@ -4745,6 +4745,12 @@
             "description": "В середине декабря чистая длинная позиция крупных спекулянтов в нефти Brent и WTI падала почти до нуля, после чего за три месяца выросла в 21,5 раз.",
             "image": "https://www.profinance.ru/img/news/584148-1.png?698758988",
             "url": "https://www.profinance.ru/news2/2026/03/14/ciqc-cftc-spekulyanty-agressivno-skupayut-neft.html"
+        },
+        "https://habr.com/ru/news/1010128/": {
+            "title": "Открытое бета-тестирование Digg завершили через два месяца из-за спам-ботов с ИИ",
+            "description": "Два месяца назад основатель Digg Кевин Роуз, сооснователь Reddit Алексис Оханян и ещё несколько человек объявили о перезапуске сайта для обмена ссылками, обещая «социальное взаимодействие, основанное...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6b1/43f/d09/6b143fd0918d28faf4dd0692f0b2e806.jfif",
+            "url": "https://habr.com/ru/news/1010128/"
         }
     }
 }
