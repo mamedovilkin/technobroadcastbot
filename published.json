@@ -4775,6 +4775,12 @@
             "description": "Исследователи в области кибербезопасности обнаружили крупномасштабную кампанию по публикации в популярных репозиториях проектов, содержащих вредоносный код, написанный невидимыми для человеческого глаза символами Unicode. При этом такой код в штатном режиме расшифровывается декодерами..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/14/1138311/code_1.jpg",
             "url": "https://3dnews.ru/1138311/hakeri-nachali-zapolonyat-github-proektami-s-nevidimim-vredonosnim-kodom"
+        },
+        "https://www.ixbt.com/news/2026/03/14/oppo-small-turbine-2-50.html": {
+            "title": "Магнитная \"турбина\" для смартфона, которая может и заряжать, и охлаждать: OPPO представила магнитную беспроводную зарядку Small Turbine 2 мощностью 50 Вт",
+            "description": "Она станет спутником нового Oppo Find N6",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/8421968a-d2d2-487c-91dc-e252147ca534_0.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/14/oppo-small-turbine-2-50.html"
         }
     }
 }
