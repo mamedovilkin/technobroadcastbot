@@ -4601,6 +4601,12 @@
             "description": "Популярность пяти- и пятнадцатиминутных контрактов резко возросла на фоне падения цен на криптовалюты с недавних пиков.",
             "image": "https://www.profinance.ru/img/news/584137-1.png?1711004510",
             "url": "https://www.profinance.ru/news2/2026/03/13/ciq1-sverkhkratkosrochnye-stavki-dobavlyayut-esche-bolshe-manii-v-torgovlyu-kriptoval.html"
+        },
+        "https://habr.com/ru/companies/sberbank/articles/1009838/": {
+            "title": "Что происходит с разработчиками, когда ИИ берёт на себя 80% их работы",
+            "description": "На одном из недавних мероприятий эксперты из Сбера, Яндекса и red_mad_robot обсуждали внедрение ИИ в жизненный цикл разработки продукта — AI PDLC. В выступлениях снова и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/172/4b4/e0d/1724b4e0d7d135bcf57db3565bf71b15.jpg",
+            "url": "https://habr.com/ru/companies/sberbank/articles/1009838/"
         }
     }
 }
