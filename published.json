@@ -4631,6 +4631,12 @@
             "description": "Компания Nvidia анонсировала новую открытую модель Nemotron 3 Super, предназначенную для создания сложных систем из множества AI-агентов. Модель позиционируется как базовая платформа для разработки...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/e08/ba3/d3e/e08ba3d3eb1a0737df383251dfb37946.jpeg",
             "url": "https://habr.com/ru/companies/bothub/news/1009970/"
+        },
+        "https://3dnews.ru/1138272/microsoft-intel-i-nvidia-vzyalis-reshit-dve-glavnie-problemi-pkigr": {
+            "title": "Microsoft, Intel и Nvidia взялись решить две главные проблемы ПК-игр",
+            "description": "Microsoft в партнёрстве с Intel и Nvidia работает над двумя новыми функциями DirectX, направленными на решение проблем, с которыми постоянно сталкиваются геймеры на ПК. Одна из них касается более эффективного запуска функций ИИ внутри игр. Другая — сокращения задержек компиляции шейдеров и длительного времени первой загрузки.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/13/1138272/sm.nvidia-advanced-shader-delivery.800.jpg",
+            "url": "https://3dnews.ru/1138272/microsoft-intel-i-nvidia-vzyalis-reshit-dve-glavnie-problemi-pkigr"
         }
     }
 }
