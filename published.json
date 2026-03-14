@@ -4757,6 +4757,12 @@
             "description": "Американская технологическая корпорация Meta* (*признана в РФ экстремистской и запрещена) готовится к масштабным сокращениям в рамках адаптации бизнеса к технологиям искусственного интеллекта (ИИ). Штат компании может сократиться более чем на 20%, пишет агентство Reuters со ссылкой на источники.",
             "image": "https://resizer.mail.ru/p/2ec4d9cf-2348-545a-acfb-c121cf45a299/AQAzUCHp0J-U24G6rpvLBXenRbuAeREhKJZk1rs35BVgyaAYuNWmL4pzw7llF1-SZ40drz9LAXmw4rronL_kT6otVVo.jpg",
             "url": "https://finance.mail.ru/article/reuters-meta-mozhet-sokratit-bolee-20-personala-iz-za-vnedreniya-ii-69201451/"
+        },
+        "https://habr.com/ru/news/1010142/": {
+            "title": "На ресурсах Backblaze разместили 314 триллионов цифр числа Пи",
+            "description": "В честь Дня числа Пи компания Backblaze, занимающаяся облачным хранением данных, сделала доступными одни из самых масштабных вычислений числа. Компания объявила о партнёрстве со StorageReview, чтобы...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/65c/705/5bf/65c7055bf60f86538d29f1e6c9c451e3.JPG",
+            "url": "https://habr.com/ru/news/1010142/"
         }
     }
 }
