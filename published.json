@@ -4943,6 +4943,12 @@
             "description": "Независимый разработчик Ферран Дуарри анонсировал модуль ядра Linux под названием GreenBoost. Проект направлен на расширение выделенной видеопамяти видеокарт NVIDIA за счет использования системной оперативной памяти и накопителей NVMe. Данное решение работает как уровень кэширования CUDA...",
             "image": "https://i.playground.ru/e/B_CBm8EPTsKFFnjTwArpMA.png",
             "url": "https://www.playground.ru/misc/news/nezavisimyj_razrabotchik_predstavil_drajver_greenboost_dlya_rasshireniya_pamyati_videokart_nvidia-1831075"
+        },
+        "https://www.ixbt.com/news/2026/03/15/1155-1000-87-9-370-4-35-byd-denza-z9gt.html": {
+            "title": "1155 л.с., 1000 км на одной зарядке, топовый автопилот и передовая батарея с зарядкой на 87% за 9 минут - 370 тыс. юаней (4,35 млн рублей). Обновленный BYD Denza Z9GT уже у первых покупателей",
+            "description": "Для своих характеристик обновленный BYD Denza Z9GT получился недорогим",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/KV1%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/15/1155-1000-87-9-370-4-35-byd-denza-z9gt.html"
         }
     }
 }
