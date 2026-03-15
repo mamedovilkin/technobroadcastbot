@@ -4883,6 +4883,12 @@
             "description": "В последнее время Илон Маск был сосредоточен на идее строительства центров обработки данных в космосе, но поскольку для них потребуются вычислительные компоненты, вчера он заявил о намерениях запустить проект по строительству гигантской фабрики, выпускающей чипы для ИИ, через семь дней..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/15/1138323/ai5_01.jpg",
             "url": "https://3dnews.ru/1138323/ilon-mask-poobeshchal-zapustit-proekt-gigantskoy-fabriki-po-vipusku-chipov-k-kontsu-sleduyushchey-nedeli"
+        },
+        "https://habr.com/ru/articles/1010342/": {
+            "title": "Как я в одиночку начинаю IoT-стартап на Rust в Бразилии",
+            "description": "Начну с короткого рассказа, как я докатился до жизни такой ) Меня зовут Егор, мне 28. У меня нет диплома программиста, нет опыта работы в IT и нет ни одного коммерческого проекта в резюме. Зато я всю...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a71/686/abc/a71686abc7e7be79fa9394d278fada0e.jpeg",
+            "url": "https://habr.com/ru/articles/1010342/"
         }
     }
 }
