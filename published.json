@@ -4787,6 +4787,12 @@
             "description": "Всего 6300 рублей",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/0lhqyi4bcny9td5spiyrec438yuzdt9i.png",
             "url": "https://www.ixbt.com/news/2026/03/14/rossijskaja-igrovaja-konsol-mozhet-vygljadet-tak-kompanija-mikron-zapustila-prodazhi-igrovoj-konsoli--otladochnogo.html"
+        },
+        "https://habr.com/ru/news/1010180/": {
+            "title": "ФБР провело расследование и нашло вирусы в Steam",
+            "description": "Федеральное бюро расследований США попросило геймеров предоставить информацию, если они скачивали из Steam игры, содержащие вредоносное программное обеспечение. Правоохранительное агентство намерено...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4d0/82e/bfd/4d082ebfd299232abf5c3940862ed3fb.jpg",
+            "url": "https://habr.com/ru/news/1010180/"
         }
     }
 }
