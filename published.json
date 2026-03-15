@@ -4937,6 +4937,12 @@
             "description": "Российская компания Tramplin Electronics объявила о получении первых образцов процессоров \"Иртыш\", построенных на архитектуре LoongArch китайского разработчика Loongson. Все технические характеристики новинок совпадают с параметрами уже существующих китайских процессоров серии...",
             "image": "https://cdn.shazoo.ru/857343_A8IADRl_zfuffsy7kh.jpg",
             "url": "https://shazoo.ru/2026/03/15/181001/v-rossii-predstavila-processory-irtys-na-arxitekture-loongarch-kotorye-okazalis-pereimenovannymi-kitaiskimi-cipami"
+        },
+        "https://www.playground.ru/misc/news/nezavisimyj_razrabotchik_predstavil_drajver_greenboost_dlya_rasshireniya_pamyati_videokart_nvidia-1831075": {
+            "title": "Независимый разработчик представил драйвер GreenBoost для расширения памяти видеокарт NVIDIA",
+            "description": "Независимый разработчик Ферран Дуарри анонсировал модуль ядра Linux под названием GreenBoost. Проект направлен на расширение выделенной видеопамяти видеокарт NVIDIA за счет использования системной оперативной памяти и накопителей NVMe. Данное решение работает как уровень кэширования CUDA...",
+            "image": "https://i.playground.ru/e/B_CBm8EPTsKFFnjTwArpMA.png",
+            "url": "https://www.playground.ru/misc/news/nezavisimyj_razrabotchik_predstavil_drajver_greenboost_dlya_rasshireniya_pamyati_videokart_nvidia-1831075"
         }
     }
 }
