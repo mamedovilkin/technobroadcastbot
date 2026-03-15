@@ -4955,6 +4955,12 @@
             "description": "Оптоволоконный кризис в России: импорт из Китая растет, отечественные заводы остановились. Узнайте, как это повлияло на цены. - Общество - 15 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/MYaxlQBosDCu5ykHMdJ_Ig/article-id6897552-16x9.jpg?1773571270",
             "url": "https://www.fontanka.ru/2026/03/15/76312551/"
+        },
+        "https://habr.com/ru/news/1010174/": {
+            "title": "В Linux предложены патчи, убирающие возможность сборки IPv6 в форме модуля ядра",
+            "description": "Разработчик Фернандо Фернандес Мансера из компании SUSE предложил для включения в ветку linux‑next, на основе которой формируется функциональность ядра Linux 7.1, серию патчей,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2d8/9b3/e2d/2d89b3e2dc3eafcad477553579d99481.png",
+            "url": "https://habr.com/ru/news/1010174/"
         }
     }
 }
