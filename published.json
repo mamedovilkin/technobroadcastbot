@@ -5033,6 +5033,12 @@
             "description": "Глава OpenAI Сэм Альтман заявил, что в ближайшем будущем может произойти архитектурный прорыв за пределами трансформеров — и что нынешние модели уже достаточно умны, чтобы помочь его найти. Слова...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b2d/dde/9c0/b2ddde9c0bba197c1e19bff81fddcfeb.jpg",
             "url": "https://habr.com/ru/news/1010596/"
+        },
+        "https://www.bfm.ru/news/600804": {
+            "title": "В России произошел массовый сбой в работе соцсетей",
+            "description": "Пользователи столкнулись с массовыми сбоями VK, «VK Видео» и мессенджера Telegram. Эксперты связывают сбои с особенностями работы белого списка и с ограничениями VPN",
+            "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/03/16/lori-0040314909-bigwww.jpg",
+            "url": "https://www.bfm.ru/news/600804"
         }
     }
 }
