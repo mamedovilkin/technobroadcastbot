@@ -5021,6 +5021,12 @@
             "description": "Эксперты называют падение бумаг Goldman Sachs и Wells Fargo временным и не связанным с фундаментальными показателями",
             "image": "https://resizer.mail.ru/p/8a09da31-e1f1-59a2-908a-5531c0512c76/AQAzEA_ACeoajf8WiOzKR3MVv1XrYIVQSeg23jUfyNyTjn9oLz66TqHxa6t3WHS1sjXmZeX49rIpUJhvpX_dAUu1jME.jpg",
             "url": "https://finance.mail.ru/article/aktsii-amerikanskih-bankov-obvalilis-iz-za-geopolitiki-i-strahov-pered-ii-69201527/"
+        },
+        "https://www.securitylab.ru/news/570400.php": {
+            "title": "314 триллионов знаков после запятой. Рассказываем о самом длинном математическом забеге года",
+            "description": "овый рекорд показал не столько силу математики, сколько выносливость серверов, памяти и NVMe-накопителей.",
+            "image": "https://www.securitylab.ru/upload/iblock/252/znm1y3d2o850k9ae7eff53j3tw0ubtce.jpg",
+            "url": "https://www.securitylab.ru/news/570400.php"
         }
     }
 }
