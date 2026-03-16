@@ -5057,6 +5057,12 @@
             "description": "С тех пор, как в январе прошлого года DeepSeek выпустила рассуждающую ИИ-модель DeepSeek-R1, которая получила широкую известность, крупных обновлений не выходило. Слухи о появлении новой ИИ-модели от DeepSeek время от времени вызывают волну обсуждений в интернете, но, по всей видимости, в следующем месяце состоится релиз мультимодальной модели DeepSeek-V4, которая получит значительные улучшения по сравнению с предыдущей версией..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/16/1138345/237.jpg",
             "url": "https://3dnews.ru/1138345/multimodalnaya-iimodel-deepseekv4-s-milliardami-parametrov-i-kontekstnim-oknom-v-1-mln-tokenov-viydet-v-aprele"
+        },
+        "https://www.securitylab.ru/news/570369.php": {
+            "title": "Минус 1600 сотрудников ради светлого будущего с ИИ. Оно того стоило, Atlassian?",
+            "description": "Пока инвесторы аплодируют, в рабочих офисах воцарилась тишина.",
+            "image": "https://www.securitylab.ru/upload/iblock/619/9axmyjlzijrvavg0m7l2ddtxle57715k.jpg",
+            "url": "https://www.securitylab.ru/news/570369.php"
         }
     }
 }
