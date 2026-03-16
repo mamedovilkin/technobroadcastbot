@@ -5051,6 +5051,12 @@
             "description": "Гуманоид Unitree G1 освоил теннис с помощью системы LATENT и уже держит мяч в игре против человека.",
             "image": "https://www.securitylab.ru/upload/iblock/ece/uhi2d6cu4kx2f58i30f3mi3mtl4asn23.jpg",
             "url": "https://www.securitylab.ru/news/570396.php"
+        },
+        "https://3dnews.ru/1138345/multimodalnaya-iimodel-deepseekv4-s-milliardami-parametrov-i-kontekstnim-oknom-v-1-mln-tokenov-viydet-v-aprele": {
+            "title": "Мультимодальная ИИ-модель DeepSeek-V4 с контекстным окном в 1 млн токенов выйдет в апреле",
+            "description": "С тех пор, как в январе прошлого года DeepSeek выпустила рассуждающую ИИ-модель DeepSeek-R1, которая получила широкую известность, крупных обновлений не выходило. Слухи о появлении новой ИИ-модели от DeepSeek время от времени вызывают волну обсуждений в интернете, но, по всей видимости, в следующем месяце состоится релиз мультимодальной модели DeepSeek-V4, которая получит значительные улучшения по сравнению с предыдущей версией..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/16/1138345/237.jpg",
+            "url": "https://3dnews.ru/1138345/multimodalnaya-iimodel-deepseekv4-s-milliardami-parametrov-i-kontekstnim-oknom-v-1-mln-tokenov-viydet-v-aprele"
         }
     }
 }
