@@ -5045,6 +5045,12 @@
             "description": "Juqiao Industrial привлекла новые инвестиции и заявила о серийном выпуске гибких тактильных сенсоров для гуманоидов, автомобилей и медицины.",
             "image": "https://www.securitylab.ru/upload/iblock/b71/nc38xazbhojtpb65f02fqin6dc1j9yui.jpg",
             "url": "https://www.securitylab.ru/news/570399.php"
+        },
+        "https://www.securitylab.ru/news/570396.php": {
+            "title": "\"Железный Джокович\" из Китая. Исследователи научили робота теннису, который уже играет как профи",
+            "description": "Гуманоид Unitree G1 освоил теннис с помощью системы LATENT и уже держит мяч в игре против человека.",
+            "image": "https://www.securitylab.ru/upload/iblock/ece/uhi2d6cu4kx2f58i30f3mi3mtl4asn23.jpg",
+            "url": "https://www.securitylab.ru/news/570396.php"
         }
     }
 }
