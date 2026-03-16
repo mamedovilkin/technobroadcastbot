@@ -5027,6 +5027,12 @@
             "description": "овый рекорд показал не столько силу математики, сколько выносливость серверов, памяти и NVMe-накопителей.",
             "image": "https://www.securitylab.ru/upload/iblock/252/znm1y3d2o850k9ae7eff53j3tw0ubtce.jpg",
             "url": "https://www.securitylab.ru/news/570400.php"
+        },
+        "https://habr.com/ru/news/1010596/": {
+            "title": "\"AGI будет выглядеть как разминка\": Альтман о следующем прорыве в ИИ",
+            "description": "Глава OpenAI Сэм Альтман заявил, что в ближайшем будущем может произойти архитектурный прорыв за пределами трансформеров — и что нынешние модели уже достаточно умны, чтобы помочь его найти. Слова...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b2d/dde/9c0/b2ddde9c0bba197c1e19bff81fddcfeb.jpg",
+            "url": "https://habr.com/ru/news/1010596/"
         }
     }
 }
