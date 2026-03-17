@@ -5165,6 +5165,12 @@
             "description": "Технология полностью перерабатывает изображение, делая его неузнаваемым.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1129722/photo-2026-03-16-22-32-53.jpg",
             "url": "https://ixbt.games/news/2026/03/16/382403-ne-mogli-aprelia-dozdatsia-igroki-v-besenstve-iz-za-novogo-neiroslop-filtra-na-baze-dlss5-ot-nvidia.html"
+        },
+        "https://3dnews.ru/1138385/nvidia-anonsirovala-dlss-5-s-neyronnim-renderingom-ii-dobavit-fotorealizm-v-kagduyu-igru-uge-osenyu": {
+            "title": "Nvidia анонсировала DLSS 5 с нейронным рендерингом - ИИ добавит фотореализм в каждую игру уже осенью",
+            "description": "Глава компании Nvidia Дженсен Хуанг (Jensen Huang) анонсировал на конференции GTC 2026 технологию DLSS 5. Новая версия апскейлера знаменует переход от функций, ориентированных на повышение производительности, к генерации изображений для повышения визуального качества. Выпуск технологии планируется осенью этого года.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/16/1138385/NVIDIA-DLSS5-HERO-1200x624.jpg",
+            "url": "https://3dnews.ru/1138385/nvidia-anonsirovala-dlss-5-s-neyronnim-renderingom-ii-dobavit-fotorealizm-v-kagduyu-igru-uge-osenyu"
         }
     }
 }
