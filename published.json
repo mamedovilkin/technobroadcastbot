@@ -5279,6 +5279,12 @@
             "description": "Фактически, это тот же Galaxy A07 5G",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/kv_d%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/17/samsung-6000-ip54-6-140-samsung-galaxy-m17e-5g.html"
+        },
+        "https://habr.com/ru/news/1011216/": {
+            "title": "Сэм Альтман: со временем ИИ будут продавать подобно свету или воде",
+            "description": "Глава OpenAI Сэм Альтман заявил на саммите BlackRock Infrastructure Summit в Вашингтоне, что ИИ в конечном итоге будут покупать и продавать как базовую коммунальную услугу, подобно электричеству и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2e8/be9/f33/2e8be9f337b3c5eef67ec9fdea155b91.JPG",
+            "url": "https://habr.com/ru/news/1011216/"
         }
     }
 }
