@@ -5171,6 +5171,12 @@
             "description": "Глава компании Nvidia Дженсен Хуанг (Jensen Huang) анонсировал на конференции GTC 2026 технологию DLSS 5. Новая версия апскейлера знаменует переход от функций, ориентированных на повышение производительности, к генерации изображений для повышения визуального качества. Выпуск технологии планируется осенью этого года.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/16/1138385/NVIDIA-DLSS5-HERO-1200x624.jpg",
             "url": "https://3dnews.ru/1138385/nvidia-anonsirovala-dlss-5-s-neyronnim-renderingom-ii-dobavit-fotorealizm-v-kagduyu-igru-uge-osenyu"
+        },
+        "https://3dnews.ru/1138392/nvidia-udarila-po-intel-i-amd-predstavleni-servernie-88yadernie-cpu-vera-kotorie-sgodyatsya-ne-tolko-dlya-ii": {
+            "title": "Nvidia ударила по Intel и AMD: представлены серверные 88-ядерные CPU Vera, которые сгодятся не только для ИИ",
+            "description": "Nvidia на конференции GTC 2026 раскрыла подробности о серверных центральных процессорах Vera, оснащённых 88 вычислительными ядрами. Компания заявляет о резком росте производительности благодаря новым ядрам Olympus. Одновременно была представлена стоечная система Vera CPU Rack с 256 процессорами, которая, по оценке Nvidia, обеспечивает шестикратный рост CPU-производительности и двукратное ускорение задач агентного ИИ.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/17/1138392/vera_01.jpg",
+            "url": "https://3dnews.ru/1138392/nvidia-udarila-po-intel-i-amd-predstavleni-servernie-88yadernie-cpu-vera-kotorie-sgodyatsya-ne-tolko-dlya-ii"
         }
     }
 }
