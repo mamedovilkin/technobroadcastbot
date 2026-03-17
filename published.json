@@ -5177,6 +5177,12 @@
             "description": "Nvidia на конференции GTC 2026 раскрыла подробности о серверных центральных процессорах Vera, оснащённых 88 вычислительными ядрами. Компания заявляет о резком росте производительности благодаря новым ядрам Olympus. Одновременно была представлена стоечная система Vera CPU Rack с 256 процессорами, которая, по оценке Nvidia, обеспечивает шестикратный рост CPU-производительности и двукратное ускорение задач агентного ИИ.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/17/1138392/vera_01.jpg",
             "url": "https://3dnews.ru/1138392/nvidia-udarila-po-intel-i-amd-predstavleni-servernie-88yadernie-cpu-vera-kotorie-sgodyatsya-ne-tolko-dlya-ii"
+        },
+        "https://3dnews.ru/1138394/apple-nakonets-priznala-ustarevshimi-smartfoni-iphone-5-i-iphone-4-8gb": {
+            "title": "Apple наконец признала устаревшими смартфоны iPhone 5 и iPhone 4 8GB",
+            "description": "Компания Apple пополнила список своих устаревших (Obsolete) устройств смартфоном iPhone 5, выпущенным в 2012 году. Туда же добавлена 8-гигабайтная модель iPhone 4..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/17/1138394/iphone-5-16x9.jpg",
+            "url": "https://3dnews.ru/1138394/apple-nakonets-priznala-ustarevshimi-smartfoni-iphone-5-i-iphone-4-8gb"
         }
     }
 }
