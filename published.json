@@ -5285,6 +5285,12 @@
             "description": "Глава OpenAI Сэм Альтман заявил на саммите BlackRock Infrastructure Summit в Вашингтоне, что ИИ в конечном итоге будут покупать и продавать как базовую коммунальную услугу, подобно электричеству и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2e8/be9/f33/2e8be9f337b3c5eef67ec9fdea155b91.JPG",
             "url": "https://habr.com/ru/news/1011216/"
+        },
+        "https://meduza.io/news/2026/03/17/uroven-blokirovki-telegram-v-rossii-dostig-80": {
+            "title": "Уровень блокировки Telegram в России достиг 80%",
+            "description": "Доля неудачных запросов к доменам Telegram из России в среднем достигла почти 80%, при этом в отдельных федеральных округах этот показатель приблизился к 90%, пишет «Коммерсант» со ссылкой на данные сервиса Merilo.",
+            "image": "https://meduza.io/imgly/share/1773737434/news/2026/03/17/uroven-blokirovki-telegram-v-rossii-dostig-80",
+            "url": "https://meduza.io/news/2026/03/17/uroven-blokirovki-telegram-v-rossii-dostig-80"
         }
     }
 }
