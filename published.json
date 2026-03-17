@@ -5129,6 +5129,12 @@
             "description": "Презентация ожидается в ближайшее время",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/Pura-X2-colors_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/16/huawei-pura-x2.html"
+        },
+        "https://habr.com/ru/news/1010792/": {
+            "title": "Аналитики ожидают утроение российского IT-рынка к 2029 году",
+            "description": "Объём российского IT-рынка может вырасти более чем втрое — с 2 трлн рублей в 2021 году до 6 трлн рублей к 2029-му, а по итогам 2030 года достигнуть 6,7 трлн рублей. Такой прогноз содержится в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/78d/512/238/78d512238575eec8f42e80932acb50a9.jpg",
+            "url": "https://habr.com/ru/news/1010792/"
         }
     }
 }
