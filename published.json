@@ -5255,6 +5255,12 @@
             "description": "OpenAI финализирует план масштабного стратегического разворота: компания сворачивает побочные проекты и перебрасывает ресурсы на кодинг и корпоративных клиентов. Об этом  сообщает The Wall Street...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/aab/6bd/0b8/aab6bd0b8f08be572154f165233fab6b.jpeg",
             "url": "https://habr.com/ru/news/1011116/"
+        },
+        "https://habr.com/ru/news/1011128/": {
+            "title": "100% сотрудников Nvidia пользуются ИИ: Хуанг назвал Claude Code поворотной точкой",
+            "description": "На конференции GTC 2026 в Сан-Хосе глава Nvidia Дженсен Хуанг выделил три переломных момента в развитии ИИ: появление ChatGPT в 2023 году, модели рассуждений o1 в 2024-м — и Claude Code от Anthropic в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d35/751/57f/d3575157f9f8e174697bbbc9a7b7c4f1.jpg",
+            "url": "https://habr.com/ru/news/1011128/"
         }
     }
 }
