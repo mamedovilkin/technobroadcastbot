@@ -5153,6 +5153,12 @@
             "description": "Корпорация Meta* договорилась с Nebius о покупке у нее вычислительных мощностей для ИИ на сумму $12 млрд. Дополнительно Meta* обязалась выкупить не востребованные мощности Nebius на сумму $15 млрд.",
             "image": "https://static.cnews.ru/img/news/2023/10/06/y6.jpg",
             "url": "https://www.cnews.ru/news/top/2026-03-16_vladelets_whatsapp_zaplatit_27"
+        },
+        "https://www.ixbt.com/news/2026/03/16/nvidia-dlss-5.html": {
+            "title": "\"Самый большой прорыв в компьютерной графики со времён трассировки лучей\". Nvidia представила технологию DLSS 5, которая кардинально меняет картинку",
+            "description": "Это не апскейлер, а улучшайзер",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/Screenshot_1_9_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/16/nvidia-dlss-5.html"
         }
     }
 }
