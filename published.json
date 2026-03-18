@@ -5441,6 +5441,12 @@
             "description": "Прибавка — сотни тысяч рублей",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/exterior_05%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/18/avatr-12-2026.html"
+        },
+        "https://www.ixbt.com/news/2026/03/18/wi-fi-6.html": {
+            "title": "МТС выпустил брендированный роутер Wi-Fi 6",
+            "description": "Роутер выполнен в фирменном дизайне, защищённом патентом на промышленный образец",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/111_large.png",
+            "url": "https://www.ixbt.com/news/2026/03/18/wi-fi-6.html"
         }
     }
 }
