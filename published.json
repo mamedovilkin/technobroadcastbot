@@ -5411,6 +5411,12 @@
             "description": "Об этом рассказал Илон Маск",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/image%20(42)_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/18/jeto-budet-pohozhe-na-sverhsposobnost-pervye-ustrojstva-dlja-vozvrashenija-zrenija-slepym-ot-neuralink-mogut-nachat.html"
+        },
+        "https://www.ixbt.com/news/2026/03/18/hunter-alpha-1-reuters-deepseek.html": {
+            "title": "Загадочная бесплатная модель Hunter Alpha с 1 трлн параметров появилась в Сети: Reuters предполагает, что это новейший хит от DeepSeek",
+            "description": "Но официального подтверждения нет",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/image%20(46)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/18/hunter-alpha-1-reuters-deepseek.html"
         }
     }
 }
