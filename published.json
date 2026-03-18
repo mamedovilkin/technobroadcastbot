@@ -5327,6 +5327,12 @@
             "description": "Минцифры порекомендовало использовать национальные мессенджеры",
             "image": "https://sharing.vedomosti.ru/1773763334/vedomosti.ru/technology/articles/2026/03/17/1183286-it-assotsiatsiya-pozhalovalas-na-trudnosti-pri-svyazi-s-partnerami-za-rubezhom.jpg",
             "url": "https://www.vedomosti.ru/technology/articles/2026/03/17/1183286-it-assotsiatsiya-pozhalovalas-na-trudnosti-pri-svyazi-s-partnerami-za-rubezhom"
+        },
+        "https://habr.com/ru/news/1011412/": {
+            "title": "В российском ретейле появилась одна из самых дорогих видеокарт Nvidia",
+            "description": "В российской рознице появился графический ускоритель Nvidia H200 NVL стоимостью 4,4 млн рублей — это одна из самых дорогих видеокарт от производителя. Магазины требуют...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/20a/a93/4c1/20aa934c17699936bf0ef8942fb9f4ae.png",
+            "url": "https://habr.com/ru/news/1011412/"
         }
     }
 }
