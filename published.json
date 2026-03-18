@@ -5471,6 +5471,12 @@
             "description": "Недавно на созвоне финансовый аналитик показывал мне свою Excel-модель. Двенадцать листов, формулы ссылаются друг на друга через три уровня вложенности, именованные диапазоны вместо переменных, и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/272/f93/acd/272f93acd6714688f0c44a98b22e5a35.jpeg",
             "url": "https://habr.com/ru/articles/1011748/"
+        },
+        "https://www.ixbt.com/news/2026/03/18/samsung-250-galaxy-s26-ultra.html": {
+            "title": "Samsung открестилась от выплаты в 250 долларов недовольным пользователям Galaxy S26 Ultra",
+            "description": "Вероятно, выплата в размере 250 долларов за то, что пользователь не будет возвращать Galaxy S26 Ultra, была инициативой конкретного работника техподдержки",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/Galaxy-S26-Ultra-review-SamMobile-1200x674%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/18/samsung-250-galaxy-s26-ultra.html"
         }
     }
 }
