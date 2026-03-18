@@ -5345,6 +5345,12 @@
             "description": "По всей видимости, мы наблюдаем блокировку телеграма. По данным главы «Общества защиты интернета», к вечеру 16 марта доступность мессенджера упала до 75% — это означает, что каждое четвертое сообщение не доходит до адресата. «Коммерсант» сообщает, что в среднем доля неудачных запросов к доменам Telegram за прошлую неделю выросла почти до 80%.",
             "image": "https://meduza.io/imgly/share/1773765625/feature/2026/03/17/roskomnadzor-opyat-samoe-nenavistnoe-vedomstvo-v-rossii-no-teper-navernoe-navsegda",
             "url": "https://meduza.io/feature/2026/03/17/roskomnadzor-opyat-samoe-nenavistnoe-vedomstvo-v-rossii-no-teper-navernoe-navsegda"
+        },
+        "https://finance.mail.ru/article/uber-anonsirovala-zapusk-robotaksi-na-baze-tehnologij-nvidia-v-2027-godu-69201822/": {
+            "title": "Uber анонсировала запуск роботакси на базе технологий Nvidia в 2027 году",
+            "description": "Акции Uber выросли на 5% после новостей о партнерстве с Nvidia в сфере беспилотного транспорта",
+            "image": "https://resizer.mail.ru/p/2b100437-9a15-51aa-adc4-a4a218857c6d/AQAzIwLeaMhzmJuYQtbdNhHj3f2FIwyQITdfDj9WpSqn04xiz6Xx_15nLSLRykfziXWyIwJPa3k8H97lnS-wQAKFkkg.jpg",
+            "url": "https://finance.mail.ru/article/uber-anonsirovala-zapusk-robotaksi-na-baze-tehnologij-nvidia-v-2027-godu-69201822/"
         }
     }
 }
