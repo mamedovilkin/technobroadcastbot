@@ -5633,6 +5633,12 @@
             "description": "xAI официально вывела Grok 4.20 из статуса беты. Модель, которая тестировалась с 17 февраля, теперь доступна в четырех режимах: Auto (автоматический выбор между быстрым и экспертным), Fast (быстрые...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ace/ee9/7c6/aceee97c614c29acdd01b9d00e777a05.jpg",
             "url": "https://habr.com/ru/news/1012054/"
+        },
+        "https://www.ixbt.com/news/2026/03/19/tesla-terafab-200.html": {
+            "title": "Гигантская фабрика Tesla Terafab Илона Маска, которая сможет выпускать до 200 миллиардов чипов в год, объявила набор персонала",
+            "description": "22 марта 2026 года ожидается большой анонс",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/image%20(4)_0_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/19/tesla-terafab-200.html"
         }
     }
 }
