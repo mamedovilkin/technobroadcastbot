@@ -5555,6 +5555,12 @@
             "description": "Данные, собранные Chartbeat и опубликованные Axios, показывают, что за последний год трафик из поиска Google на сайты резко упал, причём особенно сильно это затронуло небольшие проекты. Хотя многие продукты на основе ИИ, включая собственные разработки Google, улучшили отображение ссылок, в отчёте утверждается, что «чат-боты по-прежнему генерируют менее 1 % всех переходов на страницы издателей»..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/18/1138521/google-light-sign.jpg",
             "url": "https://3dnews.ru/1138521/google-perestal-kormit-sayti-trafik-iz-poiska-obrushilsya-a-ii-dayot-menshe-1-perehodov"
+        },
+        "https://www.ixbt.com/news/2026/03/18/amd-ryzen-7-9750x-ryzen-5-9650x.html": {
+            "title": "Компания AMD готовит новые процессоры Ryzen 7 9750X и Ryzen 5 9650X, и отличия будут не только в частоте",
+            "description": "Для новинок сильно повысят TDP",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/AMD-RYZEN-9750X-9650X-HERO-1200x675_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/18/amd-ryzen-7-9750x-ryzen-5-9650x.html"
         }
     }
 }
