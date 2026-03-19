@@ -5573,6 +5573,12 @@
             "description": "Средства для фильтрации трафика Рунета, которые Роскомнадзор использует в том числе для ограничения доступа к запрещенным ресурсам, перегружены и не справляются с блокировками, узнал Forbes. Проявляется перегрузка в том числе таким образом, что иногд",
             "image": "https://cdn.forbes.ru/forbes-static/shareimages/557481.webp?v=1773867605",
             "url": "https://www.forbes.ru/tekhnologii/557481-obhod-na-server-roskomnadzoru-stanovitsa-tazelee-blokirovat-internet-resursy"
+        },
+        "https://www.ixbt.com/news/2026/03/18/xiaomi-hyperos-3-1.html": {
+            "title": "Xiaomi выкатила финальную версию HyperOS 3.1 - названы смартфоны первой волны",
+            "description": "Обновление вышло в Китае",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/77_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/18/xiaomi-hyperos-3-1.html"
         }
     }
 }
