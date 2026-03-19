@@ -5627,6 +5627,12 @@
             "description": "«Яндекс» выпустил мобильное приложение «Яндекс Интернетометр» ( RuStore , Google Play и App Store ) для своего сервиса измерения скорости интернета « Интернетометр ». В мобильном интернетометре...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/20d/0be/fb1/20d0befb1251f866ea37629648f7868e.png",
             "url": "https://habr.com/ru/news/1012038/"
+        },
+        "https://habr.com/ru/news/1012054/": {
+            "title": "Grok 4.20 вышел из беты: лидер по честности, но не по интеллекту",
+            "description": "xAI официально вывела Grok 4.20 из статуса беты. Модель, которая тестировалась с 17 февраля, теперь доступна в четырех режимах: Auto (автоматический выбор между быстрым и экспертным), Fast (быстрые...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ace/ee9/7c6/aceee97c614c29acdd01b9d00e777a05.jpg",
+            "url": "https://habr.com/ru/news/1012054/"
         }
     }
 }
