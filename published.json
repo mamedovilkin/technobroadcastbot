@@ -5675,6 +5675,12 @@
             "description": "Власти обещают блокировку Telegram в России в апреле 2026 года. Объясняем, какие требования выдвигает Роскомнадзор, что делает мессенджер и чем это грозит пользователям. - Власть - 19 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/sesgQcyRmTGW9by-wWi5bw/article-id6905729-16x9.jpg?1773915781",
             "url": "https://www.fontanka.ru/2026/03/19/76319254/"
+        },
+        "https://habr.com/ru/companies/tehrevizor/news/1012222/": {
+            "title": "У Meta возникли проблемы с \"вышедшими из-под контроля\" ИИ-агентами",
+            "description": "В Meta произошел инцидент с ИИ-агентом, из-за которого сотрудники получили доступ к данным компании и пользователей без необходимых прав. Об этом сообщило издание The Information со ссылкой на...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a3c/3ec/dee/a3c3ecdee681279e7d7e2ca5c79cfc14.png",
+            "url": "https://habr.com/ru/companies/tehrevizor/news/1012222/"
         }
     }
 }
