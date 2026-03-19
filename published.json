@@ -5537,6 +5537,12 @@
             "description": "Блокировки телеграма, мобильного интернета и в целом перебои со связью за последние пару недель стали неотъемлемой частью жизни москвичей. В остальных регионах России люди живут в этой новой реальности уже почти год. И многие — после того, как выпустили пар в комментариях в соцсетях Роскомнадзора, — принялись шутить и иронизировать над сложившейся ситуацией. «Медуза» собрала самые интересные из подобных видео (а также немного мемов).",
             "image": "https://meduza.io/imgly/share/1773851600/feature/2026/03/18/rossiyane-nichego-ne-mogut-sdelat-so-slomavshimsya-internetom-ostaetsya-tolko-shutit",
             "url": "https://meduza.io/feature/2026/03/18/rossiyane-nichego-ne-mogut-sdelat-so-slomavshimsya-internetom-ostaetsya-tolko-shutit"
+        },
+        "https://habr.com/ru/news/1011900/": {
+            "title": "\"Никто не знает, что делать\": создатель ChatGPT - о ближайших годах рынка труда",
+            "description": "Глава OpenAI Сэм Альтман  заявил  на инфраструктурном саммите BlackRock в Вашингтоне, что традиционный баланс между трудом и капиталом \"кардинально сдвигается\" из-за ИИ. По его словам,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4b4/b5d/db1/4b4b5ddb11c8082e2664d1396ed68c13.jpg",
+            "url": "https://habr.com/ru/news/1011900/"
         }
     }
 }
