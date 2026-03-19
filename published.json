@@ -5681,6 +5681,12 @@
             "description": "В Meta произошел инцидент с ИИ-агентом, из-за которого сотрудники получили доступ к данным компании и пользователей без необходимых прав. Об этом сообщило издание The Information со ссылкой на...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a3c/3ec/dee/a3c3ecdee681279e7d7e2ca5c79cfc14.png",
             "url": "https://habr.com/ru/companies/tehrevizor/news/1012222/"
+        },
+        "https://www.ixbt.com/news/2026/03/19/rhino-1500-40-50-c.html": {
+            "title": "\"Носорог\" среди батарей: твердотельная АКБ Rhino обеспечит запас хода до 1500 км, молниеносную зарядку и работу от -40 до +50 °C",
+            "description": "Каждая ячейка выдерживает одновременное пробитие 10 стальными иглами",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/4/image%20(67)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/19/rhino-1500-40-50-c.html"
         }
     }
 }
