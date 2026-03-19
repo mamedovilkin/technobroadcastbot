@@ -5567,6 +5567,12 @@
             "description": "Документ направлен на ускорение развития данной технологии в России",
             "image": "https://sharing.vedomosti.ru/1773863306/vedomosti.ru/technology/news/2026/03/18/1183892-proekt-o-gosregulirovanii-ii.jpg",
             "url": "https://www.vedomosti.ru/technology/news/2026/03/18/1183892-proekt-o-gosregulirovanii-ii"
+        },
+        "https://www.forbes.ru/tekhnologii/557481-obhod-na-server-roskomnadzoru-stanovitsa-tazelee-blokirovat-internet-resursy": {
+            "title": "Обход на сервер: Роскомнадзору становится тяжелее блокировать интернет-ресурсы",
+            "description": "Средства для фильтрации трафика Рунета, которые Роскомнадзор использует в том числе для ограничения доступа к запрещенным ресурсам, перегружены и не справляются с блокировками, узнал Forbes. Проявляется перегрузка в том числе таким образом, что иногд",
+            "image": "https://cdn.forbes.ru/forbes-static/shareimages/557481.webp?v=1773867605",
+            "url": "https://www.forbes.ru/tekhnologii/557481-obhod-na-server-roskomnadzoru-stanovitsa-tazelee-blokirovat-internet-resursy"
         }
     }
 }
