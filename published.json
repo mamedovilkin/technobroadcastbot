@@ -5561,6 +5561,12 @@
             "description": "Для новинок сильно повысят TDP",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/AMD-RYZEN-9750X-9650X-HERO-1200x675_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/18/amd-ryzen-7-9750x-ryzen-5-9650x.html"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/03/18/1183892-proekt-o-gosregulirovanii-ii": {
+            "title": "Минцифры представило проект закона о госрегулировании ИИ",
+            "description": "Документ направлен на ускорение развития данной технологии в России",
+            "image": "https://sharing.vedomosti.ru/1773863306/vedomosti.ru/technology/news/2026/03/18/1183892-proekt-o-gosregulirovanii-ii.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/03/18/1183892-proekt-o-gosregulirovanii-ii"
         }
     }
 }
