@@ -5639,6 +5639,12 @@
             "description": "22 марта 2026 года ожидается большой анонс",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/image%20(4)_0_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/19/tesla-terafab-200.html"
+        },
+        "https://habr.com/ru/news/1011942/": {
+            "title": "Выпуск обновления HopToDesk 1.45.10 - безопасного открытого решения для удалённого рабочего стола",
+            "description": "18 марта 2026 года состоялся выпуск безопасного открытого решения HopToDesk 1.45.10 ( код решения на GitLab) для удалённого рабочего стола для всех основных типов устройств, включая ПК с Windows, Mac,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f11/f2d/fea/f11f2dfea837ab199e545f3a53a5da34.png",
+            "url": "https://habr.com/ru/news/1011942/"
         }
     }
 }
