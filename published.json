@@ -5579,6 +5579,12 @@
             "description": "Обновление вышло в Китае",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/77_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/18/xiaomi-hyperos-3-1.html"
+        },
+        "https://www.vedomosti.ru/politics/articles/2026/03/19/1183913-kolichestvo-ddos-atak-na-portali-tsik-uvelichilos": {
+            "title": "Количество DDoS-атак на порталы ЦИК увеличилось почти в 2 раза с 2024 года",
+            "description": "Эти усилия могут «положить» сайт комиссии, но ГАС «Выборы» 2.0 устойчива к подобному воздействию",
+            "image": "https://sharing.vedomosti.ru/1773869871/vedomosti.ru/politics/articles/2026/03/19/1183913-kolichestvo-ddos-atak-na-portali-tsik-uvelichilos.jpg",
+            "url": "https://www.vedomosti.ru/politics/articles/2026/03/19/1183913-kolichestvo-ddos-atak-na-portali-tsik-uvelichilos"
         }
     }
 }
