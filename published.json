@@ -5807,6 +5807,12 @@
             "description": "Из недавнего общения с коллегами и товарищами я понял…",
             "image": "https://mobile-review.com/all/wp-content/uploads/2026/03/848416.jpg",
             "url": "https://mobile-review.com/all/articles/misc/proczessory-intel-kak-razobratsya-v-nerazberihe/"
+        },
+        "https://habr.com/ru/news/1012462/": {
+            "title": "Apple представила нейросеть LiTo: она генерирует 3D-объекты с реалистичными бликами и отражениями по одной фотографии",
+            "description": "Исследователи ML-подразделения Apple представили модель машинного обучения LiTo, которая восстанавливает 3D-объекты по одной фотографии и сохраняет сложные визуальные эффекты, включая блики, отражения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/abb/a80/14d/abba8014d7a261a09798cb194dfee81e.jpg",
+            "url": "https://habr.com/ru/news/1012462/"
         }
     }
 }
