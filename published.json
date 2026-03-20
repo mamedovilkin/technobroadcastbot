@@ -5699,6 +5699,12 @@
             "description": "Инсайдерская информация",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/4/image%20(65)_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/19/16-lpddr5x-1-ufs-4-1.html"
+        },
+        "https://habr.com/ru/news/1012156/": {
+            "title": "Apple начала бороться с приложениями на базе вайб-кодинга",
+            "description": "App Store незаметно принимает меры против приложений, использующих искусственный интеллект для вайб-кодинга. Теперь такие приложения нарушают правила App Store, запрещающие запускать код, изменяющий...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ba0/43d/412/ba043d412c6a0f176689800757ad28f8.jpg",
+            "url": "https://habr.com/ru/news/1012156/"
         }
     }
 }
