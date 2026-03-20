@@ -5837,6 +5837,12 @@
             "description": "Изначально эти симки предназначались для китайских туристов, чтобы при приземлении в России сразу пользоваться интернетом и связью без обязательного периода охлаждения. Однако, по данным телеграм-каналов, все чаще покупки стали совершать украинские мошенники",
             "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/03/19/lori-0046261942-bigwww.jpg",
             "url": "https://www.bfm.ru/news/601228"
+        },
+        "https://science.mail.ru/news/46202-ii-vosstanovil-strukturu-molekuly-posle-ee-razrusheniya/": {
+            "title": "ИИ восстановил структуру молекулы после ее разрушения",
+            "description": "Создана генеративная модель искусственного интеллекта, способная реконструировать молекулярные структуры по движению ионов после мощного взрыва.",
+            "image": "https://resizer.mail.ru/p/4504a106-957d-521c-9725-1023ed4f13c2/AQA41sBBoHx2rJHMQVMDT85-XtsfTdrbagDnJEuzFiWdokZ0Asi08hBhIvwGhPJnJ3zw52msps_pgCGcjaxRFpAW9ok.jpg",
+            "url": "https://science.mail.ru/news/46202-ii-vosstanovil-strukturu-molekuly-posle-ee-razrusheniya/"
         }
     }
 }
