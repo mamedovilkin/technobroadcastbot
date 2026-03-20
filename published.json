@@ -5765,6 +5765,12 @@
             "description": "Дженсен Хуанг представил новую платформу NemoClaw для создания автономных программных агентов",
             "image": "https://resizer.mail.ru/p/6bd05f98-cb4f-59f5-89e0-a0c69959add3/AQAzE-VzjxK0Nanr6CvFaks35x2FWP5Wq3GHAEBWhXE-3v7DZknN8Oa9mmHfwIJuE6fvgH1QTcr1xXHA8GWVyT-cg3M.jpg",
             "url": "https://finance.mail.ru/article/nvidia-menyaet-strategiyu-razvitiya-i-prevraschaetsya-v-operatsionnuyu-sistemu-dlya-iskusstvennogo-intellekt-69202133/"
+        },
+        "https://habr.com/ru/news/1012456/": {
+            "title": "GPT-5.2 не смогла сложить 5+7. Как эзотерические языки обнулили передовые модели",
+            "description": "ИИ-лаборатория Lossfunk  представила  EsoLang-Bench — бенчмарк из 80 задач на пяти эзотерических языках программирования: Brainfuck, Befunge-98, Whitespace, Unlambda и Shakespeare. Пять...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cb9/0a4/08a/cb90a408a5b68fdc39327294a1adb90b.jpg",
+            "url": "https://habr.com/ru/news/1012456/"
         }
     }
 }
