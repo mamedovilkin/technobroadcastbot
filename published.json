@@ -5975,6 +5975,12 @@
             "description": "Злоумышленники подменяли клиентские дистрибутивы и заражали организации через привычный сценарий видеозвонка.",
             "image": "https://www.securitylab.ru/upload/iblock/ee7/i95j7cv7r2qsnho3tvc5eqhmbq391043.jpg",
             "url": "https://www.securitylab.ru/news/570635.php"
+        },
+        "https://www.ixbt.com/news/2026/03/20/samsung-galaxy-s22.html": {
+            "title": "Samsung заплатит пользователям Galaxy S22 за то, что ограничивала производительность смартфонов в играх",
+            "description": "Для того, чтобы смартфоны не перегревались",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/Galaxy-S22-Ultra-hands-on-review-4-1200x675_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/20/samsung-galaxy-s22.html"
         }
     }
 }
