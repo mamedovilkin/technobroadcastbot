@@ -6071,6 +6071,12 @@
             "description": "Эксперты считают, что Telegram не будет полностью заблокирован, но функции мессенджера могут сузить. Узнайте подробности о предстоящих ограничениях. - Страна и мир - 21 марта 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/Tn1yS_DMteVSm0Vyryu4ng/article-id6911212-16x9.jpg?1774077363",
             "url": "https://www.e1.ru/text/world/2026/03/21/76323976/"
+        },
+        "https://habr.com/ru/companies/tehrevizor/news/1013006/": {
+            "title": "Alibaba сократила более 66 тыс. сотрудников за год на фоне смены стратегии в сторону ИИ",
+            "description": "Alibaba Group за 2025 год сократила численность персонала примерно на треть — с 194 тыс. до 128 тыс. сотрудников. Таким образом, компанию покинули более 66 тыс. человек, следует из отчетности, на...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cbf/5a1/137/cbf5a11375cdee993fc7772880c03c6d.jpeg",
+            "url": "https://habr.com/ru/companies/tehrevizor/news/1013006/"
         }
     }
 }
