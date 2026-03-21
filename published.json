@@ -6005,6 +6005,12 @@
             "description": "Microsoft анонсировала масштабные изменения в системе распространения обновлений своей операционной системы. Глава подразделения Windows Паван Давулури (Pavan Davuluri) пообещал, что в будущем пользователи смогут приостанавливать установку патчей «на столько, на сколько нужно». Также владельцы компьютеров получат возможность перезагружать или выключать устройство без принудительной установки обновлений.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/21/1138663/windows.jpg",
             "url": "https://3dnews.ru/1138663/microsoft-anonsirovala-samoe-dolgogdannoe-obnovlenie-windows-polzovatelyam-dadut-kontrol-nad-obnovleniyami"
+        },
+        "https://meduza.io/feature/2026/03/20/v-rossii-za-sutki-radikalno-usilili-blokirovku-telegrama-v-dvuh-sluchayah-iz-treh-on-nedostupen": {
+            "title": "В России за сутки радикально усилили блокировку телеграма — в двух случаях из трех он недоступен Это данные независимого проекта по исследованию интернет",
+            "description": "Международный исследовательский проект OONI зафиксировал, что 20 марта в России резко усилили блокировку телеграма. На графике проекта видно, что в 72% случаев тесты показывали аномалии, а мессенджер был доступен только в каждом третьем случае (28%). Количество аномалий начало расти в последнюю неделю, но ни в один из предыдущих дней их не было так много.",
+            "image": "https://meduza.io/imgly/share/1774042364/feature/2026/03/20/v-rossii-za-sutki-radikalno-usilili-blokirovku-telegrama-v-dvuh-sluchayah-iz-treh-on-nedostupen",
+            "url": "https://meduza.io/feature/2026/03/20/v-rossii-za-sutki-radikalno-usilili-blokirovku-telegrama-v-dvuh-sluchayah-iz-treh-on-nedostupen"
         }
     }
 }
