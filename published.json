@@ -5969,6 +5969,12 @@
             "description": "Емкость младшей модели составляет 5000 мАч",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/Xiaomi-launches-Black-Shark-Blade-2-Plus-power-banks_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/20/10-000-22-5-27-xiaomi-black-shark-blade-2.html"
+        },
+        "https://www.securitylab.ru/news/570635.php": {
+            "title": "Обычный видеозвонок, обычный установщик, обычный бэкдор. Хакеры снова напомнили, что доверять корпоративному серверу - не то же самое, что доверять вендору",
+            "description": "Злоумышленники подменяли клиентские дистрибутивы и заражали организации через привычный сценарий видеозвонка.",
+            "image": "https://www.securitylab.ru/upload/iblock/ee7/i95j7cv7r2qsnho3tvc5eqhmbq391043.jpg",
+            "url": "https://www.securitylab.ru/news/570635.php"
         }
     }
 }
