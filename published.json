@@ -5927,6 +5927,12 @@
             "description": "В конце прошлой недели, 14-15 марта, многие пользователи телеграма в России столкнулись с серьезными проблемами в работе приложения — это зафиксировали сервисы Downdetector и «сбой.рф». Одновременно отраслевые эксперты заявили, что блокировка телеграма (обещанная к 1 апреля) уже началась. Позднее «Коммерсант» уточнил, что «доля неудачных запросов к доменам Telegram из РФ в среднем достигла почти 80%». «Доля неудачных запросов», конечно, не означает долю пользователей, у которых телеграм действительно не работает. Поэтому «Медуза» решила проверить эти данные самым простым способом. Мы спросили, насколько все плохо с телеграмом у наших читателей — и что они планируют с этим делать.",
             "image": "https://meduza.io/imgly/share/1773999581/feature/2026/03/20/plohie-novosti-telegram-ne-rabotaet-u-9-iz-10-nashih-chitateley-v-rossii-horoshie-pochti-vse-uzhe-ustanovili-vpn-no-teper-pora-postavit-ego-blizkim",
             "url": "https://meduza.io/feature/2026/03/20/plohie-novosti-telegram-ne-rabotaet-u-9-iz-10-nashih-chitateley-v-rossii-horoshie-pochti-vse-uzhe-ustanovili-vpn-no-teper-pora-postavit-ego-blizkim"
+        },
+        "https://auto.mail.ru/article/120184-chernyij-ekran-smerti-chem-grozit-polomka-sensornyih-monitorov-v-novyih-avto/": {
+            "title": "\"Черный экран смерти\": чем грозит поломка сенсорных мониторов в новых авто",
+            "description": "В современном мире машины оснащены множеством электронных устройств, которые делают поездку комфортной и безопасной. Однако даже такие продвинутые системы могут выйти из строя.",
+            "image": "https://resizer.mail.ru/p/001ff89e-c776-5532-a92d-8ea055210bce/AQABf7xH6vJKpGc3Eit578l3JWB7bN8QuVgLPEWlwWv1KbtChojoq1iQL9mY1SltIEPTl8AT3-cfqPUZKUgWVSSrQ7w.jpg",
+            "url": "https://auto.mail.ru/article/120184-chernyij-ekran-smerti-chem-grozit-polomka-sensornyih-monitorov-v-novyih-avto/"
         }
     }
 }
