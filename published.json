@@ -6101,6 +6101,12 @@
             "description": "Обычная невнимательность обернулась полным разоблачением сложной схемы.",
             "image": "https://www.securitylab.ru/upload/iblock/1b2/i0obn5bmpbbhbokqkrsf0mb5a6ajbvdy.jpg",
             "url": "https://www.securitylab.ru/news/570627.php"
+        },
+        "https://www.securitylab.ru/news/570623.php": {
+            "title": "\"Работай с ИИ или уходи\". PwC и Accenture начали избавляться от сотрудников \"старой школы\"",
+            "description": "Крупнейшие компании мира переходят на ИИ вопреки убыткам.",
+            "image": "https://www.securitylab.ru/upload/iblock/33c/oew5itnlcbus5795u527ojzx4tujmzf5.jpg",
+            "url": "https://www.securitylab.ru/news/570623.php"
         }
     }
 }
