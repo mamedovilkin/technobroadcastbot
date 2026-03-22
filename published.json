@@ -6137,6 +6137,12 @@
             "description": "В последние несколько лет Apple придерживалась установленной схемы выпуска моделей iPhone, но теперь наметилась тенденция к переменам — компания собирается радикально обновить схему всей линейки смартфонов, сообщил ресурс 9to5mac..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/21/1138690/iphone.jpg",
             "url": "https://3dnews.ru/1138690/apple-ne-predstavit-iphone-18-osenyu-no-pokagetsya-koe-chto-pointeresnee"
+        },
+        "https://habr.com/ru/news/1013056/": {
+            "title": "В MIT научили робота видеть сквозь стены через Wi-Fi",
+            "description": "Исследователи из MIT  представили  Wave-Former — систему, которая позволяет роботу восстанавливать 3D-форму предметов, скрытых за картоном, гипсокартоном, деревом или тканью. Для этого...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9e1/c20/90e/9e1c2090e4bb2e1cf4e601f4f51d388c.jpg",
+            "url": "https://habr.com/ru/news/1013056/"
         }
     }
 }
