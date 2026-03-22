@@ -6161,6 +6161,12 @@
             "description": "Издание Forbes, ссылаясь на источник в одном из операторов связи, 19 марта рассказало, что Роскомнадзору, который уже почти неделю пытается заблокировать телеграм, не хватает оборудования. Средства для фильтрации трафика Рунета перегружены и не справляются с блокировками, утверждает издание. Источник Forbes на телеком-рынке уточнил, что ресурсы РКН, вероятно, перегружает не сама блокировка мессенджера, а встроенный в него прокси. За сутки, прошедшие с публикации, блокировки усилились: уже 20 марта СМИ сообщали, что в двух случаях из трех телеграм в России был недоступен. «Медуза» узнала у экспертов, изучающих блокировки и работу РКН, стоит ли ожидать полной блокировки — и сможет ли Telegram ее побороть.",
             "image": "https://meduza.io/imgly/share/1774113437/feature/2026/03/21/kak-rkn-blokiruet-telegram-pravda-li-chto-vedomstvu-ne-hvataet-oborudovaniya-i-chto-mozhet-sdelat-komanda-samogo-messendzhera",
             "url": "https://meduza.io/feature/2026/03/21/kak-rkn-blokiruet-telegram-pravda-li-chto-vedomstvu-ne-hvataet-oborudovaniya-i-chto-mozhet-sdelat-komanda-samogo-messendzhera"
+        },
+        "https://www.securitylab.ru/news/570636.php": {
+            "title": "Программисты больше не пишут код. Они управляют армией ботов, которые делают это за них",
+            "description": "OpenAI, Anthropic, Meta и Shopify оказались в центре новой культуры продуктивности, где активность ИИ-инструментов становится карьерным сигналом.",
+            "image": "https://www.securitylab.ru/upload/iblock/2c8/hyr1g47xx34ce5g94771hote9mo8bw1v.jpg",
+            "url": "https://www.securitylab.ru/news/570636.php"
         }
     }
 }
