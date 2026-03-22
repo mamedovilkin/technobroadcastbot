@@ -6185,6 +6185,12 @@
             "description": "Интерфакс: Минцифры России заявляет, что информация в СМИ о введении так называемого \"белого списка\" ресурсов для фиксированного интернета на случай его отключений не соответствует действительности, так как этот список используется только при ограничении мобильного интернета.\"Распространившаяся в СМИ информация о том, что провайдеры фиксированного интернета готовятся вводить ограничения на своих сетях и оставлять сервисы только из \"белого списка\" - фейк.",
             "image": "https://www.interfax.ru/aspimg/1079238.jpg",
             "url": "https://www.interfax.ru/russia/1079238"
+        },
+        "https://www.vedomosti.ru/society/news/2026/03/21/1184558-belih-spiskov-domashnih-internet-provaiderov": {
+            "title": "Минцифры опровергло введение \"белых списков\" у домашних интернет-провайдеров",
+            "description": "Отключения по причинам безопасности не касаются домашнего интернета",
+            "image": "https://sharing.vedomosti.ru/1774103812/vedomosti.ru/society/news/2026/03/21/1184558-belih-spiskov-domashnih-internet-provaiderov.jpg",
+            "url": "https://www.vedomosti.ru/society/news/2026/03/21/1184558-belih-spiskov-domashnih-internet-provaiderov"
         }
     }
 }
