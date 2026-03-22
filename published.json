@@ -6107,6 +6107,12 @@
             "description": "Крупнейшие компании мира переходят на ИИ вопреки убыткам.",
             "image": "https://www.securitylab.ru/upload/iblock/33c/oew5itnlcbus5795u527ojzx4tujmzf5.jpg",
             "url": "https://www.securitylab.ru/news/570623.php"
+        },
+        "https://rtvi.com/news/domashnij-internet-zamedlitsya-v-moskve-massovo-vnedryayut-belye-spiski/": {
+            "title": "Домашний интернет замедлится: в Москве массово внедряют \"белые списки\"",
+            "description": "Провайдеры домашнего интернета в Москве в срочном порядки начали внедрять систему \"белых списков\" по аналогии с той, что уже действует на мобильных сетях, пишет телеграм-канал Mash в субботу, 21 марта.",
+            "image": "https://rtvi.com/wp-content/uploads/2026/03/568332-1.jpg?141015",
+            "url": "https://rtvi.com/news/domashnij-internet-zamedlitsya-v-moskve-massovo-vnedryayut-belye-spiski/"
         }
     }
 }
