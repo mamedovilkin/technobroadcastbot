@@ -6293,6 +6293,12 @@
             "description": "Екатеринбуржцы рассказали, где чаще покупают одежду — на маркетплейсах или в ТРЦ. Покупателям, несмотря на популярность онлайн-площадок, оказались важны несколько факторов. - Бизнес - 22 марта 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/jTFVjUAbDWpg2oHIMgFFKQ/article-id6912207-16x9.jpg?1774167806",
             "url": "https://www.e1.ru/text/business/2026/03/22/76324773/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1013270/": {
+            "title": "Google начал менять заголовки в поисковой выдаче на сгенерированные",
+            "description": "Поисковая система Google начала заменять оригинальные заголовки новостных статей на варианты, сгенерированные искусственным интеллектом. Ранее подобная практика была внедрена в ленту Google Discover,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/bd6/7fa/9d6/bd67fa9d6d79828630b3bba4f8a090b0.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1013270/"
         }
     }
 }
