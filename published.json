@@ -6263,6 +6263,12 @@
             "description": "Основатель Tesla и SpaceX Илон Маск полагает, что уже через три года вычислительные мощности для моделей искусственного интеллекта (ИИ) будет выгоднее размещать в космосе, а не на Земле.",
             "image": "https://resizer.mail.ru/p/183910ad-0de2-5fbd-b349-dadef9f663ba/AQAz2ExiSSfb4N4hAQTkMebSWWY0vKwbqvMiKqJu5JHkSjfj5019W-4AH2jwld9iai80JX25ENsq7ZgTwzX5IBJSHmE.jpg",
             "url": "https://finance.mail.ru/article/mask-moschnosti-dlya-ii-budet-vyigodnee-razmeschat-v-kosmose-uzhe-cherez-tri-goda-69202374/"
+        },
+        "https://habr.com/ru/news/1013220/": {
+            "title": "Microsoft может отказаться от обязательных учётных записей в Windows 11",
+            "description": "Некоторые высокопоставленные инженеры Microsoft выступили за возможность отказа от обязательного использования учётных записей при входе в систему в Windows 11. Microsoft уже подтвердила выпуск...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/87c/3ff/c08/87c3ffc08b563acc15f30199eaef7d14.jpg",
+            "url": "https://habr.com/ru/news/1013220/"
         }
     }
 }
