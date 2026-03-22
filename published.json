@@ -6155,6 +6155,12 @@
             "description": "Этой первый подобный случай",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/image_1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/21/iiagent-obidelsja-na-programmista-izza-pravok-na-github-napisal-razoblachajushuju-cheloveka-statju-a-zatem-prinjos.html"
+        },
+        "https://meduza.io/feature/2026/03/21/kak-rkn-blokiruet-telegram-pravda-li-chto-vedomstvu-ne-hvataet-oborudovaniya-i-chto-mozhet-sdelat-komanda-samogo-messendzhera": {
+            "title": "Как РКН блокирует телеграм? Правда ли, что ведомству не хватает оборудования? И что может сделать команда самого мессенджера? Отвечают разработчик VPN, киберадвокат и журналисты, пишущие о технологиях",
+            "description": "Издание Forbes, ссылаясь на источник в одном из операторов связи, 19 марта рассказало, что Роскомнадзору, который уже почти неделю пытается заблокировать телеграм, не хватает оборудования. Средства для фильтрации трафика Рунета перегружены и не справляются с блокировками, утверждает издание. Источник Forbes на телеком-рынке уточнил, что ресурсы РКН, вероятно, перегружает не сама блокировка мессенджера, а встроенный в него прокси. За сутки, прошедшие с публикации, блокировки усилились: уже 20 марта СМИ сообщали, что в двух случаях из трех телеграм в России был недоступен. «Медуза» узнала у экспертов, изучающих блокировки и работу РКН, стоит ли ожидать полной блокировки — и сможет ли Telegram ее побороть.",
+            "image": "https://meduza.io/imgly/share/1774113437/feature/2026/03/21/kak-rkn-blokiruet-telegram-pravda-li-chto-vedomstvu-ne-hvataet-oborudovaniya-i-chto-mozhet-sdelat-komanda-samogo-messendzhera",
+            "url": "https://meduza.io/feature/2026/03/21/kak-rkn-blokiruet-telegram-pravda-li-chto-vedomstvu-ne-hvataet-oborudovaniya-i-chto-mozhet-sdelat-komanda-samogo-messendzhera"
         }
     }
 }
