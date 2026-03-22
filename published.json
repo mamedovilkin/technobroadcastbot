@@ -6299,6 +6299,12 @@
             "description": "Поисковая система Google начала заменять оригинальные заголовки новостных статей на варианты, сгенерированные искусственным интеллектом. Ранее подобная практика была внедрена в ленту Google Discover,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/bd6/7fa/9d6/bd67fa9d6d79828630b3bba4f8a090b0.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1013270/"
+        },
+        "https://www.playground.ru/misc/news/fitgirl_vypustila_svoj_pervyj_repak_s_integrirovannym_gipervizorom-1832734": {
+            "title": "FitGirl выпустила свой первый репак с интегрированным гипервизором",
+            "description": "Известная репакерша FitGirl представила свой первый репак для игры Black Myth: Wukong, включающий встроенную поддержку гипервизора - технологии, используемой для обхода защиты Denuvo. Это может стать важным шагом для упрощения установки подобных релизов, которые ранее...",
+            "image": "https://i.playground.ru/e/yfcq8w9kCT9eTq1-I4F9ig.jpeg",
+            "url": "https://www.playground.ru/misc/news/fitgirl_vypustila_svoj_pervyj_repak_s_integrirovannym_gipervizorom-1832734"
         }
     }
 }
