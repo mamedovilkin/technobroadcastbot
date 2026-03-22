@@ -6125,6 +6125,12 @@
             "description": "Меня зовут Тимофей, я руководитель отдела разработки, мы разрабатываем для бизнеса, и не особо пересекаемся к GameDev. Но недавно я столкнулся с \"инди\" проектом Hail to the Rainbow. Я специально взял...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/1e6/54a/17a/1e654a17ae618d74c67075e8f77e5e01.png",
             "url": "https://habr.com/ru/articles/1013082/"
+        },
+        "https://science.mail.ru/articles/46247-budushchee-nauki-kvantovye-kompyutery/": {
+            "title": "мнение ученого МИСИС",
+            "description": "Узнайте, что такое квантовые вычисления и как они меняют науку, в колонке Алены Мастюковой, победителя конкурса научной журналистики «Формула слова»",
+            "image": "https://resizer.mail.ru/p/41aebcad-3b3e-539e-85b5-d286b7008588/AQA4_2cYk2q93lIHn7vKVVJ8tx8X6_wxRkuNZzuB8jS5gg_NFCRX2aJZNqZzItZm2ct-qoSGD_FcZZfiet5P94LYrfo.jpg",
+            "url": "https://science.mail.ru/articles/46247-budushchee-nauki-kvantovye-kompyutery/"
         }
     }
 }
