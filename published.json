@@ -6119,6 +6119,12 @@
             "description": "Герман Клименко оценил перспективу отключения интернета в России. Узнайте экспертное мнение о текущей ситуации с связью. - Страна и мир - 21 марта 2026 | НГС.ру",
             "image": "https://ngs.ru/html-to-img/og/Beo_2i0cvKfV_W3v3IKq0A/article-id6911451-16x9.jpg?1774096367",
             "url": "https://ngs.ru/text/world/2026/03/21/76324156/"
+        },
+        "https://habr.com/ru/articles/1013082/": {
+            "title": "200 человек и $50 млн vs один человек и вагон терпения: как соло-разработчик сделал игру уровня Atomic Heart",
+            "description": "Меня зовут Тимофей, я руководитель отдела разработки, мы разрабатываем для бизнеса, и не особо пересекаемся к GameDev. Но недавно я столкнулся с \"инди\" проектом Hail to the Rainbow. Я специально взял...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1e6/54a/17a/1e654a17ae618d74c67075e8f77e5e01.png",
+            "url": "https://habr.com/ru/articles/1013082/"
         }
     }
 }
