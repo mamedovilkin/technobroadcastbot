@@ -6335,6 +6335,12 @@
             "description": "За 8 минут чтения вы поймёте, что такое Perplexity Computer, чем он отличается от всех кодинг-агентов, что он реально сделал на моей задаче — и получите 7 готовых промптов для трейдинга, разработки,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ffc/e98/eea/ffce98eea22629e66b49da80b8424bb0.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1013360/"
+        },
+        "https://www.securitylab.ru/news/570652.php": {
+            "title": "Главные мишени геополитики. 200 инцидентов раскрыли логику тех, кто бьёт по инфраструктуре",
+            "description": "Обычные диспетчерские превратились в передовую линию борьбы за влияние.",
+            "image": "https://www.securitylab.ru/upload/iblock/e39/lb9wuna3lchuiui1u74ohonxg09h3cja.jpg",
+            "url": "https://www.securitylab.ru/news/570652.php"
         }
     }
 }
