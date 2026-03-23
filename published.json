@@ -6311,6 +6311,12 @@
             "description": "Стыковка с модулем «Поиск» на МКС ожидается вечером 24 марта",
             "image": "https://sharing.vedomosti.ru/1774183616/vedomosti.ru/technology/news/2026/03/22/1184635-roskosmos-vivel-raketu.jpg",
             "url": "https://www.vedomosti.ru/technology/news/2026/03/22/1184635-roskosmos-vivel-raketu"
+        },
+        "https://www.ixbt.com/news/2026/03/22/intel-pentium-33.html": {
+            "title": "Процессор, который изменил всё: легендарному Intel Pentium исполнилось 33 года",
+            "description": "Для многих именно Pentium стал первым процессором в первом ПК",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/2tA6yCqZBwmwA24rftjkCC.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/22/intel-pentium-33.html"
         }
     }
 }
