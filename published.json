@@ -6305,6 +6305,12 @@
             "description": "Известная репакерша FitGirl представила свой первый репак для игры Black Myth: Wukong, включающий встроенную поддержку гипервизора - технологии, используемой для обхода защиты Denuvo. Это может стать важным шагом для упрощения установки подобных релизов, которые ранее...",
             "image": "https://i.playground.ru/e/yfcq8w9kCT9eTq1-I4F9ig.jpeg",
             "url": "https://www.playground.ru/misc/news/fitgirl_vypustila_svoj_pervyj_repak_s_integrirovannym_gipervizorom-1832734"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/03/22/1184635-roskosmos-vivel-raketu": {
+            "title": "\"Роскосмос\" вывел на орбиту ракету с грузовым кораблем \"Прогресс МС-33\"",
+            "description": "Стыковка с модулем «Поиск» на МКС ожидается вечером 24 марта",
+            "image": "https://sharing.vedomosti.ru/1774183616/vedomosti.ru/technology/news/2026/03/22/1184635-roskosmos-vivel-raketu.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/03/22/1184635-roskosmos-vivel-raketu"
         }
     }
 }
