@@ -6449,6 +6449,12 @@
             "description": "АВТОВАЗ модернизирует производство алюминиевого литья: что изменилось",
             "image": "https://www.32cars.ru/uploads/materials/17810/inner/XvCNXRSOCaRQiBjNhvc3.jpg",
             "url": "https://www.32cars.ru/posts/id-17810-avtovaz-obnovljaet-proizvodstvo-aljuminievogo-litja"
+        },
+        "https://www.securitylab.ru/news/570659.php": {
+            "title": "Пароли в открытом виде, JSON вместо базы данных и студент из Краснодара. Как Android-шпион ClayRat прожил два месяца и исчез",
+            "description": "Solar вскрыл изнанку Android-шпиона ClayRat.",
+            "image": "https://www.securitylab.ru/upload/iblock/ed0/c90amn9qcodfnlwh15mh4bfy5vwumk7s.jpg",
+            "url": "https://www.securitylab.ru/news/570659.php"
         }
     }
 }
