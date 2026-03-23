@@ -6395,6 +6395,12 @@
             "description": "В Индии акцент будет сосредоточен на бюджетных и среднеценовых устройствах",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/OnePlus-13s-747x420.jpg",
             "url": "https://www.ixbt.com/news/2026/03/23/plohie-novosti-dlja-ssha-i-evropy-insajder-zajavil-chto-oneplus-uhodit-s-mirovyh-rynkov-i-ostajotsja-v-kitae.html"
+        },
+        "https://habr.com/ru/articles/1013522/": {
+            "title": "Заказываю пиццу через AI-агента: как я перестал открывать приложение Додо",
+            "description": "Привет, меня зовут Лев. Вдохновившись постом коллеги, который через MCP-ВкусВилл собирает себе корзину покупок, решил пойти дальше — собрать агента, который не просто ищет информацию, а совершает...",
+            "image": "https://habr.com/share/publication/1013522/a8a9ae29bbf71f6c8eb479032944b7ff/",
+            "url": "https://habr.com/ru/articles/1013522/"
         }
     }
 }
