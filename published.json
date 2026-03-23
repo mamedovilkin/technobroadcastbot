@@ -6443,6 +6443,12 @@
             "description": "Компания GitGuardian  опубликовала  пятый ежегодный отчет State of Secrets Sprawl. За 2025 год в публичных коммитах на GitHub обнаружено 28,65 млн захардкоженных секретов — API-ключей,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/99f/f6a/c91/99ff6ac910267c2b5a490c6c7fa67f7c.jpg",
             "url": "https://habr.com/ru/news/1013638/"
+        },
+        "https://www.32cars.ru/posts/id-17810-avtovaz-obnovljaet-proizvodstvo-aljuminievogo-litja": {
+            "title": "Роботы и новые станки: как производство не улучшай, а все равно получается ЛАДА",
+            "description": "АВТОВАЗ модернизирует производство алюминиевого литья: что изменилось",
+            "image": "https://www.32cars.ru/uploads/materials/17810/inner/XvCNXRSOCaRQiBjNhvc3.jpg",
+            "url": "https://www.32cars.ru/posts/id-17810-avtovaz-obnovljaet-proizvodstvo-aljuminievogo-litja"
         }
     }
 }
