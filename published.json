@@ -6437,6 +6437,12 @@
             "description": "Если все сделать правильно, ценные данные не потеряются.",
             "image": "https://click-or-die.ru/app/uploads/2026/03/9599e0a1-958c-48bc-a601-b92211886d39.jpeg",
             "url": "https://click-or-die.ru/2026/03/kak-ochistit-sistemnye-dannye-na-iphone-est-effektivnyj-no-radikalnyj-sposob/"
+        },
+        "https://habr.com/ru/news/1013638/": {
+            "title": "113 000 ключей DeepSeek утекли на GitHub - и это лишь часть проблемы",
+            "description": "Компания GitGuardian  опубликовала  пятый ежегодный отчет State of Secrets Sprawl. За 2025 год в публичных коммитах на GitHub обнаружено 28,65 млн захардкоженных секретов — API-ключей,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/99f/f6a/c91/99ff6ac910267c2b5a490c6c7fa67f7c.jpg",
+            "url": "https://habr.com/ru/news/1013638/"
         }
     }
 }
