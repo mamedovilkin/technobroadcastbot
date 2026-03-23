@@ -6329,6 +6329,12 @@
             "description": "Студия-разработчик экшен-RPG Crimson Desert выступила с официальным заявлением в соцсетях, касающимся использования технологий искусственного интеллекта при создании игры. Обращение стало реакцией на обеспокоенность игрового сообщества, обнаружившего в финальной версии проекта следы генеративного ИИ.",
             "image": "https://i.playground.ru/e/zgOnfOPgGbZWE2EH5keitQ.jpeg",
             "url": "https://www.playground.ru/crimson_desert/news/razrabotchiki_crimson_desert_ofitsialno_priznali_ispolzovanie_ii_artov_i_poobeschali_vse_zamenit-1832767"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1013360/": {
+            "title": "7 минут, 4 листа Excel, 33 источника. Как Perplexity Computer сделал работу, на которую у меня уходил день",
+            "description": "За 8 минут чтения вы поймёте, что такое Perplexity Computer, чем он отличается от всех кодинг-агентов, что он реально сделал на моей задаче — и получите 7 готовых промптов для трейдинга, разработки,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ffc/e98/eea/ffce98eea22629e66b49da80b8424bb0.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1013360/"
         }
     }
 }
