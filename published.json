@@ -6467,6 +6467,12 @@
             "description": "В разработчике офисного ПО «МойОфис» объявили о массовых сокращениях из-за финансовых трудностей. Людей, которые потеряют работу, будут уведомлять по почте в течение двух недель. В компании обещают...",
             "image": "https://filearchive.cnews.ru/img/news/2023/03/28/myoffice-750.jpg",
             "url": "https://www.cnews.ru/news/top/2026-03-23_v_mojofis_massovye_sokrashcheniya"
+        },
+        "https://habr.com/ru/news/1013600/": {
+            "title": "Атака на цепочку поставок Trivy запустила червь CanisterWorm в десятках пакетов npm",
+            "description": "Злоумышленники, стоящие за атакой на цепочку поставок популярного сканера Trivy, предположительно, проводят последующие атаки, которые привели к компрометации большого количества пакетов npm с помощью...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/55b/7cc/1da/55b7cc1da01923406a635f91a1a1ab1b.jpg",
+            "url": "https://habr.com/ru/news/1013600/"
         }
     }
 }
