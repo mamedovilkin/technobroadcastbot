@@ -6497,6 +6497,12 @@
             "description": "Разбираем, что лучше для Telegram в 2026 году: VPN, MTProto или SOCKS5. Без мифов, с практическими сценариями, рисками и понятным выводом.",
             "image": "http://www.securitylab.ru/upload/blog/avatar/5e8/ru07nzj9ulac5s566aqabl7hksbo5fj6.jpg",
             "url": "https://www.securitylab.ru/blog/personal/SimlpeHacker/360064.php"
+        },
+        "https://www.ixbt.com/news/2026/03/24/microsoft-ssd-windows-11.html": {
+            "title": "Microsoft закрыла доступ к функции, которая заметно ускоряла SSD в Windows 11 и работу самой системы",
+            "description": "Скрытый системный драйвер nvmedisk.sys теперь невозможно активировать через реестр",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/wbScJz3RrD7JtJhaJpT9rZ-1125-80.png%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/24/microsoft-ssd-windows-11.html"
         }
     }
 }
