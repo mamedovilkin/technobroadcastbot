@@ -6533,6 +6533,12 @@
             "description": "На это может уйти до 4 лет",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/3a331825-62f9-441e-a624-19ec5af68e83_large.png",
             "url": "https://www.ixbt.com/news/2026/03/23/v-rossii-gotovjatsja-k-sozdaniju-sobstvennogo-litografa-pod-normy-90-nm.html"
+        },
+        "https://www.securitylab.ru/news/570691.php": {
+            "title": "Руки? Не нужны. Китайский робот залез в сосуды мозга и вышел с результатом лучше, чем у живого хирурга",
+            "description": "Испытания в Пекине показали, что удаленное управление катетером может снять физическую нагрузку с хирурга и ускорить сложную сосудистую диагностику.",
+            "image": "https://www.securitylab.ru/upload/iblock/d04/npuyouohzco8ibth4eyga50c9xxq43jo.jpg",
+            "url": "https://www.securitylab.ru/news/570691.php"
         }
     }
 }
