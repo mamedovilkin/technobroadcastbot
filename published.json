@@ -6635,6 +6635,12 @@
             "description": "На всех линиях обеспечивается возможность успешно пользоваться мобильным интернетом, за исключением отдельных участков небольшой протяженности",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/2/11_0_large.png",
             "url": "https://www.ixbt.com/news/2026/03/24/nazvan-luchshij-operator-po-kachestvu-mobilnogo-interneta-v-metro-sanktpeterburga.html"
+        },
+        "https://habr.com/ru/news/1014240/": {
+            "title": "xAI начала отправлять инженеров в офисы корпоративных клиентов",
+            "description": "ИИ-стартап xAI Илона Маска теперь отправляет инженеров прямо в офисы потенциальных корпоративных клиентов. Таким образом компания пытается ускорить внедрение своих решений и отвоевать долю рынка у...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9f3/1b6/dc6/9f31b6dc653edb3e08c3887e268a377d.JPG",
+            "url": "https://habr.com/ru/news/1014240/"
         }
     }
 }
