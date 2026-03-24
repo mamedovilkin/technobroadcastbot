@@ -6491,6 +6491,12 @@
             "description": "В интернете набирает популярность  фанатский сайт DLSS 5 Anything , который позволяет любому желающему применить эффект «бьютификации» к любой фотографии. Ресурс стал ответом сообщества на...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/1e4/c8f/73d/1e4c8f73d03ec8a80ab44a98dde59dfe.jpeg",
             "url": "https://habr.com/ru/companies/bothub/news/1013894/"
+        },
+        "https://www.securitylab.ru/blog/personal/SimlpeHacker/360064.php": {
+            "title": "VPN vs прокси для Telegram в 2026 году: что выбрать и почему ответ неочевиден",
+            "description": "Разбираем, что лучше для Telegram в 2026 году: VPN, MTProto или SOCKS5. Без мифов, с практическими сценариями, рисками и понятным выводом.",
+            "image": "http://www.securitylab.ru/upload/blog/avatar/5e8/ru07nzj9ulac5s566aqabl7hksbo5fj6.jpg",
+            "url": "https://www.securitylab.ru/blog/personal/SimlpeHacker/360064.php"
         }
     }
 }
