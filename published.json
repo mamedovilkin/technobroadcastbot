@@ -6515,6 +6515,12 @@
             "description": "Глава NVIDIA Дженсен Хуанг в свежем  выпуске подкаста Lex Fridman (#494)  заявил, что, по его мнению, человечество уже достигло AGI — искусственного общего интеллекта. \"I think it's now. I...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fae/904/7d5/fae9047d5be756aeaac9a2ca0f616ce2.jpg",
             "url": "https://habr.com/ru/news/1014014/"
+        },
+        "https://habr.com/ru/articles/1014012/": {
+            "title": "Вы и я не знаем ни JavaScript ни какой-либо другой язык",
+            "description": "Меня всегда веселили люди, которые заявляют, что они \"знают ЯП\". Посмотрим на это на примере человеческого языка, словарный запас среднестатистического россиянина 30к слов. Минимально зафиксированное...",
+            "image": "https://habr.com/share/publication/1014012/9a7b090eb2e3e79725e5035d97ec3c66/",
+            "url": "https://habr.com/ru/articles/1014012/"
         }
     }
 }
