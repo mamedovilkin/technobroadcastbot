@@ -6605,6 +6605,12 @@
             "description": "Платформа MioLab превратила хвалёную безопасность macOS в пустой звук.",
             "image": "https://www.securitylab.ru/upload/iblock/77a/pnutyls28hvqrm2t5ltkh764mi8g8e2w.jpg",
             "url": "https://www.securitylab.ru/news/570697.php"
+        },
+        "https://3dnews.ru/1138779/tverdotelniy-akkumulyator-donut-lab-ne-zagorelsya-i-prodolgil-rabotat-dage-prodiryavlennim": {
+            "title": "Твердотельный аккумулятор Donut Lab не загорелся и продолжил работать даже продырявленным",
+            "description": "Финский стартап Donut Lab продолжает проводить серию независимых тестов своей твердотельной батареи в сотрудничестве с государственным исследовательским центром VTT. На словах этот аккумулятор обладает недоступными обычным литиевым батареям характеристиками, что компания намерена доказать совместно с независимыми экспертами. И у них пока это получается, хотя вопросы остаются.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/24/1138779/donut.jpg",
+            "url": "https://3dnews.ru/1138779/tverdotelniy-akkumulyator-donut-lab-ne-zagorelsya-i-prodolgil-rabotat-dage-prodiryavlennim"
         }
     }
 }
