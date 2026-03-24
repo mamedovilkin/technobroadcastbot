@@ -6509,6 +6509,12 @@
             "description": "Максимальное наказание может достигать пяти лет лишения свободы",
             "image": "https://sharing.vedomosti.ru/1774303727/vedomosti.ru/society/articles/2026/03/24/1184969-ugolovnaya-otvetstvennost-za-nezakonnii-maining.jpg",
             "url": "https://www.vedomosti.ru/society/articles/2026/03/24/1184969-ugolovnaya-otvetstvennost-za-nezakonnii-maining"
+        },
+        "https://habr.com/ru/news/1014014/": {
+            "title": "Хуанг заявил, что AGI достигнут - но построить NVIDIA ему не по плечу",
+            "description": "Глава NVIDIA Дженсен Хуанг в свежем  выпуске подкаста Lex Fridman (#494)  заявил, что, по его мнению, человечество уже достигло AGI — искусственного общего интеллекта. \"I think it's now. I...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/fae/904/7d5/fae9047d5be756aeaac9a2ca0f616ce2.jpg",
+            "url": "https://habr.com/ru/news/1014014/"
         }
     }
 }
