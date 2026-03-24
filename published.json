@@ -6563,6 +6563,12 @@
             "description": "Apple врывается в сегмент, где раньше почти безраздельно правили ноутбуки на Windows. И делает это в свойственной ей манере — MacBook Neo стал одним из самых обсуждаемых гаджетов первой четверти 2026 года. В этом обзоре мы выясняем, отчего столько шумихи вокруг, казалось бы, рядового ноутбука",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/19/1138554/sm.neo_01.800.jpg",
             "url": "https://3dnews.ru/1138554/obzor-apple-macbook-neo"
+        },
+        "https://www.securitylab.ru/news/570690.php": {
+            "title": "Хакеры умеют угонять маршруты BGP уже тридцать лет. Швейцария нашла замену, и она уже обрабатывает реальные транзакции",
+            "description": "Финансовый сектор страны получил систему, которая меняет правила игры на уровне инфраструктуры.",
+            "image": "https://www.securitylab.ru/upload/iblock/a4b/zuddo2b7uobva6fxkc5kn7s1lyr1ww6y.jpg",
+            "url": "https://www.securitylab.ru/news/570690.php"
         }
     }
 }
