@@ -6791,6 +6791,12 @@
             "description": "На выходных состоялся анонс: Илон Маск представил проект Terafab – совместное предприятие по производству полупроводников, объединяющее его компании SpaceX, Tesla и xAI. Если этот завод когда-нибудь...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ceb/287/5cd/ceb2875cd49f20d5e4b8675cf1b45fe7.jpg",
             "url": "https://habr.com/ru/companies/bothub/news/1014644/"
+        },
+        "https://www.securitylab.ru/news/570742.php": {
+            "title": "Ваши данные уже могут продаваться в даркнете. Google предлагает узнать об этом первыми - автоматически",
+            "description": "Новый инструмент Google Threat Intelligence анализирует 10 млн публикаций в даркнете.",
+            "image": "https://www.securitylab.ru/upload/iblock/782/vnal8wcplqdm5jmswymtrpaja4egui6t.jpg",
+            "url": "https://www.securitylab.ru/news/570742.php"
         }
     }
 }
