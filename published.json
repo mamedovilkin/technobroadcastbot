@@ -6767,6 +6767,12 @@
             "description": "На внутренней встрече с сотрудниками CEO OpenAI Сэм Альтман  сообщил  о завершении предобучения следующей крупной модели компании под кодовым именем Spud. По его словам, через несколько...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/764/16a/ffe/76416affe35d9bc731f0714774038c0b.jpg",
             "url": "https://habr.com/ru/news/1014612/"
+        },
+        "https://www.securitylab.ru/news/570751.php": {
+            "title": "12 терабит ярости. Рекорды, которые мы заслужили (но совсем не хотели)",
+            "description": "Пароли больше никого не волнуют. Теперь злоумышленников интересует лишь объём трафика.",
+            "image": "https://www.securitylab.ru/upload/iblock/510/qlbvxvcn4cictqhdpm2rak3js7lhzdyj.jpg",
+            "url": "https://www.securitylab.ru/news/570751.php"
         }
     }
 }
