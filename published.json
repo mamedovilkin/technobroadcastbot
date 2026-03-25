@@ -6797,6 +6797,12 @@
             "description": "Новый инструмент Google Threat Intelligence анализирует 10 млн публикаций в даркнете.",
             "image": "https://www.securitylab.ru/upload/iblock/782/vnal8wcplqdm5jmswymtrpaja4egui6t.jpg",
             "url": "https://www.securitylab.ru/news/570742.php"
+        },
+        "https://www.cnews.ru/news/top/2026-03-17_krupnyj_rossijskij_otraslevoj": {
+            "title": "интегратор потратит 200 миллионов на флагманское российское ПО",
+            "description": "Крупный российский системный интегратор «ТЭК Информ» потратит на лицензии экосистемы «Ред ОС» около 200 млн руб.",
+            "image": "https://static.cnews.ru/img/news/2025/04/28/linux_700.jpg",
+            "url": "https://www.cnews.ru/news/top/2026-03-17_krupnyj_rossijskij_otraslevoj"
         }
     }
 }
