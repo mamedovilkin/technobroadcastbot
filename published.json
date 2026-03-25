@@ -6695,6 +6695,12 @@
             "description": "В последние годы власти РФ усложняют жизнь россиянам всеми доступными способами. Регулярно отключают мобильный интернет под предлогом борьбы с беспилотниками, ограничивают отдельные приложения, оправдывая это борьбой с мошенничеством и экстремизмом, а также активно борются со средствами обхода блокировок. При этом Россия не единственная страна, где VPN оказался под ударом. В других странах за использование таких сервисов можно получить большой штраф, а в некоторых и вовсе отправиться в тюрьму. В последние месяцы об ограничении VPN заговорили в США и Европе. «Медуза» рассказывает, как с этими сервисами пытаются бороться в разных странах.",
             "image": "https://meduza.io/imgly/share/1774376351/feature/2026/03/24/vlasti-vse-aktivnee-boryutsya-s-vpn-servisami-prichem-ne-tolko-v-rossii-vpn-vo-vsem-mire-perezhivayut-ne-luchshie-vremena",
             "url": "https://meduza.io/feature/2026/03/24/vlasti-vse-aktivnee-boryutsya-s-vpn-servisami-prichem-ne-tolko-v-rossii-vpn-vo-vsem-mire-perezhivayut-ne-luchshie-vremena"
+        },
+        "https://habr.com/ru/news/1014480/": {
+            "title": "Пакет для вызова 100+ нейросетей крал ключи при запуске Python - под ударом тысячи разработчиков",
+            "description": "В Python-пакете  LiteLLM  версий 1.82.7 и 1.82.8, который загружают с PyPI около 97 млн раз в месяц, обнаружен встроенный стилер учетных данных. Вредоносный код крал SSH-ключи, токены AWS,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1ff/e94/5c9/1ffe945c97e52d4bb5aa8ce8c311ca02.jpg",
+            "url": "https://habr.com/ru/news/1014480/"
         }
     }
 }
