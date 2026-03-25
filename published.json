@@ -6779,6 +6779,12 @@
             "description": "Huawei представила батарейную платформу 3.0 с системой «чёрного ящика»",
             "image": "https://www.32cars.ru/uploads/materials/17867/inner/Qu3RINGiuV0OGohf09YP.jpg",
             "url": "https://www.32cars.ru/posts/id-17867-za-elektrokarami-nachnut-sledit-radi-bezopasnosti-chernyj-jaschik-i-kontrol-247"
+        },
+        "https://habr.com/ru/companies/amnezia/articles/1014636/": {
+            "title": "AmneziaWG 2.0: от маскировки трафика к полной мимикрии",
+            "description": "Всем привет! На связи команда разработчиков Amnezia. Сегодня хотим рассказать о важном обновлении нашего протокола – AmneziaWG 2.0, а также о том, как с его помощью можно развернуть собственный VPN на...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/42d/07b/b4e/42d07bb4ecc0cc0a390660b9cac56f98.jpg",
+            "url": "https://habr.com/ru/companies/amnezia/articles/1014636/"
         }
     }
 }
