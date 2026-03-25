@@ -6743,6 +6743,12 @@
             "description": "Некоторые игроки возмущены тем фактом, что при разработке использовались ИИ-технологии. Они призывают организовать расширенный возврат средств.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1168787/image.png",
             "url": "https://ixbt.games/news/2026/03/24/valve-otkazalas-vozvrashhat-dengi-za-crimson-desert-igroki-nedovolny-naliciem-ii-assetov-v-igre.html"
+        },
+        "https://3dnews.ru/1138832/arm-vypustila-svoj-pervyj-proczessor-136-yadernyj-chip-agi-dlya-agentnykh-ii-serverov": {
+            "title": "Arm выпустила свой первый процессор - 136-ядерный чип AGI для агентных ИИ-серверов",
+            "description": "Компания Arm анонсировала AGI CPU — свой первый серийный продукт и первый процессор для центров обработки данных собственной разработки. По словам компании, выпуск AGI CPU знаменует собой переход от лицензирования интеллектуальной собственности и вычислительных подсистем к предоставлению готовых микросхем для инфраструктуры ИИ..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/24/1138832/hUdnqx9MIa9KxahX.jpg",
+            "url": "https://3dnews.ru/1138832/arm-vypustila-svoj-pervyj-proczessor-136-yadernyj-chip-agi-dlya-agentnykh-ii-serverov"
         }
     }
 }
