@@ -6701,6 +6701,12 @@
             "description": "В Python-пакете  LiteLLM  версий 1.82.7 и 1.82.8, который загружают с PyPI около 97 млн раз в месяц, обнаружен встроенный стилер учетных данных. Вредоносный код крал SSH-ключи, токены AWS,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/1ff/e94/5c9/1ffe945c97e52d4bb5aa8ce8c311ca02.jpg",
             "url": "https://habr.com/ru/news/1014480/"
+        },
+        "https://finance.mail.ru/article/arm-predstavila-pervyij-sobstvennyij-protsessor-agi-cpu-dlya-data-tsentrov-69202691/": {
+            "title": "Arm представила первый собственный процессор AGI CPU для дата-центров",
+            "description": "Meta стала первым заказчиком нового чипа AGI CPU от британской Arm",
+            "image": "https://resizer.mail.ru/p/7d3fbf12-a58d-52df-8696-ac3faa155e49/AQAztf7PIocOwhvrFFHbwP_VBvMw4JDik_304ISO5cjSR7SCZyU6V2n830Sdn6A-ceqjPwpUSfHwCfNzW0dYRuWe2PI.jpg",
+            "url": "https://finance.mail.ru/article/arm-predstavila-pervyij-sobstvennyij-protsessor-agi-cpu-dlya-data-tsentrov-69202691/"
         }
     }
 }
