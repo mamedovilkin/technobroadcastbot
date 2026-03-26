@@ -6953,6 +6953,12 @@
             "description": "Глава Voyah заявил, что системы автопилота на базе лидаров обеспечивают более высокую безопасность, чем чисто визуальные решения. Оптимальным вариантом он назвал конфигурацию с четырьмя лидарами.",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/FmVgZokDJ4Vej9e5j5TI.webp",
             "url": "https://tarantas.news/posts/id65844-avtopilot-pod-voprosom-lidar-priznali-bezopasnee-kamer"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1015156/": {
+            "title": "Разработчик ковырял API Cursor и нашёл секрет самого громкого запуска года",
+            "description": "20 марта 2026 года. Разработчик по имени Финн ковыряет API-эндпоинт Cursor. Не ищет секреты. Просто дебажит. Но ответ приходит с идентификатором модели, который — не «Composer 2». Там написано:...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/697/563/fc0/697563fc0c34c4eda595c3cdc8150622.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1015156/"
         }
     }
 }
