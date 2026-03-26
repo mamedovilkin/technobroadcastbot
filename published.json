@@ -6827,6 +6827,12 @@
             "description": "С сентября 2026 года Google начнёт ограничивать установку приложений из сторонних источников при помощи программы проверки разработчиков. Чтобы пройти проверку, нужно будет подтвердить личность,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/972/bad/a27/972bada27ff5a43a8fd456bb870d9621.jpg",
             "url": "https://habr.com/ru/news/1014864/"
+        },
+        "https://www.securitylab.ru/news/570763.php": {
+            "title": "Импортозамещение закончилось - начинается борьба за доверие. Российский UserGate объявил о смене стратегии на ближайшие пять лет",
+            "description": "На Open Conf 2026 компания представила свое видение архитектуры сетевого доверия",
+            "image": "https://www.securitylab.ru/upload/iblock/c80/j5g014ovmkewnix67nv6wdglanaq77ah.png",
+            "url": "https://www.securitylab.ru/news/570763.php"
         }
     }
 }
