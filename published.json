@@ -6821,6 +6821,12 @@
             "description": "Сделка может дать OpenAI доступ к значительной доле будущей генерации стартапа в области термоядерного синтеза",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/3/converted%20-%202026-03-25T134923.771_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/25/glava-openai-pokinul-sovet-helion-na-fone-peregovorov-o-postavkah-termojadernoj-jenergii.html"
+        },
+        "https://habr.com/ru/news/1014864/": {
+            "title": "Google введёт \"период охлаждения\" в 24 часа перед установкой приложений из внешних источников",
+            "description": "С сентября 2026 года Google начнёт ограничивать установку приложений из сторонних источников при помощи программы проверки разработчиков. Чтобы пройти проверку, нужно будет подтвердить личность,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/972/bad/a27/972bada27ff5a43a8fd456bb870d9621.jpg",
+            "url": "https://habr.com/ru/news/1014864/"
         }
     }
 }
