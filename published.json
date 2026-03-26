@@ -6845,6 +6845,12 @@
             "description": "Как обнаружила «Медуза», в российских региональных СМИ появилась серия статей с однотипными заголовками о том, что россиянам следует удалить телеграм с телефонов до 31 марта 2026 года. Одновременно в прокремлевском таблоиде Baza вышел материал, рассказывающий, что айфоны россиян якобы перегреваются и выходят из строя из-за VPN. Все это происходит на фоне медленной — но, видимо, необратимой — блокировки мессенджера. При участии фактчекерского проекта «Проверено» мы изучили эти публикации.",
             "image": "https://meduza.io/imgly/share/1774447416/feature/2026/03/25/meduza-obnaruzhila-v-rossiyskoy-regionalnoy-presse-mnogo-odnotipnyh-statey-s-zagolovkami-pochemu-nuzhno-udalit-telegram-so-svoego-smartfona-do-31-marta",
             "url": "https://meduza.io/feature/2026/03/25/meduza-obnaruzhila-v-rossiyskoy-regionalnoy-presse-mnogo-odnotipnyh-statey-s-zagolovkami-pochemu-nuzhno-udalit-telegram-so-svoego-smartfona-do-31-marta"
+        },
+        "https://runews24.ru/articles/25/03/2026/czifrovaya-lixoradka-kak-blokirovka-telegram-ubivaet-iphone-rossiyan": {
+            "title": "Бомба замедленного действия: как VPN ежедневно \"убивает\" \"Айфоны\" россиян",
+            "description": "В попытке оставаться на связи и не пропустить ни одного важного уведомления в условиях ужесточения цифровых ограничений, российские пользователи iPhone столкнулись с неожиданной и дорогостоящей проблемой. Специалисты по ремонту бьют тревогу: то, что раньше было исключительным случаем, сейчас превращается в массовую тенденцию.",
+            "image": "https://runews24.ru/webp/assets/components/phpthumbof/cache/db755920b3786eeb2a906a1edd982d8b.6a856ca6cd9ae14d34cf1b572b5935db.jpg.webp",
+            "url": "https://runews24.ru/articles/25/03/2026/czifrovaya-lixoradka-kak-blokirovka-telegram-ubivaet-iphone-rossiyan"
         }
     }
 }
