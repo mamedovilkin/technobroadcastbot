@@ -6905,6 +6905,12 @@
             "description": "Специалисты Digital Foundry добрались до версии Crimson Desert для PS5, и их выводы оказались неутешительными. Режим производительности при 60 FPS назвали «ужасным».",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1169095/ss-669119c3747653f41a46c59f213168448d094e041920x1080.jpg",
             "url": "https://ixbt.games/news/2026/03/26/407306-ia-byl-sokirovan-eksperty-raznesli-rezim-60-fps-v-crimson-desert.html"
+        },
+        "https://habr.com/ru/news/1014872/": {
+            "title": "Представлен первый публичный релиз VitruvianOS - гибрида Haiku и BeOS на базе Debian/Linux",
+            "description": "Состоялся первый публичный релиз проекта VitruvianOS — альтернативной операционной системы на базе Linux с уникальной философией: человек в центре внимания. Проект с 2019 года развивает ОС...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0fe/219/860/0fe219860f9ba65580e5c41780b6680c.png",
+            "url": "https://habr.com/ru/news/1014872/"
         }
     }
 }
