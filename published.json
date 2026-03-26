@@ -6983,6 +6983,12 @@
             "description": "Пожары в Усть-Луге и промзоне Киришского района локализовали. Подробности — в материале. - Общество - 26 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/R6SBNu3v3GX1KGGRKoNYAw/article-id6921023-16x9.jpg?1774519908",
             "url": "https://www.fontanka.ru/2026/03/26/76331936/"
+        },
+        "https://habr.com/ru/news/1015352/": {
+            "title": "Dell представила клавиатуры и мышки с суперконденсаторами вместо литий-ионных батарей",
+            "description": "Компания Dell представила обновлённый портфель, включающий ноутбуки Dell Pro, рабочие станции Dell Pro Precision, настольные компьютеры, мониторы и клиентскую периферию.  Линейка ноутбуков Dell...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/fac/50d/e8b/fac50de8b2cfc2a7097bdd04228c2563.jpg",
+            "url": "https://habr.com/ru/news/1015352/"
         }
     }
 }
