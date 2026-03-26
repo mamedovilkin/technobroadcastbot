@@ -6947,6 +6947,12 @@
             "description": "Индустрия искусственного интеллекта годами развивалась по пути грубой силы — бесконечного наращивания вычислительных мощностей. Но когда физические пределы «железа» стали очевидны, в игру вернулась...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7de/a71/411/7dea71411ef98824a74af66ac17d90ab.jpeg",
             "url": "https://habr.com/ru/news/1015190/"
+        },
+        "https://tarantas.news/posts/id65844-avtopilot-pod-voprosom-lidar-priznali-bezopasnee-kamer": {
+            "title": "Автопилот под вопросом: лидар признали безопаснее камер",
+            "description": "Глава Voyah заявил, что системы автопилота на базе лидаров обеспечивают более высокую безопасность, чем чисто визуальные решения. Оптимальным вариантом он назвал конфигурацию с четырьмя лидарами.",
+            "image": "https://tarantas.news/uploads/prew/big_images/webp_version/FmVgZokDJ4Vej9e5j5TI.webp",
+            "url": "https://tarantas.news/posts/id65844-avtopilot-pod-voprosom-lidar-priznali-bezopasnee-kamer"
         }
     }
 }
