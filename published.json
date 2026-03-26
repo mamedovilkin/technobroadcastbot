@@ -6935,6 +6935,12 @@
             "description": "За месяц рост составил 15%",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/4/0_1_large.png",
             "url": "https://www.ixbt.com/news/2026/03/26/ceny-na-pamjat-ddr4-vzleteli-pochti-v-9-raz-za-god.html"
+        },
+        "https://www.securitylab.ru/news/570789.php": {
+            "title": "\"Stack Overflow для роботов\". Mozilla создает базу знаний, где ИИ-агенты будут учиться на ошибках друг друга",
+            "description": "Пока одни боятся, что ИИ захватит мир, Mozilla делает для него «Википедию»",
+            "image": "https://www.securitylab.ru/upload/iblock/958/q4u7y3c075a4yzeze1327yzz8jdwd75y.jpg",
+            "url": "https://www.securitylab.ru/news/570789.php"
         }
     }
 }
