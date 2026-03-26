@@ -6959,6 +6959,12 @@
             "description": "20 марта 2026 года. Разработчик по имени Финн ковыряет API-эндпоинт Cursor. Не ищет секреты. Просто дебажит. Но ответ приходит с идентификатором модели, который — не «Composer 2». Там написано:...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/697/563/fc0/697563fc0c34c4eda595c3cdc8150622.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1015156/"
+        },
+        "https://www.ixbt.com/news/2026/03/26/80-144-amoled-6500-ip69k-tecno-camon-50.html": {
+            "title": "Более 80 ИИ-функций, интеграция с Яндексом, 144 Гц AMOLED, 6500 мА·ч, IP69K: в России стартовали продажи Tecno Camon 50",
+            "description": "Для покупателей доступно бесплатное облачное хранилище Tecno на 256 ГБ на 3 года",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/4/11_0_large.png",
+            "url": "https://www.ixbt.com/news/2026/03/26/80-144-amoled-6500-ip69k-tecno-camon-50.html"
         }
     }
 }
