@@ -6941,6 +6941,12 @@
             "description": "Пока одни боятся, что ИИ захватит мир, Mozilla делает для него «Википедию»",
             "image": "https://www.securitylab.ru/upload/iblock/958/q4u7y3c075a4yzeze1327yzz8jdwd75y.jpg",
             "url": "https://www.securitylab.ru/news/570789.php"
+        },
+        "https://habr.com/ru/news/1015190/": {
+            "title": "битный алгоритм Google заставил рынок переоценить ИИ",
+            "description": "Индустрия искусственного интеллекта годами развивалась по пути грубой силы — бесконечного наращивания вычислительных мощностей. Но когда физические пределы «железа» стали очевидны, в игру вернулась...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/7de/a71/411/7dea71411ef98824a74af66ac17d90ab.jpeg",
+            "url": "https://habr.com/ru/news/1015190/"
         }
     }
 }
