@@ -6857,6 +6857,12 @@
             "description": "Пресс-служба мобильного оператора «Билайн» опровергла сообщения о том, что компания блокирует телеграм и ограничивает интернет тем пользователям, которые не закрывают мессенджер на своих устройствах.",
             "image": "https://meduza.io/imgly/share/1774446071/news/2026/03/25/v-seti-poyavilis-soobscheniya-chto-bilayn-blokiruet-internet-tem-kto-ne-otklyuchaet-telegram-operator-eto-otritsaet",
             "url": "https://meduza.io/news/2026/03/25/v-seti-poyavilis-soobscheniya-chto-bilayn-blokiruet-internet-tem-kto-ne-otklyuchaet-telegram-operator-eto-otritsaet"
+        },
+        "https://3dnews.ru/1138906/qday-blige-chem-vse-dumali-google-rezko-priblizila-sroki-vzloma-pochti-vsey-sovremennoy-kriptografii": {
+            "title": "Q-Day ближе, чем все думали: Google резко приблизила сроки взлома почти всей современной криптографии",
+            "description": "Неожиданно для всех специалистов в сфере кибербезопасности компания Google сообщила о существенном ускорении сроков наступления Q-Day — момента, когда квантовые компьютеры смогут взламывать современную криптографию с открытым ключом. В опубликованном 25 марта 2026 года материале компания заявила, что теперь планирует полностью подготовиться к этому событию уже к 2029 году, а не в более отдалённой перспективе, как считалось ранее..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/25/1138906/rsa_qday.jpg",
+            "url": "https://3dnews.ru/1138906/qday-blige-chem-vse-dumali-google-rezko-priblizila-sroki-vzloma-pochti-vsey-sovremennoy-kriptografii"
         }
     }
 }
