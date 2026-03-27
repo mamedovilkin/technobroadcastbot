@@ -7007,6 +7007,12 @@
             "description": "В России блокируют телеграм — и пользователи ищут альтернативы привычному средству связи. Многие делают выбор в пользу Telega. Это запущенный в 2025 году неофициальный телеграм-клиент от казанской компании АО «Телега». То есть приложение, разработанное на базе открытого кода сторонними разработчиками, но для обмена сообщениями подключающееся к серверам Telegram.",
             "image": "https://meduza.io/imgly/share/1774531081/cards/messendzher-telega-s-samogo-nachala-podozrevali-v-svyazyah-s-vk-no-on-okazalsya-dazhe-opasnee-chem-dumali-eksperty",
             "url": "https://meduza.io/cards/messendzher-telega-s-samogo-nachala-podozrevali-v-svyazyah-s-vk-no-on-okazalsya-dazhe-opasnee-chem-dumali-eksperty"
+        },
+        "https://www.securitylab.ru/news/570821.php": {
+            "title": "Выдержит ли отечественный SIEM нагрузку в 300k EPS? R-Vision готовит большой стресс-тест",
+            "description": "В Москве 9 апреля пройдет конференция R-EVOlution 2026 об эффективности ИТ и ИБ",
+            "image": "https://www.securitylab.ru/upload/iblock/b88/3culhdyp1ag71lvwfezzxbi1ov333015.jpg",
+            "url": "https://www.securitylab.ru/news/570821.php"
         }
     }
 }
