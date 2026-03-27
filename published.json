@@ -7055,6 +7055,12 @@
             "description": "Даже современные версии защиты не стали проблемой для хакеров.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1169275/image.png",
             "url": "https://ixbt.games/news/2026/03/26/xakery-vzlomali-za-sutki-22-igry-s-denuvo-star-wars-outlaws-football-manager-26-i-ne-tolko.html"
+        },
+        "https://habr.com/ru/articles/1015380/": {
+            "title": "GUI ценой приватности: разбор вредоносного форка Zapret 2 GUI",
+            "description": "Основная страница GitHub Замедление YouTube, Discord и других популярных сервисов в РФ спровоцировало настоящий бум инструментов для обхода DPI. Флагманский проект zapret от @bol-van - мощное решение,...",
+            "image": "https://habr.com/share/publication/1015380/25b213e861074ca90757bdf52756fd84/",
+            "url": "https://habr.com/ru/articles/1015380/"
         }
     }
 }
