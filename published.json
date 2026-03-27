@@ -7181,6 +7181,12 @@
             "description": "Акции производителей микросхем памяти падают: новый виток борьбы за рынок ИИ. Google объявила о возможности сокращения объема памяти, необходимого для выполнения некоторых функций LLM, как минимум на 60%, что должно снизить общие затраты на ИИ.",
             "image": "https://www.profinance.ru/img/news/584284-1.png?2049782465",
             "url": "https://www.profinance.ru/news2/2026/03/27/ciu4-proryv-v-oblasti-iskusstvennogo-intellekta-ot-google-privel-k-obvalu-aktsij-proi.html"
+        },
+        "https://habr.com/ru/companies/x-com/articles/1015880/": {
+            "title": "Нейросеть проверила 100 сборок ПК с Хабра: ошибки допускает каждый второй",
+            "description": "Вот так нейросеть увидела проблемы сборок с Хабра. Но на самом деле не все так страшно Когда человек собирает ПК и пишет об этом на Хабре — будь то в статье или в комментариях — он, как правило,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2cd/3fe/f37/2cd3fef37de9b5a18cece12b00834b71.png",
+            "url": "https://habr.com/ru/companies/x-com/articles/1015880/"
         }
     }
 }
