@@ -7151,6 +7151,12 @@
             "description": "Рассказываем, как меняется курс биткоина к доллару 27 марта 2026 года, каких показателей достигает, актуальные котировки в этот день.",
             "image": "https://resizer.mail.ru/p/741f5ea6-0473-5308-8ff3-34a87b1e6827/AQAzikQwy3qFr2eQWLlpcgLo-nbuBoDUd16amIrpnqannds5GVIEbhq3ACwG7SlFF50C7j9kRkYOxmmN6cZlB8xFH2o.jpg",
             "url": "https://finance.mail.ru/article/bitkoin-desheveet-na-3-procenta-na-fone-geopoliticheskoj-neopredelennosti-69203030/"
+        },
+        "https://habr.com/ru/news/1015740/": {
+            "title": "Claude Mythos: Anthropic случайно слила данные о своей мощнейшей модели",
+            "description": "Anthropic разрабатывает и уже тестирует с доверенными клиентами новую ИИ-модель, которую называет самой мощной в своей истории. О ее существовании стало известно из-за утечки данных: черновик...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6b8/8cd/929/6b88cd929a548f2c03f058f6718c910c.jpg",
+            "url": "https://habr.com/ru/news/1015740/"
         }
     }
 }
