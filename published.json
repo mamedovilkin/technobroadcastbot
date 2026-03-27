@@ -7163,6 +7163,12 @@
             "description": "Ситуация в мире вынуждает крупнейших производителей корректировать цены. Похоже, Sony готовится объявить о серьёзном подорожании PS5, PS5 Pro и PS Portal.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1169382/playstation-5-ps5-hd-scaled.jpg",
             "url": "https://ixbt.games/news/2026/03/27/407468-ps5-silno-podorozaet-pervye-istocniki-podtverdili-masstabnye-izmeneniia-insaider.html"
+        },
+        "https://habr.com/ru/news/1015676/": {
+            "title": "DJI представила Avata 360 - FPV-дрон с круговым обзором 360° и записью видео в 8K",
+            "description": "Китайская компания DJI представила FPV-дрон Avata 360 с круговым обзором 360°. За съёмку отвечают два дюймовых сенсора с разрешением 8K/60fps для видео и 120 мегапикселей для фото. Продажи начнутся 26...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/51d/36b/0ea/51d36b0ea01e0ea7c11c66a28c0fc821.jpg",
+            "url": "https://habr.com/ru/news/1015676/"
         }
     }
 }
