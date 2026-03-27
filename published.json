@@ -7139,6 +7139,12 @@
             "description": "Запускать новые станции стали на годы быстрее.",
             "image": "https://www.securitylab.ru/upload/iblock/a10/y6y5g5g5qoegm1wgiidg321tfiyza09r.jpg",
             "url": "https://www.securitylab.ru/news/570838.php"
+        },
+        "https://naukatv.ru/news/proshli_pervye_v_mire_ispytaniya_prototipa_termoyadernogo_kosmicheskogo_dvigatelya": {
+            "title": "Прошли первые в мире испытания прототипа термоядерного космического двигателя",
+            "description": "Ключевая задача на этом этапе — не разгонять двигатель до рекордных скоростей, а научиться контролировать плазму в одном из самых сложных участков любой термоядерной установки — выхлопном канале.",
+            "image": "https://naukatv.ru/upload/images/original/61/611b0bc68b1bc853aeba33523fdbc3351ef1e90b.jpg",
+            "url": "https://naukatv.ru/news/proshli_pervye_v_mire_ispytaniya_prototipa_termoyadernogo_kosmicheskogo_dvigatelya"
         }
     }
 }
