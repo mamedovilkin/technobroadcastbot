@@ -7103,6 +7103,12 @@
             "description": "Журнал Fortune включил бренд Tesla в свой список под названием «Самые инновационные компании Америки 2026».",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/qEQyHLMlfi5Sgg87gHn8.webp",
             "url": "https://tarantas.news/posts/id65864-tesla-na-pedestale-fortune-otmetil-innovatsionnyj-proryv-brenda"
+        },
+        "https://habr.com/ru/news/1015644/": {
+            "title": "Huawei Atlas 350 - китайский ИИ-чип втрое мощнее Nvidia H20 (но есть нюанс!)",
+            "description": "Huawei  представила  Atlas 350 — ИИ-ускоритель на новом чипе Ascend 950PR, который выдает 1,56 петафлопс в формате FP4 и, по заявлению компании, почти втрое превосходит Nvidia H20 по...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1ff/958/167/1ff958167bf30c691250429d68ed88f8.jpg",
+            "url": "https://habr.com/ru/news/1015644/"
         }
     }
 }
