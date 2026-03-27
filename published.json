@@ -7037,6 +7037,12 @@
             "description": "Новости",
             "image": "https://www.bnkomi.ru/content/news/images/196778/Syktyvkar-Vid-s-vysoty.jpg",
             "url": "https://www.bnkomi.ru/data/news/196778/"
+        },
+        "https://habr.com/ru/news/1015566/": {
+            "title": "Команда Telegram подключилась к разработке OpenClaw",
+            "description": "Создатель ИИ-агента OpenClaw Петер Штайнбергер  объявил , что после переговоров с Павлом Дуровым команда Telegram выделила разработчика для участия в проекте. Новым мейнтейнером стал Игорь Жуков...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9d5/b12/915/9d5b1291555c3e46242252fb7b89c79d.jpg",
+            "url": "https://habr.com/ru/news/1015566/"
         }
     }
 }
