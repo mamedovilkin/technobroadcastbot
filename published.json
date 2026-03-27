@@ -7169,6 +7169,12 @@
             "description": "Китайская компания DJI представила FPV-дрон Avata 360 с круговым обзором 360°. За съёмку отвечают два дюймовых сенсора с разрешением 8K/60fps для видео и 120 мегапикселей для фото. Продажи начнутся 26...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/51d/36b/0ea/51d36b0ea01e0ea7c11c66a28c0fc821.jpg",
             "url": "https://habr.com/ru/news/1015676/"
+        },
+        "https://3dnews.ru/1139019/moya-volna-v-yandeks-muzike-zarabotala-bez-interneta": {
+            "title": "\"Моя волна\" в \"Яндекс Музыке\" заработала без интернета",
+            "description": "Рекомендательный алгоритм «Моя волна» музыкальной потоковой платформы «Яндекс Музыка» теперь работает даже при отключённом интернете — потеряв подключение, устройство сможет подбирать композиции из скачанных ранее..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139019/ya-muzyka_1.jpg",
+            "url": "https://3dnews.ru/1139019/moya-volna-v-yandeks-muzike-zarabotala-bez-interneta"
         }
     }
 }
