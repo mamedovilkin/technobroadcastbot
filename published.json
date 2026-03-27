@@ -7091,6 +7091,12 @@
             "description": "Apple официально прекратила выпуск высокопроизводительного настольного компьютера Mac Pro. Обновлять эту модель в будущем не планируется. По словам представителей компании, подтвердивших это решение изданию 9to5Mac, Apple продавала Mac Pro наряду с другими моделями компьютеров Mac, которые больше соответствовали её стратегическим целям.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1138988/HgOmcAxOmcmMFted.jpg",
             "url": "https://3dnews.ru/1138988/ushla-epoha-apple-prekratila-vipusk-nastolnogo-pk-mac-pro-sistemu-ne-planiruyut-bolshe-obnovlyat"
+        },
+        "https://3dnews.ru/1138441/tsifrovoy-morok-i-kuvalda": {
+            "title": "Цифровой морок и кувалда: как маленькие ошибки ломают большие ракеты",
+            "description": "Иногда космические миссии губят не взрывы двигателей, а одна строчка кода. От японской Kairos до Ariane 5 и Mars Climate Orbiter — истории самых дорогих программных багов в космонавтике. Как ошибки разработчиков превращают миллиарды в пыль и почему будущее космоса зависит не от ракет, а от математики?",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/17/1138441/sm.ILL-01._Старт_ракеты-носителя_Kairos.800.png",
+            "url": "https://3dnews.ru/1138441/tsifrovoy-morok-i-kuvalda"
         }
     }
 }
