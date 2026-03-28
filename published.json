@@ -7217,6 +7217,12 @@
             "description": "Как и многие, эта история началась со случайной находки на барахолке. Я заметил объявление с девайсом, который хотел заполучить в свои руки уже давно. Это старый добрый терминал «Сбербанка». Но в...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/445/c7b/54f/445c7b54fc9e99bee60f8beaae416018.jpg",
             "url": "https://habr.com/ru/companies/ruvds/articles/1014332/"
+        },
+        "https://3dnews.ru/1139041/veteran-microsoft-rasskazal-kak-windows-95-legko-borolas-s-neradivimi-razrabotchikami": {
+            "title": "Ветеран Microsoft рассказал, как Windows 95 легко и незаметно боролась с нерадивыми разработчиками",
+            "description": "В очередном интервью ветеран Microsoft инженер-программист Рэймонд Чэнь (Raymond Chen) рассказал о том, как Windows 95 боролась с разработчиками стороннего ПО, из-за которых некоторые системные файлы подменялись более старыми, нарушая работу системы — она просто хранила резервные копии актуальных..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139041/win95.jpg",
+            "url": "https://3dnews.ru/1139041/veteran-microsoft-rasskazal-kak-windows-95-legko-borolas-s-neradivimi-razrabotchikami"
         }
     }
 }
