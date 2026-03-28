@@ -7229,6 +7229,12 @@
             "description": "Китайские учёные из Международной академии квантов в Шэньчжэне (Shenzhen International Quantum Academy) первыми в мире создали кремниевый квантовый чип, способный выполнять полный набор логических операций с обнаружением ошибок. Об этом они сообщили в журнале Nature Nanotechnology, что знаменует собой важный шаг к созданию устойчивых к ошибкам квантовых компьютеров — это прогресс в масштабировании, приемлемые габариты и мощность в одном флаконе..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139028/qubit.jpg",
             "url": "https://3dnews.ru/1139028/kitaytsi-soobshchili-o-sozdanii-pervogo-v-mire-kremnievogo-kvantovogo-protsessora-so-vstroennoy-korrektsiey-oshibok"
+        },
+        "https://habr.com/ru/companies/timeweb/articles/1015968/": {
+            "title": "Придумали ради благой цели, убили ради денег. Печальная история нетбуков",
+            "description": "Не так давно рынок разорвал анонс и выпуск MacBook Neo — первого бюджетного ноутбука от Apple, что призван закрыть 99 процентов задач у простых юзеров и убить рынок дешевых ноутбуков на Windows. И вот...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/027/9e8/b90/0279e8b90a338b6d6b5cd34fcb037204.jpg",
+            "url": "https://habr.com/ru/companies/timeweb/articles/1015968/"
         }
     }
 }
