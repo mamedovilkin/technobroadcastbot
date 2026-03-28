@@ -7223,6 +7223,12 @@
             "description": "В очередном интервью ветеран Microsoft инженер-программист Рэймонд Чэнь (Raymond Chen) рассказал о том, как Windows 95 боролась с разработчиками стороннего ПО, из-за которых некоторые системные файлы подменялись более старыми, нарушая работу системы — она просто хранила резервные копии актуальных..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139041/win95.jpg",
             "url": "https://3dnews.ru/1139041/veteran-microsoft-rasskazal-kak-windows-95-legko-borolas-s-neradivimi-razrabotchikami"
+        },
+        "https://3dnews.ru/1139028/kitaytsi-soobshchili-o-sozdanii-pervogo-v-mire-kremnievogo-kvantovogo-protsessora-so-vstroennoy-korrektsiey-oshibok": {
+            "title": "Китайцы сообщили о создании первого в мире кремниевого квантового процессора со встроенной коррекцией ошибок",
+            "description": "Китайские учёные из Международной академии квантов в Шэньчжэне (Shenzhen International Quantum Academy) первыми в мире создали кремниевый квантовый чип, способный выполнять полный набор логических операций с обнаружением ошибок. Об этом они сообщили в журнале Nature Nanotechnology, что знаменует собой важный шаг к созданию устойчивых к ошибкам квантовых компьютеров — это прогресс в масштабировании, приемлемые габариты и мощность в одном флаконе..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139028/qubit.jpg",
+            "url": "https://3dnews.ru/1139028/kitaytsi-soobshchili-o-sozdanii-pervogo-v-mire-kremnievogo-kvantovogo-protsessora-so-vstroennoy-korrektsiey-oshibok"
         }
     }
 }
