@@ -7301,6 +7301,12 @@
             "description": "Google тайно запустил внутренний ИИ-агент под названием Agent Smith, который автоматизирует написание кода и выполнение инженерных задач,  сообщает Business Insider  со ссылкой на трех...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/688/654/8e0/6886548e0f09d69b8aba622d66a7c8f9.jpg",
             "url": "https://habr.com/ru/news/1016184/"
+        },
+        "https://habr.com/ru/news/1016186/": {
+            "title": "\"Код Дурова\": Apple по требованию РКН продолжила удалять VPN-клиенты из российского App Store",
+            "description": "По информации ресурса «Код Дурова», Apple продолжает удалять VPN-клиенты из российского App Store по требованию РКН. Для пользователей из РФ там стали недоступны ранее популярные решения. При этом в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/fdc/702/246/fdc702246c9dae71eacd0b7b827644e1.png",
+            "url": "https://habr.com/ru/news/1016186/"
         }
     }
 }
