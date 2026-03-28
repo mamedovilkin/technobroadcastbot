@@ -7241,6 +7241,12 @@
             "description": "Проект Coastal Virginia Offshore Wind (CVOW) компании Dominion Energy начал подавать вырабатываемую силой ветра электроэнергию в энергосистему штата Вирджиния. Это будет крупнейшая в США морская ветровая электростанция, а также первая, размещённая в федеральных водах. Проектная мощность парка достигнет 2,6 ГВт.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/27/1139056/cvow.jpg",
             "url": "https://3dnews.ru/1139056/krupneyshaya-morskaya-vetryanaya-elektrostantsiya-ssha-nachala-podavat-energiyu-v-set-no-sovsem-chutchut"
+        },
+        "https://habr.com/ru/articles/1016096/": {
+            "title": "Как я хотел одного AI-агента, а получил целую деревню",
+            "description": "Всё началось с простого желания: чтобы AI-агент мог потихоньку развивать мои проекты, пока я занят другими делами. Поставил задачу, ушёл, вернулся к готовому результату. За неделю из этого желания...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/10f/428/4e4/10f4284e4ef63ae84f037c0c36db64a3.png",
+            "url": "https://habr.com/ru/articles/1016096/"
         }
     }
 }
