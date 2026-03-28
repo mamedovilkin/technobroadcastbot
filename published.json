@@ -7307,6 +7307,12 @@
             "description": "По информации ресурса «Код Дурова», Apple продолжает удалять VPN-клиенты из российского App Store по требованию РКН. Для пользователей из РФ там стали недоступны ранее популярные решения. При этом в...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fdc/702/246/fdc702246c9dae71eacd0b7b827644e1.png",
             "url": "https://habr.com/ru/news/1016186/"
+        },
+        "https://habr.com/ru/companies/selectel/articles/1014088/": {
+            "title": "OpenAI хочет закупать термоядерную энергию. Что происходит?",
+            "description": "Источник . Мы уже говорили о том, как повсеместное распространение искусственного интеллекта связано с ростом цен на оперативную память. Кажется, пришло время обсудить еще один момент. Инфраструктура...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/8ef/63a/e5f/8ef63ae5f35fcc56df9cd9e77e6f05e9.png",
+            "url": "https://habr.com/ru/companies/selectel/articles/1014088/"
         }
     }
 }
