@@ -7253,6 +7253,12 @@
             "description": "Главные новости 27 марта. - Страна и мир - 27 марта 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/Net5NEuCXLIcxg_UunFUgA/article-id6922611-16x9.jpg?1774632856",
             "url": "https://www.e1.ru/text/world/2026/03/27/76333252/"
+        },
+        "https://www.ixbt.com/news/2026/03/27/honor-600-honor-600-pro.html": {
+            "title": "Опубликованы первые официальные изображения Honor 600 и Honor 600 Pro",
+            "description": "Компания обещает новый дизайн, новые функции ИИ и новую камеру",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/gsmarena_003_0_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/27/honor-600-honor-600-pro.html"
         }
     }
 }
