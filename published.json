@@ -7211,6 +7211,12 @@
             "description": "Объем памяти — реальный 1 ТБ, а скорости последовательного чтения и записи не сильно меньше, чем у оригинала",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/5/EfPXCMrHCfyLSxaMhGtpVR_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/27/samsung-990-pro.html"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1014332/": {
+            "title": "Я вскрыл платёжный терминал \"Сбера\" - внутри оказалась игровая консоль и телефон",
+            "description": "Как и многие, эта история началась со случайной находки на барахолке. Я заметил объявление с девайсом, который хотел заполучить в свои руки уже давно. Это старый добрый терминал «Сбербанка». Но в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/445/c7b/54f/445c7b54fc9e99bee60f8beaae416018.jpg",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1014332/"
         }
     }
 }
