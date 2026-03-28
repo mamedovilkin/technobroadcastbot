@@ -7295,6 +7295,12 @@
             "description": "Представьте себе автоспортивное конструкторское бюро, которое тридцать пять лет чертило безупречные двигатели для всего пелотона Формулы-1, но никогда не выставляло на трассу собственный болид....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fa8/fab/68a/fa8fab68a1cecca066d1650157097bdf.jpeg",
             "url": "https://habr.com/ru/articles/1016174/"
+        },
+        "https://habr.com/ru/news/1016184/": {
+            "title": "ИИ-агент Смит захватил Google изнутри - доступ пришлось ограничить",
+            "description": "Google тайно запустил внутренний ИИ-агент под названием Agent Smith, который автоматизирует написание кода и выполнение инженерных задач,  сообщает Business Insider  со ссылкой на трех...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/688/654/8e0/6886548e0f09d69b8aba622d66a7c8f9.jpg",
+            "url": "https://habr.com/ru/news/1016184/"
         }
     }
 }
