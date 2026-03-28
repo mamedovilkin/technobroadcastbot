@@ -7343,6 +7343,12 @@
             "description": "Переход от МКС к частным станциям оказался сложнее, чем рассчитывало NASA",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/51814919470_531ad58fde_k_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/28/amerikanskaja-zamena-mks-poshla-ne-po-planu-nasa-bolshe-ne-schitaet-chto-chastnye-stancii-uspejut-i-smogut-polnocenno.html"
+        },
+        "https://shazoo.ru/2026/03/28/181711/google-predstavila-algoritm-szatiia-kotoryi-snizaet-potreblenie-pamiati-ii-v-6-raz": {
+            "title": "Google представила алгоритм сжатия, который снижает потребление памяти ИИ в 6 раз",
+            "description": "Google представила новый алгоритм сжатия под названием TurboQuant, способный снизить потребление оперативной памяти моделями искусственного интеллекта примерно в шесть раз. Это открытие уже отразилось на фондовом рынке: акции крупнейших производителей...",
+            "image": "https://cdn.shazoo.ru/860418_FX4RUhc_pnc39bzms2.jpg",
+            "url": "https://shazoo.ru/2026/03/28/181711/google-predstavila-algoritm-szatiia-kotoryi-snizaet-potreblenie-pamiati-ii-v-6-raz"
         }
     }
 }
