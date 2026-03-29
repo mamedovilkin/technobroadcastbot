@@ -7505,6 +7505,12 @@
             "description": "Microsoft объявила о планах разрабатывать полностью нативные приложения для Windows 11. Компания сформирует новую команду для руководства этим проектом. Пока неясно, будут ли все новые приложения...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/8ab/c0f/023/8abc0f0233e4993414d336556c808a77.jpg",
             "url": "https://habr.com/ru/news/1016444/"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1015278/": {
+            "title": "Где же все эти приложения, создаваемые с помощью ИИ?",
+            "description": "Любители вайбкодинга и агентного программирования говорят, что работают в 2, 10, а то и в 100 раз продуктивнее! Один даже разработал с нуля целый браузер . Невероятно! И скептики задают правомерный...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/107/e8f/cd7/107e8fcd7d2c6bdd03cde4d2827964f7.png",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1015278/"
         }
     }
 }
