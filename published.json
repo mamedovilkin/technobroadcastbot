@@ -7409,6 +7409,12 @@
             "description": "Технология TurboQuant способна снизить требования к памяти в ИИ-нагрузках до шести раз",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/Untitled-design-29_large.png",
             "url": "https://www.ixbt.com/news/2026/03/28/ceny-na-pamjat-ddr5-poshli-vniz--jeto-mozhet-byt-reakciej-rynka-na-novuju-tehnologiju-google.html"
+        },
+        "https://habr.com/ru/news/1016316/": {
+            "title": "Энтузиасты представили альтернативный открытый клиент Telegram для Android под названием Monogram, написанный на Kotlin",
+            "description": "Группа независимых энтузиастов опубликовала на GitHub открытый проект под названием Monogram . Это клиент мессенджера Telegram для мобильной платформы Android. Проект написан на языке Kotlin...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/628/069/27e/62806927e782327215783b461f5c4619.png",
+            "url": "https://habr.com/ru/news/1016316/"
         }
     }
 }
