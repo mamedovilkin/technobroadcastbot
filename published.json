@@ -7499,6 +7499,12 @@
             "description": "А также 100-мегапиксельная камера и 45-ваттная зарядка",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/c46aa466-1f92-4b63-8fc0-b534f81684a4_large.png",
             "url": "https://www.ixbt.com/news/2026/03/29/v-set-utekli-harakteristiki-honor-x80i--i-u-nego-ochen-bolshaja-batareja.html"
+        },
+        "https://habr.com/ru/news/1016444/": {
+            "title": "Microsoft планирует создавать полностью нативные приложения для Windows 11",
+            "description": "Microsoft объявила о планах разрабатывать полностью нативные приложения для Windows 11. Компания сформирует новую команду для руководства этим проектом. Пока неясно, будут ли все новые приложения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/8ab/c0f/023/8abc0f0233e4993414d336556c808a77.jpg",
+            "url": "https://habr.com/ru/news/1016444/"
         }
     }
 }
