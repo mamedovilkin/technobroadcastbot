@@ -7391,6 +7391,12 @@
             "description": "Valve изменила систему рекомендаций по региональному ценообразованию в Steam. Если раньше платформа предлагала один вариант перевода долларовой цены в другие валюты, то теперь их стало три. Первый...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/11d/5ed/2f8/11d5ed2f891c56d3a331c11cac0e7365.jpg",
             "url": "https://habr.com/ru/news/1016258/"
+        },
+        "https://www.ixbt.com/news/2026/03/28/amd-snova-poobeshala-dolguju-zhizn-soketu-am5.html": {
+            "title": "AMD снова пообещала долгую жизнь сокету AM5",
+            "description": "У владельцев AM5 может быть ещё несколько апгрейдов впереди",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/1413018-am5-ryzen%20copy_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/03/28/amd-snova-poobeshala-dolguju-zhizn-soketu-am5.html"
         }
     }
 }
