@@ -7373,6 +7373,12 @@
             "description": "Глава Росатома Алексей Лихачев сообщил, что на площадке АЭС Бушер останется минимальное количество сотрудников для сохранности оборудования и обеспечения его",
             "image": "https://www.interfax.ru/aspimg/1080659.jpg",
             "url": "https://www.interfax.ru/world/1080659"
+        },
+        "https://www.securitylab.ru/news/570888.php": {
+            "title": "Жертва не платит? Не беда. Leak Bazaar научит, как продать ее секреты конкурентам по кусочкам",
+            "description": "Вместо громких угроз взломщики выбрали тихий заработок на очищенных и упакованных базах.",
+            "image": "https://www.securitylab.ru/upload/iblock/e72/m77im4nqsojz5ns5cmd9f7w62fbvn147.jpg",
+            "url": "https://www.securitylab.ru/news/570888.php"
         }
     }
 }
