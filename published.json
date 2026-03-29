@@ -7355,6 +7355,12 @@
             "description": "В Steam обновили систему расчёта региональных цен, что потенциально может снизить стоимость игр в России и других странах.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1169628/steam-pricing-tool-changes-regional-cost-of-games-pc-gaming-new-valve-developer-guidance.jpg",
             "url": "https://ixbt.games/news/2026/03/28/407625-valve-predstavila-novuiu-model-cenoobrazovaniia-igry-za-70-mogut-stoit-1800-rublei-v-rossiiskom-steam.html"
+        },
+        "https://habr.com/ru/news/1016270/": {
+            "title": "Британский стартап впервые зажёг плазму внутри ракетного двигателя на термоядерном синтезе",
+            "description": "Первая минута ролика – компьютерная анимация, последние полминуты – реальные съёмки Команда британских учёных добилась первого в истории зажигания плазмы внутри ракетного двигателя на термоядерном...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d0c/b81/00e/d0cb8100e9d1030e9da0395278235fc2.jpg",
+            "url": "https://habr.com/ru/news/1016270/"
         }
     }
 }
