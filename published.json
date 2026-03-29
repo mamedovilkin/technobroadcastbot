@@ -7433,6 +7433,12 @@
             "description": "До 350 и 220 долларов соответственно",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/6/hsNsRYeY3U9i5FK5TC5FfX-1200-copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/28/48-intel-core-ultra-7-270k-plus-core-ultra-5-250k-plus.html"
+        },
+        "https://habr.com/ru/articles/1016360/": {
+            "title": "CEO навайбкодил прототип. Почему после этого команда не обязана работать вдвое быстрее",
+            "description": "Приветствую, дорогие читатели. На протяжении последнего года мне посчастливилось пообщаться с несколькими десятками бывших и текущих коллег, от разработчиков до владельцев компаний, на тему внедрения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1f9/7b9/874/1f97b98742aa9082b5c7c2cb827f5d79.jpeg",
+            "url": "https://habr.com/ru/articles/1016360/"
         }
     }
 }
