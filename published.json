@@ -7379,6 +7379,12 @@
             "description": "Вместо громких угроз взломщики выбрали тихий заработок на очищенных и упакованных базах.",
             "image": "https://www.securitylab.ru/upload/iblock/e72/m77im4nqsojz5ns5cmd9f7w62fbvn147.jpg",
             "url": "https://www.securitylab.ru/news/570888.php"
+        },
+        "https://habr.com/ru/news/1016274/": {
+            "title": "Microsoft сократит рекламу и рекомендации в Windows 11 для создания более \"спокойной\" операционной системы",
+            "description": "В Microsoft планируют сделать Windows 11 более «спокойной». Для этого разработчики ОС сократят количество upsells — то есть рекомендаций, промо-подсказок и рекламных блоков, которые в последние годы...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/070/ddc/cf8/070ddccf8d64571ab5f9cd37f1079ef6.jpg",
+            "url": "https://habr.com/ru/news/1016274/"
         }
     }
 }
