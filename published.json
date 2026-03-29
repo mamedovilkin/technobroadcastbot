@@ -7385,6 +7385,12 @@
             "description": "В Microsoft планируют сделать Windows 11 более «спокойной». Для этого разработчики ОС сократят количество upsells — то есть рекомендаций, промо-подсказок и рекламных блоков, которые в последние годы...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/070/ddc/cf8/070ddccf8d64571ab5f9cd37f1079ef6.jpg",
             "url": "https://habr.com/ru/news/1016274/"
+        },
+        "https://habr.com/ru/news/1016258/": {
+            "title": "В Steam обновилась система региональных цен",
+            "description": "Valve изменила систему рекомендаций по региональному ценообразованию в Steam. Если раньше платформа предлагала один вариант перевода долларовой цены в другие валюты, то теперь их стало три. Первый...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/11d/5ed/2f8/11d5ed2f891c56d3a331c11cac0e7365.jpg",
+            "url": "https://habr.com/ru/news/1016258/"
         }
     }
 }
