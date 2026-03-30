@@ -7679,6 +7679,12 @@
             "description": "Факторов тут, как минимум, два",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/image%20-%202026-03-30T100444.185_large.jpg",
             "url": "https://www.ixbt.com/news/2026/03/30/ddr5-32-110.html"
+        },
+        "https://habr.com/ru/articles/1016648/": {
+            "title": "Kimi K2.5 наступает на пятки GPT-5.4. И работает из России без VPN",
+            "description": "Бенчмарков сейчас – как нейросетей: каждую неделю новый.  GPQA Diamond  тестирует PhD-знания.  Lexometrica  проверяет фактическую точность.  LLM Persuasion Benchmark  –...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/65f/3a8/1d2/65f3a81d201fd7b5a3fb52c55b26f3e3.png",
+            "url": "https://habr.com/ru/articles/1016648/"
         }
     }
 }
