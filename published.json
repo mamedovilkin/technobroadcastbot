@@ -7709,6 +7709,12 @@
             "description": "Теперь ставка на кремниевую фотонику",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/1/46160efc-d59f-40f1-a4b7-70e4ae13fc7c_large.png",
             "url": "https://www.ixbt.com/news/2026/03/30/samsung-tsmc-2028.html"
+        },
+        "https://habr.com/ru/news/1016846/": {
+            "title": "DDR5 подешевела на $100: OpenAI начала сворачивать ИИ-стройку",
+            "description": "Цены на комплекты DDR5 в рознице впервые за год пошли вниз — отдельные позиции подешевели на $100 с пиковых значений. По  данным The Telegraph , 32-гигабайтный комплект DDR5 на Amazon сейчас...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5a3/cbc/fca/5a3cbcfcae47f1706f523ebe2d3dde9f.jpg",
+            "url": "https://habr.com/ru/news/1016846/"
         }
     }
 }
