@@ -7583,6 +7583,12 @@
             "description": "В мессенджер Telegram планируется добавить уведомление о том, что собеседник использует неофициальный клиент мессенджера, пишет профильное издание «Код Дурова».",
             "image": "https://meduza.io/imgly/share/1774802557/news/2026/03/29/kod-durova-telegram-budet-preduprezhdat-polzovateley-esli-ih-sobesednik-ispolzuet-neofitsialnyy-klient-takoy-kak-telega",
             "url": "https://meduza.io/news/2026/03/29/kod-durova-telegram-budet-preduprezhdat-polzovateley-esli-ih-sobesednik-ispolzuet-neofitsialnyy-klient-takoy-kak-telega"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1016476/": {
+            "title": "Исчезающие сообщения, паранойя и переворот: что на самом деле произошло в OpenAI",
+            "description": "Вы когда-нибудь видели, как человека ловят на лжи на работе? Не на маленькой невинной лжи, а на настоящей. На чём-то серьёзном, что человек активно скрывал от людей, которые ему доверяли. А теперь...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9c5/6d8/573/9c56d8573eb6bca47e87da891a044177.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1016476/"
         }
     }
 }
