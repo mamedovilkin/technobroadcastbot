@@ -7613,6 +7613,12 @@
             "description": "Беспроводная связь, способную проходить до 100 метров под землёй",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/2/0/36b09b34-596d-4eb7-b37a-e54e6393a7c0_large.png",
             "url": "https://www.ixbt.com/news/2026/03/29/v-juzhnoj-koree-pridumali-besprovodnuju-svjaz-kotoraja-rabotaet-cherez-tolshu-zemli--v-budushem-ee-mogut-integrirovat-v.html"
+        },
+        "https://habr.com/ru/articles/1016662/": {
+            "title": "Наконец-то нашел Android Service своей мечты после того, как потерял его 13 лет назад",
+            "description": "Data Store (1400 x 500 px) (4).png В этой статье я собираюсь показать вам Android фичу, представленную в 2012 году, и попробую написать для неё UI на Compose. Изучая недра Android, я наткнулся на один...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/52e/3e9/11d/52e3e911d581ab10c523c70a9336f60c.png",
+            "url": "https://habr.com/ru/articles/1016662/"
         }
     }
 }
