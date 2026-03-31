@@ -7829,6 +7829,12 @@
             "description": "Узнайте подробности ситуации на фоне сообщений о возможных ограничениях в сфере цифровых сервисов в России. - Страна и мир - 31 марта 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/K8zbt02pThX_5KUy9qqe6g/article-id6930470-16x9.jpg?1774936095",
             "url": "https://www.e1.ru/text/world/2026/03/31/76339821/"
+        },
+        "https://habr.com/ru/companies/first/articles/1017244/": {
+            "title": "Атака на axios в npm: как один захваченный аккаунт поставил под угрозу миллионы JavaScript-проектов",
+            "description": "В экосистеме JavaScript произошёл серьёзный инцидент, который хорошо показывает, насколько опасными стали атаки на open source и цепочки поставок. Исследователи StepSecurity сообщили о компрометации...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c37/582/aab/c37582aabf1f7e7b68b6a83ce18a4fb0.png",
+            "url": "https://habr.com/ru/companies/first/articles/1017244/"
         }
     }
 }
