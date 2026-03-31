@@ -7853,6 +7853,12 @@
             "description": "Павел Дуров раскритиковал Apple за блокировку VPN-приложений в российском App Store. Узнайте подробности заявления основателя Telegram. - Происшествия - 31 марта 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/21WVtyHc6TajJR0HytYWgg/article-id6930699-16x9.jpg?1774943674",
             "url": "https://www.fontanka.ru/2026/03/31/76340012/"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1016990/": {
+            "title": "Почему мы полностью отказались от HDD",
+            "description": "В индустрии есть устоявшееся мнение, что HDD — это устаревающая технология. Это с одной стороны. С другой стороны, много у кого написано «Медленные SSD», а по факту при тестах они начинают показывать...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/313/e8c/339/313e8c339775a3686dab8b77a3460d9e.png",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1016990/"
         }
     }
 }
