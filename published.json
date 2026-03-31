@@ -7781,6 +7781,12 @@
             "description": "Пользователи соцсетей рассказали, что в последние дни получали в мессенджере Max чужие видеосообщения, пишет «Говорит НеМосква» 30 марта.",
             "image": "https://meduza.io/imgly/share/1774880574/news/2026/03/30/polzovateli-max-stali-poluchat-chuzhie-videokruzhki",
             "url": "https://meduza.io/news/2026/03/30/polzovateli-max-stali-poluchat-chuzhie-videokruzhki"
+        },
+        "https://science.mail.ru/news/46768-uglerod-tverzhe-almaza-ot-ii/": {
+            "title": "новое открытие с помощью ИИ",
+            "description": "Ученые использовали нейросеть для поиска новых структур углерода. Алгоритм обнаружил конфигурацию, которая может оказаться тверже алмаза. Открытие изменит производство сверхпрочных материалов.",
+            "image": "https://resizer.mail.ru/p/f55b0907-16df-5aa6-a5fc-ec257cabf04c/AQA4dyUSpQX6ox35bMxTIvPcdf-fDYgFcZIdSYGLeJ3e_qY3OuG_KY_Hb04tMX3dMV_NIQ3UrNbHpeuaWYiUJaQ08ZI.jpg",
+            "url": "https://science.mail.ru/news/46768-uglerod-tverzhe-almaza-ot-ii/"
         }
     }
 }
