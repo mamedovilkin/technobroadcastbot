@@ -7931,6 +7931,12 @@
             "description": "Хакерам удалось скомпрометировать аккаунт ведущего разработчика библиотеки Axios в реестре npm и опубликовать две вредоносные версии пакета, распространявшие кроссплатформенный троян удалённого доступа. Заражённые релизы axios@1.14.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/31/1139218/674564.jpg",
             "url": "https://3dnews.ru/1139218/hakeri-podsadili-troyan-v-odnu-iz-samih-skachivaemih-bibliotek-javascript"
+        },
+        "https://3dnews.ru/1139231/microsoft-zamenit-prilogenie-udalyonniy-rabochiy-stol-na-windows-app": {
+            "title": "Microsoft заменит приложение \"Удалённый рабочий стол\" на Windows App",
+            "description": "Microsoft завершила поддержку приложения «Удалённый рабочий стол», в том числе для коммерческих клиентов. Беспокоиться о потери возможности подключения к удалённым рабочим столам не нужно, поскольку на смену старому продукту придёт новое приложение Windows App..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/01/1139231/284.jpg",
+            "url": "https://3dnews.ru/1139231/microsoft-zamenit-prilogenie-udalyonniy-rabochiy-stol-na-windows-app"
         }
     }
 }
