@@ -7967,6 +7967,12 @@
             "description": "Это подтвердили в компании",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/image%20-%202026-04-01T090518.303_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/01/oppo-find-x10-ultra-2026.html"
+        },
+        "https://www.securitylab.ru/news/571040.php": {
+            "title": "Владельцы Samsung остались без диска C. Кажется, Windows 11 не очень любит корейские ноутбуки",
+            "description": "Windows 11 получила обновление, которое пришлось лечить новым обновлением.",
+            "image": "https://www.securitylab.ru/upload/iblock/94d/f5ok3xrhooht5msy49981rg0eivzfhko.jpg",
+            "url": "https://www.securitylab.ru/news/571040.php"
         }
     }
 }
