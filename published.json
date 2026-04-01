@@ -7925,6 +7925,12 @@
             "description": "Китайская компания TCL Electronics Holdings заплатит 75,4 млрд иен ($472 млн) за 51 % акций нового совместного предприятия, которое будет управлять глобальным бизнесом Sony в сфере домашней развлекательной техники, включая телевизоры Bravia. Sony сохранит 49 % акций в этом бизнесе, который включает исследования, разработки, дизайн, производство и продажи продукции, а также домашнее аудиооборудование..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/03/31/1139208/sony-tv-room.jpg",
             "url": "https://3dnews.ru/1139208/sony-sdala-televizori-kitaytsam-tcl-poluchit-kontrol-nad-biznesom-bravia"
+        },
+        "https://3dnews.ru/1139218/hakeri-podsadili-troyan-v-odnu-iz-samih-skachivaemih-bibliotek-javascript": {
+            "title": "Хакеры подсадили троян в одну из самых скачиваемых библиотек JavaScript",
+            "description": "Хакерам удалось скомпрометировать аккаунт ведущего разработчика библиотеки Axios в реестре npm и опубликовать две вредоносные версии пакета, распространявшие кроссплатформенный троян удалённого доступа. Заражённые релизы axios@1.14.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/03/31/1139218/674564.jpg",
+            "url": "https://3dnews.ru/1139218/hakeri-podsadili-troyan-v-odnu-iz-samih-skachivaemih-bibliotek-javascript"
         }
     }
 }
