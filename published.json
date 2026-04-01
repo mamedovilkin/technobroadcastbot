@@ -7949,6 +7949,12 @@
             "description": "AI Editor позволяет быстро переписать текст",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/photo_2026-04-01_09-28-10_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/01/telegram-live-photos-ios-motion-photos-android.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1017782/": {
+            "title": "OpenAI, Disney, $1 млрд и крах за 4 месяца. Что случилось с Sora?",
+            "description": "Миллиарды долларов сожжены — и почти ничего не получено в виде выручки. Таково наследие Sora, анонсированной OpenAI в декабре 2025 года и официально закрытой 24 марта 2026-го. Это не просто крах...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ec0/ec8/ad1/ec0ec8ad10f3b8b4d10e7081aa4ef214.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1017782/"
         }
     }
 }
