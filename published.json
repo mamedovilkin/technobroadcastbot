@@ -7979,6 +7979,12 @@
             "description": "Xiaomi наняла бывшего топ-менеджера Tesla China для развития продаж",
             "image": "https://www.32cars.ru/uploads/materials/18082/inner/UQ7TtAGZ0DdTKllnTa0x.jpg",
             "url": "https://www.32cars.ru/posts/id-18082-novyj-hod-xiaomi-kadry-tesla-plavno-peretekajut-k-konkurentam"
+        },
+        "https://habr.com/ru/companies/tehrevizor/news/1017890/": {
+            "title": "Почему PDF в России превратился в проблему для документооборота и ИИ",
+            "description": "После массового перехода на разное отечественное ПО PDF в России из «финального» формата неожиданно стал рабочим. Если раньше документ создавали в одной экосистеме, согласовывали там же, а PDF...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/217/b1b/a51/217b1ba5126799707275e3237a115f8c.png",
+            "url": "https://habr.com/ru/companies/tehrevizor/news/1017890/"
         }
     }
 }
