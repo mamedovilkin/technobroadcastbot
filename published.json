@@ -8021,6 +8021,12 @@
             "description": "На маркетплейсах в несколько раз подорожали подарочные карты для пополнения App Store. Стоимость карт в 5-6 раз превышает сумму, которую пользователь получит на свой счёт. Резкий рост связан с...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/8df/a22/25a/8dfa2225ad61740909b07ecb4a74c5e5.jpg",
             "url": "https://habr.com/ru/news/1018020/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1018016/": {
+            "title": "Apple одобрила драйверы TinyCorp для внешних видеокарт Nvidia и AMD на Mac",
+            "description": "Стартап  TinyCorp , основанный известным разработчиком Джорджем Хотцем, сообщил в соцсети X (бывший Twitter), что компания Apple официально одобрила их специализированный драйвер для работы...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/15b/8d8/bde/15b8d8bde35d26846935044ed3b6a030.jpg",
+            "url": "https://habr.com/ru/companies/bothub/news/1018016/"
         }
     }
 }
