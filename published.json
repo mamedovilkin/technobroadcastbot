@@ -8105,6 +8105,12 @@
             "description": "Это большой улов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/dln685hxd9sg1_large.jpeg",
             "url": "https://www.ixbt.com/news/2026/04/01/ssd-200-10-amazon.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1018212/": {
+            "title": "Уничтожить невозможно: учёные создали модульных роботов с дизайном в стиле “Магнетикс”",
+            "description": "Будущее робототехники, возможно, кроется не в андроидах, а в причудливых паукообразных конгломератах из стержней, извивающихся по ландшафту. Исследователи из Северо-Западного университета представили...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/1db/35f/fc2/1db35ffc2059f09e1b61864761d071f9.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1018212/"
         }
     }
 }
