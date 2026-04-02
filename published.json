@@ -8057,6 +8057,12 @@
             "description": "После выпуска на прошлой неделе необязательного обновления для Windows 11 компания Microsoft была вынуждена отозвать его из-за многочисленных проблем с установкой. Накопительное обновление KB5079391 включало несколько улучшений, однако пользователи сообщали о сбое при установке с отображением кода ошибки 0x80073712. Взамен неисправного предварительного обновления компания выпустила экстренное обновление KB5086672 для затронутых систем Windows 11 25H2 и 24H2.",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/04/01/1139274/windows-rainbow-logo.jpg",
             "url": "https://3dnews.ru/1139274/microsoft-vipustila-ekstrennoe-obnovlenie-dlya-windows-11-prizvannoe-ispravit-oshibki-martovskogo-nakopitelnogo-obnovleniya"
+        },
+        "https://habr.com/ru/news/1018098/": {
+            "title": "В Китае бум компаний, в которых работает всего один человек - за всё остальное отвечают ИИ‑агенты",
+            "description": "В Китае резко возросло число компаний, практически не имеющих сотрудников, в которых ключевые функции выполняют ИИ‑агенты. Президент Alibaba Куо Чжан утверждает, что сегодня от 30%...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/92b/897/7ad/92b8977ad95239e27fe82b38da67fe56.png",
+            "url": "https://habr.com/ru/news/1018098/"
         }
     }
 }
