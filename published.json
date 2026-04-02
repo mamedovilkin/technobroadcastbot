@@ -8135,6 +8135,12 @@
             "description": "По сравнению с первым",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/image_2_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/01/trendforce-58-75.html"
+        },
+        "https://www.ixbt.com/news/2026/04/02/windows-11-npu.html": {
+            "title": "Windows 11 теперь подробнее показывает, как система задействует блок NPU",
+            "description": "Пока что такие блоки есть далеко не во всех ПК",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/f398H7A6PPY38NEEsSBEGT-970-80.png_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/02/windows-11-npu.html"
         }
     }
 }
