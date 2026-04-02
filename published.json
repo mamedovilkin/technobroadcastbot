@@ -8159,6 +8159,12 @@
             "description": "Власти России продолжают изолировать граждан от глобального интернета. Сейчас они нацелились на VPN-сервисы, которые помогают преодолевать интернет-цензуру.",
             "image": "https://static.dw.com/image/70093307_6.jpg",
             "url": "https://www.dw.com/ru/v-rossii-vse-bolse-blokiruut-internet-cto-delat/a-76630692"
+        },
+        "https://science.mail.ru/articles/46488-solnechnaya-ehnergetika/": {
+            "title": "Солнечная энергетика: от кремниевых панелей до космических зеркал",
+            "description": "Рассказываем, что такое солнечная энергетика и каковы перспективы ее развития. Преимущества и недостатки использования солнечной энергии",
+            "image": "https://resizer.mail.ru/p/83aae1fa-dafc-5054-a778-231c697a2841/AQA4IdgI1IaVom702Bjz__z2Pg58Y6f6_KhcgNSzAojs72qPO2z3One4Cxs4SJzu3zt1vOq6wzotsONoE4Ak5BlTNPk.jpg",
+            "url": "https://science.mail.ru/articles/46488-solnechnaya-ehnergetika/"
         }
     }
 }
