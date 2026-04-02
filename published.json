@@ -8039,6 +8039,12 @@
             "description": "Telegram сбоит 1 апреля: пользователи сталкиваются с проблемами в работе мессенджера. Узнайте подробности и причины неполадок. - Общество - 1 апреля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/6curuC0bQKCJdRyN0U3MKg/article-id6934456-16x9.jpg?1775052451",
             "url": "https://www.fontanka.ru/2026/04/01/76343121/"
+        },
+        "https://habr.com/ru/news/1018110/": {
+            "title": "Raspberry Pi выпустила одноплатник Raspberry Pi 4 с 3 ГБ ОЗУ и снова подняла цены",
+            "description": "Raspberry Pi представила одноплатный компьютер Raspberry Pi 4 с 3 ГБ оперативной памяти. Устройство стоит 83 доллара. Кроме того, компания уже третий раз за последние полгода поднимает цены на свои...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/29e/938/6b5/29e9386b5186295e6bc6a3e39fbd477a.jpg",
+            "url": "https://habr.com/ru/news/1018110/"
         }
     }
 }
