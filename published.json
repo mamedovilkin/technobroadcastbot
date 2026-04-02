@@ -8213,6 +8213,12 @@
             "description": "Армянская (Мецаморская) АЭС отключена от энергосистемы страны в рамках программы продления срока ее эксплуатации, сообщил министр территориального управления и",
             "image": "https://www.interfax.ru/aspimg/1081593.jpg",
             "url": "https://www.interfax.ru/world/1081593"
+        },
+        "https://habr.com/ru/news/1018330/": {
+            "title": "\"Сильнейшая китайская модель в коде\": Alibaba представила Qwen3.6-Plus",
+            "description": "Alibaba официально выпустила Qwen3.6-Plus — новый флагман семейства Qwen, ориентированный на агентное программирование и мультимодальное восприятие. Модель доступна в  Qwen Chat , через облачную...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/be0/b10/fc8/be0b10fc8b7e59195103b757b9bf851e.jpeg",
+            "url": "https://habr.com/ru/news/1018330/"
         }
     }
 }
