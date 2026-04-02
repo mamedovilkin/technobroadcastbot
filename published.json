@@ -8045,6 +8045,12 @@
             "description": "Raspberry Pi представила одноплатный компьютер Raspberry Pi 4 с 3 ГБ оперативной памяти. Устройство стоит 83 доллара. Кроме того, компания уже третий раз за последние полгода поднимает цены на свои...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/29e/938/6b5/29e9386b5186295e6bc6a3e39fbd477a.jpg",
             "url": "https://habr.com/ru/news/1018110/"
+        },
+        "https://habr.com/ru/news/1018128/": {
+            "title": "Три задачи Эрдёша за раз: новая модель OpenAI обошла GPT-5.4 Pro в математике",
+            "description": "Команда математиков OpenAI — Борис Алексеев, Мо Паттерман, Мехтааб Сони, Марк Селлке и Грегори Вэлиант —  опубликовала препринт , в котором решены сразу три открытых задачи, сформулированных...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5e0/be9/91a/5e0be991ac28868eb4e2f0b3ba0ec920.jpg",
+            "url": "https://habr.com/ru/news/1018128/"
         }
     }
 }
