@@ -8411,6 +8411,12 @@
             "description": "Китайская 8BitDo выпустила ограниченную серию механических клавиатур Retro 68 AP50 в стиле компьютера Apple II и стоимостью $500. Релиз посвящён 50-летию корпорации Apple. Дизайн Retro 68 AP50...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/058/4e3/d29/0584e3d296094f31858666168a3936d2.jpg",
             "url": "https://habr.com/ru/news/1018910/"
+        },
+        "https://habr.com/ru/companies/piter/articles/1018914/": {
+            "title": "Почему никто не ожидал, что механизм \"предсказать следующее слово\" не должен был оказаться так успешен (но оказался)",
+            "description": "Большие языковые модели по-прежнему просто предсказывают следующее слово. Два года назад одна лишь эта причина казалось достаточной, чтобы их отвергать — ведь именно ею обосновывали их неуклюжий...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/11f/8ee/fe3/11f8eefe3095b1e3002eb252aced4cd4.webp",
+            "url": "https://habr.com/ru/companies/piter/articles/1018914/"
         }
     }
 }
