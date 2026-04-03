@@ -8351,6 +8351,12 @@
             "description": "Экипаж «Артемиды-II» вышел на траекторию к Луне.",
             "image": "https://sharing.vedomosti.ru/1775192074/vedomosti.ru/technology/news/2026/04/03/1187639-vishla-na-traektoriyu.jpg",
             "url": "https://www.vedomosti.ru/technology/news/2026/04/03/1187639-vishla-na-traektoriyu"
+        },
+        "https://www.securitylab.ru/news/571078.php": {
+            "title": "\"Это не первоапрельская шутка\". Хакеры вынесли из Drift сотни миллионов долларов",
+            "description": "Что пошло не так у популярного сервиса на Solana.",
+            "image": "https://www.securitylab.ru/upload/iblock/f5d/71830jmv4o5pqvzbjxmh3nclr6y5ppqm.jpg",
+            "url": "https://www.securitylab.ru/news/571078.php"
         }
     }
 }
