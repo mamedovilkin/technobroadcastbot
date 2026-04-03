@@ -8261,6 +8261,12 @@
             "description": "Модель появилась на OpenRouter в ночь с 30 на 31 марта как бесплатный превью без анонса и пресс-релиза: один твит от исследователя Qwen с таблицей бенчмарков — и всё. За первые два дня через неё...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/465/68b/5c6/46568b5c66f327410340abcdf419bb8b.png",
             "url": "https://habr.com/ru/news/1018526/"
+        },
+        "https://3dnews.ru/1139320/google-vdvoe-uvelichila-obyom-oblachnogo-hranilishcha-no-ne-dlya-vseh": {
+            "title": "Google вдвое увеличила объём облачного хранилища, но не для всех",
+            "description": "Google предлагает несколько планов подписки на сервисы искусственного интеллекта, в комплекте с которыми идёт расширенное облачное хранилище данных. Тарифный план среднего уровня перевели на более выгодные условия — без дополнительных затрат объём доступного места в облаке значительно вырос..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/02/1139320/google.jpg",
+            "url": "https://3dnews.ru/1139320/google-vdvoe-uvelichila-obyom-oblachnogo-hranilishcha-no-ne-dlya-vseh"
         }
     }
 }
