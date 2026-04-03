@@ -8255,6 +8255,12 @@
             "description": "Весеннюю «Разборку недели» №28 мы посвятили роботам, которые трудятся в автопроме, на транспорте, в общепите и спорте.",
             "image": "https://www.zr.ru/d/story/e1/978913/dsc04960.jpg",
             "url": "https://www.zr.ru/content/news/978913-gumanoidnyj-robot-stal-vedushchim/"
+        },
+        "https://habr.com/ru/news/1018526/": {
+            "title": "Alibaba выкатили Qwen3.6-Plus - новый флагман серии Qwen",
+            "description": "Модель появилась на OpenRouter в ночь с 30 на 31 марта как бесплатный превью без анонса и пресс-релиза: один твит от исследователя Qwen с таблицей бенчмарков — и всё. За первые два дня через неё...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/465/68b/5c6/46568b5c66f327410340abcdf419bb8b.png",
+            "url": "https://habr.com/ru/news/1018526/"
         }
     }
 }
