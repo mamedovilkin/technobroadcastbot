@@ -8369,6 +8369,12 @@
             "description": "Рост цен ожидается до 30%",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/5/image%20-%202026-04-03T090721.085_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/03/huawei-catl-lenovo-xiaomi-oppo-anker-ugreen.html"
+        },
+        "https://www.cnews.ru/news/top/2026-04-03_samyj_glavnyj_na_planete": {
+            "title": "Самый популярный в мире дистрибутив Linux взвинтил требования к компьютеру. Даже Windows не такая прожорливая",
+            "description": "В Ubuntu Linux выросли системные требования – теперь этой ОС нужно не меньше 6 ГБ ОЗУ, хотя раньше ей хватало и 4 ГБ. И это – в самый разгар дефицита оперативной памяти. Даже у Windows 11 более...",
+            "image": "https://static.cnews.ru/img/news/2025/01/29/ubu6.jpg",
+            "url": "https://www.cnews.ru/news/top/2026-04-03_samyj_glavnyj_na_planete"
         }
     }
 }
