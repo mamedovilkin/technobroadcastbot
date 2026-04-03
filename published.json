@@ -8237,6 +8237,12 @@
             "description": "Пользователь установил Linux Mint с Cinnamon человеку, который не разбирается в технологиях. За две недели не возникло ни одной ситуации, потребовавшей командной строки. Система работала без вмешательства",
             "image": "https://cdn.comss.ru/img/2026-04-02/comss-linux-mint-2026-04-02_0951.jpg",
             "url": "https://www.comss.ru/page.php?id=20129"
+        },
+        "https://habr.com/ru/companies/bothub/news/1018478/": {
+            "title": "В npm-пакете axios (клиент HTTPS) нашли троян удалённого доступа: атакованы версии 1.14.1 и 0.30.4",
+            "description": "30 марта 2026 года специалисты компании StepSecurity обнаружили в npm-реестре две вредоносные версии самого популярного JavaScript HTTP-клиента axios – 1.14.1 и 0.30.4 . Злоумышленники взломали...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b16/cb1/0a1/b16cb10a1227a28ca80c534f8c7b5526.png",
+            "url": "https://habr.com/ru/companies/bothub/news/1018478/"
         }
     }
 }
