@@ -8375,6 +8375,12 @@
             "description": "В Ubuntu Linux выросли системные требования – теперь этой ОС нужно не меньше 6 ГБ ОЗУ, хотя раньше ей хватало и 4 ГБ. И это – в самый разгар дефицита оперативной памяти. Даже у Windows 11 более...",
             "image": "https://static.cnews.ru/img/news/2025/01/29/ubu6.jpg",
             "url": "https://www.cnews.ru/news/top/2026-04-03_samyj_glavnyj_na_planete"
+        },
+        "https://habr.com/ru/news/1018810/": {
+            "title": "В честь юбилея Apple показала прототипы своих устройств",
+            "description": "Издание The Wall Street Journal в честь 50-летия Apple подготовило интервью с генеральным директором компании Тимом Куком. Он показал журналистам ранние прототипы iPod, Apple Watch и других гаджетов....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/81d/775/c2c/81d775c2cb39e33d94f87e4d72af0b5e.jpg",
+            "url": "https://habr.com/ru/news/1018810/"
         }
     }
 }
