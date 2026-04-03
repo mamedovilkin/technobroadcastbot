@@ -8297,6 +8297,12 @@
             "description": "За устройство просят почти 500 долларов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/d2520cd3c7ee177f1e32e0fc31fcf5e1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/02/10-18-000-nas-xiaomi-router-be19000-pro.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1018686/": {
+            "title": "Вышел Cursor 3: внутри Composer 2, и можно запускать сколько угодно агентов",
+            "description": "2 апреля 2026 года компания Cursor официально представила Cursor 3 – масштабное обновление своей IDE, которое превращает среду разработки в единую точку управления ИИ-агентами. Релиз состоялся спустя...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/650/00a/d71/65000ad71fe1f92f769c9cf77025f237.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1018686/"
         }
     }
 }
