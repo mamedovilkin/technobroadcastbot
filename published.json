@@ -8357,6 +8357,12 @@
             "description": "Что пошло не так у популярного сервиса на Solana.",
             "image": "https://www.securitylab.ru/upload/iblock/f5d/71830jmv4o5pqvzbjxmh3nclr6y5ppqm.jpg",
             "url": "https://www.securitylab.ru/news/571078.php"
+        },
+        "https://habr.com/ru/companies/mvideo/news/1018340/": {
+            "title": "М.Видео назвала самые популярные умные колонки на рынке РФ",
+            "description": "Компания проанализировали рынок умных колонок в России и назвала самые популярные модели устройств. В 2025 году в России было продано около 5,5 млн умных колонок на сумму порядка 48 млрд рублей, а...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/314/28d/d69/31428dd69de8f53bf9a32e7f27698387.png",
+            "url": "https://habr.com/ru/companies/mvideo/news/1018340/"
         }
     }
 }
