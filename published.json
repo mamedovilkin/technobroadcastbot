@@ -8441,6 +8441,12 @@
             "description": "Компания Valve переработала интерфейс Steam в рамках стратегии по упрощению поиска игр для пользователей. Обновлённый внешний вид клиента доступен в бета‑версии. ...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/c81/f7a/886/c81f7a886940d0da963161f4cd5ef5e7.jpg",
             "url": "https://habr.com/ru/news/1018972/"
+        },
+        "https://www.forbes.ru/tekhnologii/558433-cernaa-dyra-resursov-pocemu-openai-svoracivaet-ii-generator-sora": {
+            "title": "\"Черная дыра ресурсов\": почему OpenAI сворачивает ИИ-генератор Sora",
+            "description": "На прошлой неделе американская компания OpenAI заявила, что закрывает ИИ-генератор реалистичных видео Sora. Приложение прекратит работу в апреле. Новость стала неожиданностью для рынка: сервис набрал бешеную популярность в 2025 году, собрав 1 млн пол",
+            "image": "https://cdn.forbes.ru/forbes-static/shareimages/558433.webp?v=1775220853",
+            "url": "https://www.forbes.ru/tekhnologii/558433-cernaa-dyra-resursov-pocemu-openai-svoracivaet-ii-generator-sora"
         }
     }
 }
