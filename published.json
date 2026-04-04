@@ -8429,6 +8429,12 @@
             "description": "25 марта 2026 года команда Sora опубликовала в X короткое прощальное сообщение: \"Мы прощаемся с Sora\". Без точных дат и без объяснений. Только обещание позже рассказать, как сохранить созданный...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/2f2/414/b3e/2f2414b3ecdfcfe9117439c71992b717.png",
             "url": "https://habr.com/ru/companies/paybeam/articles/1018912/"
+        },
+        "https://www.securitylab.ru/news/571154.php": {
+            "title": "Ошибка ввода? Нет, проверка связи. Зачем мошенники заставляют вводить пароль дважды",
+            "description": "Более 400 человек потеряли сбережения из-за новой кампании киберпреступников.",
+            "image": "https://www.securitylab.ru/upload/iblock/027/nqsl3kid8onuud78esjjemnswvsjvt8r.jpg",
+            "url": "https://www.securitylab.ru/news/571154.php"
         }
     }
 }
