@@ -8447,6 +8447,12 @@
             "description": "На прошлой неделе американская компания OpenAI заявила, что закрывает ИИ-генератор реалистичных видео Sora. Приложение прекратит работу в апреле. Новость стала неожиданностью для рынка: сервис набрал бешеную популярность в 2025 году, собрав 1 млн пол",
             "image": "https://cdn.forbes.ru/forbes-static/shareimages/558433.webp?v=1775220853",
             "url": "https://www.forbes.ru/tekhnologii/558433-cernaa-dyra-resursov-pocemu-openai-svoracivaet-ii-generator-sora"
+        },
+        "https://servernews.ru/1139387": {
+            "title": "стартапа Poolside разом отвернулись NVIDIA, CoreWeave и Google",
+            "description": "ИИ-стартап Poolside пытается вести переговоры с облачными провайдерами, включая Google, в попытке найти нового партнёра для строительства 2-ГВт дата-центра Project Horizon в Техасе, сообщает Datacenter Dynamics. От компании отвернулись CoreWeave и NVIDIA, отказавшиеся финансировать развитие ИИ-инфраструктуры стартапа после срыва графиков..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/03/1139387/sm.poolside.800.png",
+            "url": "https://servernews.ru/1139387"
         }
     }
 }
