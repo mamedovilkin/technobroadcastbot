@@ -8459,6 +8459,12 @@
             "description": "Чубайс представлял проект Plastic Logic как настоящую технологическую революцию.",
             "image": "https://image.spletnik.ru/resize/fit=contain,gravity=0.5x0.5,format=auto,width=600,height=315,dpr=2/https://image.spletnik.ru/image/2026/04/03/s4a9/original.webp",
             "url": "https://spletnik.ru/sud-vzyskal-s-anatoliya-chubaysa-i-eks-menedzherov-rosnano-boleye-55-mlrd-rubley-ubytkov-338291"
+        },
+        "https://habr.com/ru/news/1019042/": {
+            "title": "Инженер создал чехол, который возвращает порт Lightning в iPhone 17 Pro",
+            "description": "Инженер Кен Пиллонел (Ken Pillonel) представил проект чехла, который возвращает поддержку порта Lightning в iPhone 17 Pro. Проект шуточный и больше эксперимент, чем полезная разработка. Кен Пиллонел...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2b0/b5c/8a3/2b0b5c8a3831b714b5b69cb2243aed48.jpg",
+            "url": "https://habr.com/ru/news/1019042/"
         }
     }
 }
