@@ -8567,6 +8567,12 @@
             "description": "Grok автоматически превращает твою речь в качественный текстовый промпт",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/image%20-%202026-04-04T083600.990_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/04/v-grok-imagine-dobavili-raspoznavanie-golosa-dlja-sozdanija-izobrazhenij-i-video-bolshe-ne-nuzhno-vruchnuju-vvodit-tekst.html"
+        },
+        "https://habr.com/ru/articles/1019164/": {
+            "title": "Как я запустил AI-ассистента на старом Xiaomi 11T, который пылился в ящике",
+            "description": "Живой бот в Telegram. Рассказывает, что умеет, и готов писать змейку на Python — всё это крутится на телефоне, который вчера лежал в ящике. Убирался на выходных в комнате, выгребал хлам из ящика стола...",
+            "image": "https://habr.com/share/publication/1019164/b0c02ee0af2c987a15d180f5cec63935/",
+            "url": "https://habr.com/ru/articles/1019164/"
         }
     }
 }
