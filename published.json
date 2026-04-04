@@ -8591,6 +8591,12 @@
             "description": "В преддверии выхода GTA VI многие игроки столкнулись с дилеммой: инвестировать в текущее поколение или подождать? Инсайдер Moore’s Law is Dead предлагает второе. По его данным, Sony уже готовит почву для перехода на PS6, и стратегия гиганта строится на создании более доступного «железа», чем нынешняя модель Pro.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1171189/new-ps5-model-detachable-disc-dr.jpg",
             "url": "https://ixbt.games/news/2026/04/04/408532-ps6-budet-kompaktnee-i-desevle-cem-ps5-pro-sony-gotovit-revoliuciiu-insaider.html"
+        },
+        "https://habr.com/ru/news/1018788/": {
+            "title": "В Canonical увеличили минимальный объём ОЗУ для Ubuntu 26.04 LTS Resolute Raccoon до 6 ГБ",
+            "description": "В команде Canonical увеличили минимальный объём ОЗУ для дистрибутива Ubuntu 26.04 LTS Resolute Raccoon до 6 ГБ (версия Ubuntu Desktop с окружением основанным на Gnome требует как минимум 6 ГБ...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b6a/865/053/b6a865053ef4b01311535724207a0856.png",
+            "url": "https://habr.com/ru/news/1018788/"
         }
     }
 }
