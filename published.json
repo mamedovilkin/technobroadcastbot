@@ -8477,6 +8477,12 @@
             "description": "Где-то в недрах Anthropic сидят люди, чья работа - выяснить, не пытается ли их самая умная модель тихо сломать мир. Они выпустили 53-страничный отчёт о том, как искали зло в Claude Opus 4.6. Anthropic...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/7e1/16e/a9d/7e116ea9db8bd6bdaab953c3274e4c78.jpg",
             "url": "https://habr.com/ru/articles/1019080/"
+        },
+        "https://habr.com/ru/news/1019074/": {
+            "title": "OpenAI пожертвовала смешными видео ради ИИ-науки: Альтман объяснил, куда ушли мощности Sora",
+            "description": "Глава OpenAI Сэм Альтман в  подкасте Mostly Human  впервые объяснил, почему компания закрыла видеогенератор Sora и сорвала партнерство с Disney на $1 млрд. По его словам, все вычислительные...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d16/7fa/13d/d167fa13df7caf36d586f139781463b9.jpg",
+            "url": "https://habr.com/ru/news/1019074/"
         }
     }
 }
