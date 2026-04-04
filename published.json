@@ -8435,6 +8435,12 @@
             "description": "Более 400 человек потеряли сбережения из-за новой кампании киберпреступников.",
             "image": "https://www.securitylab.ru/upload/iblock/027/nqsl3kid8onuud78esjjemnswvsjvt8r.jpg",
             "url": "https://www.securitylab.ru/news/571154.php"
+        },
+        "https://habr.com/ru/news/1018972/": {
+            "title": "Valve переработала внешний вид Steam и упростила поиск игр",
+            "description": "Компания Valve переработала интерфейс Steam в рамках стратегии по упрощению поиска игр для пользователей. Обновлённый внешний вид клиента доступен в бета‑версии. ...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c81/f7a/886/c81f7a886940d0da963161f4cd5ef5e7.jpg",
+            "url": "https://habr.com/ru/news/1018972/"
         }
     }
 }
