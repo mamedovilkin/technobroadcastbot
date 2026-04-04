@@ -8471,6 +8471,12 @@
             "description": "2026 год щедро раздаёт нейросети всем желающим. Кажется, уже невозможно открыть браузер, чтобы на тебя не посмотрела очередной умник, обещающий сгенерировать гениальный текст, как у Толстого, но...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b1d/09c/f62/b1d09cf62f7d42b8cbac8079ff63a221.jpg",
             "url": "https://habr.com/ru/companies/bothub/articles/1019014/"
+        },
+        "https://habr.com/ru/articles/1019080/": {
+            "title": "Anthropic проверяли, не задумал ли их ИИ чего плохого. Ответ - почти нет",
+            "description": "Где-то в недрах Anthropic сидят люди, чья работа - выяснить, не пытается ли их самая умная модель тихо сломать мир. Они выпустили 53-страничный отчёт о том, как искали зло в Claude Opus 4.6. Anthropic...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/7e1/16e/a9d/7e116ea9db8bd6bdaab953c3274e4c78.jpg",
+            "url": "https://habr.com/ru/articles/1019080/"
         }
     }
 }
