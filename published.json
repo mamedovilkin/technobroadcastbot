@@ -8519,6 +8519,12 @@
             "description": "EADaily, 3 апреля 2026. Исследователи Массачусетского технологического института MIT опубликовали исследование, опровергающее популярный нарратив о грядущем «ИИ-апокалипсисе» на рынке труда, пишет телеграм-канал «Медиастанция».",
             "image": "https://img7.eadaily.com/r650x400/o/ef7/4c246033b97b8205872a181bef2b9.jpeg",
             "url": "https://eadaily.com/ru/news/2026/04/03/ii-apokalipsis-na-rynke-truda-otmenen-udarit-po-zarplatam"
+        },
+        "https://habr.com/ru/news/1019122/": {
+            "title": "DeepSeek V4 переписали под Huawei - Alibaba, ByteDance и Tencent уже заказали сотни тысяч чипов",
+            "description": "Флагманская модель DeepSeek V4 будет работать на новейших чипах Huawei,  сообщает  The Information со ссылкой на пять источников, знакомых с деталями. Готовясь к запуску, китайские...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/481/040/2a3/4810402a31ebcf904bda3ddbce44bf93.jpg",
+            "url": "https://habr.com/ru/news/1019122/"
         }
     }
 }
