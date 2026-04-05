@@ -8657,6 +8657,12 @@
             "description": "Такого пока на рынке нет",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/I'm%20not%20supposed%20to%20have%20this...%207-18%20screenshot_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/04/gusenichnaja-lenta-slozhnyj-zubchatyj-mehanizm-i-specialnye-rasporki-razborka-otmenjonnogo-smartfona-lg-rollable.html"
+        },
+        "https://www.bfm.ru/news/602783": {
+            "title": "\"VPN возможно заблокировать только вместе с блокировкой всего интернета\" - Касперская о действиях РКН по блокировке VPN",
+            "description": "В своем телеграм-канале президент InfoWatch, соосновательница и бывший гендиректор компании «Лаборатория Касперского» Наталья Касперская заявила, что заблокировать VPN, как это обещают некоторые депутаты, технически невозможно. А позиция Минцифры, которое одновременно ограничивает интернет и призывает переходить на цифровые сервисы, вызывает недоумение",
+            "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/04/04/tass_78451806.jpg",
+            "url": "https://www.bfm.ru/news/602783"
         }
     }
 }
