@@ -8771,6 +8771,12 @@
             "description": "Инсайдерская информация",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/006BlblIgy1ibvp6ipgidj315o1jkdrj_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/05/honor-600-pro-iphone-17-pro.html"
+        },
+        "https://habr.com/ru/articles/1019412/": {
+            "title": "Улучшение концентрации внимания за счёт отказа от большого монитора",
+            "description": "Старший продакт-инженер из Таллина Герман Ыунапуу рассказывает , как он оптимизировал рабочую конфигурацию своей системы за счёт отказа от большого монитора, чтобы меньше отвлекаться. Сохранять...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/51e/2b7/3b0/51e2b73b0b40624ef3fabf9178009102.jpg",
+            "url": "https://habr.com/ru/articles/1019412/"
         }
     }
 }
