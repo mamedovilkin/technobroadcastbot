@@ -8711,6 +8711,12 @@
             "description": "Хотя в целом это касается любого ПО",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/Gemini_Generated_Image_a7uufpa7uufpa7uu_large.png",
             "url": "https://www.ixbt.com/news/2026/04/04/fbr-preduprezhdaet-bjuro-opublikovalo-soobshenie-rasskazyvajushaja-o-potencialnyh-riskah-kitajskih-prilozhenij.html"
+        },
+        "https://www.ixbt.com/news/2026/04/04/google-gemma-4.html": {
+            "title": "Google представила ИИ-модели Gemma 4. Две из них могут автономно работать на смартфонах",
+            "description": "Компания называет их максимально интеллктуальными",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/gemma-4_blog_keyword_header-dark.width-1200.format-webp_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/04/google-gemma-4.html"
         }
     }
 }
