@@ -8627,6 +8627,12 @@
             "description": "С 2022 года отечественная игровая индустрия получила, по разным оценкам, около 7–10 млрд рублей государственной поддержки. Цифры могут показаться огромными, но, сравнив их с мировыми, становится не...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/609/e87/4c4/609e874c4252a69fd0087daa273716cd.png",
             "url": "https://habr.com/ru/articles/1019130/"
+        },
+        "https://habr.com/ru/news/1019236/": {
+            "title": "Netflix выпустил открытую ИИ-модель для видео, которая удаляет объекты и пересчитывает физику",
+            "description": "Netflix  опубликовал  свою первую open-source модель — VOID (Video Object and Interaction Deletion). Она удаляет объекты из видео и физически корректно моделирует последствия удаления: если...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0f8/579/598/0f8579598f912d9e65bc1fa8198f9251.jpg",
+            "url": "https://habr.com/ru/news/1019236/"
         }
     }
 }
