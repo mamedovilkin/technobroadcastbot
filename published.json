@@ -8633,6 +8633,12 @@
             "description": "Netflix  опубликовал  свою первую open-source модель — VOID (Video Object and Interaction Deletion). Она удаляет объекты из видео и физически корректно моделирует последствия удаления: если...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0f8/579/598/0f8579598f912d9e65bc1fa8198f9251.jpg",
             "url": "https://habr.com/ru/news/1019236/"
+        },
+        "https://finance.mail.ru/article/apple-menyaet-strategiyu-razvitiya-iz-za-otstavaniya-na-ryinke-iskusstvennogo-intellekta-69203895/": {
+            "title": "Apple меняет стратегию развития из-за отставания на рынке искусственного интеллекта",
+            "description": "Корпорация Apple пытается наверстать упущенное в сфере нейросетей к своему юбилею",
+            "image": "https://resizer.mail.ru/p/6944c198-9399-5561-a061-42c45a866d74/AQAznWjkyUkENIODYoHBHPBs2LP0umdbZF6vYbbWSSYmkGCuXYymwm8hXIsuoPAZflA3XgLBn_jY-tPMdIyrNUhvFKc.jpg",
+            "url": "https://finance.mail.ru/article/apple-menyaet-strategiyu-razvitiya-iz-za-otstavaniya-na-ryinke-iskusstvennogo-intellekta-69203895/"
         }
     }
 }
