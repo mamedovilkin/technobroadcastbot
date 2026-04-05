@@ -8669,6 +8669,12 @@
             "description": "Новая версия модели DeepSeek v4 готовится к релизу и делает ставку на полностью локальную инфраструктуру. Модель будет запускаться исключительно на оборудовании Huawei, без использования ускорителей...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/08c/eac/649/08ceac649204b85acb296b324bda3c50.jpeg",
             "url": "https://habr.com/ru/companies/bothub/news/1019280/"
+        },
+        "https://www.ixbt.com/news/2026/04/04/samsung-galaxy-s26-ultra.html": {
+            "title": "Samsung подтвердила проблему с камерой Galaxy S26 Ultra, уже вышло исправление",
+            "description": "Фото с 3-кратным зумом будут более четкими",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/001-galaxy-s26ultra-cobaltviolet-front-back-spen%20(1)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/04/samsung-galaxy-s26-ultra.html"
         }
     }
 }
