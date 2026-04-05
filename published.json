@@ -8681,6 +8681,12 @@
             "description": "Из этой серии статей вы узнаете о, вероятно, самой глупом, легко предотвратимом и дорогом провале 21-го века, из-за которого Microsoft чуть не потеряла своего самого крупного клиента (OpenAI) и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/42e/28a/9fc/42e28a9fcc40f02b6fcd4a36d31ebacd.jpg",
             "url": "https://habr.com/ru/articles/1019212/"
+        },
+        "https://3dnews.ru/1139450/entuziast-ustanovil-windows-31x-na-kompyuter-2025-goda-i-ona-zarabotala-cryzen-9-9900x-irtx-5060-ti": {
+            "title": "Энтузиаст установил Windows 3.1x на компьютер 2025 года - и она заработала c Ryzen 9 9900X и RTX 5060 Ti",
+            "description": "Автор YouTube-канала Omores и ценитель старых компьютеров провёл эксперимент: установил старенькую Microsoft Windows 3.1x на ПК с процессором AMD Ryzen 9 9900X и видеокартой Nvidia GeForce RTX 5060 Ti. То есть ОС образца 1992 года, процессор на архитектуре Zen 5 2024 года и видеокарта на архитектуре Blackwell 2025 года успешно заработали вместе.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/04/1139450/win31.jpg",
+            "url": "https://3dnews.ru/1139450/entuziast-ustanovil-windows-31x-na-kompyuter-2025-goda-i-ona-zarabotala-cryzen-9-9900x-irtx-5060-ti"
         }
     }
 }
