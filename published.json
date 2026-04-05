@@ -8675,6 +8675,12 @@
             "description": "Фото с 3-кратным зумом будут более четкими",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/001-galaxy-s26ultra-cobaltviolet-front-back-spen%20(1)_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/04/samsung-galaxy-s26-ultra.html"
+        },
+        "https://habr.com/ru/articles/1019212/": {
+            "title": "Как Microsoft сожгла триллион долларов",
+            "description": "Из этой серии статей вы узнаете о, вероятно, самой глупом, легко предотвратимом и дорогом провале 21-го века, из-за которого Microsoft чуть не потеряла своего самого крупного клиента (OpenAI) и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/42e/28a/9fc/42e28a9fcc40f02b6fcd4a36d31ebacd.jpg",
+            "url": "https://habr.com/ru/articles/1019212/"
         }
     }
 }
