@@ -8957,6 +8957,12 @@
             "description": "Аудиторы заглянули под капот Cloudflare и остались довольны.",
             "image": "https://www.securitylab.ru/upload/iblock/ca6/phz6wtaksxustbrf4z5vd8pkrb2khlwp.jpg",
             "url": "https://www.securitylab.ru/news/571182.php"
+        },
+        "https://3dnews.ru/1139482/protsessor-intel-bartlett-lake-smog-zapustit-windows-na-chipsete-z790-posle-dopolnitelnoy-modifikatsii-bios-s-pomoshchyu-ii": {
+            "title": "ИИ помог запустить Windows на несовместимой связке процессора Intel Bartlett Lake и материнской платы Z790",
+            "description": "Генеративный искусственный интеллект обеспечил частных энтузиастов инструментами, позволяющими экспериментировать с микрокодом материнских плат, не обладая доступом к документации разработчиков. Процессор Intel семейства Bartlett Lake недавно удалось заставить запустить Windows на материнской плате, использующей чипсет Intel Z790, хотя изначально такая связка вообще не должна была работать..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/06/1139482/mod_01.jpg",
+            "url": "https://3dnews.ru/1139482/protsessor-intel-bartlett-lake-smog-zapustit-windows-na-chipsete-z790-posle-dopolnitelnoy-modifikatsii-bios-s-pomoshchyu-ii"
         }
     }
 }
