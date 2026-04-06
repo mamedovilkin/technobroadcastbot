@@ -8849,6 +8849,12 @@
             "description": "Япония становится одним из первых рынков, где так называемый physical AI — ИИ, работающий через роботов и устройства в реальном мире — выходит из стадии экспериментов в полноценное внедрение. По...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b61/04e/5ca/b6104e5cae620427a4c7753df3bc5cf4.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1019544/"
+        },
+        "https://habr.com/ru/news/1019446/": {
+            "title": "В Steam тестируют анализ FPS на конкретном ПК до покупки игры пользователем",
+            "description": "Valve тестирует в Steam инструмент для анализа FPS на конкретном ПК до покупки игры пользователем, сообщил датамайнер dex3108 на форуме ResetEra, обнаруживший строки кода этой функции. Сама компания...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/783/881/a76/783881a76f19040e179813ac55f0bbdb.jpg",
+            "url": "https://habr.com/ru/news/1019446/"
         }
     }
 }
