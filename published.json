@@ -8987,6 +8987,12 @@
             "description": "Группа DenuvOwO сообщила о выпуске обновления для своего гипервизор-взлома защиты Denuvo в Crimson Desert.",
             "image": "https://i.playground.ru/e/byv1iG1lO61efmbq8Va33w.png",
             "url": "https://www.playground.ru/crimson_desert/news/denuvowo_vypustili_gipervizor_vzlom_dlya_crimson_desert_1_02_00-1836154"
+        },
+        "https://www.securitylab.ru/news/571209.php": {
+            "title": "Кто и как украл у Drift 285 миллионов долларов? Ответ уже известен, и он точно вас удивит",
+            "description": "План атаки вынашивали так долго, что успех был неизбежен.",
+            "image": "https://www.securitylab.ru/upload/iblock/4b5/rmvj4z2l7988v1g2bde5ybprd1foylb0.jpg",
+            "url": "https://www.securitylab.ru/news/571209.php"
         }
     }
 }
