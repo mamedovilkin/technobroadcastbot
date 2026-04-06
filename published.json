@@ -8861,6 +8861,12 @@
             "description": "Пользователь Reddit поделился одной из самых удачных находок видеокарты за последнее время. Он опубликовал фото ASRock Radeon RX 6950 XT OC Formula, купленной за $15,49, а позже обновил пост, сообщив, что карта запускается.",
             "image": "https://i.playground.ru/e/Wc3CVmOYbH1QYKjmpYSmdQ.jpeg",
             "url": "https://www.playground.ru/misc/news/redkaya_radeon_rx_6950_xt_oc_formula_dostalas_pokupatelyu_vsego_za_15_v_komissionnom_magazine-1836097"
+        },
+        "https://www.ixbt.com/news/2026/04/05/arcee-trinity-large-thinking-399.html": {
+            "title": "Arcee представила Trinity-Large-Thinking - открытую ИИ-модель на 399 млрд параметров, конкурирующую с лидерами рынка",
+            "description": "Высокая эффективность и стоимость в десятки раз ниже закрытых моделей",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-04-05T191931.536_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/05/arcee-trinity-large-thinking-399.html"
         }
     }
 }
