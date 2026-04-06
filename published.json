@@ -8843,6 +8843,12 @@
             "description": "Мессенджер Telegram начал помечать аккаунты пользователей, которые используют неофициальные приложения мессенджера.",
             "image": "https://meduza.io/imgly/share/1775405371/news/2026/04/05/telegram-nachal-pomechat-polzovateley-neofitsialnyh-klientov-messendzhera",
             "url": "https://meduza.io/news/2026/04/05/telegram-nachal-pomechat-polzovateley-neofitsialnyh-klientov-messendzhera"
+        },
+        "https://habr.com/ru/companies/bothub/news/1019544/": {
+            "title": "Япония показывает, что \"физический ИИ\" уже готов к реальному миру",
+            "description": "Япония становится одним из первых рынков, где так называемый physical AI — ИИ, работающий через роботов и устройства в реальном мире — выходит из стадии экспериментов в полноценное внедрение. По...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b61/04e/5ca/b6104e5cae620427a4c7753df3bc5cf4.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1019544/"
         }
     }
 }
