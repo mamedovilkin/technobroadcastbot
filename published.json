@@ -8837,6 +8837,12 @@
             "description": "Подход LLM Knowledge Bases превращает Markdown-файлы в «живую» базу знаний, которую модель сама обновляет и связывает без сложных векторных баз",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-02-21T232945.717_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/05/ii-perestanet-zabyvat-andrej-karpati-predlozhil-novyj-sposob-raboty-s-llm-vmesto-rag.html"
+        },
+        "https://meduza.io/news/2026/04/05/telegram-nachal-pomechat-polzovateley-neofitsialnyh-klientov-messendzhera": {
+            "title": "Telegram начал помечать пользователей неофициальных клиентов мессенджера",
+            "description": "Мессенджер Telegram начал помечать аккаунты пользователей, которые используют неофициальные приложения мессенджера.",
+            "image": "https://meduza.io/imgly/share/1775405371/news/2026/04/05/telegram-nachal-pomechat-polzovateley-neofitsialnyh-klientov-messendzhera",
+            "url": "https://meduza.io/news/2026/04/05/telegram-nachal-pomechat-polzovateley-neofitsialnyh-klientov-messendzhera"
         }
     }
 }
