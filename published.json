@@ -8867,6 +8867,12 @@
             "description": "Высокая эффективность и стоимость в десятки раз ниже закрытых моделей",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-04-05T191931.536_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/05/arcee-trinity-large-thinking-399.html"
+        },
+        "https://habr.com/ru/news/1019564/": {
+            "title": "Выбросил месяц ИИ-кода и начал заново: инженер Google честно рассказал о работе с Claude Code",
+            "description": "Лалит Маганти, инженер Google и мейнтейнер проекта Perfetto, опубликовал детальный разбор того, как за ~250 часов и три месяца работы с Claude Code создал syntaqlite — набор devtools для SQLite,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/2b3/150/d23/2b3150d234a08703f62c1aea8cdf8d73.jpg",
+            "url": "https://habr.com/ru/news/1019564/"
         }
     }
 }
