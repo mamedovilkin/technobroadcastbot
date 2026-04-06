@@ -8831,6 +8831,12 @@
             "description": "На этой неделе Telegram заблокирован в России, власти обсуждают запрет VPN. Узнайте подробности ключевых событий недели. - Страна и мир - 5 апреля 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/fRngt6VPbgo-9dkOEU3_vQ/article-id6942383-16x9.jpg?1775398511",
             "url": "https://www.e1.ru/text/world/2026/04/05/76349770/"
+        },
+        "https://www.ixbt.com/news/2026/04/05/ii-perestanet-zabyvat-andrej-karpati-predlozhil-novyj-sposob-raboty-s-llm-vmesto-rag.html": {
+            "title": "ИИ перестанет \"забывать\": Андрей Карпаты предложил новый способ работы с LLM вместо RAG",
+            "description": "Подход LLM Knowledge Bases превращает Markdown-файлы в «живую» базу знаний, которую модель сама обновляет и связывает без сложных векторных баз",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-02-21T232945.717_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/05/ii-perestanet-zabyvat-andrej-karpati-predlozhil-novyj-sposob-raboty-s-llm-vmesto-rag.html"
         }
     }
 }
