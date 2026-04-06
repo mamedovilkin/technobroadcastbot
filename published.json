@@ -8879,6 +8879,12 @@
             "description": "В Китае иностранные приложения заменили собственными разработками. Узнайте, как живут в условиях альтернативного интернета. - Общество - 5 апреля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/wnvQfG4mZxZySAuaXOgfAQ/article-id6941889-16x9.jpg?1775335014",
             "url": "https://www.fontanka.ru/2026/04/05/76349409/"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1019314/": {
+            "title": "Топ локальных нейросетей 2026: полный суверенитет без интернета",
+            "description": "Я долгое время была в отношениях с облачными нейросетями. Это было удобно, даже комфортно. Открыла браузер, написала промпт и через пару секунд получила ответ. Но в последнее время отношения начали...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c98/528/7d2/c985287d2b1aad9ffe09a5db1bf99cdb.jpg",
+            "url": "https://habr.com/ru/companies/bothub/articles/1019314/"
         }
     }
 }
