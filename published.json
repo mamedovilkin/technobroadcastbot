@@ -8885,6 +8885,12 @@
             "description": "Я долгое время была в отношениях с облачными нейросетями. Это было удобно, даже комфортно. Открыла браузер, написала промпт и через пару секунд получила ответ. Но в последнее время отношения начали...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/c98/528/7d2/c985287d2b1aad9ffe09a5db1bf99cdb.jpg",
             "url": "https://habr.com/ru/companies/bothub/articles/1019314/"
+        },
+        "https://habr.com/ru/articles/1014246/": {
+            "title": "AI для умного дома: что уже работает сегодня (часть 1)",
+            "description": "В статье — не просто список инструментов, а как они сочетаются , какие подводные камни ждут при развёртывании, какие цифры можно ожидать по производительности и как обойти ограничения Llama 8B без...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cd4/3e9/01b/cd43e901b66acd6cd84f71bbd80a8d2f.jpg",
+            "url": "https://habr.com/ru/articles/1014246/"
         }
     }
 }
