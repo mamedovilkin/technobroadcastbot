@@ -8903,6 +8903,12 @@
             "description": "Американский рынок акций рискует столкнуться с дефицитом ликвидности из-за новых IPO",
             "image": "https://resizer.mail.ru/p/e1f0b45f-04d3-580f-90fd-d8be8f35af98/AQAzwKCp5rJ6FdRYEiEchUTNRRMyAn_mxsLJ0jXJSkcIg2oYkXpMQtUcgHCQKdybjvIUb-jcsVxppugRc8kZ4cDehVs.jpg",
             "url": "https://finance.mail.ru/article/gryaduschie-mega-ipo-spacex-i-openai-grozyat-obrushit-amerikanskij-fondovyij-ryinok-69203965/"
+        },
+        "https://habr.com/ru/companies/globalsign/articles/1019582/": {
+            "title": "Массовая слежка по WiFi",
+            "description": "Расположение точек доступа TP-Link Archer BE800, места замеров и маршрут людей в эксперименте с распознаванием личности по aWiFi Плотность WiFi-точек в городах достигло такой величины, что позволяет...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a79/3d8/5c3/a793d85c3c206612335721a86632cc92.png",
+            "url": "https://habr.com/ru/companies/globalsign/articles/1019582/"
         }
     }
 }
