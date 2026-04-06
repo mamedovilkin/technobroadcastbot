@@ -9041,6 +9041,12 @@
             "description": "Готовятся к выходу новые материнские платы с поддержкой DDR4 и DDR5",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/1/INTEL-RAPTOR-LAKE-HERO-1200x624_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/06/intel-peredumala-horonit-lga1700--platforma-eshe-pozhivet.html"
+        },
+        "https://www.securitylab.ru/news/571235.php": {
+            "title": "Пароль? Какой пароль? Fortinet разрешила всем желающим покопаться в чужих серверах",
+            "description": "Fortinet выпустила экстренное обновление, чтобы закрыть удаленный доступ к серверам.",
+            "image": "https://www.securitylab.ru/upload/iblock/67f/zy9pmv61a13voc7m4a2lwrn6xw6re2gn.jpg",
+            "url": "https://www.securitylab.ru/news/571235.php"
         }
     }
 }
