@@ -8945,6 +8945,12 @@
             "description": "Российская компания Yadro инвестировала в нейросеть для оценки мобильных сетей",
             "image": "https://resizer.mail.ru/p/5cd0eec5-306f-595c-9a32-49ccbdaade9e/AQAzOLqS4_eZtaDhrGDBRMdCisj1mDnqbSKqj7cz3BPlv9CWDN34YX_7FXsnDAavCgHsg6HhP99tBniCXMyIUIlP3fY.jpg",
             "url": "https://finance.mail.ru/article/proizvoditel-yadro-vlozhil-200-mln-v-ii-dlya-analiza-kachestva-svyazi-69203969/"
+        },
+        "https://habr.com/ru/news/1019574/": {
+            "title": "Представлен открытый просмотрщик изображений QuickView 5.0.0 для Windows 10/11",
+            "description": "Состоялся релиз открытого просмотрщики изображения QuickView 5.0.0 для Windows 10/11. Решение поддерживает форматы WebP, AVIF, JPEG XL, PNG, JPEG, TIFF, RAW и PSD, что делает его идеальным для...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cef/73f/4ca/cef73f4cadf6c9e01caa81ed23d0367b.jpg",
+            "url": "https://habr.com/ru/news/1019574/"
         }
     }
 }
