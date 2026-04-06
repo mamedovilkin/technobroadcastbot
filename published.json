@@ -8969,6 +8969,12 @@
             "description": "Остатки моделей на складе теперь заметно дороже",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/1/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202026-04-06%20074012_large.png",
             "url": "https://www.ixbt.com/news/2026/04/06/tesla-model-s-model-x-15-000.html"
+        },
+        "https://www.securitylab.ru/news/571211.php": {
+            "title": "Пять шагов к захвату ядра. Учёные доказали, что современные GPU от Nvidia уязвимы для дистанционных атак",
+            "description": "Закрыть брешь возможно, но со значительными потерями в производительности.",
+            "image": "https://www.securitylab.ru/upload/iblock/f5c/4dz8tlirsmg8s9oruw80gp6d8ylatu6n.jpg",
+            "url": "https://www.securitylab.ru/news/571211.php"
         }
     }
 }
