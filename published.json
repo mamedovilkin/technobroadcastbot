@@ -8909,6 +8909,12 @@
             "description": "Расположение точек доступа TP-Link Archer BE800, места замеров и маршрут людей в эксперименте с распознаванием личности по aWiFi Плотность WiFi-точек в городах достигло такой величины, что позволяет...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a79/3d8/5c3/a793d85c3c206612335721a86632cc92.png",
             "url": "https://habr.com/ru/companies/globalsign/articles/1019582/"
+        },
+        "https://habr.com/ru/news/1019616/": {
+            "title": "Марк Цукерберг кодит в Claude Code - пока Meta* задерживает свои модели",
+            "description": "Марк Цукерберг впервые за 20 лет отправил код в монорепо Meta* (признана экстремистской и запрещена в России) — три дифа в марте 2026 года. Как сообщает The Pragmatic Engineer со ссылкой на источники...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/29b/7cb/bd7/29b7cbbd7f561ca4ddbcb50f4732f163.jpg",
+            "url": "https://habr.com/ru/news/1019616/"
         }
     }
 }
