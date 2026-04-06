@@ -8951,6 +8951,12 @@
             "description": "Состоялся релиз открытого просмотрщики изображения QuickView 5.0.0 для Windows 10/11. Решение поддерживает форматы WebP, AVIF, JPEG XL, PNG, JPEG, TIFF, RAW и PSD, что делает его идеальным для...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/cef/73f/4ca/cef73f4cadf6c9e01caa81ed23d0367b.jpg",
             "url": "https://habr.com/ru/news/1019574/"
+        },
+        "https://www.securitylab.ru/news/571182.php": {
+            "title": "1.1.1.1: быстрый как всегда, а приватный - почти как обещали",
+            "description": "Аудиторы заглянули под капот Cloudflare и остались довольны.",
+            "image": "https://www.securitylab.ru/upload/iblock/ca6/phz6wtaksxustbrf4z5vd8pkrb2khlwp.jpg",
+            "url": "https://www.securitylab.ru/news/571182.php"
         }
     }
 }
