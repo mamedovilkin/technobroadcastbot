@@ -9119,6 +9119,12 @@
             "description": "Основатель Twitter Джек Дорси рассказал , что Apple удалила его децентрализованный мессенджер Bitchat из китайского App Store. Компания сослалась на требование государственного регулятора. Летом 2025...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a8a/4c6/138/a8a4c61389750249f5a73580a4512394.jpg",
             "url": "https://habr.com/ru/news/1020056/"
+        },
+        "https://habr.com/ru/news/1020054/": {
+            "title": "В WSJ назвали ахиллесову пяту OpenAI и Anthropic",
+            "description": "The Wall Street Journal  получил доступ  к конфиденциальным финансовым документам OpenAI и Anthropic, которые компании предоставляли инвесторам перед последними раундами финансирования....",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f11/ec5/284/f11ec5284450d47084756672b7d5ff93.jpeg",
+            "url": "https://habr.com/ru/news/1020054/"
         }
     }
 }
