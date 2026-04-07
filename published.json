@@ -9125,6 +9125,12 @@
             "description": "The Wall Street Journal  получил доступ  к конфиденциальным финансовым документам OpenAI и Anthropic, которые компании предоставляли инвесторам перед последними раундами финансирования....",
             "image": "https://habrastorage.org/getpro/habr/upload_files/f11/ec5/284/f11ec5284450d47084756672b7d5ff93.jpeg",
             "url": "https://habr.com/ru/news/1020054/"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/04/06/1188344-ekipazh-artemis-ustanovil": {
+            "title": "Экипаж Artemis II установил рекорд дальности полета человека от Земли",
+            "description": "Экипаж миссии Artemis II на космическом корабле «Орион» установил новый рекорд дальности полета человека от Земли, сообщает NASA.",
+            "image": "https://sharing.vedomosti.ru/1775501104/vedomosti.ru/technology/news/2026/04/06/1188344-ekipazh-artemis-ustanovil.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/04/06/1188344-ekipazh-artemis-ustanovil"
         }
     }
 }
