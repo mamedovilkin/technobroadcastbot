@@ -9197,6 +9197,12 @@
             "description": "Бэкдор в npm собирал учётные данные из Chrome, Edge, Brave.",
             "image": "https://www.securitylab.ru/upload/iblock/e11/7up4v42bwy35pkcr6x4pe3r4dacmpxxu.jpg",
             "url": "https://www.securitylab.ru/news/571249.php"
+        },
+        "https://habr.com/ru/news/1020206/": {
+            "title": "Google выпустила бесплатное автономное приложение для диктовки, улучшающее речь пользователя с использованием ИИ",
+            "description": "Google выпустила для iOS бесплатное приложение для диктовки в автономном режиме Google AI Edge Eloquent, которое использует искусственный интеллект для улучшения речи пользователя. Сервис должен...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/506/0e8/cef/5060e8cefe409ea45c3e7366d2421ed5.jpg",
+            "url": "https://habr.com/ru/news/1020206/"
         }
     }
 }
