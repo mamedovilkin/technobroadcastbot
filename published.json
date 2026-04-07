@@ -9167,6 +9167,12 @@
             "description": "Он будет выпущен в ближайшее время",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/70cf98bcly1ibxjg1wl5wj20u0140tdw_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/07/redmi-k90-max-165.html"
+        },
+        "https://habr.com/ru/articles/1020046/": {
+            "title": "Как я добавил файловый доступ в локального AI-агента и что из этого вышло",
+            "description": "Продолжение первой статьи Пару недель назад я выложил Доку — локального AI-агента для Windows и macOS. Статья попала в топ-5 Хабра за сутки, пришло 22 баг-репорта в первые 48 часов и 154 комментария...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a2d/294/432/a2d2944328fe86bdf4e118210af43214.gif",
+            "url": "https://habr.com/ru/articles/1020046/"
         }
     }
 }
