@@ -9083,6 +9083,12 @@
             "description": "Пока мы ждём, что в Telegram наконец раскатится обновлённая реализация Fake-TLS, хочу рассказать о своей реализации MTProto-прокси 2018 года, которая снова становится актуальной, и об одной из её...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/f38/4bc/f51/f384bcf510ecfaeb288406e9cdcdfb56.png",
             "url": "https://habr.com/ru/articles/1019648/"
+        },
+        "https://habr.com/ru/companies/paybeam/articles/1019268/": {
+            "title": "Обменники криптовалют в Москва-Сити, риски по сравнению с P2P-обменом",
+            "description": "Работать с наличкой всегда было рискованно. Мы помним истории из бандитских 90-х, валютчиков на улицах с картонками «Доллары, марочки» и «котлеты» с газетной набивкой. Карманные приборы для выявления...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/df1/69c/790/df169c790a6bb510f78a50f33c423613.jpg",
+            "url": "https://habr.com/ru/companies/paybeam/articles/1019268/"
         }
     }
 }
