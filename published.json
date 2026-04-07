@@ -9071,6 +9071,12 @@
             "description": "В прошлый раз мы рассматривали локальный инференс на бюджетных ноутбуках , а потом я попытался запустить gpt-oss-120b на трех видеокартах . Протестировав модель в рабочих задачах, я понял что она...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/965/40e/6be/96540e6be87aa7345ee86222e91a5b81.jpg",
             "url": "https://habr.com/ru/articles/1019940/"
+        },
+        "https://habr.com/ru/companies/simpleone/articles/1019960/": {
+            "title": "Один сервер - три правды: почему ИТ, бухгалтерия и закупки не могут договориться",
+            "description": "ИТ-директор знает, что сервер загружен на 90% и скоро встанет. Бухгалтер знает, что этот же сервер уже три года как самортизирован и формально не существует. Закупщик знает, что на прошлой неделе...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/353/64a/808/35364a808cc4f71dde71b4f3a9ca75cc.png",
+            "url": "https://habr.com/ru/companies/simpleone/articles/1019960/"
         }
     }
 }
