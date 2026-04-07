@@ -9077,6 +9077,12 @@
             "description": "ИТ-директор знает, что сервер загружен на 90% и скоро встанет. Бухгалтер знает, что этот же сервер уже три года как самортизирован и формально не существует. Закупщик знает, что на прошлой неделе...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/353/64a/808/35364a808cc4f71dde71b4f3a9ca75cc.png",
             "url": "https://habr.com/ru/companies/simpleone/articles/1019960/"
+        },
+        "https://habr.com/ru/articles/1019648/": {
+            "title": "Персональные MTProto-прокси",
+            "description": "Пока мы ждём, что в Telegram наконец раскатится обновлённая реализация Fake-TLS, хочу рассказать о своей реализации MTProto-прокси 2018 года, которая снова становится актуальной, и об одной из её...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f38/4bc/f51/f384bcf510ecfaeb288406e9cdcdfb56.png",
+            "url": "https://habr.com/ru/articles/1019648/"
         }
     }
 }
