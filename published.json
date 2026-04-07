@@ -9089,6 +9089,12 @@
             "description": "Работать с наличкой всегда было рискованно. Мы помним истории из бандитских 90-х, валютчиков на улицах с картонками «Доллары, марочки» и «котлеты» с газетной набивкой. Карманные приборы для выявления...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/df1/69c/790/df169c790a6bb510f78a50f33c423613.jpg",
             "url": "https://habr.com/ru/companies/paybeam/articles/1019268/"
+        },
+        "https://www.securitylab.ru/news/571232.php": {
+            "title": "Больше никакой слежки и платных подписок. Амстердам строит ИТ-рай с открытым кодом",
+            "description": "Четыре голландских города начали отказываться от программ крупных международных разработчиков.",
+            "image": "https://www.securitylab.ru/upload/iblock/6fd/lcc10985gr0o8ezxdmxgx6sieza2vm4g.jpg",
+            "url": "https://www.securitylab.ru/news/571232.php"
         }
     }
 }
