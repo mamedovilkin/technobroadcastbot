@@ -9065,6 +9065,12 @@
             "description": "Компания F6 зафиксировала массовые атаки группы Hive0117 на российских бухгалтеров.",
             "image": "https://www.securitylab.ru/upload/iblock/522/4hksk1xp2iav5pfolp5t4tr1obvcrl3l.jpg",
             "url": "https://www.securitylab.ru/news/571252.php"
+        },
+        "https://habr.com/ru/articles/1019940/": {
+            "title": "Локальный ИИ: майнинг плата + 3 RTX 3090",
+            "description": "В прошлый раз мы рассматривали локальный инференс на бюджетных ноутбуках , а потом я попытался запустить gpt-oss-120b на трех видеокартах . Протестировав модель в рабочих задачах, я понял что она...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/965/40e/6be/96540e6be87aa7345ee86222e91a5b81.jpg",
+            "url": "https://habr.com/ru/articles/1019940/"
         }
     }
 }
