@@ -9395,6 +9395,12 @@
             "description": "Стоимость составляет всего 365 долларов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/ca5c7615-16ea-43ee-8ef0-b876c5902303_large.png",
             "url": "https://www.ixbt.com/news/2026/04/08/8-2-145-29-xiaomi-mijia-water-purifier-2-pro-dual-water-output-1600g.html"
+        },
+        "https://www.securitylab.ru/news/571286.php": {
+            "title": "Квантовый взлом перестал быть теорией. Ученые нашли способ обрушить безопасность интернета в ближайшие годы",
+            "description": "Как новые подходы к вычислениям ставят крест на современных методах шифрования.",
+            "image": "https://www.securitylab.ru/upload/iblock/179/ef5ezuo5iflzfu0b6hhqf13pdlda9eoa.jpg",
+            "url": "https://www.securitylab.ru/news/571286.php"
         }
     }
 }
