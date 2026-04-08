@@ -9371,6 +9371,12 @@
             "description": "Сообщения о принудительном отключении от связи - ложные.",
             "image": "https://kubnews.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/d82/1200_630_text_2/ebeb815fm745capyrtasc69gxrh8sxxt.jpg.webp",
             "url": "https://kubnews.ru/obshchestvo/2026/04/08/kakie-realnye-posledstviya-ozhidayut-vsekh-rossiyan-kotorye-otkazyvayutsya-ustanavlivat-natsionalnyy/"
+        },
+        "https://3dnews.ru/1139601/issledovatel-slil-v-set-kod-eksployta-dlya-windows-v-otvet-na-bezdeystvie-microsoft": {
+            "title": "Исследователь слил в сеть код эксплойта для Windows в ответ на бездействие Microsoft",
+            "description": "Исследователь безопасности выложил в сеть код эксплойта нулевого дня для Windows, получившего название BlueHammer. Причиной такого радикального шага стал конфликт специалиста с Центром реагирования Microsoft (MSRC) из-за обработки процесса предоставленной им информации..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/07/1139601/microsoft.jpg",
+            "url": "https://3dnews.ru/1139601/issledovatel-slil-v-set-kod-eksployta-dlya-windows-v-otvet-na-bezdeystvie-microsoft"
         }
     }
 }
