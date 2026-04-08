@@ -9317,6 +9317,12 @@
             "description": "Ценные бумаги Apple восстановились на фоне новостей о своевременном выходе нового устройства",
             "image": "https://resizer.mail.ru/p/57f9e44e-7f7e-5faf-8964-af61c0eb2d5f/AQAzGFt3G_iFBBFt06M2oNvI1dwDt4eEWwBxSbwxXMLD2q7NFUb7I4y4Ro66rTNMpY1rtsC8gSxagckPEMFD9AQTi1w.jpg",
             "url": "https://finance.mail.ru/article/aktsii-apple-otyigrali-padenie-posle-oproverzheniya-sluhov-o-zaderzhke-skladnogo-smartfona-69204281/"
+        },
+        "https://www.securitylab.ru/news/571305.php": {
+            "title": "Собрали чат-бота на коленке? Проверьте, не превратился ли ваш помощник в лазейку для взломщиков",
+            "description": "Критическая ошибка во Flowise позволяет получить полный контроль над системой.",
+            "image": "https://www.securitylab.ru/upload/iblock/a76/tzunlaarbb4lm40dag1hvqh3sv15vu52.jpg",
+            "url": "https://www.securitylab.ru/news/571305.php"
         }
     }
 }
