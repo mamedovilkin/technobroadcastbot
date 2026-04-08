@@ -9341,6 +9341,12 @@
             "description": "Anthropic анонсировала Project Glasswing — инициативу по защите критической инфраструктуры с помощью новой непубличной модели Claude Mythos Preview. За несколько недель работы модель нашла тысячи...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/e54/817/dc7/e54817dc73f45d75f7d236ae48147767.jpeg",
             "url": "https://habr.com/ru/news/1020568/"
+        },
+        "https://konkurent.ru/article/86109": {
+            "title": "Испытания для россиян. Что ждет всех, кто не удалил WhatsApp",
+            "description": "Команда WhatsApp (владелец – компания Meta, признана в России экстремистской и запрещена в стране) готовит к запуску новую функцию, которая может...",
+            "image": "https://konkurent.ru/img/articles/69d5673a9106e_lg.jpg",
+            "url": "https://konkurent.ru/article/86109"
         }
     }
 }
