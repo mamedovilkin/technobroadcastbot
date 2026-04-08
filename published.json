@@ -9401,6 +9401,12 @@
             "description": "Как новые подходы к вычислениям ставят крест на современных методах шифрования.",
             "image": "https://www.securitylab.ru/upload/iblock/179/ef5ezuo5iflzfu0b6hhqf13pdlda9eoa.jpg",
             "url": "https://www.securitylab.ru/news/571286.php"
+        },
+        "https://3dnews.ru/1139606/issledovateli-podschitali-kolichestvo-lognih-otvetov-v-google-iiobzorah": {
+            "title": "Исследователи подсчитали количество ложных ответов в Google ИИ-обзорах",
+            "description": "Журналисты The New York Times совместно со стартапом Oumi, проанализировав работу функция Google ИИ-обзоры (AI Overviews), пришли к выводу, что нейросеть ежедневно генерирует десятки миллионов ошибочных ответов, несмотря на высокий процент общей достоверности выдаваемых данных. Искусственный интеллект ошибается примерно в 10 % случаев, непреднамеренно выдавая пользователям ложную информацию..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/08/1139606/767853.jpg",
+            "url": "https://3dnews.ru/1139606/issledovateli-podschitali-kolichestvo-lognih-otvetov-v-google-iiobzorah"
         }
     }
 }
