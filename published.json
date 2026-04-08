@@ -9281,6 +9281,12 @@
             "description": "Актриса Милла Йовович вместе с другом, разработчиком Беном Сигманом,  выпустила  open-source инструмент для долгосрочной памяти ИИ-агентов — MemPalace. Проект набрал 100%...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/787/932/954/7879329541108a961d0fd5d204d99818.webp",
             "url": "https://habr.com/ru/companies/bothub/news/1020380/"
+        },
+        "https://3dnews.ru/1139568/google-vipustila-prilogenie-kotoroe-prevrashchaet-rech-v-tekst-bez-interneta-i-podpisok": {
+            "title": "Google выпустила приложение, которое превращает речь в текст без интернета и подписок",
+            "description": "Google без громких анонсов выпустила приложение, способное в автономном режиме, то есть без подключения к интернету, преобразовывать речь в текст. Приложение получило название Google AI Edge Eloquent и пока доступно только в версии для Apple iOS; разработчик пообещал вариант и для Android с глубокой интеграцией в систему..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/07/1139568/google-app.jpg",
+            "url": "https://3dnews.ru/1139568/google-vipustila-prilogenie-kotoroe-prevrashchaet-rech-v-tekst-bez-interneta-i-podpisok"
         }
     }
 }
