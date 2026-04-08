@@ -9431,6 +9431,12 @@
             "description": "В мессенджере WhatsApp* заработали новые правила, касающиеся оплаты внутренних покупок и контроля за данными пользователей. Разработчики заранее уведомили их о планируемых изменениях, и тем россиянам, кто всё ещё пользуется приложением, придётся их принять.",
             "image": "https://static.life.ru/ip/unsafe/rs:fit:1200:/q:98/sh:0.5/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNi80LzgvNzY1MzYxMzk0MTAyLjM3MzMuanBn.webp",
             "url": "https://life.ru/p/1861069"
+        },
+        "https://habr.com/ru/news/1020654/": {
+            "title": "Илон Маск раскрыл тренировку нового Grok на 10 трлн параметров",
+            "description": "Илон Маск сообщил в X, что на суперкомпьютере Colossus 2 сейчас одновременно обучаются семь моделей xAI — от генератора видео Imagine V2 до языковой модели на 10 трлн параметров. Список он сопроводил...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/47f/70e/930/47f70e930418b3b5c8acbbe6b0745616.jpg",
+            "url": "https://habr.com/ru/news/1020654/"
         }
     }
 }
