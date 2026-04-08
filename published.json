@@ -9359,6 +9359,12 @@
             "description": "Порой вдвое быстрее M5, но далеко не всегда",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/maxresdefault_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/07/windows-on-arm-snapdragon-x2-elite-extreme-soc.html"
+        },
+        "https://habr.com/ru/news/1020582/": {
+            "title": "Из-за популярности бюджетного MacBook Neo у Apple заканчиваются запасы чипов A18 Pro",
+            "description": "Инсайдеры сообщили, что у Apple заканчиваются запасы чипов A18 Pro, которые используют в бюджетных MacBook Neo. Ноутбук оказался успешным, и компания не успевает за спросом. Одна из проблем в том, что...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9d8/122/39e/9d812239e75ba2e22949ae62de53bdbe.jpg",
+            "url": "https://habr.com/ru/news/1020582/"
         }
     }
 }
