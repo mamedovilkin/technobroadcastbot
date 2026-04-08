@@ -9473,6 +9473,12 @@
             "description": "Пользователь тайваньского форума PTT рассказал , как его домашняя кошка спасла компьютер и, возможно, квартиру от возгорания после того, как у его видеокарты Nvidia расплавился...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/3c6/baf/c31/3c6bafc31f1d2b27aa5deae07402ce30.webp",
             "url": "https://habr.com/ru/news/1020788/"
+        },
+        "https://3dnews.ru/1139640/microsoft-obyasnila-pochemu-do-sih-por-ne-izbavilas-ot-paneli-upravleniya-v-windows-11": {
+            "title": "Microsoft объяснила, почему до сих пор не избавилась от \"Панели управления\" в Windows 11",
+            "description": "Microsoft давно обещает перенести все настройки из «Панели управления» в приложение «Параметры» в Windows 11. Но поэтапный отказ от входящего в состав Windows компонента, которому уже 40 лет, представляется непростой задачей. Компании придётся принять меры, чтобы избежать сбоев в работе драйверов или устройств в переходный период.",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/08/1139640/pc-hands.jpg",
+            "url": "https://3dnews.ru/1139640/microsoft-obyasnila-pochemu-do-sih-por-ne-izbavilas-ot-paneli-upravleniya-v-windows-11"
         }
     }
 }
