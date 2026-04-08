@@ -9335,6 +9335,12 @@
             "description": "Умные машины — неумелые пользователи? Мы все слышали о «ИИ-деградации мозга», «ИИ-психозе» и «ИИ-помоях». Если вы проводите время онлайн, совершенно очевидно, что сочетание соцсетей и ИИ не особо...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/15e/0f0/2ff/15e0f02ffff9f9785501af70c11bebcf.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1020148/"
+        },
+        "https://habr.com/ru/news/1020568/": {
+            "title": "Новейший Claude Mythos нашел дыру возрастом 27 лет в OpenBSD",
+            "description": "Anthropic анонсировала Project Glasswing — инициативу по защите критической инфраструктуры с помощью новой непубличной модели Claude Mythos Preview. За несколько недель работы модель нашла тысячи...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e54/817/dc7/e54817dc73f45d75f7d236ae48147767.jpeg",
+            "url": "https://habr.com/ru/news/1020568/"
         }
     }
 }
