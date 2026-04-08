@@ -9275,6 +9275,12 @@
             "description": "В 2025 году мировые потери от киберпреступности, по оценкам отраслевых аналитиков, превысили один триллион долларов США — \"это ж сколько стран можно было прокормить?!\". В подавляющем большинстве...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/14d/1ef/478/14d1ef478fb7b4877fc0331db7a96c66.png",
             "url": "https://habr.com/ru/articles/1020432/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1020380/": {
+            "title": "инструмент, набравший 100% в бенчмарке / Хабр",
+            "description": "Актриса Милла Йовович вместе с другом, разработчиком Беном Сигманом,  выпустила  open-source инструмент для долгосрочной памяти ИИ-агентов — MemPalace. Проект набрал 100%...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/787/932/954/7879329541108a961d0fd5d204d99818.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1020380/"
         }
     }
 }
