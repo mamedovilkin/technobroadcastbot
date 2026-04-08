@@ -9323,6 +9323,12 @@
             "description": "Критическая ошибка во Flowise позволяет получить полный контроль над системой.",
             "image": "https://www.securitylab.ru/upload/iblock/a76/tzunlaarbb4lm40dag1hvqh3sv15vu52.jpg",
             "url": "https://www.securitylab.ru/news/571305.php"
+        },
+        "https://www.vedomosti.ru/politics/news/2026/04/07/1188653-vtorogo-pilota-iskali": {
+            "title": "NYP: второго пилота сбитого в Иране F-15 искали по сердцебиению",
+            "description": "ЦРУ использовало секретное устройство на основе квантовых технологий, чтобы по сердцебиению найти второго летчика сбитого над Ираном истребителя F-15, пишет газета New York Post со ссылкой на источники.",
+            "image": "https://sharing.vedomosti.ru/1775590835/vedomosti.ru/politics/news/2026/04/07/1188653-vtorogo-pilota-iskali.jpg",
+            "url": "https://www.vedomosti.ru/politics/news/2026/04/07/1188653-vtorogo-pilota-iskali"
         }
     }
 }
