@@ -9635,6 +9635,12 @@
             "description": "Разработчик программного обеспечения для шифрования файлов VeraCrypt Мунир Идрасси заявил , что пользователи Windows могут столкнуться с проблемами при загрузке и обновлениях проекта после того, как...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/e4a/ac1/0d3/e4aac10d38065ebc985d1d1c4ce0799c.png",
             "url": "https://habr.com/ru/news/1021118/"
+        },
+        "https://www.securitylab.ru/news/571348.php": {
+            "title": "Один лишний пиксель и пустая карта. Рассказываем, как хакеры воруют деньги через невидимые картинки",
+            "description": "Достаточно просто зайти на страницу знакомого магазина, и ваш кошелёк уже ничего не спасёт.",
+            "image": "https://www.securitylab.ru/upload/iblock/9bf/19ri3bici8kj09yyoynt6w5fe73mwdua.jpg",
+            "url": "https://www.securitylab.ru/news/571348.php"
         }
     }
 }
