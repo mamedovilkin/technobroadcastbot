@@ -9503,6 +9503,12 @@
             "description": "Xiaomi отмечает день рождения: бренду исполнилось 16 лет. В честь праздника компания анонсировала скидки: на некоторые позиции они достигают 50%. Изучили акционный список и рассказываем, какие гаджеты можно купить по приятной цене.",
             "image": "https://smartpress.by/upload/iblock/b5c/a27oxircs5e77s57w59rwb33car4gpp7/Redmi-Note-14-Pro_-5G.jpg",
             "url": "https://smartpress.by/idea/tekhnologii/smartfony-s-podderzhkoy-5g-pylesosy-aerogrili-chto-seychas-mozhno-kupit-s-khoroshey-skidkoy/"
+        },
+        "https://habr.com/ru/news/1020926/": {
+            "title": "Тестирование показало, что AI Overviews от Google выдаёт миллионы ложных ответов в час",
+            "description": "Функция AI Overviews (ИИ-обзоры) в поисковой системе Google Search выдаёт миллионы ложных ответов в час, показало тестирование New York Times. Запущенный в 2024 году инструмент использует несколько...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/5e9/8fa/3d8/5e98fa3d82325343989009ea4786068c.jpg",
+            "url": "https://habr.com/ru/news/1020926/"
         }
     }
 }
