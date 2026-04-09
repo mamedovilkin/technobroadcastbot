@@ -9527,6 +9527,12 @@
             "description": "Пользователи столкнулись с угрозой потери средств из-за вредоносного проекта на GitHub.",
             "image": "https://www.securitylab.ru/upload/iblock/cec/6milu5hfapfkbdq8xgw0iuvfhsdin302.jpg",
             "url": "https://www.securitylab.ru/news/571351.php"
+        },
+        "https://meduza.io/news/2026/04/08/nastoyaschee-imya-sozdatelya-bitkoina-adam-bek-utverzhdaet-the-new-york-times": {
+            "title": "Настоящее имя создателя биткоина - Адам Бэк, утверждает The New York Times",
+            "description": "Газета The New York Times опубликовала расследование, в котором назвала создателем биткоина, скрывающимся под псевдонимом Сатоси Накамото, британского криптографа Адама Бэка.",
+            "image": "https://meduza.io/imgly/share/1775661723/news/2026/04/08/nastoyaschee-imya-sozdatelya-bitkoina-adam-bek-utverzhdaet-the-new-york-times",
+            "url": "https://meduza.io/news/2026/04/08/nastoyaschee-imya-sozdatelya-bitkoina-adam-bek-utverzhdaet-the-new-york-times"
         }
     }
 }
