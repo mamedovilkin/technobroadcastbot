@@ -9557,6 +9557,12 @@
             "description": "Котировки корпорации Meta* показали бурный рост благодаря релизу нейросети Muse Spark",
             "image": "https://resizer.mail.ru/p/36e39699-7c53-512d-bcef-3b1dcb5d8a7f/AQAzl3-wkKsjT_7cKccJ4MleDDx8PgFKf2cxnLi2P_DbW28_w_tH4lBRQHgZTzRPj5PrkyEs6df6Wj-bXMAMkMudP3I.jpg",
             "url": "https://finance.mail.ru/article/aktsii-meta-podorozhali-na-9-na-fone-zapuska-novoj-modeli-iskusstvennogo-intellekta-69204424/"
+        },
+        "https://www.securitylab.ru/news/571304.php": {
+            "title": "Шесть способов обмануть ИИ. Исследование Google об уязвимостях умных помощников",
+            "description": "Хватит и одного слова, чтобы превратить программу в шпиона.",
+            "image": "https://www.securitylab.ru/upload/iblock/bf7/ocrcrfwwyl3nua1liwa38xnbhos5e39x.jpg",
+            "url": "https://www.securitylab.ru/news/571304.php"
         }
     }
 }
