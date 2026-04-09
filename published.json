@@ -9689,6 +9689,12 @@
             "description": "Tesla начала удалённо отключать систему FSD в Европе у автомобилей с нелегальной активацией. Функция блокируется из-за отсутствия разрешения и контроля со стороны регуляторов.",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/l3zThb5rlaO3qZGRhNN1.webp",
             "url": "https://tarantas.news/posts/id66234-fsd-vne-zakona-tesla-nachala-massovye-otkljuchenija-v-evrope"
+        },
+        "https://www.ixbt.com/news/2026/04/09/nvidia-128-nvidia-soc-n1.html": {
+            "title": "На рынке скоро появятся очень мощные ноутбуки на платформе Nvidia и со 128 ГБ ОЗУ: опубликованы первые фото материнской платы Nvidia на SoC N1",
+            "description": "128 ГБ ОЗУ в сочетании с 20-ядерным процессором и 6144 ядрами CUDA",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/NVIDIA-N1-LAPTOP-MOTHERBoARD-1200x624_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/09/nvidia-128-nvidia-soc-n1.html"
         }
     }
 }
