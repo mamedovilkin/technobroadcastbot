@@ -9701,6 +9701,12 @@
             "description": "Электромобиль получил 3 мотора, 800-вольтовую архитектуру и запас хода до 735 км",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/e59bbee78987-121-e1775718419937-768x433.png",
             "url": "https://www.ixbt.com/news/2026/04/09/955-avatr-12.html"
+        },
+        "https://habr.com/ru/news/1021316/": {
+            "title": "Новую большую модель OpenAI отдадут только избранным - Axios",
+            "description": "OpenAI финализирует новую модель с продвинутыми возможностями в кибербезопасности и планирует выдать ее только узкому кругу компаний — по схеме, похожей на ограниченный релиз Mythos от Anthropic. Об...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/91d/6f2/00f/91d6f200f58bd57da4d87c9c2a3e7f37.jpeg",
+            "url": "https://habr.com/ru/news/1021316/"
         }
     }
 }
