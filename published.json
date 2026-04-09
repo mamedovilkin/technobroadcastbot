@@ -9485,6 +9485,12 @@
             "description": "Бэк это отрицает",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/1516239370477.jpg",
             "url": "https://www.ixbt.com/news/2026/04/08/bitcoin-new-york-times.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1020754/": {
+            "title": "Нейросимволический ИИ для робототехники снижает энергопотребление в 100 раз",
+            "description": "По оценкам Международное энергетическое агентство, в 2024 году системы ИИ и дата-центры потребили около 415 ТВт·ч электроэнергии. Это уже составляет более 10% энергопотребления США, а к 2030 году...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e12/b00/87a/e12b0087a79b4ae54ff3e797d9a221a4.webp",
+            "url": "https://habr.com/ru/companies/bothub/news/1020754/"
         }
     }
 }
