@@ -9533,6 +9533,12 @@
             "description": "Газета The New York Times опубликовала расследование, в котором назвала создателем биткоина, скрывающимся под псевдонимом Сатоси Накамото, британского криптографа Адама Бэка.",
             "image": "https://meduza.io/imgly/share/1775661723/news/2026/04/08/nastoyaschee-imya-sozdatelya-bitkoina-adam-bek-utverzhdaet-the-new-york-times",
             "url": "https://meduza.io/news/2026/04/08/nastoyaschee-imya-sozdatelya-bitkoina-adam-bek-utverzhdaet-the-new-york-times"
+        },
+        "https://habr.com/ru/articles/1021012/": {
+            "title": "Баг на тёмной стороне Луны",
+            "description": "Код бортового управляющего компьютера космического аппарата Аполлон (AGC) — одна из самых тщательно исследованных кодовых баз в истории. Её прочитали тысячи разработчиков. Учёные публиковали статьи о...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6f2/ede/6ad/6f2ede6ade8e1b854887efbd5f2a94dc.jpg",
+            "url": "https://habr.com/ru/articles/1021012/"
         }
     }
 }
