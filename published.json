@@ -9521,6 +9521,12 @@
             "description": "ИИ заменяет людей?",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/f92f442c-1a65-4797-95c8-ff6bd12098bb_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/08/it-80-000.html"
+        },
+        "https://www.securitylab.ru/news/571351.php": {
+            "title": "Настраиваете прокси, а деньги улетают хакерам. Так работает новый вирус, который обманул поиск Google",
+            "description": "Пользователи столкнулись с угрозой потери средств из-за вредоносного проекта на GitHub.",
+            "image": "https://www.securitylab.ru/upload/iblock/cec/6milu5hfapfkbdq8xgw0iuvfhsdin302.jpg",
+            "url": "https://www.securitylab.ru/news/571351.php"
         }
     }
 }
