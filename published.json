@@ -9617,6 +9617,12 @@
             "description": "Стандартные предупреждения защиты на этот раз просто не сработали. Но почему?",
             "image": "https://www.securitylab.ru/upload/iblock/1f9/c3z2r88kvqt96574k7ya3fpazit90szk.jpg",
             "url": "https://www.securitylab.ru/news/571341.php"
+        },
+        "https://3dnews.ru/1139678/intel-i-sambanova-zapustili-produkt-sposobniy-potesnit-nvidia-v-iisegmente": {
+            "title": "Intel и SambaNova запустили продукт, способный потеснить Nvidia в ИИ-сегменте",
+            "description": "Компании Intel и SambaNova анонсировали готовую к производству гетерогенную архитектуру для ИИ-инференса, которая распределяет задачи между разными типами оборудования. Платформа использует графические процессоры для предварительной обработки, специализированные модули SambaNova для генерации токенов и процессоры Xeon 6 для управления агентскими задачами..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/09/1139678/657545.jpg",
+            "url": "https://3dnews.ru/1139678/intel-i-sambanova-zapustili-produkt-sposobniy-potesnit-nvidia-v-iisegmente"
         }
     }
 }
