@@ -9629,6 +9629,12 @@
             "description": "Поздно спорить о том, сможет ли искусственный интеллект делать работу за нас — он способен на это уже сейчас. Серийные предприниматели Давид и Даниил Либерманы, запустившие в августе 2025 года проект Gonka AI — децентрализованную сеть для ИИ-вычислен",
             "image": "https://cdn.forbes.ru/forbes-static/shareimages/558692.webp?v=1775710802",
             "url": "https://www.forbes.ru/tekhnologii/558692-brat-a-libermany-forbes-iskusstvennyj-intellekt-s-est-mir-do-konca"
+        },
+        "https://habr.com/ru/news/1021118/": {
+            "title": "В Microsoft заблокировали учётные записи разработчиков VeraCrypt и WireGuard, но потом разобрались, что это ошибка",
+            "description": "Разработчик программного обеспечения для шифрования файлов VeraCrypt Мунир Идрасси заявил , что пользователи Windows могут столкнуться с проблемами при загрузке и обновлениях проекта после того, как...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e4a/ac1/0d3/e4aac10d38065ebc985d1d1c4ce0799c.png",
+            "url": "https://habr.com/ru/news/1021118/"
         }
     }
 }
