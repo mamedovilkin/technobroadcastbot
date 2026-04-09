@@ -9623,6 +9623,12 @@
             "description": "Компании Intel и SambaNova анонсировали готовую к производству гетерогенную архитектуру для ИИ-инференса, которая распределяет задачи между разными типами оборудования. Платформа использует графические процессоры для предварительной обработки, специализированные модули SambaNova для генерации токенов и процессоры Xeon 6 для управления агентскими задачами..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/04/09/1139678/657545.jpg",
             "url": "https://3dnews.ru/1139678/intel-i-sambanova-zapustili-produkt-sposobniy-potesnit-nvidia-v-iisegmente"
+        },
+        "https://www.forbes.ru/tekhnologii/558692-brat-a-libermany-forbes-iskusstvennyj-intellekt-s-est-mir-do-konca": {
+            "title": "Братья Либерманы - Forbes: \"Искусственный интеллект съест мир до конца\"",
+            "description": "Поздно спорить о том, сможет ли искусственный интеллект делать работу за нас — он способен на это уже сейчас. Серийные предприниматели Давид и Даниил Либерманы, запустившие в августе 2025 года проект Gonka AI — децентрализованную сеть для ИИ-вычислен",
+            "image": "https://cdn.forbes.ru/forbes-static/shareimages/558692.webp?v=1775710802",
+            "url": "https://www.forbes.ru/tekhnologii/558692-brat-a-libermany-forbes-iskusstvennyj-intellekt-s-est-mir-do-konca"
         }
     }
 }
