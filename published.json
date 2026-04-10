@@ -9743,6 +9743,12 @@
             "description": "Российская атомная станция и роботы появятся на Луне к 2036 году. Роскосмос планирует сканирование Луны уже через два года. - Общество - 9 апреля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/plSs1ViQwyk7U5N4uaSfPw/article-id6951962-16x9.jpg?1775745372",
             "url": "https://www.fontanka.ru/2026/04/09/76357844/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1021470/": {
+            "title": "“Производительность ×10-100, эксплойты за часы вместо недель”: что говорят ИБ-специалисты об отмене Claude Mythos",
+            "description": "Anthropic не стала публично выпускать свою новую ИИ-модель Claude Mythos Preview, которая способна автономно находить, анализировать и эксплуатировать уязвимости в софте в промышленных масштабах. В...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c14/c66/2f6/c14c662f60e31505edf5a6da2522e012.jpg",
+            "url": "https://habr.com/ru/companies/bothub/news/1021470/"
         }
     }
 }
