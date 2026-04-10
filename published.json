@@ -9881,6 +9881,12 @@
             "description": "Имя китайской компании Sharetronic Data Technology всплыло ещё при первичном обсуждении обстоятельств скандала с поставками санкционных серверных систем Supermicro в Китай. Недавно эта компания сама подтвердила, что в прошлом году располагала партиями серверов Supermicro на базе ускорителей Nvidia H100 и H200, поставки которых в КНР были запрещены до недавних пор..",
             "image": "https://3dnews.ru/assets/external/illustrations/2026/04/10/1139797/nvidia_02.jpg",
             "url": "https://3dnews.ru/1139797/zapreshchyonnie-serveri-s-nvidia-h100-i-h200-vsyo-ge-popali-v-kitay-raskrita-shema-postavok"
+        },
+        "https://habr.com/ru/articles/1021822/": {
+            "title": "Куда идет программирование на самом деле?",
+            "description": "Эволюция языков программирования Современная разработка погрязла в driven, first и based подходах, недавно этот зоопарк пополнился еще одним заморским зверем под названием AI-driven (пусть меня...",
+            "image": "https://habr.com/share/publication/1021822/426ab6983772ccaaacb35c303a77acd5/",
+            "url": "https://habr.com/ru/articles/1021822/"
         }
     }
 }
