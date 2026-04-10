@@ -9773,6 +9773,12 @@
             "description": "Студия Smola, известная по играм «Русы против Ящеров», сообщила , что симулятор производства «МурЗавод» находится на раннем этапе разработки. Авторы готовы показать игру и запустили...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/9a4/0ad/dfa/9a40addfa62bb9c26cab2af6eb490160.jpg",
             "url": "https://habr.com/ru/news/1021542/"
+        },
+        "https://www.securitylab.ru/news/571391.php": {
+            "title": "Дата-центры пожирают электричество. Половина теряется по дороге к GPU. Но выход есть: вибрация вместо магнитов",
+            "description": "Новый чип качается как маятник — и экономит энергию.",
+            "image": "https://www.securitylab.ru/upload/iblock/ed6/pohk66045q0hbtxpwmq94ebby69n2dc0.jpg",
+            "url": "https://www.securitylab.ru/news/571391.php"
         }
     }
 }
