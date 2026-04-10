@@ -9815,6 +9815,12 @@
             "description": "Оценка OpenAI падает 31 марта OpenAI объявила о раунде финансирования с оценкой $852 миллиарда . На следующий день, 1 апреля, Bloomberg вышел с заголовком: « OpenAI теряет популярность среди вторичных...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/42e/a75/4a7/42ea754a7cd41141d2e49707d1033d01.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1021624/"
+        },
+        "https://science.mail.ru/news/47417-servisnye-roboty-dlya-elektromobilej/": {
+            "title": "автоматическая зарядка и подкачка шин",
+            "description": "Роботизированная система помогает решить проблему нехватки зарядных станций на парковках. Робот самостоятельно находит нужные разъемы, заряжает аккумулятор и подкачивает шины — все без участия водителя и без доработки автомобиля.",
+            "image": "https://resizer.mail.ru/p/305b258a-68b8-538f-bce9-4fc786a9efcb/AQA4y6meRWix-BCFS1wo5F13C4U4mO_8Qez6KTNkyw0yLn9AzwMFeymZTnoQ5twcOgxv1irsWCIu3auo9v4GOoCUxjw.jpg",
+            "url": "https://science.mail.ru/news/47417-servisnye-roboty-dlya-elektromobilej/"
         }
     }
 }
