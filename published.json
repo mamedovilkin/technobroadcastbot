@@ -9845,6 +9845,12 @@
             "description": "В рамках криминалистического анализа данных Федеральное бюро расследований США извлекло копии входящих сообщений Signal с iPhone обвиняемой после удаления мессенджера — копии содержимого переписки...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/131/a36/dc9/131a36dc99922c9cecb42f41fd647f1f.jpg",
             "url": "https://habr.com/ru/news/1021662/"
+        },
+        "https://www.securitylab.ru/news/571422.php": {
+            "title": "Роскомнадзор запрещает вам играть: купил игру в Steam - она мертва. А издатель пожимает плечами",
+            "description": "Думали, затестите новую Final Sentence в своё удовольствие? Как бы ни так.",
+            "image": "https://www.securitylab.ru/upload/iblock/6d0/t218a0fbf0ndydcdgo0oaypzy5s2829a.jpg",
+            "url": "https://www.securitylab.ru/news/571422.php"
         }
     }
 }
