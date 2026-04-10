@@ -9833,6 +9833,12 @@
             "description": "Обзор новинок мира автомобилей, авторские материалы, репортажи об автоспорте, тест-драйвы",
             "image": "https://auto.yuga.ru/media/34/98/c4/cbe10c35333a11f18a9d3e29f1292e42_5__021warw.png",
             "url": "https://auto.yuga.ru/articles/606.html"
+        },
+        "https://habr.com/ru/articles/1021668/": {
+            "title": "Telegram починил прокси на iOS: как работает и почему он ломался",
+            "description": "Telegram замедляют с февраля 2026-го. Кружочки не грузятся, голосовые приходят через раз, фотки висят. Многие подключили MTProto-прокси — на Android и десктопе помогло, а на iOS прокси либо не...",
+            "image": "https://habr.com/share/publication/1021668/599d0f0dc10fe3e9282487bbf7aea605/",
+            "url": "https://habr.com/ru/articles/1021668/"
         }
     }
 }
