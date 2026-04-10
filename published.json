@@ -9839,6 +9839,12 @@
             "description": "Telegram замедляют с февраля 2026-го. Кружочки не грузятся, голосовые приходят через раз, фотки висят. Многие подключили MTProto-прокси — на Android и десктопе помогло, а на iOS прокси либо не...",
             "image": "https://habr.com/share/publication/1021668/599d0f0dc10fe3e9282487bbf7aea605/",
             "url": "https://habr.com/ru/articles/1021668/"
+        },
+        "https://habr.com/ru/news/1021662/": {
+            "title": "ФБР извлекло переписку мессенджера Signal из iPhone через push-уведомления Apple, сохраняющие текст сообщений",
+            "description": "В рамках криминалистического анализа данных Федеральное бюро расследований США извлекло копии входящих сообщений Signal с iPhone обвиняемой после удаления мессенджера — копии содержимого переписки...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/131/a36/dc9/131a36dc99922c9cecb42f41fd647f1f.jpg",
+            "url": "https://habr.com/ru/news/1021662/"
         }
     }
 }
