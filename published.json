@@ -9797,6 +9797,12 @@
             "description": "Судя по всему, отношения между нынешними взломщиками Denuvo с помощью гипервизора и хакером voices38, который взламывает игры по старинке, довольно напряженные. Kirigiri и DenuvOwO, специалисты по обходу Denuvo с помощью гипервизора, довольно токсично отреагировали на...",
             "image": "https://i.playground.ru/e/pOgYI3qJdYi8XpCCp40k0Q.jpeg",
             "url": "https://www.playground.ru/misc/news/vzlomschiki_gipervizorom_raskritikovali_voices38_za_ustarevshie_vzlomy_a_on_ih_za_snizhenie_proizvoditelnosti-1837085"
+        },
+        "https://habr.com/ru/articles/1020058/": {
+            "title": "Pretext - библиотека, которая считает текстовую вёрстку в 500 раз быстрее браузера. Зачем это нужно и как работает",
+            "description": "28 марта 2026 года инженер Midjourney Cheng Lou выложил в открытый доступ библиотеку, которая за неделю набрала почти 40 тысяч звёзд на GitHub. И имя ей — Pretext . Это...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/c7c/4b7/180/c7c4b71805179b9db496e5339993a319.png",
+            "url": "https://habr.com/ru/articles/1020058/"
         }
     }
 }
