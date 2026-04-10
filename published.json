@@ -9875,6 +9875,12 @@
             "description": "Новинка уже доступна в магазинах М.Видео и Эльдорадо, на сайте и в мобильном приложении по цене от 79 999 рублей. H-Book IPK4 выполнен в компактном корпусе толщиной около 15,95 мм и представлен в...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/76c/4d5/0d3/76c4d50d3bdea6ee3f9e4916c593b2dd.webp",
             "url": "https://habr.com/ru/companies/mvideo/news/1021788/"
+        },
+        "https://3dnews.ru/1139797/zapreshchyonnie-serveri-s-nvidia-h100-i-h200-vsyo-ge-popali-v-kitay-raskrita-shema-postavok": {
+            "title": "Китайцы сами раскрыли схему завоза санкционных серверов с Nvidia H100 и H200",
+            "description": "Имя китайской компании Sharetronic Data Technology всплыло ещё при первичном обсуждении обстоятельств скандала с поставками санкционных серверных систем Supermicro в Китай. Недавно эта компания сама подтвердила, что в прошлом году располагала партиями серверов Supermicro на базе ускорителей Nvidia H100 и H200, поставки которых в КНР были запрещены до недавних пор..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/10/1139797/nvidia_02.jpg",
+            "url": "https://3dnews.ru/1139797/zapreshchyonnie-serveri-s-nvidia-h100-i-h200-vsyo-ge-popali-v-kitay-raskrita-shema-postavok"
         }
     }
 }
