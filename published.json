@@ -9893,6 +9893,12 @@
             "description": "Почти 100 интернет-магазинов платформы электронной коммерции Magento оказались затронуты кампанией, которая скрывает код для кражи данных кредитных карт в виде масштабируемого векторного графического...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/fe9/7e4/69d/fe97e469df7c5c2ae51818eb08fe2e29.JPG",
             "url": "https://habr.com/ru/news/1021858/"
+        },
+        "https://3dnews.ru/1139793/qwen-zakrivaetsya-alibaba-sosredotochitsya-na-perevode-ii-na-kommercheskie-relsi": {
+            "title": "Qwen закрывается: Alibaba сосредоточится на переводе ИИ на коммерческие рельсы",
+            "description": "Похоже, что эйфория первых лет бурной экспансии генеративного искусственного интеллекта начинает уступать здоровому прагматизму, и крупные игроки рынка прилагают всё больше усилий по монетизации своих разработок в этой сфере. Для китайского гиганта Alibaba осуществить такой стратегический разворот будет сделать сложнее, с учётом текущей концентрации на моделях с открытым исходным кодом..",
+            "image": "https://3dnews.ru/assets/external/illustrations/2026/04/10/1139793/qwen_01.jpg",
+            "url": "https://3dnews.ru/1139793/qwen-zakrivaetsya-alibaba-sosredotochitsya-na-perevode-ii-na-kommercheskie-relsi"
         }
     }
 }
