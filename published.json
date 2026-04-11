@@ -9923,6 +9923,12 @@
             "description": "Похоже, по цене от 4900 долларов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/5/eec8d82f279b440ea170982ffa80b3fa_3840x2160_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/10/kitajskie-nedorogie-robotygumanoidy-unitree-r1-gotovjatsja-zahvatyvat-mir-kompanija-zapuskaet-globalnye-prodazhi.html"
+        },
+        "https://habr.com/ru/articles/1021994/": {
+            "title": "Три гвоздя в крышку гроба Claude Code, которые они забили сами",
+            "description": "Те самые три гвоздя Мой путь типичен для тех, кто ищет “тот самый” идеальный флоу: сначала неуверенный копипаст из ChatGPT, затем попадание на альфа-тестирование GitHub Copilot, долгая остановка в...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/109/8a0/15f/1098a015fe98d4423ddf3eb6ce6e3502.webp",
+            "url": "https://habr.com/ru/articles/1021994/"
         }
     }
 }
