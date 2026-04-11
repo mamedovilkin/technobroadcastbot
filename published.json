@@ -10061,6 +10061,12 @@
             "description": "Microsoft представила один из способов упрощения установки версий PowerShell. Начиная с PowerShell 7.7-preview.1 в конце этого месяца компания откажется от установщиков MSI в пользу MSIX. ...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/033/325/971/033325971296020309276bb6fea8ca63.JPG",
             "url": "https://habr.com/ru/news/1022212/"
+        },
+        "https://click-or-die.ru/2026/04/glavnyj-realme-vnezapno-ruhnul-v-czene-hvataem-poka-on-ne-podorozhal/": {
+            "title": "Главный Realme внезапно рухнул в цене. Хватаем, пока он не подорожал",
+            "description": "Хорош по всем параметрам.",
+            "image": "https://click-or-die.ru/app/uploads/2026/04/840_560.jpg",
+            "url": "https://click-or-die.ru/2026/04/glavnyj-realme-vnezapno-ruhnul-v-czene-hvataem-poka-on-ne-podorozhal/"
         }
     }
 }
