@@ -9929,6 +9929,12 @@
             "description": "Те самые три гвоздя Мой путь типичен для тех, кто ищет “тот самый” идеальный флоу: сначала неуверенный копипаст из ChatGPT, затем попадание на альфа-тестирование GitHub Copilot, долгая остановка в...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/109/8a0/15f/1098a015fe98d4423ddf3eb6ce6e3502.webp",
             "url": "https://habr.com/ru/articles/1021994/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1021938/": {
+            "title": "OpenAI жёстко прошлась по Anthropic в мемо для инвесторов",
+            "description": "OpenAI доказывает инвесторам, что её железо лучше, чем у Anthropic. Одновременно компания замораживает стройку дата-центра в Британии, а конкуренты поглядывают на собственные чипы. На этой неделе...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0c8/cd3/81a/0c8cd381a9c48edfafc14902aec64a1b.png",
+            "url": "https://habr.com/ru/companies/bothub/news/1021938/"
         }
     }
 }
