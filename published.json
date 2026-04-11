@@ -10079,6 +10079,12 @@
             "description": "Cloudflare объяснила, как резерв мощности помогает отражать атаки без участия инженеров и держать под контролем трафик по всему миру.",
             "image": "https://www.securitylab.ru/upload/iblock/c26/eldm4zj6k3ve97iu53gxhejpf4uu2xeb.jpg",
             "url": "https://www.securitylab.ru/news/571473.php"
+        },
+        "https://3dnews.ru/1139837/glava-microsoft-satya-nadella-obyavil-krasniy-kod-dlya-copilot": {
+            "title": "Глава Microsoft Сатья Наделла объявил \"красный код\" для Copilot",
+            "description": "Акции Microsoft, которые переживают затянувшийся спад, могут снова вернуться к росту: компания в экстренном порядке усилила работу над технологиями искусственного интеллекта, её облачное подразделение остаётся сильным, а финансовые результаты — стабильными, приводит Benzinga мнение аналитика BNP Paribas Стефана Словински (Stefan Slowinski)..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/11/1139837/nadella.jpg",
+            "url": "https://3dnews.ru/1139837/glava-microsoft-satya-nadella-obyavil-krasniy-kod-dlya-copilot"
         }
     }
 }
