@@ -9977,6 +9977,12 @@
             "description": "Ваш бренд смартфонов на горящей платформе. Если, конечно, вы не Samsung. Samsung быть несколько приятнее....",
             "image": "https://mobile-review.com/all/wp-content/uploads/2026/04/801.webp",
             "url": "https://mobile-review.com/all/articles/misc/mnenie-rynok-android-smartfonov-zastyl-v-shage-ot-katastrofy/"
+        },
+        "https://meduza.io/news/2026/04/10/belye-hakery-nashli-v-messendzhere-max-bolee-200-uyazvimostey": {
+            "title": "Белые хакеры нашли в мессенджере Маx более 200 уязвимостей",
+            "description": "Специалисты по компьютерной безопасности обнаружили 213 уязвимостей в национальном мессенджере Маx в рамках программы Bug Bounty, сообщил технический директор Positive Technologies Алексей Батюк.",
+            "image": "https://meduza.io/imgly/share/1775851688/news/2026/04/10/belye-hakery-nashli-v-messendzhere-max-bolee-200-uyazvimostey",
+            "url": "https://meduza.io/news/2026/04/10/belye-hakery-nashli-v-messendzhere-max-bolee-200-uyazvimostey"
         }
     }
 }
