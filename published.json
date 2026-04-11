@@ -10055,6 +10055,12 @@
             "description": "100 интервью, сотни закрытых документов и правда о том, как «серый кардинал» Кремниевой долины годами манипулировал инвесторами и коллегами.",
             "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F04%2Fr47927.jpg",
             "url": "https://www.iphones.ru/iNotes/manipulyator-lzhec-i-seryy-kardinal-100-svideteley-rasskazali-pravdu-kak-sozdatel-chatgpt-sem-altman-zahvatil-vlast-nad-mirovym-ii"
+        },
+        "https://habr.com/ru/news/1022212/": {
+            "title": "Microsoft отказывается от метода установки PowerShell в Windows",
+            "description": "Microsoft представила один из способов упрощения установки версий PowerShell. Начиная с PowerShell 7.7-preview.1 в конце этого месяца компания откажется от установщиков MSI в пользу MSIX. ...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/033/325/971/033325971296020309276bb6fea8ca63.JPG",
+            "url": "https://habr.com/ru/news/1022212/"
         }
     }
 }
