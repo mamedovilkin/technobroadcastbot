@@ -10259,6 +10259,12 @@
             "description": "Несколько дней назад Denuvo была полностью взломана в Resident Evil: Requiem. После исследования множества тестов командой TMH, оказалось, что взломанная версия работает быстрее, плавнее и потребляет гораздо меньше видеопамяти и ОЗУ. В последнее время Denuvo...",
             "image": "https://i.playground.ru/e/RlU_V5lwp-bsZlWIS7n2rg.webp",
             "url": "https://www.playground.ru/resident_evil_requiem/news/tomshardware_vzlomannaya_versiya_resident_evil_requiem_rabotaet_bystree_plavnee_i_ispolzuet_menshe_vram-1837529"
+        },
+        "https://habr.com/ru/companies/selectel/articles/1021884/": {
+            "title": "Как инженер подключил дисковод от флоппи к Tesla, а электрокар его распознал",
+            "description": "В эпоху, когда данные летают по облакам со скоростью света, а накопители вмещают терабайты, порой случаются истории, которые возвращают нас в 90-е. Старые устройства, давно списанные в утиль,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/585/0b0/872/5850b0872e5d23020fed57316a3cd139.jpg",
+            "url": "https://habr.com/ru/companies/selectel/articles/1021884/"
         }
     }
 }
