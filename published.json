@@ -10205,6 +10205,12 @@
             "description": "Apple пока что впереди",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/chris-ried-bN5XdU-bap4-unsplash-edited_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/11/samsung-tsmc-meta-amazon-alphabet.html"
+        },
+        "https://www.securitylab.ru/news/571491.php": {
+            "title": "Десять из десяти по шкале кошмара. Пауэлл и Бессент рассказали банкирам, как их будут ломать",
+            "description": "Anthropic показала банкам ИИ, который ищет опасные дыры почти как элитный хакер.",
+            "image": "https://www.securitylab.ru/upload/iblock/c45/wk381ms2d24st702tm3lobg8jrx6p2kn.jpg",
+            "url": "https://www.securitylab.ru/news/571491.php"
         }
     }
 }
