@@ -10097,6 +10097,12 @@
             "description": "Модель Claude Mythos вызвала опасения за стабильность финансовой системы",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/converted%20-%202026-04-11T101742.861_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/11/vlasti-ssha-srochno-sobrali-banki-izza-novoj-iimodeli-anthropic-i-riskov-kiberatak.html"
+        },
+        "https://habr.com/ru/companies/ru_mts/articles/1021380/": {
+            "title": "Производители вернули в продажу материнки с DDR3. Что происходит?",
+            "description": "Рынок производства электроники сейчас нестабилен: цены на компоненты нового поколения растут, а сами эти элементы в дефиците. В итоге платформы, списанные со счетов еще несколько лет назад, неожиданно...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/628/5fb/bfd/6285fbbfd98cd2c2fd76fd7768bbc79d.webp",
+            "url": "https://habr.com/ru/companies/ru_mts/articles/1021380/"
         }
     }
 }
