@@ -10139,6 +10139,12 @@
             "description": "Основатель телеграма Павел Дуров призвал пользователей в России обновить свои приложения для того, чтобы они могли оставаться на связи, несмотря на запрет мессенджера.",
             "image": "https://meduza.io/imgly/share/1775912312/news/2026/04/11/my-obnovili-protokol-po-borbe-s-tsenzuroy-durov-rekomendoval-rossiyanam-obnovit-telegram-i-zapastis-vpn",
             "url": "https://meduza.io/news/2026/04/11/my-obnovili-protokol-po-borbe-s-tsenzuroy-durov-rekomendoval-rossiyanam-obnovit-telegram-i-zapastis-vpn"
+        },
+        "https://www.ixbt.com/news/2026/04/11/geforce-rtx-5090.html": {
+            "title": "GeForce RTX 5090 уложила на лопатки на порядок более дорогие ИИ-ускорители в задачах взлома паролей",
+            "description": "Ускорители для ИИ слишком специализированы",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/do-AI-GPUs-make-password-cracking-faster_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/11/geforce-rtx-5090.html"
         }
     }
 }
