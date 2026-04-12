@@ -10145,6 +10145,12 @@
             "description": "Ускорители для ИИ слишком специализированы",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/do-AI-GPUs-make-password-cracking-faster_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/11/geforce-rtx-5090.html"
+        },
+        "https://www.comss.ru/page.php?id=20250": {
+            "title": "Xiaomi начала глобальное обновление HyperOS 3.1 - список поддерживаемых устройств",
+            "description": "HyperOS 3.1 на базе Android 16 начала распространяться глобально для устройств Xiaomi, Redmi и POCO. В списке – Xiaomi 17, 15T Pro, Pad 7 и другие модели, однако обновление приходит поэтапно и пока доступно не всем пользователям",
+            "image": "https://cdn.comss.ru/img/2026-04-11/comss-xiaomi-hyperos-2026-04-11_1444.png",
+            "url": "https://www.comss.ru/page.php?id=20250"
         }
     }
 }
