@@ -10253,6 +10253,12 @@
             "description": "Разбираемся, как невидимый посредник забрал бразды правления без единого сигнала тревоги.",
             "image": "https://www.securitylab.ru/upload/iblock/515/khzpb3fn6672547exj0hbcuqqglmj5z3.jpg",
             "url": "https://www.securitylab.ru/news/571467.php"
+        },
+        "https://www.playground.ru/resident_evil_requiem/news/tomshardware_vzlomannaya_versiya_resident_evil_requiem_rabotaet_bystree_plavnee_i_ispolzuet_menshe_vram-1837529": {
+            "title": "tom'sHARDWARE - Взломанная версия Resident Evil: Requiem работает быстрее, плавнее и использует меньше VRAM",
+            "description": "Несколько дней назад Denuvo была полностью взломана в Resident Evil: Requiem. После исследования множества тестов командой TMH, оказалось, что взломанная версия работает быстрее, плавнее и потребляет гораздо меньше видеопамяти и ОЗУ. В последнее время Denuvo...",
+            "image": "https://i.playground.ru/e/RlU_V5lwp-bsZlWIS7n2rg.webp",
+            "url": "https://www.playground.ru/resident_evil_requiem/news/tomshardware_vzlomannaya_versiya_resident_evil_requiem_rabotaet_bystree_plavnee_i_ispolzuet_menshe_vram-1837529"
         }
     }
 }
