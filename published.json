@@ -10265,6 +10265,12 @@
             "description": "В эпоху, когда данные летают по облакам со скоростью света, а накопители вмещают терабайты, порой случаются истории, которые возвращают нас в 90-е. Старые устройства, давно списанные в утиль,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/585/0b0/872/5850b0872e5d23020fed57316a3cd139.jpg",
             "url": "https://habr.com/ru/companies/selectel/articles/1021884/"
+        },
+        "https://habr.com/ru/news/1022444/": {
+            "title": "Франция откажется от Windows в пользу Linux, чтобы снизить зависимость от американских технологий",
+            "description": "Правительство Франции объявило о планах перевести часть государственных компьютеров с Windows на Linux, чтобы сократить зависимость от американских технологий. Власти больше не могут мириться с тем,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/cbb/d95/b7a/cbbd95b7a88ed51419fdb2395c21cb07.jpg",
+            "url": "https://habr.com/ru/news/1022444/"
         }
     }
 }
