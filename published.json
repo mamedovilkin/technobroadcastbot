@@ -10115,6 +10115,12 @@
             "description": "RTX 5090, конечно, не имеет себе равных",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/Wie-schnell-ist-meine-Grafikkarte-pcgh_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/11/81-12-20.html"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1020338/": {
+            "title": "Самая дешёвая RTX видеокарта от NVIDIA - 50 Вт, один слот и много разочарований",
+            "description": "Я брал видеокарту на «Озоне» за свои кровно заработанные, и, честно говоря, был удивлён неинформативности карточек товаров. Буквально никто и нигде не пишет, что мы получим. Будет ли адаптер miniDP на...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/984/d5e/e0b/984d5ee0b1f0f8cc8220b49e175782a6.jpg",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1020338/"
         }
     }
 }
