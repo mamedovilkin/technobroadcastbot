@@ -10091,6 +10091,12 @@
             "description": "Но только в вопросе времени кадра",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/4Zjn6tNFiu23R3TicwG4iP-970-80.jpg_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/11/nejronnoe-szhatie-tekstur-ot-nvidia--jeto-budushee-kompjuternyh-igr-pervye-testy-pokazali-rabotu-tehnologii-s-raznymi.html"
+        },
+        "https://www.ixbt.com/news/2026/04/11/vlasti-ssha-srochno-sobrali-banki-izza-novoj-iimodeli-anthropic-i-riskov-kiberatak.html": {
+            "title": "Власти США срочно собрали банки из-за новой ИИ-модели Anthropic и рисков кибератак",
+            "description": "Модель Claude Mythos вызвала опасения за стабильность финансовой системы",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/converted%20-%202026-04-11T101742.861_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/11/vlasti-ssha-srochno-sobrali-banki-izza-novoj-iimodeli-anthropic-i-riskov-kiberatak.html"
         }
     }
 }
