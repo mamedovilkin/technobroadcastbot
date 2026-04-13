@@ -10331,6 +10331,12 @@
             "description": "Инженеры из США переходят в ByteDance и Tencent",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/1776002293442-019d81fb-e6f2-759f-bf1a-c65ecc541f54_large.png",
             "url": "https://www.ixbt.com/news/2026/04/12/topovye-specialisty-po-ii-uezzhajut-iz-ssha-v-kitaj.html"
+        },
+        "https://www.ixbt.com/news/2026/04/12/18-intel-core-ultra-5-250k-plus-24-core-ultra-7-270k-plus.html": {
+            "title": "Пользователь купил 18-ядерный Intel Core Ultra 5 250K Plus - в системе он определился как 24-ядерный Core Ultra 7 270K Plus",
+            "description": "Похоже, все из-за бага в микрокоде материнской платы Gigabyte",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Ultra-5-250K-Plus-270K-Plus_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/12/18-intel-core-ultra-5-250k-plus-24-core-ultra-7-270k-plus.html"
         }
     }
 }
