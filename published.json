@@ -10397,6 +10397,12 @@
             "description": "Сеть фирменных магазинов Samsung Galaxystore объявила о старте продаж в России телевизора нового поколения на базе технологии Micro RGB. Это решение ориентировано на премиальный сегмент и предлагает, как утверждает производитель, беспрецедентный уровень цветопередачи..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/12/1139874/samsung_microrgb_02.jpg",
             "url": "https://3dnews.ru/1139874/v-rossii-startovali-prodagi-televizora-samsung-micro-rgb-za-2-999-000-rubley"
+        },
+        "https://habr.com/ru/news/1022568/": {
+            "title": "Представлен проект cURL Doom - версия Doom, которая воспроизводится по сети через cURL",
+            "description": "Разработчик под ником Sawyer X представил открытый проект cURL Doom . Это рабочая версия игры в Doom, которая воспроизводится по сети через утилиту cURL . «Это HTTP‑сервер, отображающий кадры Doom...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ca0/209/d4a/ca0209d4ae6636514b37797ff2d29428.png",
+            "url": "https://habr.com/ru/news/1022568/"
         }
     }
 }
