@@ -10445,6 +10445,12 @@
             "description": "Безупречное прошлое цифровых платформ теперь работает на злоумышленников.",
             "image": "https://www.securitylab.ru/upload/iblock/8ae/gqevk6axtam59enn9trwpdkbr5bkyqc3.jpg",
             "url": "https://www.securitylab.ru/news/571465.php"
+        },
+        "https://habr.com/ru/news/1022650/": {
+            "title": "\"Самая способная кибермодель, которую мы оценивали\": британские власти созывают совещание из-за Claude Mythos",
+            "description": "Британские финансовые регуляторы собирают экстренное межведомственное совещание из-за новой модели Anthropic — Claude Mythos. По  данным  Financial Times, на встрече на этой неделе соберутся...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/a01/2e4/a00/a012e4a00d6173ecae5897d03fa55f0d.jpg",
+            "url": "https://habr.com/ru/news/1022650/"
         }
     }
 }
