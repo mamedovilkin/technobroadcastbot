@@ -10487,6 +10487,12 @@
             "description": "Комитет Госдумы по госстроительству и законодательству в понедельник рекомендовал принять во втором чтении поправки, уточняющие использование сгенерированного",
             "image": "https://www.interfax.ru/aspimg/1083613.jpg",
             "url": "https://www.interfax.ru/russia/1083613"
+        },
+        "https://www.securitylab.ru/news/571503.php": {
+            "title": "Хотели обмануть систему, а получили кирпич. Tesla жестко наказала 100000 автовладельцев за взлом электроники",
+            "description": "Как удаленно превратить современный электрокар в обычную машину.",
+            "image": "https://www.securitylab.ru/upload/iblock/e31/2kcz80rhxpe2myrz9hrtoajmipxjgvfk.jpg",
+            "url": "https://www.securitylab.ru/news/571503.php"
         }
     }
 }
