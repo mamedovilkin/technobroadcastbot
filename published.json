@@ -10349,6 +10349,12 @@
             "description": "Компания MSI представила компьютеры небольшого форм-фактора Cubi NUC TWG, рассчитанные на использование в бизнес-сфере и коммерческом секторе. Устройства выполнены на аппаратной платформе Intel Twin Lake: покупателям будут предлагаться модификации с активным и пассивным (версия Cubi NUC TWG S) охлаждением..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/12/1139864/msi1.jpg",
             "url": "https://servernews.ru/1139864"
+        },
+        "https://habr.com/ru/articles/1022562/": {
+            "title": "Prompt ИИ агента фундаментального анализа рынка",
+            "description": "Существующие решения на GitHub имеют фатальные изъяны. Разберём несколько примеров — плюсы и минусы. TauricResearch/TradingAgents Ссылка на исходный код Пайплайн, который тянет посты из Reddit, X,...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f69/525/664/f695256640cba1559b15b7ed4a6e2d1e.png",
+            "url": "https://habr.com/ru/articles/1022562/"
         }
     }
 }
