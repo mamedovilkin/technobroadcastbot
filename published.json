@@ -10355,6 +10355,12 @@
             "description": "Существующие решения на GitHub имеют фатальные изъяны. Разберём несколько примеров — плюсы и минусы. TauricResearch/TradingAgents Ссылка на исходный код Пайплайн, который тянет посты из Reddit, X,...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/f69/525/664/f695256640cba1559b15b7ed4a6e2d1e.png",
             "url": "https://habr.com/ru/articles/1022562/"
+        },
+        "https://www.ixbt.com/news/2026/04/12/sapphire-radeon-rx-9070-xt-12v-2x6.html": {
+            "title": "Зафиксирован как минимум девятый случай возгорания Sapphire Radeon RX 9070 XT с разъёмом 12V-2x6",
+            "description": "Само собой, не все случаи известны",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/a-melted-12vhpwr-connector-with-a-twist-its-amd-flavoured-v0-div521c6ndug1_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/12/sapphire-radeon-rx-9070-xt-12v-2x6.html"
         }
     }
 }
