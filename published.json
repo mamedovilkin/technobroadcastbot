@@ -10403,6 +10403,12 @@
             "description": "Разработчик под ником Sawyer X представил открытый проект cURL Doom . Это рабочая версия игры в Doom, которая воспроизводится по сети через утилиту cURL . «Это HTTP‑сервер, отображающий кадры Doom...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ca0/209/d4a/ca0209d4ae6636514b37797ff2d29428.png",
             "url": "https://habr.com/ru/news/1022568/"
+        },
+        "https://habr.com/ru/news/1022600/": {
+            "title": "Apple готовит AI-очки в четырех дизайнах - выход в 2027-м",
+            "description": "Apple тестирует минимум четыре варианта оправы для своих будущих AI-очков и рассчитывает выпустить их в 2027 году. Об этом  со ссылкой на источники внутри компании  сообщил журналист...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/e83/69d/87d/e8369d87de2eb0799340d98be4800cdb.jpg",
+            "url": "https://habr.com/ru/news/1022600/"
         }
     }
 }
