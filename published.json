@@ -10361,6 +10361,12 @@
             "description": "Само собой, не все случаи известны",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/a-melted-12vhpwr-connector-with-a-twist-its-amd-flavoured-v0-div521c6ndug1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/12/sapphire-radeon-rx-9070-xt-12v-2x6.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1022574/": {
+            "title": "Запускаю Gemma 4 локально в LM Studio: 51 токен",
+            "description": "Ещё вчера для запуска 26-миллиардной нейросети нужен был дата-центр. Сегодня достаточно ноутбука и одной консольной команды. Встречайте: Google Gemma 4 26B-A4B.  Модель, которая ломает старые...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d46/dac/c0f/d46dacc0f8e2c0d0ae4014bf8759e418.jpg",
+            "url": "https://habr.com/ru/companies/bothub/articles/1022574/"
         }
     }
 }
