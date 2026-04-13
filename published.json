@@ -10439,6 +10439,12 @@
             "description": "Презентация ожидается 20 апреля",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/1/0035ZgVPgy1ic48tfll7mj62bc1awh2q02_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/13/huawei-pura-x-max-2.html"
+        },
+        "https://www.securitylab.ru/news/571465.php": {
+            "title": "Десять из десяти за маскировку. Хакеры используют письма от GitHub и Jira для кражи данных",
+            "description": "Безупречное прошлое цифровых платформ теперь работает на злоумышленников.",
+            "image": "https://www.securitylab.ru/upload/iblock/8ae/gqevk6axtam59enn9trwpdkbr5bkyqc3.jpg",
+            "url": "https://www.securitylab.ru/news/571465.php"
         }
     }
 }
