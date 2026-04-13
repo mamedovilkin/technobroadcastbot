@@ -10499,6 +10499,12 @@
             "description": "7 апреля в Москве компания «Тантор Лабс» представила третье поколение машин баз данных Tantor XData. Новое решение поддерживает полноценную одновременную обработку транзакционных и аналитических...",
             "image": "https://static.cnews.ru/img/news/2026/04/10/img_3944_1200.jpg",
             "url": "https://www.cnews.ru/news/top/2026-04-10_rossijskij_razrabotchik_reshil"
+        },
+        "https://habr.com/ru/news/1022796/": {
+            "title": "Пока США и Китай соревнуются в LLM, Япония строит супергиганта для физического ИИ",
+            "description": "SoftBank, NEC, Sony и Honda учредили совместную компанию Japan AI Foundation Model Development для разработки моделей с триллионом параметров. Об этом 12 апреля сообщили Jiji Press, Yomiuri Shimbun и...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/f2b/324/dfd/f2b324dfdbfc872d93febd0e188da290.jpg",
+            "url": "https://habr.com/ru/news/1022796/"
         }
     }
 }
