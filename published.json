@@ -10451,6 +10451,12 @@
             "description": "Британские финансовые регуляторы собирают экстренное межведомственное совещание из-за новой модели Anthropic — Claude Mythos. По  данным  Financial Times, на встрече на этой неделе соберутся...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/a01/2e4/a00/a012e4a00d6173ecae5897d03fa55f0d.jpg",
             "url": "https://habr.com/ru/news/1022650/"
+        },
+        "https://www.securitylab.ru/news/571494.php": {
+            "title": "\"Конечно, вот ваш вирус\". Как заставить нейросеть согласиться на что угодно одной строкой кода",
+            "description": "Исследователи описали технику sockpuppeting, которая помогает обходить ограничения 11 крупных языковых моделей через подставное «согласие» ассистента.",
+            "image": "https://www.securitylab.ru/upload/iblock/609/263998zskiz297mrh48i4awo3j2uih8r.jpg",
+            "url": "https://www.securitylab.ru/news/571494.php"
         }
     }
 }
