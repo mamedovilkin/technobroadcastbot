@@ -10493,6 +10493,12 @@
             "description": "Как удаленно превратить современный электрокар в обычную машину.",
             "image": "https://www.securitylab.ru/upload/iblock/e31/2kcz80rhxpe2myrz9hrtoajmipxjgvfk.jpg",
             "url": "https://www.securitylab.ru/news/571503.php"
+        },
+        "https://www.cnews.ru/news/top/2026-04-10_rossijskij_razrabotchik_reshil": {
+            "title": "Российский разработчик решил главную проблему PostgreSQL для крупного бизнеса",
+            "description": "7 апреля в Москве компания «Тантор Лабс» представила третье поколение машин баз данных Tantor XData. Новое решение поддерживает полноценную одновременную обработку транзакционных и аналитических...",
+            "image": "https://static.cnews.ru/img/news/2026/04/10/img_3944_1200.jpg",
+            "url": "https://www.cnews.ru/news/top/2026-04-10_rossijskij_razrabotchik_reshil"
         }
     }
 }
