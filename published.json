@@ -10727,6 +10727,12 @@
             "description": "10 апреля официальный аккаунт Proton Pass опубликовал сравнительную таблицу мессенджеров, которые можно использовать вместо вотсапа. В ней было указано, как то или иное приложение заботится о безопасности и приватности пользователей. Например, использует ли мессенджер сквозное шифрование, проходит ли он независимый аудит и есть ли у него собственные серверы.",
             "image": "https://meduza.io/imgly/share/1776163720/feature/2026/04/14/telegram-i-votsap-posporili-po-povodu-bezopasnosti-i-oba-proigrali",
             "url": "https://meduza.io/feature/2026/04/14/telegram-i-votsap-posporili-po-povodu-bezopasnosti-i-oba-proigrali"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/04/14/1190165-peskov-rasskazal": {
+            "title": "Песков рассказал, когда отменят ограничения на интернет",
+            "description": "Цифровые меры пока действуют из соображений безопасности",
+            "image": "https://sharing.vedomosti.ru/1776160875/vedomosti.ru/technology/news/2026/04/14/1190165-peskov-rasskazal.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/04/14/1190165-peskov-rasskazal"
         }
     }
 }
