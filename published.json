@@ -10649,6 +10649,12 @@
             "description": "Корейцам вновь достались аппараты на Exynos — и это вызывает недовольство",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/Exynos-2600-13_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/14/samsung-galaxy-s26-soc-exynos-snapdragon.html"
+        },
+        "https://habr.com/ru/articles/1023036/": {
+            "title": "Промпты для DeepSeek: как писать запросы, чтобы получить максимум от бесплатной нейросети",
+            "description": "DeepSeek — бесплатная нейросеть, которая на бенчмарках конкурирует с GPT-5 и Claude Opus. Открытые веса, без лимитов на запросы, работает без VPN из России. Но большинство используют её как...",
+            "image": "https://habr.com/share/publication/1023036/b748f678cdcf55c1c6aa099363f1d9ac/",
+            "url": "https://habr.com/ru/articles/1023036/"
         }
     }
 }
