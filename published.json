@@ -10721,6 +10721,12 @@
             "description": "Windows 10 – все? Кажется, да. 14 октября 2025 года Microsoft прекратила поддержку Windows 10. Не обновила, не перевела на сниженный пакет обслуживания, а именно прекратила. Никаких обновлений...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/38a/afa/723/38aafa723bc42cbc5f99da3d4caa812e.png",
             "url": "https://habr.com/ru/companies/x-com/articles/1023216/"
+        },
+        "https://meduza.io/feature/2026/04/14/telegram-i-votsap-posporili-po-povodu-bezopasnosti-i-oba-proigrali": {
+            "title": "Телеграм и вотсап поспорили по поводу безопасности. И оба проиграли",
+            "description": "10 апреля официальный аккаунт Proton Pass опубликовал сравнительную таблицу мессенджеров, которые можно использовать вместо вотсапа. В ней было указано, как то или иное приложение заботится о безопасности и приватности пользователей. Например, использует ли мессенджер сквозное шифрование, проходит ли он независимый аудит и есть ли у него собственные серверы.",
+            "image": "https://meduza.io/imgly/share/1776163720/feature/2026/04/14/telegram-i-votsap-posporili-po-povodu-bezopasnosti-i-oba-proigrali",
+            "url": "https://meduza.io/feature/2026/04/14/telegram-i-votsap-posporili-po-povodu-bezopasnosti-i-oba-proigrali"
         }
     }
 }
