@@ -10595,6 +10595,12 @@
             "description": "Создатель российской операционной системы «Основа» АО «НППКТ» и ООО «Спецтех» заключили мировое соглашение по иску в 1,4 млрд руб. Согласно документу, «НППКТ» получит права на новую ERP-систему...",
             "image": "https://filearchive.cnews.ru/img/news/2023/03/28/haker_700.jpg",
             "url": "https://www.cnews.ru/news/top/2026-04-13_rossijskie_razrabotchiki"
+        },
+        "https://habr.com/ru/news/1023044/": {
+            "title": "Claude Mythos первым справился со взломом, на который уходит 20 часов",
+            "description": "Claude Mythos Preview стал первой ИИ-моделью, которая автономно прошла 32-шаговую симуляцию корпоративной кибератаки от первичной разведки до полного захвата сети. Об этом  сообщил...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b7b/9ce/7bf/b7b9ce7bf94b7c50b92fb9384b904e8c.jpeg",
+            "url": "https://habr.com/ru/news/1023044/"
         }
     }
 }
