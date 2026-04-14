@@ -10691,6 +10691,12 @@
             "description": "Модель, которую нельзя купить по API даже за $200 в месяц, и шесть моделей, которые можно потрогать за $20 через привычный ollama run . А посередине Meta, которая наконец вспомнила, что у неё три...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/9ee/301/5ca/9ee3015cae93be8934e5223b9b9241f2.jpg",
             "url": "https://habr.com/ru/news/1023000/"
+        },
+        "https://www.ixbt.com/news/2026/04/14/mercedes-benz-eqs-2027-900.html": {
+            "title": "Представлен новейший Mercedes-Benz EQS 2027 с запасом хода более 900 км",
+            "description": "Флагман получил 800-вольтовую архитектуру, MB.OS и рекордную скорость зарядки",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/HF02FLVasAAI2C7_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/14/mercedes-benz-eqs-2027-900.html"
         }
     }
 }
