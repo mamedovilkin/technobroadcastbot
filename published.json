@@ -10733,6 +10733,12 @@
             "description": "Цифровые меры пока действуют из соображений безопасности",
             "image": "https://sharing.vedomosti.ru/1776160875/vedomosti.ru/technology/news/2026/04/14/1190165-peskov-rasskazal.jpg",
             "url": "https://www.vedomosti.ru/technology/news/2026/04/14/1190165-peskov-rasskazal"
+        },
+        "https://habr.com/ru/companies/onlinepatent/articles/1023236/": {
+            "title": "COBOL: 65 лет в ядре мировой экономики",
+            "description": "Каждый раз, когда за рубежом кто-то снимает деньги в банкомате, рассчитывается картой или получает государственное пособие, с высокой вероятностью где-то в цепочке выполняется код, написанный на COBOL...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/8fa/ec9/bb0/8faec9bb042bd75a64434f140bcfb695.png",
+            "url": "https://habr.com/ru/companies/onlinepatent/articles/1023236/"
         }
     }
 }
