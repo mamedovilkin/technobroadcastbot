@@ -10571,6 +10571,12 @@
             "description": "Доступная оперативка для апгрейда ПК, надёжный регистратор, бронированная Bluetooth-колонка и многое другое.",
             "image": "https://cdn.lifehacker.ru/wp-content/uploads/2026/04/01_10_1776095900.jpg",
             "url": "https://lifehacker.ru/ekonomim-na-dnyax-vygody/"
+        },
+        "https://habr.com/ru/articles/1023012/": {
+            "title": "Эра ИИ-агентов наступила: выбираем лучшего цифрового сотрудника",
+            "description": "Большинство агентов, о которых пойдет речь, поставляются в комплекте с подпиской на одну из крупных ИИ-платформ. Claude Cowork доступен на платных тарифах Claude ( Pro, Max, Team, Enterprise ),...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/4bc/0f4/2e0/4bc0f42e04252c9cf75d9a6e7dc2290a.jpg",
+            "url": "https://habr.com/ru/articles/1023012/"
         }
     }
 }
