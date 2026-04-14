@@ -10685,6 +10685,12 @@
             "description": "Почему добывать биткоин стало невыгодно.",
             "image": "https://www.securitylab.ru/upload/iblock/40f/tvkdew72lp31owligk9v7qudxqpt97ii.jpg",
             "url": "https://www.securitylab.ru/news/571512.php"
+        },
+        "https://habr.com/ru/news/1023000/": {
+            "title": "Галлюцинации недели: Muse Spark, ChatGPT Pro за $100 и миф, ставший реальностью",
+            "description": "Модель, которую нельзя купить по API даже за $200 в месяц, и шесть моделей, которые можно потрогать за $20 через привычный ollama run . А посередине Meta, которая наконец вспомнила, что у неё три...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/9ee/301/5ca/9ee3015cae93be8934e5223b9b9241f2.jpg",
+            "url": "https://habr.com/ru/news/1023000/"
         }
     }
 }
