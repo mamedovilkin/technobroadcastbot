@@ -10637,6 +10637,12 @@
             "description": "Новая машина метко бросает с дальней дистанции и заодно показывает, как Toyota развивает машинное зрение, управление и физический ИИ.",
             "image": "https://www.securitylab.ru/upload/iblock/c7e/6kzqxv780790wfop0gc8ank844c40u0g.jpg",
             "url": "https://www.securitylab.ru/news/571534.php"
+        },
+        "https://3dnews.ru/1139918/ii-vipolnyaet-mesyatsi-raboti-ingenerov-vsego-za-noch-nvidia-rasskazala-kak-uskorila-proektirovanie-chipov": {
+            "title": "ИИ выполняет месяцы работы инженеров всего за ночь: Nvidia рассказала, как ускорила проектирование чипов",
+            "description": "Nvidia активно использует искусственный интеллект на некоторых этапах внутреннего процесса проектирования своих чипов. Об этом в разговоре с главным научным сотрудником Google Джеффом Дином (Jeff Dean) в рамках конференции GTC рассказал главный научный сотрудник Nvidia Билл Далли (Bill Dally). По словам последнего, компания применяет ИИ для исследования проектных решений, работы со стандартной библиотекой ячеек, устранения ошибок и верификации.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/13/1139918/NVIDIA-CHIP-DESIGN-AI-HERO.jpg",
+            "url": "https://3dnews.ru/1139918/ii-vipolnyaet-mesyatsi-raboti-ingenerov-vsego-za-noch-nvidia-rasskazala-kak-uskorila-proektirovanie-chipov"
         }
     }
 }
