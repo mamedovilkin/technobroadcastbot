@@ -10541,6 +10541,12 @@
             "description": "Можно подумать, что уставшая доносить до общественности пользу внедрения ИИ компания Meta* Platforms готова испытывать все новые идеи на себе. Помимо ИИ-агента, который будет помогать основателю...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6aa/e52/beb/6aae52bebdaf074d524b2633d180fe21.png",
             "url": "https://habr.com/ru/companies/bothub/news/1022924/"
+        },
+        "https://www.securitylab.ru/news/571521.php": {
+            "title": "Без слежки, без рекламы, без утечек. Что известно о XChat - новом мессенджере от Илона Маска",
+            "description": "Маск выпускает конкурента Telegram и Signal?",
+            "image": "https://www.securitylab.ru/upload/iblock/ee9/e1x654t7ibskvspropwsaqao6qjxpdgy.jpg",
+            "url": "https://www.securitylab.ru/news/571521.php"
         }
     }
 }
