@@ -10883,6 +10883,12 @@
             "description": "23 апреля в 11:00. Регистрируйтесь",
             "image": "https://www.securitylab.ru/upload/iblock/3af/94uyf28fytetltlrcbfj2alrfqkuj39f.jpg",
             "url": "https://www.securitylab.ru/news/571588.php"
+        },
+        "https://habr.com/ru/news/1023642/": {
+            "title": "Claude Code научился программировать в стиле Карпати. У скилла почти 37 тысяч звезд на GitHub",
+            "description": "Репозиторий  andrej-karpathy-skills  за считанные дни набрал почти 37 тысяч звезд на GitHub. Это один файл CLAUDE.md с четырьмя принципами, которые заставляют Claude Code писать код...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/0ff/b42/698/0ffb42698fb49055173807d88334f618.jpeg",
+            "url": "https://habr.com/ru/news/1023642/"
         }
     }
 }
