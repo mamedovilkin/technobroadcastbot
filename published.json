@@ -10781,6 +10781,12 @@
             "description": "Главный коммерческий директор OpenAI Дениз Дрессер в воскресенье разослала сотрудникам четырехстраничный внутренний меморандум , в котором обвинила Anthropic в завышении выручки примерно на $8 млрд и...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/735/4e6/47a/7354e647ab9208ce5d540cac379a6199.jpg",
             "url": "https://habr.com/ru/news/1023480/"
+        },
+        "https://habr.com/ru/companies/femida_search/articles/1023506/": {
+            "title": "Данные Signal и Telegram остаются после удаления. Объясняем как ФБР получила доступ к данным после чистки",
+            "description": "Мы покажем что конкретно остаётся на iOS и Android после удаления Telegram и Signal, через какие инструменты это находится и сколько времени проходит, прежде чем артефакты начинают исчезать. ФБР...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/bf3/6f2/16e/bf36f216e8c807f25dc21b7dae5025a9.jpg",
+            "url": "https://habr.com/ru/companies/femida_search/articles/1023506/"
         }
     }
 }
