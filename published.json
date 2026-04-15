@@ -10829,6 +10829,12 @@
             "description": "Редакция профильного портала провела тестирование грядущего научно-фантастического экшена Pragmata от издательства Capcom. Проект использует модифицированный движок RE Engine, в котором классический рендеринг полностью заменен на трассировку путей. Алгоритм предельно точно симулирует распространение света, формируя физически...",
             "image": "https://i.playground.ru/e/3dXjxUS_9699ncyoHI1Zjw.png",
             "url": "https://www.playground.ru/pragmata/news/flagmanskaya_videokarta_nvidia_geforce_rtx_5090_vydaet_38_fps_v_nativnom_4k_v_igre_pragmata-1838033"
+        },
+        "https://habr.com/ru/articles/1023592/": {
+            "title": "Бесплатный API для нейросетей от NVIDIA: 100+ моделей, OpenAI-совместимый эндпоинт и 40 запросов в минуту",
+            "description": "NVIDIA раздаёт бесплатные API-ключи к 100+ моделям — DeepSeek R1, Llama, Mistral, GLM, Kimi и десятки других. Регистрация за 2 минуты, OpenAI-совместимый эндпоинт, без привязки карты. Звучит как...",
+            "image": "https://habr.com/share/publication/1023592/51f8e71a9a3a6c9a66e00ae6e1f1d082/",
+            "url": "https://habr.com/ru/articles/1023592/"
         }
     }
 }
