@@ -10865,6 +10865,12 @@
             "description": "Крутой камерофон в категории до 50 тысяч рублей.",
             "image": "https://click-or-die.ru/app/uploads/2026/04/snimok-ekrana-2026-04-14-v-17.26.49.jpg",
             "url": "https://click-or-die.ru/2026/04/nedorogoj-vivo-v70-poluchil-moshhnyj-televik-i-chetkij-oled-ekran-a-eshhe-u-nego-ogromnyj-akkumulyator/"
+        },
+        "https://habr.com/ru/news/1023622/": {
+            "title": "GPT-5.4-Cyber умеет разбирать бинарники: OpenAI выпустила модель для тестирования киберугроз",
+            "description": "OpenAI  выпустила  GPT-5.4-Cyber — специализированный файнтюн GPT-5.4, обученный для поиска уязвимостей: у модели снижен порог отказов на запросы, связанные с кибербезопасностью, и добавлены...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/6d3/eb4/2d9/6d3eb42d931648f49e1830aee60761b0.jpeg",
+            "url": "https://habr.com/ru/news/1023622/"
         }
     }
 }
