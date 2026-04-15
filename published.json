@@ -10811,6 +10811,12 @@
             "description": "Xiaomi Mijia Hair Clipper 2 Set Edition подходит для фигурного оформления",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/2/fcd10a55-3fa0-4ecd-b757-9ddc9f11726e.jpg",
             "url": "https://www.ixbt.com/news/2026/04/14/xiaomi-mijia-hair-clipper-2-set-edition-25.html"
+        },
+        "https://www.securitylab.ru/news/571560.php": {
+            "title": "180 секунд - за этот срок злоумышленник успевает выкачать все пароли из файлов вашего проекта",
+            "description": "Критическая уязвимость в Marimo позволила злоумышленникам забирать ключи от облачных сервисов.",
+            "image": "https://www.securitylab.ru/upload/iblock/33c/mo18uxnskztcb1y71u6m0650pdcwog26.jpg",
+            "url": "https://www.securitylab.ru/news/571560.php"
         }
     }
 }
