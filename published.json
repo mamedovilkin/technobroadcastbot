@@ -10823,6 +10823,12 @@
             "description": "The Information   сообщает , что Anthropic на этой неделе готовит выпуск Claude Opus 4.7 и нового ИИ-инструмента для дизайна. По данным The Information, новый инструмент позволит всем создавать...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/8cb/a3a/0ab/8cba3a0ab7a30d524edb4c6a4f761ad6.jpg",
             "url": "https://habr.com/ru/news/1023568/"
+        },
+        "https://www.playground.ru/pragmata/news/flagmanskaya_videokarta_nvidia_geforce_rtx_5090_vydaet_38_fps_v_nativnom_4k_v_igre_pragmata-1838033": {
+            "title": "Флагманская видеокарта NVIDIA GeForce RTX 5090 выдает 38 FPS в нативном 4K в игре Pragmata",
+            "description": "Редакция профильного портала провела тестирование грядущего научно-фантастического экшена Pragmata от издательства Capcom. Проект использует модифицированный движок RE Engine, в котором классический рендеринг полностью заменен на трассировку путей. Алгоритм предельно точно симулирует распространение света, формируя физически...",
+            "image": "https://i.playground.ru/e/3dXjxUS_9699ncyoHI1Zjw.png",
+            "url": "https://www.playground.ru/pragmata/news/flagmanskaya_videokarta_nvidia_geforce_rtx_5090_vydaet_38_fps_v_nativnom_4k_v_igre_pragmata-1838033"
         }
     }
 }
