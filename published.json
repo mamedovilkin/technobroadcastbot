@@ -10889,6 +10889,12 @@
             "description": "Репозиторий  andrej-karpathy-skills  за считанные дни набрал почти 37 тысяч звезд на GitHub. Это один файл CLAUDE.md с четырьмя принципами, которые заставляют Claude Code писать код...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/0ff/b42/698/0ffb42698fb49055173807d88334f618.jpeg",
             "url": "https://habr.com/ru/news/1023642/"
+        },
+        "https://meduza.io/feature/2026/04/15/krupneyshie-rossiyskie-servisy-perestayut-rabotat-pri-vklyuchennom-vpn-kak-i-trebovalo-mintsifry": {
+            "title": "Крупнейшие российские сервисы перестали работать при включенном VPN (как и требовало Минцифры)",
+            "description": "Крупнейшие российские сервисы днем 14 апреля перестали открываться у пользователей из России при включенном VPN. Первыми на это обратили внимание издания RusNews и «Осторожно, новости». Так, при включенном VPN перестали работать сервисы «Яндекса», Mail.ru, VK, маркетплейсы и банковские приложения.",
+            "image": "https://meduza.io/imgly/share/1776241371/feature/2026/04/15/krupneyshie-rossiyskie-servisy-perestayut-rabotat-pri-vklyuchennom-vpn-kak-i-trebovalo-mintsifry",
+            "url": "https://meduza.io/feature/2026/04/15/krupneyshie-rossiyskie-servisy-perestayut-rabotat-pri-vklyuchennom-vpn-kak-i-trebovalo-mintsifry"
         }
     }
 }
