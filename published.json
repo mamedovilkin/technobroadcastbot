@@ -10817,6 +10817,12 @@
             "description": "Критическая уязвимость в Marimo позволила злоумышленникам забирать ключи от облачных сервисов.",
             "image": "https://www.securitylab.ru/upload/iblock/33c/mo18uxnskztcb1y71u6m0650pdcwog26.jpg",
             "url": "https://www.securitylab.ru/news/571560.php"
+        },
+        "https://habr.com/ru/news/1023568/": {
+            "title": "Claude Opus 4.7 может выйти на этой неделе - а акции Figma уже упали на 6%",
+            "description": "The Information   сообщает , что Anthropic на этой неделе готовит выпуск Claude Opus 4.7 и нового ИИ-инструмента для дизайна. По данным The Information, новый инструмент позволит всем создавать...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/8cb/a3a/0ab/8cba3a0ab7a30d524edb4c6a4f761ad6.jpg",
+            "url": "https://habr.com/ru/news/1023568/"
         }
     }
 }
