@@ -10871,6 +10871,12 @@
             "description": "OpenAI  выпустила  GPT-5.4-Cyber — специализированный файнтюн GPT-5.4, обученный для поиска уязвимостей: у модели снижен порог отказов на запросы, связанные с кибербезопасностью, и добавлены...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/6d3/eb4/2d9/6d3eb42d931648f49e1830aee60761b0.jpeg",
             "url": "https://habr.com/ru/news/1023622/"
+        },
+        "https://www.e1.ru/text/gorod/2026/04/15/76365584/": {
+            "title": "Meshtastic: что это такое, как работает и как пользоваться устройством - 15 апреля 2026",
+            "description": "На фоне сбоев в работе мессенджеров в соцсетях заговорили о Meshtastic — технологии обмена сообщениями через радиоканал, - Город - 15 апреля 2026 | Е1.ру",
+            "image": "https://www.e1.ru/html-to-img/og/tdJ5hb_dlXL-ExS6gK4DCw/article-id6960971-16x9.jpg?1776169392",
+            "url": "https://www.e1.ru/text/gorod/2026/04/15/76365584/"
         }
     }
 }
