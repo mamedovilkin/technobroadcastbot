@@ -10787,6 +10787,12 @@
             "description": "Мы покажем что конкретно остаётся на iOS и Android после удаления Telegram и Signal, через какие инструменты это находится и сколько времени проходит, прежде чем артефакты начинают исчезать. ФБР...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/bf3/6f2/16e/bf36f216e8c807f25dc21b7dae5025a9.jpg",
             "url": "https://habr.com/ru/companies/femida_search/articles/1023506/"
+        },
+        "https://ixbt.games/news/2026/04/14/409954-avtory-graveyard-keeper-zarabotali-250-tysiac-dollarov-razdavaia-igru-besplatno.html": {
+            "title": "Авторы Graveyard Keeper заработали $250 тысяч, раздавая игру бесплатно",
+            "description": "Это только показатели Steam, без учета консольной версии.",
+            "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1173396/graveyard-keeper-review-header.jpg",
+            "url": "https://ixbt.games/news/2026/04/14/409954-avtory-graveyard-keeper-zarabotali-250-tysiac-dollarov-razdavaia-igru-besplatno.html"
         }
     }
 }
