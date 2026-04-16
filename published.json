@@ -11069,6 +11069,12 @@
             "description": "Экономическая и военная конкуренция усилились при Трампе, но многие эксперты считают его лишь «симптомом» глобальных потрясений. Институт Брукингса прогнозирует сохранение тенденции к национальной и региональной самодостаточности.",
             "image": "https://www.profinance.ru/img/news/584477-1.png?1729826633",
             "url": "https://www.profinance.ru/news2/2026/04/16/cizh-v-mire-vojn-i-sopernichestva-pobezhdayut-tekhnologii.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1024092/": {
+            "title": "Anthropic внедряет систему верификации личности пользователей",
+            "description": "Компания Anthropic начала внедрять обязательную проверку личности в рамках усиления безопасности своих сервисов. Техническим партнёром выступает Persona. Для прохождения верификации пользователю...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/46c/1ae/e48/46c1aee48b805ba131a4e7851fb740d6.jpeg",
+            "url": "https://habr.com/ru/companies/bothub/news/1024092/"
         }
     }
 }
