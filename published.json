@@ -10961,6 +10961,12 @@
             "description": "Перевод подготовил автор канала  Друг Опенсурса , приятного прочтения, заранее благодарю за подписку Ограничения в App Store Apple дважды удалила приложение Anything из App Store. Под ограничения...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/b06/5ce/587/b065ce5872c55f15bf33826888e2b432.png",
             "url": "https://habr.com/ru/news/1023898/"
+        },
+        "https://habr.com/ru/news/1023910/": {
+            "title": "\"Сжигай токены ещё быстрее\": Anthropic перекроил десктоп Claude Code",
+            "description": "Anthropic 14 апреля представил редизайн десктопного Claude Code, перестроив приложение вокруг параллельных агентных сессий вместо привычной схемы \"один терминал — одна задача\". Крупное IT-медиа The...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/ddb/bdb/34d/ddbbdb34d951dac8206dd9ab13a488af.jpg",
+            "url": "https://habr.com/ru/news/1023910/"
         }
     }
 }
