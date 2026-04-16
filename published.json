@@ -11093,6 +11093,12 @@
             "description": "Рассказываем о том, что акции производителя обуви Allbirds (BIRD) в среду, 15 апреля, выросли почти в 10 раз после того, как он сообщил о смене стратегии в сторону искусственного интеллекта. Узнайте, что сообщает Reuters.",
             "image": "https://resizer.mail.ru/p/301c5009-7861-5f2a-baec-a3dd6914d112/AQAz9EstZ8UopPPXsolXHnfl5QkYxjmoiFvbnlumxL2XZZTTAv_i4L2HN-ysZh66nxguYUP-ebGRseePT1Rk_iExwvw.jpg",
             "url": "https://finance.mail.ru/article/obuvnaya-kompaniya-allbirds-podorozhala-v-10-raz-na-planah-pereorientirovatsya-na-ii-69205369/"
+        },
+        "https://habr.com/ru/articles/1023224/": {
+            "title": "Как не передать на desktop свой IP в РКН",
+            "description": "Недавно выяснилось, что довольно легко на смартфоне (Android) передать IP VPS в РКН с учетом следующих вещей: Многие российские сервисы превращаются в филиалы РКН Приложение на Android может получить...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/d3e/740/1cc/d3e7401cc3d9837421944821e5eddeb9.png",
+            "url": "https://habr.com/ru/articles/1023224/"
         }
     }
 }
