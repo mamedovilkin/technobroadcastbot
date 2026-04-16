@@ -11075,6 +11075,12 @@
             "description": "Компания Anthropic начала внедрять обязательную проверку личности в рамках усиления безопасности своих сервисов. Техническим партнёром выступает Persona. Для прохождения верификации пользователю...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/46c/1ae/e48/46c1aee48b805ba131a4e7851fb740d6.jpeg",
             "url": "https://habr.com/ru/companies/bothub/news/1024092/"
+        },
+        "https://habr.com/ru/companies/garda/articles/1023394/": {
+            "title": "Как (не) потерять домен за выходные",
+            "description": "Пятница, 18:00: сотрудники одной достаточно крупной компании спокойно заканчивают работу. Понедельник, 08:00: все рабочие компьютеры показывают экран восстановления BitLocker, контроллер домена...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/215/ea6/8cb/215ea68cbb49f2fb7a7591639feca515.png",
+            "url": "https://habr.com/ru/companies/garda/articles/1023394/"
         }
     }
 }
