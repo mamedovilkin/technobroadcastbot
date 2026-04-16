@@ -11021,6 +11021,12 @@
             "description": "Ранее депутаты предлагали отмечать фото, видео и тексты, созданные человеком",
             "image": "https://sharing.vedomosti.ru/1776291932/vedomosti.ru/technology/articles/2026/04/16/1190687-gosduma-sochla-izbitochnoi-markirovku-dipfeikov.jpg",
             "url": "https://www.vedomosti.ru/technology/articles/2026/04/16/1190687-gosduma-sochla-izbitochnoi-markirovku-dipfeikov"
+        },
+        "https://habr.com/ru/news/1024000/": {
+            "title": "Как антропоморфный Mythos стал слишком опасен",
+            "description": "Однажды теплым февральским вечером на Бали Николас Карлини отошел в сторону во время перерыва на свадьбе, открыл свой ноутбук и решил немного пошалить. Компания Anthropic PBC только что представила...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/92e/8c0/209/92e8c02091d585af77091571aaff8c49.webp",
+            "url": "https://habr.com/ru/news/1024000/"
         }
     }
 }
