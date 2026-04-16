@@ -10955,6 +10955,12 @@
             "description": "С первого апреля россияне лишились возможности пополнять Apple-ID со счета мобильного телефона. На этом фоне крупнейший в России оператор международных карт «Плати по миру» побил собственный рекорд...",
             "image": "https://static.cnews.ru/img/articles/2026/04/14/platipomiru1_800x420.jpg",
             "url": "https://www.cnews.ru/news/top/2026-04-14_plati_po_miru_operator"
+        },
+        "https://habr.com/ru/news/1023898/": {
+            "title": "Vibe-coding под замком: Apple против инструментов разработки на базе ИИ",
+            "description": "Перевод подготовил автор канала  Друг Опенсурса , приятного прочтения, заранее благодарю за подписку Ограничения в App Store Apple дважды удалила приложение Anything из App Store. Под ограничения...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/b06/5ce/587/b065ce5872c55f15bf33826888e2b432.png",
+            "url": "https://habr.com/ru/news/1023898/"
         }
     }
 }
