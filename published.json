@@ -10967,6 +10967,12 @@
             "description": "Anthropic 14 апреля представил редизайн десктопного Claude Code, перестроив приложение вокруг параллельных агентных сессий вместо привычной схемы \"один терминал — одна задача\". Крупное IT-медиа The...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/ddb/bdb/34d/ddbbdb34d951dac8206dd9ab13a488af.jpg",
             "url": "https://habr.com/ru/news/1023910/"
+        },
+        "https://www.playground.ru/pragmata/news/u_capcom_i_irdeto_problemy_v_set_utekli_nezashifrovannye_fajly_pragmata_denuvowo_uzhe_rabotayut_nad_vzlomom-1838316": {
+            "title": "У Capcom и Irdeto проблемы: в сеть утекли незашифрованные файлы Pragmata, DenuvOwO уже работают над взломом",
+            "description": "Как стало известно, разработчики из Capcom допустили серьезную оплошность: они случайно выложили в сеть файлы с незашифрованным дистрибутивом предстоящей Pragmata.",
+            "image": "https://i.playground.ru/e/BJbDfKiFl5mKlXIxb-jLnA.png",
+            "url": "https://www.playground.ru/pragmata/news/u_capcom_i_irdeto_problemy_v_set_utekli_nezashifrovannye_fajly_pragmata_denuvowo_uzhe_rabotayut_nad_vzlomom-1838316"
         }
     }
 }
