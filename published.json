@@ -11135,6 +11135,12 @@
             "description": "Настало время разобраться с доступностью сервисов Apple в разных странах, ценах на них и понять, насколько удобно будет оплачивать подписки из России.",
             "image": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2026%2F04%2Fapple-id-iphones.jpg",
             "url": "https://www.iphones.ru/iNotes/kuda-perenesti-svoy-apple-id-sravnili-6-stran-gde-deshevle-podpiski-i-proshche-oplata-iz-rossii"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1024016/": {
+            "title": "Как Meta* убила Llama, чтобы спасти свой ИИ-бизнес",
+            "description": "Meta * потратила 14,3 миллиарда долларов, наняла 29-летнего парня со стороны и отправила Llama на полку. Вот что это значит для всех, кто строил свои проекты на открытом ИИ. Meta * только что...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/255/d65/20f/255d6520f8d0445011cce72d9441d86b.png",
+            "url": "https://habr.com/ru/companies/bothub/articles/1024016/"
         }
     }
 }
