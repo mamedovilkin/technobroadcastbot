@@ -11159,6 +11159,12 @@
             "description": "Как сообщают ресурс OpenNET и Phoronix, в состав ядра Linux 7.1 приняты изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe, применяемых в SoC Baikal-T1. Процесс начался не сегодня — в ядре 7.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/16/1140142/bm.png",
             "url": "https://servernews.ru/1140142"
+        },
+        "https://habr.com/ru/news/1024400/": {
+            "title": "Claude Code теперь требует паспорт",
+            "description": "Anthropic уточнила правила верификации для Claude: удостоверение личности, селфи и несколько минут на проверку. Но есть важный нюанс — аккаунт могут заблокировать, если он создан из неподдерживаемой...",
+            "image": "https://habr.com/share/publication/1024400/f4538ce9f180f7f14b625174fafbaaa1/",
+            "url": "https://habr.com/ru/news/1024400/"
         }
     }
 }
