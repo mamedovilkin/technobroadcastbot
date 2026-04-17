@@ -11111,6 +11111,12 @@
             "description": "По информации OpenNET, Линус Торвальдс принял в состав ядра Linux 7.1 изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe , применяемых в SoC Baikal‑T1. Помимо этого...",
             "image": "https://habr.com/share/publication/1024218/e87fcb576ca73d6de1b315a373010f71/",
             "url": "https://habr.com/ru/news/1024218/"
+        },
+        "https://finance.mail.ru/article/charles-schwab-zapuskaet-torgovlyu-kriptovalyutami-dlya-konkurentsii-s-robinhood-69205416/": {
+            "title": "Charles Schwab запускает торговлю криптовалютами для конкуренции с Robinhood",
+            "description": "Брокер Charles Schwab открывает клиентам прямой доступ к сделкам с биткоином",
+            "image": "https://resizer.mail.ru/p/83bd0d4a-c1b3-5399-a5b9-f8dac9e12d51/AQAzgtPtNXyFPHTNcvq0Fb55gFtdGc2St-WXoWGncgIM8PDp0Ej-vX6SKEzY3dxHkHsp9brRSMibkrs3QqUveQJ3HIo.jpg",
+            "url": "https://finance.mail.ru/article/charles-schwab-zapuskaet-torgovlyu-kriptovalyutami-dlya-konkurentsii-s-robinhood-69205416/"
         }
     }
 }
