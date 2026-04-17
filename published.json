@@ -11153,6 +11153,12 @@
             "description": "Вот и прогремел анонс новой части Metro, который ожидаемо вызвал у игрового сообщества весьма смешанные чувства. Пока одни преданные фанаты жалуются на радикальный отказ разработчиков от привычного протагониста Артёма в угоду новому, большинство отечественных геймеров...",
             "image": "https://i.playground.ru/e/92VXSTWJdBfbxrGG3gzYdQ.png",
             "url": "https://www.playground.ru/metro_4/news/stranichka_novoj_metro_2039_uzhe_poyavilas_v_steam_i_tam_net_nikakogo_yazyka_krome_anglijskogo-1838607"
+        },
+        "https://servernews.ru/1140142": {
+            "title": "Ядро Linux лишается поддержки российских процессоров «Байкал",
+            "description": "Как сообщают ресурс OpenNET и Phoronix, в состав ядра Linux 7.1 приняты изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe, применяемых в SoC Baikal-T1. Процесс начался не сегодня — в ядре 7.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/16/1140142/bm.png",
+            "url": "https://servernews.ru/1140142"
         }
     }
 }
