@@ -11231,6 +11231,12 @@
             "description": "Electrek: SpaceX купила 1279 Cybertruck, чтобы улучшить показатели продаж модели",
             "image": "https://resizer.mail.ru/p/da3bdc91-ead6-5be7-8a0c-74591f8700aa/AQABmUvBLm3Yqha8wqsNmqzFGq5gJAXG7Q78Owfr9-5cQT7OqK9z1bpBsjkE7rNXSVyLC8JP3FmFnLrp_NuAK8Hzcgs.jpg",
             "url": "https://auto.mail.ru/article/121860-kompanii-ilona-maska-vyikupayut-u-tesla-mashinyi-chtobyi-uluchshit-statistiku-prodazh/"
+        },
+        "https://www.securitylab.ru/news/571690.php": {
+            "title": "В Positive Technologies создали своего \"Терминатора\" для вирусов. Знакомьтесь, ByteDog",
+            "description": "Компания разработала нейросеть для обнаружения вредоносного кода.",
+            "image": "https://www.securitylab.ru/upload/iblock/2fa/3zfk5o2xgucd03o6vd2czm90ja21jzfi.jpg",
+            "url": "https://www.securitylab.ru/news/571690.php"
         }
     }
 }
