@@ -11141,6 +11141,12 @@
             "description": "Meta * потратила 14,3 миллиарда долларов, наняла 29-летнего парня со стороны и отправила Llama на полку. Вот что это значит для всех, кто строил свои проекты на открытом ИИ. Meta * только что...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/255/d65/20f/255d6520f8d0445011cce72d9441d86b.png",
             "url": "https://habr.com/ru/companies/bothub/articles/1024016/"
+        },
+        "https://habr.com/ru/news/1024354/": {
+            "title": "Codex больше не про код: OpenAI добавила мышку, память и 90 плагинов",
+            "description": "OpenAI  выпустила  масштабное обновление Codex, которым еженедельно пользуются 3 млн человек: агент научился управлять компьютером собственным курсором, запоминать предпочтения пользователя...",
+            "image": "https://habr.com/share/publication/1024354/03d29a327ccc5b39d43b3977c60b1d09/",
+            "url": "https://habr.com/ru/news/1024354/"
         }
     }
 }
