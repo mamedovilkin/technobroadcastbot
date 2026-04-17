@@ -11105,6 +11105,12 @@
             "description": "Джереми Аллер утверждает, что стейблкоины — хороший способ «экспорта» валюты. Аллер считает, что Китай может запустить обеспеченную юанем стабильную криптовалюту в течение трех-пяти лет. Китай сохраняет жесткую позицию в отношении криптовалют и подтвердил ее в ноябре. Компания Circle отмечает рост своих инвестиций в USDC на фоне войны между США и Ираном и геополитических рисков.",
             "image": "https://www.profinance.ru/img/news/584481-1.png?163208246",
             "url": "https://www.profinance.ru/news2/2026/04/16/cizl-generalnyj-direktor-circle-vidit-ogromnye-vozmozhnosti-dlya-stejblkoina-obespech.html"
+        },
+        "https://habr.com/ru/news/1024218/": {
+            "title": "OpenNET: в Linux 7.1 приняты изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe, применяемых в SoC Baikal-T1",
+            "description": "По информации OpenNET, Линус Торвальдс принял в состав ядра Linux 7.1 изменения, удаляющие поддержку контроллеров AHCI SATA и PCIe , применяемых в SoC Baikal‑T1. Помимо этого...",
+            "image": "https://habr.com/share/publication/1024218/e87fcb576ca73d6de1b315a373010f71/",
+            "url": "https://habr.com/ru/news/1024218/"
         }
     }
 }
