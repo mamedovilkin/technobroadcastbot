@@ -11165,6 +11165,12 @@
             "description": "Anthropic уточнила правила верификации для Claude: удостоверение личности, селфи и несколько минут на проверку. Но есть важный нюанс — аккаунт могут заблокировать, если он создан из неподдерживаемой...",
             "image": "https://habr.com/share/publication/1024400/f4538ce9f180f7f14b625174fafbaaa1/",
             "url": "https://habr.com/ru/news/1024400/"
+        },
+        "https://finance.mail.ru/article/veduschij-cnbc-predupredil-o-riskah-chrezmernyih-spekulyatsij-na-fondovom-ryinke-69205442/": {
+            "title": "Ведущий CNBC предупредил о рисках чрезмерных спекуляций на фондовом рынке",
+            "description": "Инвесторы рискуют понести убытки из-за вложений в высокорисковые стартапы",
+            "image": "https://resizer.mail.ru/p/fdfaa26d-f1ce-522c-8197-bb74820a9d4c/AQAzPHXfL0kZMYqT-oUXPAO7x1eHobPotlPiINQHp-x5FA8On8A3jqb5OHixbNWInXAyWWFssiPZ_F6xkyfClRV6fWs.jpg",
+            "url": "https://finance.mail.ru/article/veduschij-cnbc-predupredil-o-riskah-chrezmernyih-spekulyatsij-na-fondovom-ryinke-69205442/"
         }
     }
 }
