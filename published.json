@@ -11369,6 +11369,12 @@
             "description": "Проект Tor начал разрабатывать собственные серверы, способные «терять память» при изъятии. В команде платформы задумались над масштабным техническим обновлением серверного парка после того, как в США,...",
             "image": "https://habr.com/share/publication/1024894/c25791a7b1448b26d2c91ee1288f9902/",
             "url": "https://habr.com/ru/news/1024894/"
+        },
+        "https://www.ixbt.com/news/2026/04/18/predstavlen-hesai-picasso--pervyj-v-mire-sverhchuvstvitelnyj-polnocvetnyj-chip-dlja-lidarov-.html": {
+            "title": "Представлен Hesai Picasso - первый в мире сверхчувствительный полноцветный чип для лидаров",
+            "description": "Он распознаёт не только расстояние, но и цвет",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/9e657fee-2ce4-46a8-85c7-0a81b657c164_large.png",
+            "url": "https://www.ixbt.com/news/2026/04/18/predstavlen-hesai-picasso--pervyj-v-mire-sverhchuvstvitelnyj-polnocvetnyj-chip-dlja-lidarov-.html"
         }
     }
 }
