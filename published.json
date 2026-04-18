@@ -11417,6 +11417,12 @@
             "description": "В Visual Studio 18.5 появился «автопилот» для отладки, но за экономию времени придется платить.",
             "image": "https://www.securitylab.ru/upload/iblock/407/d6ckmkwuop94l5byfcmi4a7bwti3fovr.jpg",
             "url": "https://www.securitylab.ru/news/571717.php"
+        },
+        "https://www.securitylab.ru/news/571720.php": {
+            "title": "TCP, подвинься. Почему протокол QUIC скоро станет основой интернет",
+            "description": "Как на ходу перестроить фундамент интернета и не сломать его — объясняем на примере протокола QUIC.",
+            "image": "https://www.securitylab.ru/upload/iblock/868/vbbp92yo205zp4b3o8j89dmefdxvkjzl.jpg",
+            "url": "https://www.securitylab.ru/news/571720.php"
         }
     }
 }
