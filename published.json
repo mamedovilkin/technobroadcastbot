@@ -11303,6 +11303,12 @@
             "description": "Российский крупный бизнес массово отказывается от использования инструментов low-code в своей работе. Технология оказалась непростой в освоении из-за многочисленных ограничений. Пик ее популярности...",
             "image": "https://static.cnews.ru/img/news/2025/09/29/git6_700.jpg",
             "url": "https://www.cnews.ru/news/top/2026-04-17_low-code_bolshe_ne_v_moderossijskij"
+        },
+        "https://habr.com/ru/news/1024800/": {
+            "title": "\"20 промптов превратились в 2\": Anthropic запустил Claude Design",
+            "description": "Anthropic Labs представил Claude Design — продукт для создания дизайна прототипов, презентаций, one-pagers и маркетинговых макетов в диалоге с моделью. Работает на Claude Opus 4.7, самой сильной...",
+            "image": "https://habr.com/share/publication/1024800/4ca9a935815f19a45f9078baac81836d/",
+            "url": "https://habr.com/ru/news/1024800/"
         }
     }
 }
