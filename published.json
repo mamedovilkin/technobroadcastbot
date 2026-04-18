@@ -11411,6 +11411,12 @@
             "description": "А вместе с ней — и HSODIMM",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/Intel-ASRock-HUDIMM-HSODIMM-DDR5-Memory_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/18/intel-asrock-ddr5-hudimm.html"
+        },
+        "https://www.securitylab.ru/news/571717.php": {
+            "title": "Платный ИИ и синяя тоска. Microsoft выпустила обновление Visual Studio, которое опять разозлило программистов",
+            "description": "В Visual Studio 18.5 появился «автопилот» для отладки, но за экономию времени придется платить.",
+            "image": "https://www.securitylab.ru/upload/iblock/407/d6ckmkwuop94l5byfcmi4a7bwti3fovr.jpg",
+            "url": "https://www.securitylab.ru/news/571717.php"
         }
     }
 }
