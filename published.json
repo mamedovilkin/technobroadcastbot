@@ -11363,6 +11363,12 @@
             "description": "Компания Anthropic объявила о запуске Claude Design — нового экспериментального инструмента визуального дизайна, который позволяет создавать визуальные материалы, такие как прототипы, слайды, одностраничные макеты и многое другое, с помощью ИИ Claude..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/17/1140206/Claude-Design-2-Press-Logo-Claude.jpg",
             "url": "https://3dnews.ru/1140206/anthropic-vipustila-claude-design-dizaynerskiy-ii-dlya-teh-kto-v-dizayne-nichego-ne-ponimaet"
+        },
+        "https://habr.com/ru/news/1024894/": {
+            "title": "Tor разрабатывает серверы, способные \"терять память\" при изъятии",
+            "description": "Проект Tor начал разрабатывать собственные серверы, способные «терять память» при изъятии. В команде платформы задумались над масштабным техническим обновлением серверного парка после того, как в США,...",
+            "image": "https://habr.com/share/publication/1024894/c25791a7b1448b26d2c91ee1288f9902/",
+            "url": "https://habr.com/ru/news/1024894/"
         }
     }
 }
