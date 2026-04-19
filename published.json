@@ -11507,6 +11507,12 @@
             "description": "Техпроцесс Intel 18A может облегчить проблему, но не решит её",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/image_1_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/18/deficit-processorov-uzhe-bolee-ostro-vyrazhen-chem-deficit-pamjati-algoritm-google-turboquant-potencialno-mozhet-lish.html"
+        },
+        "https://www.securitylab.ru/news/571726.php": {
+            "title": "Антивирус не спасет: хакеры теперь прячут целые ОС в обычных файлах",
+            "description": "Новый вирус-вымогатель использует виртуальные машины для обхода защиты.",
+            "image": "https://www.securitylab.ru/upload/iblock/7d6/s5s204bf0iurdm7ktk7q38trsjeraq07.jpg",
+            "url": "https://www.securitylab.ru/news/571726.php"
         }
     }
 }
