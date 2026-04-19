@@ -11429,6 +11429,12 @@
             "description": "Гид для экономных меломанов.",
             "image": "https://click-or-die.ru/app/uploads/2026/04/3250943a-5e06-4a13-abd1-1d178d6ddbc8.jpg",
             "url": "https://click-or-die.ru/2026/04/5-nedorogih-no-krutyh-modelej-besprovodnyh-naushnikov-vse-v-predelah-10-tysyach-rublej-2/"
+        },
+        "https://habr.com/ru/articles/1024990/": {
+            "title": "NaïveProxy в sing-box (альтернатива VLESS)",
+            "description": "Читая статьи про прокси, можно подумать, что VLESS с XHTTP — это чуть ли не единственный рабочий протокол проксирования в условиях блокировок. На самом деле существуют не менее современные...",
+            "image": "https://habr.com/share/publication/1024990/f216c66e7e8f74eb0655cebf0fc17dec/",
+            "url": "https://habr.com/ru/articles/1024990/"
         }
     }
 }
