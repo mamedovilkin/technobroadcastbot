@@ -11621,6 +11621,12 @@
             "description": "Как Payouts King прячет инструменты в виртуальной машине внутри заражённой системы.",
             "image": "https://www.securitylab.ru/upload/iblock/82a/z2y2a6j8dypk1uhsk9vvclmsov7dv3an.jpg",
             "url": "https://www.securitylab.ru/news/571745.php"
+        },
+        "https://habr.com/ru/articles/1025202/": {
+            "title": "Приватная Cвязь на Go и Flutter",
+            "description": "От автора В последнее время очень хочется мессенджер, в котором: Нет центрального сервера Сообщения шифруются end-to-end и не хранятся в открытом виде нигде Любой при необходимости может поднять свой...",
+            "image": "https://habr.com/share/publication/1025202/7ef479d9748b97f0a4aabe5954e28a88/",
+            "url": "https://habr.com/ru/articles/1025202/"
         }
     }
 }
