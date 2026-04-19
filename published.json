@@ -11627,6 +11627,12 @@
             "description": "От автора В последнее время очень хочется мессенджер, в котором: Нет центрального сервера Сообщения шифруются end-to-end и не хранятся в открытом виде нигде Любой при необходимости может поднять свой...",
             "image": "https://habr.com/share/publication/1025202/7ef479d9748b97f0a4aabe5954e28a88/",
             "url": "https://habr.com/ru/articles/1025202/"
+        },
+        "https://www.ixbt.com/news/2026/04/19/full-hd-hardware-unboxed.html": {
+            "title": "Почему тесты процессоров в играх в разрешении выше Full HD особо не имеют смысла. Авторы Hardware Unboxed наглядно показали в чём суть",
+            "description": "Апскейлеры снижают разрешение рендеринга",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Gamers%20Are%20Wrong%20About%201440p%20vs%201080p%20CPU%20Benchmarking%201-9%20screenshot_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/19/full-hd-hardware-unboxed.html"
         }
     }
 }
