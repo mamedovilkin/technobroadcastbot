@@ -11483,6 +11483,12 @@
             "description": "Жители России пожаловались на перегрев смартфонов из-за VPN. Эксперт объяснил, как приложение влияет на работу вашего телефона. - Страна и мир - 18 апреля 2026 | Е1.ру",
             "image": "https://www.e1.ru/html-to-img/og/VjeOr7vbx3KwPZ9OWPQTPw/article-id6971605-16x9.jpg?1776526931",
             "url": "https://www.e1.ru/text/world/2026/04/18/76374164/"
+        },
+        "https://www.securitylab.ru/news/571727.php": {
+            "title": "Слишком умная для биотеррористов. OpenAI показала нейросеть, которую страшно выпускать в интернет",
+            "description": "Модель GPT-Rosalind показала экспертный уровень в тестах на биологическое рассуждение.",
+            "image": "https://www.securitylab.ru/upload/iblock/00b/7wrbk2u2ktje1mtzuisfqvekx65z2zwl.jpg",
+            "url": "https://www.securitylab.ru/news/571727.php"
         }
     }
 }
