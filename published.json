@@ -11579,6 +11579,12 @@
             "description": "Презентация ожидается через несколько дней",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Honor-600-Pro-truck_large.png",
             "url": "https://www.ixbt.com/news/2026/04/19/honor-honor-600-pro-iphone-17-pro-apple.html"
+        },
+        "https://www.ixbt.com/news/2026/04/19/ai4s-3-cpu-200-gpu.html": {
+            "title": "Китай запустил крупнейший вычислительный кластер AI4S. Суммарно сеть суперкомпьютеров теперь имеет 3 млн CPU и 200 тыс. GPU",
+            "description": "Он построен компанией Dawning Information Industry",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/sJpsK_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/19/ai4s-3-cpu-200-gpu.html"
         }
     }
 }
