@@ -11561,6 +11561,12 @@
             "description": "Бесплатная авторизация и кнопка «Войти через Telegram» в приложениях",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/image%20-%202026-04-19T073800.089_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/telegram-telegram-sdk-ios-android.html"
+        },
+        "https://habr.com/ru/news/1025142/": {
+            "title": "Вышли проекты WireGuard 1.0 для Windows и WireGuardNT 1.0",
+            "description": "Разработчик Джейсон Доненфилд (Jason A. Donenfeld) выпустил первый мажорный релиз клиентского ПО WireGuard для Windows 1.0 , а также выпуск драйверов WireGuardNT 1.0 с портом VPN WireGuard для ядра...",
+            "image": "https://habr.com/share/publication/1025142/a1af5f0da9c8c4d87a3fd1cb4799f69f/",
+            "url": "https://habr.com/ru/news/1025142/"
         }
     }
 }
