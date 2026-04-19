@@ -11489,6 +11489,12 @@
             "description": "Модель GPT-Rosalind показала экспертный уровень в тестах на биологическое рассуждение.",
             "image": "https://www.securitylab.ru/upload/iblock/00b/7wrbk2u2ktje1mtzuisfqvekx65z2zwl.jpg",
             "url": "https://www.securitylab.ru/news/571727.php"
+        },
+        "https://life.ru/p/1865060": {
+            "title": "Появилось видео из супермаркета, в котором киевлянин взял людей в заложники",
+            "description": "Появилось видео с камеры видеонаблюдения в супермаркете, куда ворвался мужчина с автоматом, убивший на улице несколько прохожих. Кадры публикуют местные Telegram-каналы.",
+            "image": "https://static.life.ru/ip/unsafe/rs:fit:1200:/q:98/sh:0.5/czM6Ly9saWZlLXN0YXRpYy9wdWJsaWNhdGlvbnMvMjAyNi80LzE4LzY3Mjk1MTkzODU0OS41MDA2LmpwZWc=.webp",
+            "url": "https://life.ru/p/1865060"
         }
     }
 }
