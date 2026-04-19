@@ -11567,6 +11567,12 @@
             "description": "Разработчик Джейсон Доненфилд (Jason A. Donenfeld) выпустил первый мажорный релиз клиентского ПО WireGuard для Windows 1.0 , а также выпуск драйверов WireGuardNT 1.0 с портом VPN WireGuard для ядра...",
             "image": "https://habr.com/share/publication/1025142/a1af5f0da9c8c4d87a3fd1cb4799f69f/",
             "url": "https://habr.com/ru/news/1025142/"
+        },
+        "https://www.playground.ru/misc/news/neozhidanno_empress_prichastna_k_sozdaniyu_gipervizora-1839202": {
+            "title": "Неожиданно: Empress причастна к созданию гипервизора",
+            "description": "Magic, один из администраторов и взломщиков группы DenuvOwO, поделился новой информацией касательно создания гипервизора MKDEV. Оказывается, что к его созданию приложила руку знаменитая взломщица Empress.",
+            "image": "https://i.playground.ru/e/x5-Lc__FXFuvAnKjaB-LtA.png",
+            "url": "https://www.playground.ru/misc/news/neozhidanno_empress_prichastna_k_sozdaniyu_gipervizora-1839202"
         }
     }
 }
