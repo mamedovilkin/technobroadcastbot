@@ -11603,6 +11603,12 @@
             "description": "На вершине гаммы — 115-дюймовая модель",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/image_1776553071041-2048x1152%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/7-6500-85-samsung-micro-rgb-tv-2026-r95h-r85h.html"
+        },
+        "https://www.ixbt.com/news/2026/04/19/rtx-pro-6000-blackwell-geforce-rtx-5090.html": {
+            "title": "Одна RTX PRO 6000 Blackwell обеспечивает ту же производительность, что и четыре GeForce RTX 5090 в задачах ИИ, потребляя при этом в четыре раза меньше",
+            "description": "GeForce RTX 5090 в пике потребляют около 2300 Вт, одна RTX PRO 6000 Blackwell — 600 Вт",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/NVIDIA-RTX-PRO-6000-Blackwell-GPU-1_large.png",
+            "url": "https://www.ixbt.com/news/2026/04/19/rtx-pro-6000-blackwell-geforce-rtx-5090.html"
         }
     }
 }
