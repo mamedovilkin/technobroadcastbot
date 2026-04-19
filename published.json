@@ -11633,6 +11633,12 @@
             "description": "Апскейлеры снижают разрешение рендеринга",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Gamers%20Are%20Wrong%20About%201440p%20vs%201080p%20CPU%20Benchmarking%201-9%20screenshot_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/full-hd-hardware-unboxed.html"
+        },
+        "https://www.securitylab.ru/news/571746.php": {
+            "title": "\"Одно лечим, другое калечим\". Патч Windows остановил принудительные обновления, но отправил серверы в бесконечную перезагрузку",
+            "description": "Как инженеры исправили старый надоедливый баг… ценой критической ошибки.",
+            "image": "https://www.securitylab.ru/upload/iblock/6da/sdqja59b6ughndmo1mrr13dow4fx4lda.jpg",
+            "url": "https://www.securitylab.ru/news/571746.php"
         }
     }
 }
