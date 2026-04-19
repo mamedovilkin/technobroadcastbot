@@ -11513,6 +11513,12 @@
             "description": "Новый вирус-вымогатель использует виртуальные машины для обхода защиты.",
             "image": "https://www.securitylab.ru/upload/iblock/7d6/s5s204bf0iurdm7ktk7q38trsjeraq07.jpg",
             "url": "https://www.securitylab.ru/news/571726.php"
+        },
+        "https://www.ixbt.com/news/2026/04/18/stalo-izvestno-kogda-tsmc-shagnjot-glubzhe-1-nm-kompanija-rasskazala-o-svoih-planah-na-blizhajshie-gody.html": {
+            "title": "Стало известно, когда TSMC шагнёт глубже 1 нм. Компания рассказала о своих планах на ближайшие годы",
+            "description": "Экспериментальное производство намечено на 2029 год",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/Apple-sub-1nm-chipset_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/18/stalo-izvestno-kogda-tsmc-shagnjot-glubzhe-1-nm-kompanija-rasskazala-o-svoih-planah-na-blizhajshie-gody.html"
         }
     }
 }
