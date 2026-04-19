@@ -11615,6 +11615,12 @@
             "description": "Блогер Виктория Боня опубликовала на своем канале сгенерированный искусственным интеллектом видеоролик, в котором она в образе - Общество - 19 апреля 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/mXOvRHPwY9Oy7c7MsrQhbQ/article-id6972241-16x9.jpg?1776592352",
             "url": "https://www.fontanka.ru/2026/04/19/76374546/"
+        },
+        "https://www.securitylab.ru/news/571745.php": {
+            "title": "Вымогатели запускают Linux внутри Windows - и крадут всё, пока антивирус спит",
+            "description": "Как Payouts King прячет инструменты в виртуальной машине внутри заражённой системы.",
+            "image": "https://www.securitylab.ru/upload/iblock/82a/z2y2a6j8dypk1uhsk9vvclmsov7dv3an.jpg",
+            "url": "https://www.securitylab.ru/news/571745.php"
         }
     }
 }
