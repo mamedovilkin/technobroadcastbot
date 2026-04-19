@@ -11525,6 +11525,12 @@
             "description": "В годовом выражении",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/Intel-vs-AMD-CPU_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/18/prodazhi-processorov-v-nemeckoj-seti-mindfactory-ruhnuli-bolee-chem-v-10-raz.html"
+        },
+        "https://habr.com/ru/news/1025116/": {
+            "title": "Anthropic не стала чинить дыру в протоколе MCP - и это на фоне хвастовства, как Claude находит тысячи уязвимостей",
+            "description": "Израильская команда  OX Security опубликовала  отчет о системной уязвимости в ядре протокола MCP от Anthropic: под угрозой до 200 000 серверов и SDK с 150 млн скачиваний. Выпущено больше 10...",
+            "image": "https://habr.com/share/publication/1025116/7458c9ffaf6543bc7022d1e8a909cb50/",
+            "url": "https://habr.com/ru/news/1025116/"
         }
     }
 }
