@@ -11471,6 +11471,12 @@
             "description": "Одна из самых масштабных блокировок ресурсов во Франции: за один день доступ ограничен к 35 сайтам",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/6/1776523923808-019da113-66f0-7deb-b9db-88a0187f94d9_large.png",
             "url": "https://www.ixbt.com/news/2026/04/18/vo-francii-nachali-blokirovat-ne-tolko-sajty-no-i-vpn-s-dns.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1025042/": {
+            "title": "Топ 15 нейросетей на все случаи жизни: сервисы и ИИ для разных задач",
+            "description": "Модели искусственного интеллекта выходят каждый день. В результате появляется все больше инструментов, платформ и сервисов на основе нейросетей для разных сфер жизни. За это время я уже подготовил...",
+            "image": "https://habr.com/share/publication/1025042/fca557ea5bc1e3fc35995481331935f2/",
+            "url": "https://habr.com/ru/companies/bothub/articles/1025042/"
         }
     }
 }
