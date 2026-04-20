@@ -11657,6 +11657,12 @@
             "description": "СМИ на розыгрыш обратили внимание через месяц после его запуска",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/1776334525_screenshot_2026-04-16_145824_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/microsoft-1-mercedes-amg-edge.html"
+        },
+        "https://www.securitylab.ru/news/571752.php": {
+            "title": "Минус 10 тысяч долларов с заблокированного iPhone. Блогер показал, как это возможно",
+            "description": "Исследователи показали, как режим Express Transit помогает обойти обычную защиту и провести платеж без разблокировки смартфона.",
+            "image": "https://www.securitylab.ru/upload/iblock/908/6sclgmbjkyhs09b68rr3gewrialvx5af.jpg",
+            "url": "https://www.securitylab.ru/news/571752.php"
         }
     }
 }
