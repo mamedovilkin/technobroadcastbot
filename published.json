@@ -11681,6 +11681,12 @@
             "description": "Даже материалом с твёрдостью 7 по шкале Мооса",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/The%20NEW%20iPhone%20that%20Apple%20Doesn't%20Talk%20About...%203-46%20screenshot_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/apple-jerryrigeverything-iphone-17e.html"
+        },
+        "https://www.securitylab.ru/news/571747.php": {
+            "title": "Тысячи статей, миллионы цифр - и учёные больше не справляются. ИИ прочитает всё за них с точностью 98%",
+            "description": "Новый инструмент Quinex выпотрошит научные архивы и вытащит скрытые цифры.",
+            "image": "https://www.securitylab.ru/upload/iblock/b8f/xjz166ewet39nx10g1i0fn7dtvqwezbk.jpg",
+            "url": "https://www.securitylab.ru/news/571747.php"
         }
     }
 }
