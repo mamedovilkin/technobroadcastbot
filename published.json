@@ -11699,6 +11699,12 @@
             "description": "Автономность в обычном режиме составляет 40 минут",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Xiaomi-Vacuum-Cleaner-P3052_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/xiaomi-vacuum-cleaner-p30-22-000-1-46-80.html"
+        },
+        "https://www.ixbt.com/news/2026/04/19/proryv-v-kompiljatorah-optimizacija-delenija-uskorila-processory-apple-i-intel-pochti-vdvoe.html": {
+            "title": "Прорыв в компиляторах: оптимизация деления ускорила процессоры Apple и Intel почти вдвое",
+            "description": "Оптимизация устраняет «проблему 33-го бита» и уже внедрена в LLVM, с обновлениями для GCC и MSVC на подходе",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-04-19T201925.084_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/19/proryv-v-kompiljatorah-optimizacija-delenija-uskorila-processory-apple-i-intel-pochti-vdvoe.html"
         }
     }
 }
