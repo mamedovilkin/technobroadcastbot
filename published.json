@@ -11705,6 +11705,12 @@
             "description": "Оптимизация устраняет «проблему 33-го бита» и уже внедрена в LLVM, с обновлениями для GCC и MSVC на подходе",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/converted%20-%202026-04-19T201925.084_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/proryv-v-kompiljatorah-optimizacija-delenija-uskorila-processory-apple-i-intel-pochti-vdvoe.html"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1025340/": {
+            "title": "OpenAI выкупила Sky - теперь в Codex лучшая система управления компьютером, которую я видел",
+            "description": "Управление компьютером в Codex На днях компания OpenAI представила обновленное приложение Codex для Mac. Среди множества нововведений особняком стоит встроенный инструмент управления macOS, который...",
+            "image": "https://habr.com/share/publication/1025340/bc52edfa04de154d6bdffb267edec21a/",
+            "url": "https://habr.com/ru/companies/bothub/articles/1025340/"
         }
     }
 }
