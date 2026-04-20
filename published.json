@@ -11789,6 +11789,12 @@
             "description": "А также 16-ядерный «Иртыш C616» и 32-ядерный «Иртыш C632»",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/1/full_iSNuYScF%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/20/64jadernyj-rossijskij-processor-irtysh-c664-budet-rabotat-na-os-rosa-hrom.html"
+        },
+        "https://www.securitylab.ru/news/571761.php": {
+            "title": "Почти 300 миллионов долларов за 10 минут. Неизвестный хакер опустошил счета одного из крупнейших криптопроектов",
+            "description": "Команда Kelp DAO приостановила работу протокола после кражи 116 тысяч токенов rsETH.",
+            "image": "https://www.securitylab.ru/upload/iblock/dd6/cx0y8i39oxaghfydvo0tk6ebgo381ary.jpg",
+            "url": "https://www.securitylab.ru/news/571761.php"
         }
     }
 }
