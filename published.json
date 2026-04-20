@@ -11639,6 +11639,12 @@
             "description": "Как инженеры исправили старый надоедливый баг… ценой критической ошибки.",
             "image": "https://www.securitylab.ru/upload/iblock/6da/sdqja59b6ughndmo1mrr13dow4fx4lda.jpg",
             "url": "https://www.securitylab.ru/news/571746.php"
+        },
+        "https://www.ixbt.com/news/2026/04/19/amd-100-intel.html": {
+            "title": "AMD стоит уже на 100 млрд больше Intel. Акции компании активно растут, устанавливая новые рекорды",
+            "description": "Рынок ИИ упирается в CPU",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/image_2_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/19/amd-100-intel.html"
         }
     }
 }
