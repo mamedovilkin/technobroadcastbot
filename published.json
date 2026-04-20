@@ -11717,6 +11717,12 @@
             "description": "90 минут автономной работы и автоматическая регулировка мощности всасывания",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/Xiaomi-Vacuum-Cleaner-G30-Max_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/19/dyson-xiaomi-vacuum-cleaner-g30-max.html"
+        },
+        "https://habr.com/ru/news/1025360/": {
+            "title": "xAI включает гиперскорость: Grok 4.3 уже в бете, 4.4 и 4.5 на подходе",
+            "description": "17 апреля xAI  тихо выкатила  Grok 4.3 в ранний бета-доступ, а днем позже Илон Маск опубликовал план дальнейших релизов: до конца мая размер модели вырастет втрое — с 0,5 до 1,5 триллиона...",
+            "image": "https://habr.com/share/publication/1025360/db2dc48ecb95d513744fe5b68b96a733/",
+            "url": "https://habr.com/ru/news/1025360/"
         }
     }
 }
