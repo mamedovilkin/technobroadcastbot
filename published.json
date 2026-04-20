@@ -11687,6 +11687,12 @@
             "description": "Новый инструмент Quinex выпотрошит научные архивы и вытащит скрытые цифры.",
             "image": "https://www.securitylab.ru/upload/iblock/b8f/xjz166ewet39nx10g1i0fn7dtvqwezbk.jpg",
             "url": "https://www.securitylab.ru/news/571747.php"
+        },
+        "https://3dnews.ru/1140267/glava-anthropic-vstretilsya-s-rukovoditelem-apparata-belogo-doma-na-fone-opaseny-vokrug-modeli-mythos": {
+            "title": "ИИ-модель Mythos заставила власти США пойти на контакт с \"угрожающей национальной безопасности\" Anthropic",
+            "description": "Глава Anthropic встретится с руководителем аппарата Белого дома на фоне опасений, связанных с новой ИИ-моделью Mythos, способной выявлять уязвимости в программном коде. По данным Anthropic, эта модель уже обнаружила тысячи брешей во всех основных операционных системах (ОС) и браузерах, и теперь её возможности изучают чиновники из окружения президента США..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/19/1140267/glava-anthropic-vstretilsya-s-rukovoditelem-apparata-belogo-doma-na-fone-opaseny-vokrug-modeli-mythos-main.jpg",
+            "url": "https://3dnews.ru/1140267/glava-anthropic-vstretilsya-s-rukovoditelem-apparata-belogo-doma-na-fone-opaseny-vokrug-modeli-mythos"
         }
     }
 }
