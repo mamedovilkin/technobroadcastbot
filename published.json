@@ -11891,6 +11891,12 @@
             "description": "Разработчик чипов Arm привлек внимание инвесторов благодаря новым ИИ-процессорам",
             "image": "https://resizer.mail.ru/p/720f6f90-ab15-5557-a529-1a0887903da6/AQAziDqfhFE9GpGIgzU1lvgXp7Nqcmt_jnTHBhFoACdQ1Es2CiZbgBygJGfM71HBBamNe2bDCH3fuF22q0N-F4tdWSQ.jpg",
             "url": "https://finance.mail.ru/article/investitsionnyij-fond-jim-cramer-kupil-aktsii-arm-na-fone-buma-ii-69205839/"
+        },
+        "https://habr.com/ru/companies/mws/articles/1025766/": {
+            "title": "Ракета, которая не взлетела: почему компании отказываются от OpenStack",
+            "description": "Вот примерно так я себя и чувствовал, когда начал разбирать этот стек. Знаете, бывают технологии, которые изучаешь — и сразу понятно, куда шли и чем закончили, но OpenStack — это не просто технология,...",
+            "image": "https://habr.com/share/publication/1025766/059781d32c7882cae0db819780e9f488/",
+            "url": "https://habr.com/ru/companies/mws/articles/1025766/"
         }
     }
 }
