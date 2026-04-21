@@ -11885,6 +11885,12 @@
             "description": "Последний месяц вышел неудачным для создателей Telega — неофициального альтернативного клиента телеграма. Сначала выяснилось, что мессенджер следит за пользователями и даже может читать всю их переписку. Потом Telega удалили из App Store, посчитав его шпионским программным обеспечением. А на днях стало известно, что приложение может превратить айфон в «кирпич». «Медуза» рассказывает, что происходит с клиентом Telega в последний месяц, и лишний раз напоминает — лучше им не пользоваться.",
             "image": "https://meduza.io/imgly/share/1776705589/feature/2026/04/20/messendzher-telega-ne-tolko-chitaet-perepisku-polzovateley-no-i-mozhet-prevratit-ayfon-v-kirpich",
             "url": "https://meduza.io/feature/2026/04/20/messendzher-telega-ne-tolko-chitaet-perepisku-polzovateley-no-i-mozhet-prevratit-ayfon-v-kirpich"
+        },
+        "https://finance.mail.ru/article/investitsionnyij-fond-jim-cramer-kupil-aktsii-arm-na-fone-buma-ii-69205839/": {
+            "title": "Инвестиционный фонд Jim Cramer купил акции Arm на фоне бума ИИ",
+            "description": "Разработчик чипов Arm привлек внимание инвесторов благодаря новым ИИ-процессорам",
+            "image": "https://resizer.mail.ru/p/720f6f90-ab15-5557-a529-1a0887903da6/AQAziDqfhFE9GpGIgzU1lvgXp7Nqcmt_jnTHBhFoACdQ1Es2CiZbgBygJGfM71HBBamNe2bDCH3fuF22q0N-F4tdWSQ.jpg",
+            "url": "https://finance.mail.ru/article/investitsionnyij-fond-jim-cramer-kupil-aktsii-arm-na-fone-buma-ii-69205839/"
         }
     }
 }
