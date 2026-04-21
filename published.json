@@ -11957,6 +11957,12 @@
             "description": "Пользователь портала DTF сообщил , что купил лицензионную версию игры Atomic Heart на игровой платформе VK Play, но не смог её запустить из-за сетевых проблем и ошибки системы защиты (Denuvo Anti...",
             "image": "https://habr.com/share/publication/1025850/a16f5f8cf0bb6e7b65e38b1eb21ab9de/",
             "url": "https://habr.com/ru/news/1025850/"
+        },
+        "https://www.securitylab.ru/news/571794.php": {
+            "title": "Хочешь почувствовать себя хакером? Теперь любой новичок BreachForums получает готовый инструмент для взлома компаний",
+            "description": "Тандем Vect и TeamPCP доказал, что похитить данные можно даже без сложных вирусов.",
+            "image": "https://www.securitylab.ru/upload/iblock/43f/zo6vt0s07q1uxezknp0hsyc66hfurqu6.jpg",
+            "url": "https://www.securitylab.ru/news/571794.php"
         }
     }
 }
