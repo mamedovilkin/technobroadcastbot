@@ -11969,6 +11969,12 @@
             "description": "General Motors выпустила обновление ПО для модуля управления телематикой",
             "image": "https://www.32cars.ru/uploads/materials/18548/inner/svZYnoqbe4k24wyD7Cmw.jpg",
             "url": "https://www.32cars.ru/posts/id-18548-telematika-gm-obnovlenie-kotoroe-zhdali"
+        },
+        "https://www.securitylab.ru/news/571803.php": {
+            "title": "Пять рисков теневых баз данных и как с ними бороться",
+            "description": "Эксперты компании «Гарда» представили пошаговый план по снижению рисков теневых баз данных",
+            "image": "https://www.securitylab.ru/upload/iblock/40e/r4itmmashhmkgbi3b9ddqasxvwd59yjx.png",
+            "url": "https://www.securitylab.ru/news/571803.php"
         }
     }
 }
