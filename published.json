@@ -12011,6 +12011,12 @@
             "description": "В Новосибирске задержали рецидивиста с помощью системы распознавания лиц. Узнайте подробности о предотвращении кражи в супермаркете. - Криминал - 21 апреля 2026 | НГС.ру",
             "image": "https://ngs.ru/html-to-img/og/lAsbdvEdrwTxxJl60XZgbg/article-id6976466-16x9.jpg?1776765327",
             "url": "https://ngs.ru/text/criminal/2026/04/21/76377687/"
+        },
+        "https://habr.com/ru/companies/ruvds/articles/1024388/": {
+            "title": "Что было бы, если бы Linux распространялся под BSD",
+            "description": "Историю Linux обычно рассказывают как историю об удачном ядре. На деле это ещё и история лицензии GPL, которая повлияла на рынок, культуру разработки и саму архитектуру экосистемы. Но что было бы,...",
+            "image": "https://habr.com/share/publication/1024388/6b12401a71e0417fca2478b0a3faa76b/",
+            "url": "https://habr.com/ru/companies/ruvds/articles/1024388/"
         }
     }
 }
