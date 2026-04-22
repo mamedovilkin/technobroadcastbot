@@ -12161,6 +12161,12 @@
             "description": "Американский автогигант компенсирует все энергозатраты за счет ветра и солнца.",
             "image": "https://tarantas.news/uploads/prew/big_images/webp_version/ngddWDgUD70OkDjsSuJI.webp",
             "url": "https://tarantas.news/posts/id66534-gm-polnostju-pereshla-na-chistuju-energiju-avtogigant-menjaet-pravila"
+        },
+        "https://habr.com/ru/companies/bothub/news/1026540/": {
+            "title": "Anthropic тестирует отключение Claude Code для части новых Pro-подписчиков",
+            "description": "Компания Anthropic начала эксперимент: на странице тарифов у новых пользователей из Pro-плана временно убрали Claude Code. Пользователи заметили изменения 21 апреля — напротив Claude Code появилась...",
+            "image": "https://habr.com/share/publication/1026540/f9795cb94018eeee59c2fc69867b5c20/",
+            "url": "https://habr.com/ru/companies/bothub/news/1026540/"
         }
     }
 }
