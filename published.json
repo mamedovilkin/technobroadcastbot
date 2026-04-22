@@ -12167,6 +12167,12 @@
             "description": "Компания Anthropic начала эксперимент: на странице тарифов у новых пользователей из Pro-плана временно убрали Claude Code. Пользователи заметили изменения 21 апреля — напротив Claude Code появилась...",
             "image": "https://habr.com/share/publication/1026540/f9795cb94018eeee59c2fc69867b5c20/",
             "url": "https://habr.com/ru/companies/bothub/news/1026540/"
+        },
+        "https://www.securitylab.ru/news/571858.php": {
+            "title": "Взломать крупную компанию теперь дешевле, чем нанять одного программиста. Positive Technologies изучила 4300 объявлений и назвала цены",
+            "description": "Хакеры даже предлагают техподдержку и гарантию результата.",
+            "image": "https://www.securitylab.ru/upload/iblock/8c0/5kkicyrk237wpdzlvujmadhrnxoysre7.jpg",
+            "url": "https://www.securitylab.ru/news/571858.php"
         }
     }
 }
