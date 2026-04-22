@@ -12077,6 +12077,12 @@
             "description": "В результате ребрендинга национальная цифровая платформа МAX получила новое название — «МАКС». Обновленный мессенджер можно увидеть в RuStore, Google Play и на официальном сайте приложения. На это обратил внимание корреспондент агентства URA.RU.",
             "image": "https://cdn-img.ura.news/346/581/b40efe3e-5e44-47b0-a757-b872e06a65c1/mjc987/L-1200.1.9.jpg",
             "url": "https://ura.news/news/1053087356"
+        },
+        "https://habr.com/ru/companies/bothub/news/1026296/": {
+            "title": "Сэм Альтман критикует кибермодель Mythos от Anthropic",
+            "description": "OpenAI и Anthropic продолжают обмениваться взаимными нападками. На этой неделе в ходе выступления на подкасте генеральный директор OpenAI Сэм Альтман раскритиковал новую модель кибербезопасности...",
+            "image": "https://habr.com/share/publication/1026296/beebca903547e1beecb51ffe6af32999/",
+            "url": "https://habr.com/ru/companies/bothub/news/1026296/"
         }
     }
 }
