@@ -12281,6 +12281,12 @@
             "description": "Корпорация Meta* внедряет систему отслеживания экранов персонала для развития нейросетей",
             "image": "https://resizer.mail.ru/p/fbbf7350-eb86-5c1f-bdb3-413e3cd2acdc/AQAzIl-PgAznh7m1QsH-mDotdr7BlgeQvTHqe0lAIvdXaemC-CakUpzzGIurQagkXNvpKpBnw1WccV0UbIl0MksiFNE.jpg",
             "url": "https://finance.mail.ru/article/meta-nachnet-sledit-za-dejstviyami-sotrudnikov-dlya-obucheniya-iskusstvennogo-intellekta-69206144/"
+        },
+        "https://habr.com/ru/news/1026702/": {
+            "title": "Представлен проект WSL9x - подсистема Windows 9x для Linux",
+            "description": "Состоялся выпуск открытого проекта WSL9x  (без использования ИИ и под лицензией GPL-3) — подсистемы Windows 9x для Linux (Windows 9x Subsystem for Linux). С помощью подсистемы Windows 9x для...",
+            "image": "https://habr.com/share/publication/1026702/716d4ab38afae83fe99d56ce73312232/",
+            "url": "https://habr.com/ru/news/1026702/"
         }
     }
 }
