@@ -12245,6 +12245,12 @@
             "description": "Мир замер в ожидании: неужели это наконец-то происходит? Анонимный пользователь на Reddit взорвал игровое сообщество заявлением о том, что Half-Life 3 официально выйдет до конца этого года.",
             "image": "https://i.playground.ru/e/9WMbkKItF8yUf2quPdVTYQ.jpeg",
             "url": "https://www.playground.ru/half_life_3/news/sluh_half_life_3_vyjdet_uzhe_v_2026_godu_vmeste_s_novoj_steam_machine-1839987"
+        },
+        "https://habr.com/ru/companies/bothub/news/1026762/": {
+            "title": "Qwen выпустила 27B-модель, которая обгоняет флагман на 397B",
+            "description": "Команда Alibaba (линейка Qwen) представила Qwen3.6-27B — компактную, но крайне мощную модель, которая неожиданно обходит своего же старшего «брата» Qwen3.5-397B-A17B в ряде ключевых бенчмарков по...",
+            "image": "https://habr.com/share/publication/1026762/b1a5492b14a17f2516d595758f6e7a8e/",
+            "url": "https://habr.com/ru/companies/bothub/news/1026762/"
         }
     }
 }
