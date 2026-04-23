@@ -12215,6 +12215,12 @@
             "description": "Инсайдерская информация",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/3/image%20-%202026-04-22T125458.748_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/22/iphone-18-pro-apple-200.html"
+        },
+        "https://meduza.io/feature/2026/04/22/mnogie-rossiyskie-servisy-perestali-otkryvatsya-s-vklyuchennym-vpn-a-esche-oni-poroy-ne-rabotayut-iz-za-granitsy-hotya-voobsche-to-dolzhny": {
+            "title": "\"Контора тупорылых\"",
+            "description": "С середины апреля крупные российские компании начали ограничивать доступ к своим интернет-платформам пользователям, у которых включен VPN. Это одно из требований Минцифры, которое пытается бороться со средствами обхода блокировок. В результате у многих людей в России при включенном VPN перестали открываться банковские приложения, маркетплейсы, развлекательные сервисы, средства навигации и соцсети. На данный момент это уже несколько десятков ресурсов, и их список продолжает увеличиваться.",
+            "image": "https://meduza.io/imgly/share/1776893452/feature/2026/04/22/mnogie-rossiyskie-servisy-perestali-otkryvatsya-s-vklyuchennym-vpn-a-esche-oni-poroy-ne-rabotayut-iz-za-granitsy-hotya-voobsche-to-dolzhny",
+            "url": "https://meduza.io/feature/2026/04/22/mnogie-rossiyskie-servisy-perestali-otkryvatsya-s-vklyuchennym-vpn-a-esche-oni-poroy-ne-rabotayut-iz-za-granitsy-hotya-voobsche-to-dolzhny"
         }
     }
 }
