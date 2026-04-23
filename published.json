@@ -12221,6 +12221,12 @@
             "description": "С середины апреля крупные российские компании начали ограничивать доступ к своим интернет-платформам пользователям, у которых включен VPN. Это одно из требований Минцифры, которое пытается бороться со средствами обхода блокировок. В результате у многих людей в России при включенном VPN перестали открываться банковские приложения, маркетплейсы, развлекательные сервисы, средства навигации и соцсети. На данный момент это уже несколько десятков ресурсов, и их список продолжает увеличиваться.",
             "image": "https://meduza.io/imgly/share/1776893452/feature/2026/04/22/mnogie-rossiyskie-servisy-perestali-otkryvatsya-s-vklyuchennym-vpn-a-esche-oni-poroy-ne-rabotayut-iz-za-granitsy-hotya-voobsche-to-dolzhny",
             "url": "https://meduza.io/feature/2026/04/22/mnogie-rossiyskie-servisy-perestali-otkryvatsya-s-vklyuchennym-vpn-a-esche-oni-poroy-ne-rabotayut-iz-za-granitsy-hotya-voobsche-to-dolzhny"
+        },
+        "https://habr.com/ru/news/1026718/": {
+            "title": "75% кода в Google пишет ИИ - но последнее слово за инженером",
+            "description": "Сундар Пичай в блоге к конференции Cloud Next '26 привел свежую цифру: 75% всего нового кода в Google сейчас пишут ИИ-инструменты, и каждый фрагмент затем утверждается инженером. Это рост с 50% осенью...",
+            "image": "https://habr.com/share/publication/1026718/2c74c39ec5543b066a29c1069cbad47c/",
+            "url": "https://habr.com/ru/news/1026718/"
         }
     }
 }
