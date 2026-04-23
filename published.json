@@ -12173,6 +12173,12 @@
             "description": "Хакеры даже предлагают техподдержку и гарантию результата.",
             "image": "https://www.securitylab.ru/upload/iblock/8c0/5kkicyrk237wpdzlvujmadhrnxoysre7.jpg",
             "url": "https://www.securitylab.ru/news/571858.php"
+        },
+        "https://habr.com/ru/news/1026584/": {
+            "title": "В Telega подали заявление в ФАС на действия Apple (удаление клиента из App Store и блокировку аккаунта разработчика)",
+            "description": "22 апреля 2026 года разработчики приложения Telegа подали заявление в Федеральную антимонопольную службу (ФАС) РФ на действия Apple после удаления приложения своего клиента Telegram из App Store,...",
+            "image": "https://habr.com/share/publication/1026584/0a53a43a0788d1ea1d25968c420e534f/",
+            "url": "https://habr.com/ru/news/1026584/"
         }
     }
 }
