@@ -12185,6 +12185,12 @@
             "description": "Корпорация Google разделила ИИ-процессоры на два новых чипа",
             "image": "https://resizer.mail.ru/p/0ab46296-6dc0-5fee-917e-a24041166b21/AQAzivYc58d9UCfCfc1ecZPMFqcucdgGUaBJyVYBmAGcnutiDSpjfS3bwgMhxP6IJ9cr_p3M1Q8blxVQ_ZlcPbJHZd0.jpg",
             "url": "https://finance.mail.ru/article/google-predstavila-novyie-ii-chipyi-dlya-konkurentsii-s-nvidia-69206106/"
+        },
+        "https://habr.com/ru/companies/selectel/news/1026364/": {
+            "title": "Selectel представил собственный сервер, оптимизированный для AI-задач",
+            "description": "Привет, Хабр! 22 апреля мы презентовали новый высокопроизводительный сервер для AI-задач. Акцент сделали на оптимизации взаимодействия процессора, RAM, GPU и накопителей. Что скрывается под капотом, а...",
+            "image": "https://habr.com/share/publication/1026364/3e90cf9837d9c44fb79f8043f9603a46/",
+            "url": "https://habr.com/ru/companies/selectel/news/1026364/"
         }
     }
 }
