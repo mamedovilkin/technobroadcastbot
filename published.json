@@ -12287,6 +12287,12 @@
             "description": "Состоялся выпуск открытого проекта WSL9x  (без использования ИИ и под лицензией GPL-3) — подсистемы Windows 9x для Linux (Windows 9x Subsystem for Linux). С помощью подсистемы Windows 9x для...",
             "image": "https://habr.com/share/publication/1026702/716d4ab38afae83fe99d56ce73312232/",
             "url": "https://habr.com/ru/news/1026702/"
+        },
+        "https://meduza.io/cards/esli-u-vas-est-takaya-vozmozhnost-zavedite-vtoroy-telefon-eto-samaya-nadezhnaya-garantiya-togo-chto-vy-i-dalshe-smozhete-obhodit-tsenzuru-roskomnadzora": {
+            "title": "Если у вас есть такая возможность, заведите второй телефон: это самая надежная гарантия того, что вы и дальше сможете обходить цензуру Роскомнадзора",
+            "description": "Многие российские сайты и мобильные приложения стали помогать властям в борьбе со средствами обхода государственной цензуры. Они блокируют доступ пользователям с включенным VPN. И, если верить источникам РБК, передают в Роскомнадзор вновь выявленные IP-адреса VPN-сервисов.",
+            "image": "https://meduza.io/imgly/share/1776920368/cards/esli-u-vas-est-takaya-vozmozhnost-zavedite-vtoroy-telefon-eto-samaya-nadezhnaya-garantiya-togo-chto-vy-i-dalshe-smozhete-obhodit-tsenzuru-roskomnadzora",
+            "url": "https://meduza.io/cards/esli-u-vas-est-takaya-vozmozhnost-zavedite-vtoroy-telefon-eto-samaya-nadezhnaya-garantiya-togo-chto-vy-i-dalshe-smozhete-obhodit-tsenzuru-roskomnadzora"
         }
     }
 }
