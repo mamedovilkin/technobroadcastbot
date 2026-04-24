@@ -12365,6 +12365,12 @@
             "description": "Ценные бумаги Tesla снизились из-за роста затрат на автономное вождение",
             "image": "https://resizer.mail.ru/p/8e8c513b-a5f0-5e38-82b8-63d7cb3c5cd7/AQAzkf0yxt-g3jYMfou3-7hLeVkCsr5KG5aZrLz_O40UCizSBvspR1WzluHXBxaWBrOeUsG8sYPSsp6a7YqIo-toqJs.jpg",
             "url": "https://finance.mail.ru/article/aktsii-tesla-upali-na-fone-planov-ilona-maska-uvelichit-rashodyi-na-robotov-69206233/"
+        },
+        "https://habr.com/ru/news/1027046/": {
+            "title": "Microsoft объяснила отказ от официального способа активации Windows 10/11 без интернета",
+            "description": "В декабре Microsoft закрыла возможность активации Windows по телефону. Теперь компания разместила статью поддержки, содержащую рекомендации по этому поводу.  В статье подробно объясняется, почему...",
+            "image": "https://habr.com/share/publication/1027046/de16756e17a8cf4b48c54cb60b29338f/",
+            "url": "https://habr.com/ru/news/1027046/"
         }
     }
 }
