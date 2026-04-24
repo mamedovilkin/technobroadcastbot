@@ -12443,6 +12443,12 @@
             "description": "Реальная мощь китайского ИИ в 6000 раз выше, чем показывает международный рейтинг Top500.",
             "image": "https://www.securitylab.ru/upload/iblock/72a/x84b7411dv1m3evyntxh2hcsufbdupnz.jpg",
             "url": "https://www.securitylab.ru/news/571934.php"
+        },
+        "https://3dnews.ru/1140569/openai-predstavila-gpt55-svoyu-samuyu-umnuyu-llm-kotoraya-sama-dovodit-zadachi-do-kontsa": {
+            "title": "OpenAI представила GPT-5.5 - свою самую умную LLM, которая сама доводит задачи до конца",
+            "description": "OpenAI анонсировала GPT-5.5 — ИИ-модель, которую компания называет самой умной и интуитивной на сегодняшний день. В новинке упор сделан не столько на рост отдельных метрик, сколько на переход к более автономной работе: модель быстрее понимает, чего от неё хотят, и способна сама довести задачу до результата, даже если она изначально сформулирована расплывчато и состоит из нескольких частей.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/23/1140569/gpt-5-5_01.jpg",
+            "url": "https://3dnews.ru/1140569/openai-predstavila-gpt55-svoyu-samuyu-umnuyu-llm-kotoraya-sama-dovodit-zadachi-do-kontsa"
         }
     }
 }
