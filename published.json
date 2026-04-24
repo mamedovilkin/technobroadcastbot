@@ -12437,6 +12437,12 @@
             "description": "Евросоюз ввел санкции против российского исполнителя Тимати (настоящее имя — Тимур Юнусов), сообщается в журнале ЕС 23 апреля.",
             "image": "https://meduza.io/imgly/share/1776959639/news/2026/04/23/timati-popal-pod-sanktsii-es",
             "url": "https://meduza.io/news/2026/04/23/timati-popal-pod-sanktsii-es"
+        },
+        "https://www.securitylab.ru/news/571934.php": {
+            "title": "Секрет 1882 экзафлопсов. Куда Китай спрятал вычислительную мощь целого континента",
+            "description": "Реальная мощь китайского ИИ в 6000 раз выше, чем показывает международный рейтинг Top500.",
+            "image": "https://www.securitylab.ru/upload/iblock/72a/x84b7411dv1m3evyntxh2hcsufbdupnz.jpg",
+            "url": "https://www.securitylab.ru/news/571934.php"
         }
     }
 }
