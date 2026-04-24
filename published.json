@@ -12497,6 +12497,12 @@
             "description": "Южнокорейский суд приговорил бывшего инженера Samsung к семи годам тюремного заключения по делу об утечке технологии производства 10-нанометровой памяти DRAM. Сотрудник передал производственные данные...",
             "image": "https://habr.com/share/publication/1027328/72550169c72193c09890e157e6e98743/",
             "url": "https://habr.com/ru/news/1027328/"
+        },
+        "https://habr.com/ru/news/1027298/": {
+            "title": "GitHub Copilot приостановил платные подписки из-за дорогих ИИ-агентов",
+            "description": "GitHub приостановил новые регистрации на индивидуальные платные планы Copilot Student, Copilot Pro и Copilot Pro+. Новым пользователям пока остается только Copilot Free, а уже существующие платные...",
+            "image": "https://habr.com/share/publication/1027298/638dc6ba7c788cd79c8e8296d2c50716/",
+            "url": "https://habr.com/ru/news/1027298/"
         }
     }
 }
