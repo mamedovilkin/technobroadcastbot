@@ -12479,6 +12479,12 @@
             "description": "Снимки экрана хранятся локально шесть часов, затем удаляются — но извлеченный текст может остаться надолго.",
             "image": "https://www.securitylab.ru/upload/iblock/c6f/hwimt4x6mlmnnc6izwhdsyk1s699ow2p.jpg",
             "url": "https://www.securitylab.ru/news/571924.php"
+        },
+        "https://habr.com/ru/news/1027324/": {
+            "title": "DeepSeek V4 уже доступен бесплатно в чат-приложении - 1М контекста и приличные бенчмарки",
+            "description": "DeepSeek выпустила V4 Preview: веса выложены на Hugging Face, платный доступ организован через API, а в веб-чате и приложениях модель можно попробовать бесплатно. В линейку входят две модели на...",
+            "image": "https://habr.com/share/publication/1027324/65c6a80d941e26d6fb5ff0fb18e51db1/",
+            "url": "https://habr.com/ru/news/1027324/"
         }
     }
 }
