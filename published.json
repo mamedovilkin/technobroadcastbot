@@ -12449,6 +12449,12 @@
             "description": "OpenAI анонсировала GPT-5.5 — ИИ-модель, которую компания называет самой умной и интуитивной на сегодняшний день. В новинке упор сделан не столько на рост отдельных метрик, сколько на переход к более автономной работе: модель быстрее понимает, чего от неё хотят, и способна сама довести задачу до результата, даже если она изначально сформулирована расплывчато и состоит из нескольких частей.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/23/1140569/gpt-5-5_01.jpg",
             "url": "https://3dnews.ru/1140569/openai-predstavila-gpt55-svoyu-samuyu-umnuyu-llm-kotoraya-sama-dovodit-zadachi-do-kontsa"
+        },
+        "https://www.forbes.ru/tekhnologii/559704-postavili-na-potok-kak-rastet-zarubeznyj-setevoj-trafik-rossijskih-operatorov": {
+            "title": "Поставили на поток: как растет зарубежный сетевой трафик российских операторов",
+            "description": "Участники IT-отрасли и точки обмена трафиком констатируют продолжение роста объема зарубежного трафика в российских сетях: за 2025 год он увеличился на 15-20%, и этот тренд, очевидно, меняться пока не намерен. Сейчас его доля, согласно экспертным оце",
+            "image": "https://cdn.forbes.ru/forbes-static/shareimages/559704.webp?v=1777014423",
+            "url": "https://www.forbes.ru/tekhnologii/559704-postavili-na-potok-kak-rastet-zarubeznyj-setevoj-trafik-rossijskih-operatorov"
         }
     }
 }
