@@ -12419,6 +12419,12 @@
             "description": "Разработчик OpenAI выпустил обновленную нейросеть для программирования и поиска",
             "image": "https://resizer.mail.ru/p/daa44498-1941-5670-a175-b25a1abc713d/AQAzG-_YdqBRvSIEUsqsb4YRbyTYpsYsikeOvo2OohgHa-0pqvR5IPo75WU_U6D7QqbgmZbF6AHsni6lyfoAFgY9NFs.jpg",
             "url": "https://finance.mail.ru/article/openai-predstavila-novuyu-model-iskusstvennogo-intellekta-gpt-55-69206281/"
+        },
+        "https://3dnews.ru/1140565/3d-xdram-vpervie-voplotili-v-kremnii-operativnaya-pamyat-budushchego-stala-blige": {
+            "title": "3D X-DRAM впервые воплотили в кремнии - оперативная память будущего стала ближе",
+            "description": "Стековое размещение ячеек оперативной памяти могло бы значительно повысить плотность хранения данных и решить проблему дефицита ОЗУ. Первый шаг в этом направлении сделала память HBM, но это оказалось недёшево и не для всех. Прорыв мог бы произойти только в том случае, если бы память DRAM пошла по пути производства памяти 3D NAND.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/23/1140565/neo_01.jpg",
+            "url": "https://3dnews.ru/1140565/3d-xdram-vpervie-voplotili-v-kremnii-operativnaya-pamyat-budushchego-stala-blige"
         }
     }
 }
