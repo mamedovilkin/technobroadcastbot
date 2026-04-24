@@ -12383,6 +12383,12 @@
             "description": "Bolt Graphics заявила о завершении разработки тестового чипа для видеокарт Zeus — калифорнийский стартап сделал первый шаг от эмуляции FPGA к серийному производству микросхем, которые, как утверждает компания, смогут в 17 раз снизить стоимость вычислений..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/23/1140536/zeus.jpg",
             "url": "https://3dnews.ru/1140536/bolt-graphics-zavershila-proektirovanie-graficheskogo-chipa-zeus-on-v-razi-prevoshodit-rtx-5090"
+        },
+        "https://habr.com/ru/news/1027004/": {
+            "title": "Американ Макги раскрыл детали своего увольнения из id Software в конце 1990-х",
+            "description": "Американский геймдизайнер Американ Макги раскрыл детали своего увольнения из студии id Software в конце 1990-х годов. По его словам, причиной увольнения стало разное видение на создание игр, автор...",
+            "image": "https://habr.com/share/publication/1027004/d053c4776b02c522e5ce92d34c4e15ce/",
+            "url": "https://habr.com/ru/news/1027004/"
         }
     }
 }
