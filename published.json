@@ -12491,6 +12491,12 @@
             "description": "Компания TerraPower объявила о начале строительства первого в США коммерческого усовершенствованного ядерного энергоблока — проекта Kemmerer Unit 1 в штате Вайоминг. Этот объект будет включать реактор Natrium на расплавах солей и рассматривается как важный шаг к внедрению нового поколения атомных реакторов в США и мире. Основатель Microsoft Билл Гейтс (Bill Gates) имеет прямое отношение к этому процессу.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/24/1140579/terrapower_kemmerer1_constr.jpg",
             "url": "https://3dnews.ru/1140579/v-ssha-nachali-stroit-perviy-yaderniy-reaktor-novogo-pokoleniya-za-etim-stoit-bill-geyts"
+        },
+        "https://habr.com/ru/news/1027328/": {
+            "title": "Инженера Samsung приговорили к семи годам тюрьмы за передачу технологии производства DRAM китайской компании CXMT",
+            "description": "Южнокорейский суд приговорил бывшего инженера Samsung к семи годам тюремного заключения по делу об утечке технологии производства 10-нанометровой памяти DRAM. Сотрудник передал производственные данные...",
+            "image": "https://habr.com/share/publication/1027328/72550169c72193c09890e157e6e98743/",
+            "url": "https://habr.com/ru/news/1027328/"
         }
     }
 }
