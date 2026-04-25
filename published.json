@@ -12623,6 +12623,12 @@
             "description": "Команда Perplexity AI опубликовала техотчёт о создании своего поискового агента на базе моделей Qwen3.5. Результаты выглядят неожиданно сильными: модель Qwen3.5-397B после SFT и RL достигает 73,9%...",
             "image": "https://habr.com/share/publication/1027650/9573a103859b1431da35bae8fab2009f/",
             "url": "https://habr.com/ru/companies/bothub/news/1027650/"
+        },
+        "https://habr.com/ru/news/1027712/": {
+            "title": "Anthropic назвала причины \"отупения\" Claude Code",
+            "description": "Anthropic объяснила, почему части пользователей Claude Code в последние недели казалось, что инструмент стал хуже писать и править код. В  инженерном разборе  компания пишет, что дело было...",
+            "image": "https://habr.com/share/publication/1027712/9985334360d8576001b57b8b158437bd/",
+            "url": "https://habr.com/ru/news/1027712/"
         }
     }
 }
