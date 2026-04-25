@@ -12581,6 +12581,12 @@
             "description": "Китайская компания Lisuan Technology подтвердила свои планы выпустить потребительскую видеокарту LX 7G100 во время китайского фестиваля с распродажами 618. Она уже поддерживает более сотни игр, утверждает производитель, в том числе популярные AAA-наименования и онлайн-хиты..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/24/1140624/lisuan.jpg",
             "url": "https://3dnews.ru/1140624/kitayskaya-igrovaya-videokarta-lisuan-lx-7g100-viydet-v-iyune-i-budet-poddergivat-bolee-sotni-igr"
+        },
+        "https://habr.com/ru/news/1027630/": {
+            "title": "Xiaomi выпустила новую версию своих LLM-моделей: MiMo-V2.5",
+            "description": "Два дня назад, 22 апреля, Xiaomi выпустила серию новых модели: MiMo-V2.5-Pro , MiMo-V2.5 а также модели TTS и Speech Recognition . В этот же день Pro-модель появилась и в бенчмарке Artificial Analysis...",
+            "image": "https://habr.com/share/publication/1027630/88d9044653d2bb99eadd781f0b918fc7/",
+            "url": "https://habr.com/ru/news/1027630/"
         }
     }
 }
