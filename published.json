@@ -12659,6 +12659,12 @@
             "description": "Intel резко прибавила на бирже. Ранее сообщалось о росте AMD, и теперь к ней присоединилась Intel.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1175555/fvyfyvfyv.jpg",
             "url": "https://ixbt.games/news/2026/04/25/411251-intel-verniotsia-na-vershinu-vpechatliaiushchie-rezultaty-dlia-proizvoditelia-protsessorov-i-videokart.html"
+        },
+        "https://habr.com/ru/companies/bothub/news/1027756/": {
+            "title": "Из-за OpenClaw и ZeroClaw начался дефицит Mac mini - их скупают для локальных нейросетей",
+            "description": "В то время как Apple официально распродала базовые M4 Mac mini , eBay заполонили объявления на эти компьютеры. Причина ажиотажа – внезапный взрыв популярности on-device-ИИ-моделей вроде OpenClaw,...",
+            "image": "https://habr.com/share/publication/1027756/4c508b0e431137911dfdbec28b6ba53e/",
+            "url": "https://habr.com/ru/companies/bothub/news/1027756/"
         }
     }
 }
