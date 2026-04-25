@@ -12617,6 +12617,12 @@
             "description": "Крупные ИТ-корпорации массово увольняют сотрудников на фоне рекордных инвестиций в нейросети",
             "image": "https://resizer.mail.ru/p/3ec2c9e1-b8c7-5e9a-9dd4-a4928ea91b38/AQAzu5eTZf2QyE57vxUN0h7ZKBpUkwcJD-bgF87lGNIDhBB-Cl20gYuOs8a3UyUiOINwny0WazKhTIqgwgG7hcWd7rM.jpg",
             "url": "https://finance.mail.ru/article/tehnologicheskie-gigantyi-sokraschayut-tyisyachi-rabochih-mest-radi-razvitiya-iskusstvennogo-intellekta-69206451/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1027650/": {
+            "title": "Perplexity раскрыла, как обучает поискового AI-агента на Qwen",
+            "description": "Команда Perplexity AI опубликовала техотчёт о создании своего поискового агента на базе моделей Qwen3.5. Результаты выглядят неожиданно сильными: модель Qwen3.5-397B после SFT и RL достигает 73,9%...",
+            "image": "https://habr.com/share/publication/1027650/9573a103859b1431da35bae8fab2009f/",
+            "url": "https://habr.com/ru/companies/bothub/news/1027650/"
         }
     }
 }
