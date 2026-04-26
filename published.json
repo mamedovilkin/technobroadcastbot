@@ -12719,6 +12719,12 @@
             "description": "Разработчики искусственного интеллекта переманивают руководителей конкурентов",
             "image": "https://resizer.mail.ru/p/5a322c58-c29a-578b-85f7-fd45bc19a45e/AQAz6Z--QtuVbe1SNLTQaITkHvOb8xu1eyYRRaoFPALPv0uYJuUnVChX_XVsr8TacgygyKS2XxHgF-BeE5YyY3zqpT0.jpg",
             "url": "https://finance.mail.ru/article/ii-gigantyi-nachali-massovo-peremanivat-top-menedzherov-iz-softvernyih-kompanij-69206501/"
+        },
+        "https://3dnews.ru/1140662/entuziast-vzlomal-vbios-na-drevney-videokarte-s3-chtobi-sdelat-chyorniy-tsvet-ponastoyashchemu-chyornim": {
+            "title": "Энтузиаст взломал VBIOS на древней видеокарте S3, чтобы сделать чёрный цвет по-настоящему чёрным",
+            "description": "Автор YouTube-канала Bits und Bolts обнаружил в работе старой видеокарты S3 Virge DX 4MB недочёт: чёрный цвет на самом деле отображался как тёмно-серый, причём производитель намеренно пошёл на такое решение. Энтузиаст приложил немалые усилия, но сумел отредактировать VBIOS и исправить ошибку..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/25/1140662/s3.jpg",
+            "url": "https://3dnews.ru/1140662/entuziast-vzlomal-vbios-na-drevney-videokarte-s3-chtobi-sdelat-chyorniy-tsvet-ponastoyashchemu-chyornim"
         }
     }
 }
