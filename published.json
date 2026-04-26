@@ -12725,6 +12725,12 @@
             "description": "Автор YouTube-канала Bits und Bolts обнаружил в работе старой видеокарты S3 Virge DX 4MB недочёт: чёрный цвет на самом деле отображался как тёмно-серый, причём производитель намеренно пошёл на такое решение. Энтузиаст приложил немалые усилия, но сумел отредактировать VBIOS и исправить ошибку..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/25/1140662/s3.jpg",
             "url": "https://3dnews.ru/1140662/entuziast-vzlomal-vbios-na-drevney-videokarte-s3-chtobi-sdelat-chyorniy-tsvet-ponastoyashchemu-chyornim"
+        },
+        "https://www.gismeteo.ru/news/nature/40-let-spustya-kak-segodnya-vyglyadit-chernobylskaya-zona-otchuzhdeniya/": {
+            "title": "40 лет спустя: как сегодня выглядит Чернобыльская зона отчуждения",
+            "description": "Прошло уже 40 лет с момента крупнейшей ядерной аварии, произошедшей 26 апреля 1986 года.",
+            "image": "https://news-img.gismeteo.st/ru/2026/04/20230506_zaa_p133_051-scaled.jpg",
+            "url": "https://www.gismeteo.ru/news/nature/40-let-spustya-kak-segodnya-vyglyadit-chernobylskaya-zona-otchuzhdeniya/"
         }
     }
 }
