@@ -12767,6 +12767,12 @@
             "description": "Почти сорок лет спустя после катастрофы на Чернобыльской АЭС, в зоне, куда человеку нельзя войти без защиты, жизнь не только сохранилась, но и удивительным образом приспособилась к экстремальной среде.",
             "image": "https://news-img.gismeteo.st/ru/2025/12/shutterstock_1083429041-1.jpg",
             "url": "https://www.gismeteo.ru/news/nature/zhivjot-na-radiacii-chernobylskij-grib-najdennyj-v-razrushennom-reaktore-razvil-neveroyatnuju-sposobnost/"
+        },
+        "https://3dnews.ru/1140684/project-eleven-vruchil-bitkoin-za-vzlom-15-bitnogo-klyucha-ellipticheskoy-krivoy-na-obshchedostupnom-kvantovom-oborudovanii": {
+            "title": "Исследователь взломал 15-битный криптоключ на квантовом компьютере и получил 1 биткоин",
+            "description": "Независимый исследователь Джанкарло Лелли (Giancarlo Lelli) взломал 15-битный ключ на основе эллиптической кривой на общедоступном квантовом оборудовании и выиграл премию Q-Day Prize стартапа Project Eleven — один биткоин стоимостью около $78 000. Результат превысил предыдущий публичный рекорд в 512 раз и признан крупнейшей демонстрацией квантовой атаки на криптографию, защищающую биткоин и другие блокчейны..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/26/1140684/researcher-wins-1-bitcoin-bounty-for-largest-quantum-attack-on-underlying-tech-main.jpg",
+            "url": "https://3dnews.ru/1140684/project-eleven-vruchil-bitkoin-za-vzlom-15-bitnogo-klyucha-ellipticheskoy-krivoy-na-obshchedostupnom-kvantovom-oborudovanii"
         }
     }
 }
