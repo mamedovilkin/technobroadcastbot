@@ -12773,6 +12773,12 @@
             "description": "Независимый исследователь Джанкарло Лелли (Giancarlo Lelli) взломал 15-битный ключ на основе эллиптической кривой на общедоступном квантовом оборудовании и выиграл премию Q-Day Prize стартапа Project Eleven — один биткоин стоимостью около $78 000. Результат превысил предыдущий публичный рекорд в 512 раз и признан крупнейшей демонстрацией квантовой атаки на криптографию, защищающую биткоин и другие блокчейны..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/26/1140684/researcher-wins-1-bitcoin-bounty-for-largest-quantum-attack-on-underlying-tech-main.jpg",
             "url": "https://3dnews.ru/1140684/project-eleven-vruchil-bitkoin-za-vzlom-15-bitnogo-klyucha-ellipticheskoy-krivoy-na-obshchedostupnom-kvantovom-oborudovanii"
+        },
+        "https://habr.com/ru/news/1028066/": {
+            "title": "Исследователь получил 1 биткоин за взлом 15-битного ECC-ключа при помощи квантового компьютера",
+            "description": "Исследователь Джанкарло Лелли получил награду в один биткоин за взлом 15-битного ключа на основе эллиптической криптографии (ECC) при помощи облачного квантового компьютера. Награду объявил стартап в...",
+            "image": "https://habr.com/share/publication/1028066/ae53e794c8c9cf6904cee7af26f4df0d/",
+            "url": "https://habr.com/ru/news/1028066/"
         }
     }
 }
