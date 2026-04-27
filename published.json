@@ -12809,6 +12809,12 @@
             "description": "Каждый клик мышкой теперь работает против обречённых специалистов.",
             "image": "https://www.securitylab.ru/upload/iblock/3ec/l5r4t70j0pa6v706kbawtuynd2in88c7.jpg",
             "url": "https://www.securitylab.ru/news/572008.php"
+        },
+        "https://www.ixbt.com/news/2026/04/26/3-32-c632-radeon-rx-9060-xt-25-30-fps.html": {
+            "title": "\"Ведьмака 3\" запустили на российском 32-ядерном процессоре \"Иртыш C632\" и Radeon RX 9060 XT - кадровая частота составила 25-30 FPS",
+            "description": "Тестовая конфигурация работала под управлением Linux",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/IRTYSH-WITCHER3-DEMO-3%20(1)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/26/3-32-c632-radeon-rx-9060-xt-25-30-fps.html"
         }
     }
 }
