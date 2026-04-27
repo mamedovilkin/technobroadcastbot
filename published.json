@@ -12863,6 +12863,12 @@
             "description": "В мессенджере Telegram появилось мини‑приложение под названием Wall (этот ник выкуплен в январе 2024 года). Это решение повторяет возможности классической «Стены» из «ВКонтакте». Друзья могут...",
             "image": "https://habr.com/share/publication/1028304/7efa32f375662d9b83e074241cb3e10f/",
             "url": "https://habr.com/ru/news/1028304/"
+        },
+        "https://habr.com/ru/companies/bothub/news/1028306/": {
+            "title": "OpenAI снова убила Codex - GPT-5.5 навсегда поглотила отдельную модель для кодинга",
+            "description": "OpenAI окончательно рассталась с отдельной кодинг-моделью Codex – во второй раз в своей истории. Как сообщил глава Developer Experience компании Роман Юэ, начиная с GPT-5.4, Codex и основная языковая...",
+            "image": "https://habr.com/share/publication/1028306/1d2e9b7e2d7524bc1e0f1f8e80df3485/",
+            "url": "https://habr.com/ru/companies/bothub/news/1028306/"
         }
     }
 }
