@@ -12815,6 +12815,12 @@
             "description": "Тестовая конфигурация работала под управлением Linux",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/IRTYSH-WITCHER3-DEMO-3%20(1)_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/26/3-32-c632-radeon-rx-9060-xt-25-30-fps.html"
+        },
+        "https://www.ixbt.com/news/2026/04/26/geforce-rtx-4090-gpu.html": {
+            "title": "Пользователь купил подержанную GeForce RTX 4090, а у нее подделан и GPU, и чипы памяти",
+            "description": "Подделки GeForce RTX 4090 выходят на новый уровень",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/reoair_large.JPG",
+            "url": "https://www.ixbt.com/news/2026/04/26/geforce-rtx-4090-gpu.html"
         }
     }
 }
