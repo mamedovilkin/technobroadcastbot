@@ -12875,6 +12875,12 @@
             "description": "Рассказываем, как одна случайность помогла вскрыть многолетнюю сеть шпионажа.",
             "image": "https://www.securitylab.ru/upload/iblock/042/1cg12k6g0fdbzarggh8r788fhlrsxsy3.jpg",
             "url": "https://www.securitylab.ru/news/572013.php"
+        },
+        "https://habr.com/ru/articles/1027864/": {
+            "title": "Облава на инсайдеров с Polymarket, а также уход Тима Кука на почетную пенсию",
+            "description": "Самые интересные новости финансов и технологий в России и мире за неделю: ЦБ снизил ставку до 14,5%, Швеция не верит в 6% инфляцию в РФ, очередное покушение на Трампа, xAI Илона Маска не умеет...",
+            "image": "https://habr.com/share/publication/1027864/de868c2c3c82889f608acc86535f7ede/",
+            "url": "https://habr.com/ru/articles/1027864/"
         }
     }
 }
