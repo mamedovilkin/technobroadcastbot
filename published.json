@@ -12791,6 +12791,12 @@
             "description": "Компания DeepSeek AI считает, что её флагман V4-Pro-Max “демонстрирует превосходство над GPT-5.2 и Gemini-3.0-Pro в стандартных бенчмарках рассуждений”, но “незначительно уступает GPT-5.4 и...",
             "image": "https://habr.com/share/publication/1028090/3ef0bebb6015301f003b5dceb34bf1bc/",
             "url": "https://habr.com/ru/companies/bothub/news/1028090/"
+        },
+        "https://www.ixbt.com/news/2026/04/26/intel-uluchshila-svoi-finansovye-pokazateli-za-schet-prodazhi-processorov-s-brakom.html": {
+            "title": "Intel улучшила свои финансовые показатели за счет продажи процессоров с браком",
+            "description": "Обычно у топовых бракованных CPU отключают часть ядер и продают как процессоры среднего сегмента",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/0/image%20(10)_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/26/intel-uluchshila-svoi-finansovye-pokazateli-za-schet-prodazhi-processorov-s-brakom.html"
         }
     }
 }
