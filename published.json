@@ -12929,6 +12929,12 @@
             "description": "DeepSeek резко удешевила один из самых чувствительных элементов API - кэш. Теперь повторные запросы (cache hits) стоят всего 10% от прежней цены по всей линейке моделей. Что это значит на практике?...",
             "image": "https://habr.com/share/publication/1028434/b416b5d590c7b8b6942478b770c01525/",
             "url": "https://habr.com/ru/companies/bothub/news/1028434/"
+        },
+        "https://3dnews.ru/1140702/beshenniy-spros-u-intel-teper-pokupayut-dage-te-protsessori-kotorie-ranshe-vibrasivalis": {
+            "title": "Бешеный спрос: у Intel теперь покупают даже те процессоры, которые раньше выбрасывались",
+            "description": "Взлёт выручки на направлении ЦОД на 22 % по итогам первого квартала Intel объяснила высоким спросом на свои процессоры. Она смогла реализовать даже старые складские запасы, которые относились к чипам прежних поколений. Более того, как выяснилось, в продажу поступили даже те чипы, которые в лучшие времена могли быть отбракованы, хотя по факту они вполне работоспособны, пусть и с оговорками.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/27/1140702/wafer_01.jpg",
+            "url": "https://3dnews.ru/1140702/beshenniy-spros-u-intel-teper-pokupayut-dage-te-protsessori-kotorie-ranshe-vibrasivalis"
         }
     }
 }
