@@ -12923,6 +12923,12 @@
             "description": "Эксперты изучили 246 проектов по анализу защищенности организаций из 18 отраслей экономики.",
             "image": "https://www.securitylab.ru/upload/iblock/b30/cd00tuj5txfnjsnda7xpqwln7x06zegp.jpg",
             "url": "https://www.securitylab.ru/news/572046.php"
+        },
+        "https://habr.com/ru/companies/bothub/news/1028434/": {
+            "title": "DeepSeek в 10 раз снизила цену на кэш",
+            "description": "DeepSeek резко удешевила один из самых чувствительных элементов API - кэш. Теперь повторные запросы (cache hits) стоят всего 10% от прежней цены по всей линейке моделей. Что это значит на практике?...",
+            "image": "https://habr.com/share/publication/1028434/b416b5d590c7b8b6942478b770c01525/",
+            "url": "https://habr.com/ru/companies/bothub/news/1028434/"
         }
     }
 }
