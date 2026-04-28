@@ -13031,6 +13031,12 @@
             "description": "Облачный сервис Amazon расширит работу с OpenAI после изменения договора с Microsoft",
             "image": "https://resizer.mail.ru/p/a7716bb9-aefb-5083-a13f-cbe412b576e1/AQAzyWBI3rl6JbyyMYPcxE0u7GHQjKWzp_WkobzKy1sYcweRMZQEiJziLhJcEDgsbyZrnFrIentwElqgl_C8HPwpvoU.jpg",
             "url": "https://finance.mail.ru/article/amazon-poluchit-vyigodu-ot-sdelki-openai-a-eli-lilly-pokupaet-ajax-therapeutics-69206713/"
+        },
+        "https://3dnews.ru/1140749/testirovanie-latentnosti-dlss-i-fsr": {
+            "title": "Больше кадров - больше лага: тестирование латентности с генерацией кадров DLSS и FSR",
+            "description": "Не все геймеры понимают, что огромные величины FPS на графиках производительности GPU с генерацией кадров ничего не говорят об отзывчивости игры. Кто-то слышал, что генерация кадров сама по себе увеличивает лаг. А мы узнали, насколько именно, и вам это не понравится",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/27/1140749/sm.fsr3.750.png",
+            "url": "https://3dnews.ru/1140749/testirovanie-latentnosti-dlss-i-fsr"
         }
     }
 }
