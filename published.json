@@ -13139,6 +13139,12 @@
             "description": "Будущий хит продаж.",
             "image": "https://click-or-die.ru/app/uploads/2026/04/poco_x8_pro_20260317m-1.jpg",
             "url": "https://click-or-die.ru/2026/04/novejshij-xiaomi-poco-vnezapno-ruhnul-v-czene-teper-ego-tochno-stoit-brat/"
+        },
+        "https://habr.com/ru/news/1029038/": {
+            "title": "Расходы на ИИ становятся отдельной проблемой для бизнеса: токены и вычисления могут стоить дороже сотрудников",
+            "description": "Компании всё чаще сталкиваются с неожиданной стороной внедрения ИИ: экономия на людях не всегда означает снижение расходов. В ряде команд затраты на вычисления, API и токены уже становятся сопоставимы...",
+            "image": "https://habr.com/share/publication/1029038/546de4dbd0517e4f157db5b264850f09/",
+            "url": "https://habr.com/ru/news/1029038/"
         }
     }
 }
