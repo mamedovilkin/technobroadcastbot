@@ -12977,6 +12977,12 @@
             "description": "Какой же он мощный.",
             "image": "https://click-or-die.ru/app/uploads/2026/04/oneplus-formally-announces-new-120w-power-bank-with-15000mah-capacity.jpg",
             "url": "https://click-or-die.ru/2026/04/ochen-moshhnyj-pauerbank-oneplus-momentalno-zaryadit-smartfon-eto-luchshij-aksessuar-dlya-firmennyh-telefonov/"
+        },
+        "https://habr.com/ru/news/1028634/": {
+            "title": "И это ваш AGI? DeepSeek V4 допустил мрачную ошибку в задаче про апельсины и нож",
+            "description": "В соцсетях разошелся скрин с ответом DeepSeek V4 на простую головоломку: как поровну разделить четыре одинаковых апельсина между четырьмя детьми, если есть только один нож. На скрине модель выбирает...",
+            "image": "https://habr.com/share/publication/1028634/1cf6c68f8402839dcd7dd9fe56ce6653/",
+            "url": "https://habr.com/ru/news/1028634/"
         }
     }
 }
