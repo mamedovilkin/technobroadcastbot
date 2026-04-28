@@ -13109,6 +13109,12 @@
             "description": "Алгоритмы оказались слишком доверчивыми к чужим уловкам.",
             "image": "https://www.securitylab.ru/upload/iblock/7b5/f3mcv8vf6v36fjhb4mj9ckrcepwm3ege.jpg",
             "url": "https://www.securitylab.ru/news/572064.php"
+        },
+        "https://habr.com/ru/companies/bothub/articles/1028906/": {
+            "title": "Топ локальных нейросетей ︎◍ 2026: подборка ИИ для запуска из дома",
+            "description": "Сознаюсь: когда я впервые попытался запустить большую языковую модель на своём ноутбуке, всё закончилось вертушкой кулера, жутким лагом и системным сообщением “Недостаточно памяти”. Казалось, что...",
+            "image": "https://habr.com/share/publication/1028906/5de85420e3b21c1d3799bb8cd0bcc5a4/",
+            "url": "https://habr.com/ru/companies/bothub/articles/1028906/"
         }
     }
 }
