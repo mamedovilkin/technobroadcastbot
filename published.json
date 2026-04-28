@@ -13025,6 +13025,12 @@
             "description": "Агент не только удалил основную базу данных, но и уничтожил резервные копии",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/1/1777316634139-019dd053-13c5-75dd-943a-d1791859f378_large.png",
             "url": "https://www.ixbt.com/news/2026/04/27/iiagent-na-baze-claude-za-9-sekund-udalil-vsju-bazu-dannyh-kompanii-.html"
+        },
+        "https://finance.mail.ru/article/amazon-poluchit-vyigodu-ot-sdelki-openai-a-eli-lilly-pokupaet-ajax-therapeutics-69206713/": {
+            "title": "Amazon получит выгоду от сделки OpenAI, а Eli Lilly покупает Ajax Therapeutics",
+            "description": "Облачный сервис Amazon расширит работу с OpenAI после изменения договора с Microsoft",
+            "image": "https://resizer.mail.ru/p/a7716bb9-aefb-5083-a13f-cbe412b576e1/AQAzyWBI3rl6JbyyMYPcxE0u7GHQjKWzp_WkobzKy1sYcweRMZQEiJziLhJcEDgsbyZrnFrIentwElqgl_C8HPwpvoU.jpg",
+            "url": "https://finance.mail.ru/article/amazon-poluchit-vyigodu-ot-sdelki-openai-a-eli-lilly-pokupaet-ajax-therapeutics-69206713/"
         }
     }
 }
