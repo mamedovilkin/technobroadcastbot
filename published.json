@@ -13259,6 +13259,12 @@
             "description": "В БФУ им. И. Канта разработали ИИ-модель для выявления рака поджелудочной железы по КТ. Программа помогает врачам не пропустить опухоли малого размера и ускоряет диагностику.",
             "image": "https://resizer.mail.ru/p/a8bc064a-939d-5e51-9718-6e4c1240acac/AQA40UTTfhoSLQJgcvABYnd76O436L03uYaHDQcXukT0qCwdmYKkZ7uzpE95JmmIz3Iy1s7FLurLDMoIFeS5xq9WJU0.jpg",
             "url": "https://science.mail.ru/news/48455-ii-rak-podzheludochnoj-bfu/"
+        },
+        "https://habr.com/ru/news/1028900/": {
+            "title": "Вышел 7-Zip 26.01",
+            "description": "27 апреля 2026 года разработчик Игорь Павлов представил версию открытого архиватора 7-Zip 26.01 . Исходный код проекта написан на языке программирования C++ и опубликован на GitHub под лицензией LGPL....",
+            "image": "https://habr.com/share/publication/1028900/6a2c568256e5048fba305b76caeaadb3/",
+            "url": "https://habr.com/ru/news/1028900/"
         }
     }
 }
