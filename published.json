@@ -13271,6 +13271,12 @@
             "description": "Resident Evil Requiem даёт игрокам выбор между видом от первого и третьего лица. И, как оказалось, предпочтения аудитории уже сформировались.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1176470/image4-15.jpg",
             "url": "https://ixbt.games/news/2026/04/29/411720-ot-pervogo-ili-ot-tretego-litsa-igroki-opredelilis-s-kameroi-v-resident-evil-requiem.html"
+        },
+        "https://habr.com/ru/news/1029396/": {
+            "title": "\"Агент не может ждать секунды\": NVIDIA представила открытую omni-модель Nemotron 3 Nano",
+            "description": "NVIDIA выпустила  Nemotron 3 Nano Omni  — открытую мультимодальную модель, которая объединяет работу с видео, аудио, изображениями и текстом в одной архитектуре. По заявлению компании, ее...",
+            "image": "https://habr.com/share/publication/1029396/a65a375580a30c5c9d49697f5eddd3b0/",
+            "url": "https://habr.com/ru/news/1029396/"
         }
     }
 }
