@@ -13343,6 +13343,12 @@
             "description": "Разработчик добровольно закрыл проект OrcaSlicer-BambuLab после юридических угроз от компании Bambu Lab. Его форк проекта на GitHub вернул пользователям стороннего слайсера OrcaSlicer прямой доступ к облачным функциям принтеров Bambu — удалённому мониторингу и распознаванию филамента (расходного материала для печати на 3D-принтере) в системе AMS. Этих функций их лишили в январе 2025 года, обязав работать через приложение-посредник Bambu Connect.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/29/1140883/bambu-lab-prigrozila-sudom-razrabotchiku-kotoryy-vernul-orcaslicer-pryamoy-dostup-k-oblaku-eyo-3d-printerov-main.jpg",
             "url": "https://3dnews.ru/1140883/bambu-lab-prigrozila-sudom-razrabotchiku-kotoryy-vernul-orcaslicer-pryamoy-dostup-k-oblaku-eyo-3d-printerov"
+        },
+        "https://meduza.io/news/2026/04/29/roskomnadzor-potreboval-ot-google-play-i-app-store-udalit-prilozhenie-vazhnyh-istoriy": {
+            "title": "Роскомнадзор потребовал от Google Play и App Store удалить приложение \"Важных историй\"",
+            "description": "Роскомнадзор направил в Apple и Google требования удалить из магазинов мобильное приложение «Важных историй». Об этом сообщило само издание.",
+            "image": "https://meduza.io/imgly/share/1777481368/news/2026/04/29/roskomnadzor-potreboval-ot-google-play-i-app-store-udalit-prilozhenie-vazhnyh-istoriy",
+            "url": "https://meduza.io/news/2026/04/29/roskomnadzor-potreboval-ot-google-play-i-app-store-udalit-prilozhenie-vazhnyh-istoriy"
         }
     }
 }
