@@ -13409,6 +13409,12 @@
             "description": "Раскрыта информация о LPE-уязвимости из 10 строк кода на Python под названием Copy Fail ( CVE-2026-31431 ), которая может быть реализована в системах на базе Linux. С помощью этой уязвимости в один...",
             "image": "https://habr.com/share/publication/1029860/12b6a2c223d5a0836bc95e6b2c8b087c/",
             "url": "https://habr.com/ru/news/1029860/"
+        },
+        "https://www.ixbt.com/news/2026/04/30/starship-novogo-pokolenija-gotov-k-startu-podschitana-stoimost-rakety-uskoritelja-dvigatelej-i-zapuskov.html": {
+            "title": "Starship нового поколения готов к старту: подсчитана стоимость ракеты, ускорителя, двигателей и запусков",
+            "description": "Она составляет около 100 млн долларов",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/image%20-%202026-04-30T073807.894_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/30/starship-novogo-pokolenija-gotov-k-startu-podschitana-stoimost-rakety-uskoritelja-dvigatelej-i-zapuskov.html"
         }
     }
 }
