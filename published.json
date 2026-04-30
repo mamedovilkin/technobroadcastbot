@@ -13403,6 +13403,12 @@
             "description": "В арсенале киберпреступников появился новый метод — SMS-бомбинг, при котором телефон жертвы за короткий срок заполняется десятками сообщений с кодами подтверждения.",
             "image": "https://kubnews.ru/upload/dev2fun.imagecompress/webp/resize_cache/iblock/8c1/1200_630_text_2/uik6i0zlsqvjh32ea1xvrjfj3u9w40xm.jpg.webp",
             "url": "https://kubnews.ru/obshchestvo/2026/04/30/moshenniki-osvoili-novyy-metod-ataki-na-smartfony-rossiyan/"
+        },
+        "https://habr.com/ru/news/1029860/": {
+            "title": "Раскрыта LPE-уязвимость (10 строк кода на Python) Copy Fail в Linux - root на Linux в один клик",
+            "description": "Раскрыта информация о LPE-уязвимости из 10 строк кода на Python под названием Copy Fail ( CVE-2026-31431 ), которая может быть реализована в системах на базе Linux. С помощью этой уязвимости в один...",
+            "image": "https://habr.com/share/publication/1029860/12b6a2c223d5a0836bc95e6b2c8b087c/",
+            "url": "https://habr.com/ru/news/1029860/"
         }
     }
 }
