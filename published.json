@@ -13457,6 +13457,12 @@
             "description": "Инженер обратил внимание на ежемесячные накопительные обновления, загружаемые через каталог обновлений Windows 11, размер которых стал регулярно превышать 4 и 5 ГБ. При извлечении размер такого...",
             "image": "https://habr.com/share/publication/1029994/54b69dabab8ef5b2a46acca6a37256bf/",
             "url": "https://habr.com/ru/news/1029994/"
+        },
+        "https://xakep.ru/2026/04/30/pocketos-fail/": {
+            "title": "PocketOS: за девять секунд ИИ уничтожил все данные компании и резервные копии",
+            "description": "На этой неделе основатель компании PocketOS Джер Крейн (Jer Crane) рассказал, как Cursor с моделью Claude Opus 4.6 за девять секунд случайно уничтожили всю продакшен-базу компании вместе со всеми бэкапами.",
+            "image": "https://xakep.ru/wp-content/uploads/2026/04/574854/PocketOS.jpg",
+            "url": "https://xakep.ru/2026/04/30/pocketos-fail/"
         }
     }
 }
