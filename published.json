@@ -13337,6 +13337,12 @@
             "description": "Эксперты Digital Foundry допустили, что PlayStation 6 справится с трассировкой пути при 60 FPS.",
             "image": "https://gamemag.ru/images/cache/News/News199008/f8f2004ce4-2_1390x600.jpg",
             "url": "https://gamemag.ru/news/199008/digital-foundry-playstation-6-mozhet-zapuskat-igry-s-trassirovkoj-putej-pri-60-fps"
+        },
+        "https://3dnews.ru/1140883/bambu-lab-prigrozila-sudom-razrabotchiku-kotoryy-vernul-orcaslicer-pryamoy-dostup-k-oblaku-eyo-3d-printerov": {
+            "title": "Bambu Lab пригрозила судом разработчику, который бесплатно вернул 3D-принтерам отключённые функции",
+            "description": "Разработчик добровольно закрыл проект OrcaSlicer-BambuLab после юридических угроз от компании Bambu Lab. Его форк проекта на GitHub вернул пользователям стороннего слайсера OrcaSlicer прямой доступ к облачным функциям принтеров Bambu — удалённому мониторингу и распознаванию филамента (расходного материала для печати на 3D-принтере) в системе AMS. Этих функций их лишили в январе 2025 года, обязав работать через приложение-посредник Bambu Connect.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/29/1140883/bambu-lab-prigrozila-sudom-razrabotchiku-kotoryy-vernul-orcaslicer-pryamoy-dostup-k-oblaku-eyo-3d-printerov-main.jpg",
+            "url": "https://3dnews.ru/1140883/bambu-lab-prigrozila-sudom-razrabotchiku-kotoryy-vernul-orcaslicer-pryamoy-dostup-k-oblaku-eyo-3d-printerov"
         }
     }
 }
