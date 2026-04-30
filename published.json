@@ -13415,6 +13415,12 @@
             "description": "Она составляет около 100 млн долларов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/image%20-%202026-04-30T073807.894_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/30/starship-novogo-pokolenija-gotov-k-startu-podschitana-stoimost-rakety-uskoritelja-dvigatelej-i-zapuskov.html"
+        },
+        "https://habr.com/ru/news/1029874/": {
+            "title": "В Китае временно приостановили выдачу лицензий для роботакси после инцидента с автопарком Baidu",
+            "description": "Министерство промышленности и информатизации КНР приостановило выдачу новых лицензий на роботакси после того, как в прошлом месяце десятки беспилотных автомобилей сервиса Apollo Go компании Baidu...",
+            "image": "https://habr.com/share/publication/1029874/03e9f067743d425aa37d31bd1cf38043/",
+            "url": "https://habr.com/ru/news/1029874/"
         }
     }
 }
