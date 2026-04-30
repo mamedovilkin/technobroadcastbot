@@ -13451,6 +13451,12 @@
             "description": "Расходы технологических лидеров на ИИ достигнут $725 млрд в 2026 году. Объясняем, почему скепсис инвесторов сменился уверенностью, какие факторы обеспечили рост выручки и что аналитики говорят о будущем экономики искусственного интеллекта",
             "image": "https://resizer.mail.ru/p/0965cef1-d3d8-5bfe-8842-cc1b7b0ba3cf/AQAzELoN8b-X-TQ8jjTe1J6h67fguK9kha9WAbcDbWuHdVgPQ2893AiFZ8WZsd0itRMbDMX_vXn-vamACiHIISWP434.jpg",
             "url": "https://finance.mail.ru/article/ft-tehkompanii-potratyat-na-ii-v-2026-godu-725-mlrd-69207044/"
+        },
+        "https://habr.com/ru/news/1029994/": {
+            "title": "Инженер исследовал ежемесячные обновления Windows 11 размером 5 ГБ в формате .msu",
+            "description": "Инженер обратил внимание на ежемесячные накопительные обновления, загружаемые через каталог обновлений Windows 11, размер которых стал регулярно превышать 4 и 5 ГБ. При извлечении размер такого...",
+            "image": "https://habr.com/share/publication/1029994/54b69dabab8ef5b2a46acca6a37256bf/",
+            "url": "https://habr.com/ru/news/1029994/"
         }
     }
 }
