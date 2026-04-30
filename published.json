@@ -13463,6 +13463,12 @@
             "description": "На этой неделе основатель компании PocketOS Джер Крейн (Jer Crane) рассказал, как Cursor с моделью Claude Opus 4.6 за девять секунд случайно уничтожили всю продакшен-базу компании вместе со всеми бэкапами.",
             "image": "https://xakep.ru/wp-content/uploads/2026/04/574854/PocketOS.jpg",
             "url": "https://xakep.ru/2026/04/30/pocketos-fail/"
+        },
+        "https://habr.com/ru/news/1030034/": {
+            "title": "\"ИИ-код работает, но он отвратительный\": Карпати - о текущих возможностях ИИ-агентов",
+            "description": "Андрей Карпати, сооснователь OpenAI и автор термина vibe coding, на  выступлении в Sequoia Capital  сравнил современных ИИ-агентов со стажерами и заявил, что код, который они генерируют,...",
+            "image": "https://habr.com/share/publication/1030034/9311e390014f6ae1a7b408bd739e8268/",
+            "url": "https://habr.com/ru/news/1030034/"
         }
     }
 }
