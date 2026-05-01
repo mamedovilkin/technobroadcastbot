@@ -13493,6 +13493,12 @@
             "description": "Инвесторы распродают бумаги Meta* из-за новых прогнозов по затратам",
             "image": "https://resizer.mail.ru/p/fdfaa26d-f1ce-522c-8197-bb74820a9d4c/AQAzpgOHauc7Q-C_3ZQw4PlhxQeTSn5E9OJIm7zWYgfw_Jtf3FxqxP52hywOCUn3FFeCLPsy0zbti8rZmpsSi07vi0E.jpg",
             "url": "https://finance.mail.ru/article/aktsii-meta-obrushilis-na-9-na-fone-rosta-rashodov-na-ii-69207082/"
+        },
+        "https://www.forbes.ru/tekhnologii/560231-v-messendzere-mah-otreagirovali-na-pometku-spionskoe-po-so-storony-cloudflare": {
+            "title": "В мессенджере \"Макс\" отреагировали на пометку \"шпионское ПО\" со стороны Cloudflare",
+            "description": "Провайдер Cloudflare пометил мессенджер «Макс» как шпионское приложение. В самом мессенджере это связали с «неверной интерпретацией заголовков запросов к сервисам обыкновенной веб-аналитики сайта max.ru» и подчеркнули, что классификация Cloudflare не",
+            "image": "https://cdn.forbes.ru/forbes-static/shareimages/560231.jpg?v=1777552356",
+            "url": "https://www.forbes.ru/tekhnologii/560231-v-messendzere-mah-otreagirovali-na-pometku-spionskoe-po-so-storony-cloudflare"
         }
     }
 }
