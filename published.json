@@ -13511,6 +13511,12 @@
             "description": "Ранее таким же образом Cloudflare поступила и с приложением Telega",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/big-logo%20copy_large.jpg",
             "url": "https://www.ixbt.com/news/2026/04/30/krupnejshij-hostingprovajder-cloudflare-priznal-nacmessendzher-max-shpionskim-po.html"
+        },
+        "https://www.ixbt.com/news/2026/04/30/geforce-rtx-5090-1500.html": {
+            "title": "Европейский ретейлер начал продавать очень дешевые GeForce RTX 5090 за 1500 евро. Но есть нюанс: видеокарты не работают",
+            "description": "И вернуть их нельзя",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/3/4/LD0006342940.jpg",
+            "url": "https://www.ixbt.com/news/2026/04/30/geforce-rtx-5090-1500.html"
         }
     }
 }
