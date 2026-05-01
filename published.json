@@ -13499,6 +13499,12 @@
             "description": "Провайдер Cloudflare пометил мессенджер «Макс» как шпионское приложение. В самом мессенджере это связали с «неверной интерпретацией заголовков запросов к сервисам обыкновенной веб-аналитики сайта max.ru» и подчеркнули, что классификация Cloudflare не",
             "image": "https://cdn.forbes.ru/forbes-static/shareimages/560231.jpg?v=1777552356",
             "url": "https://www.forbes.ru/tekhnologii/560231-v-messendzere-mah-otreagirovali-na-pometku-spionskoe-po-so-storony-cloudflare"
+        },
+        "https://habr.com/ru/news/1030104/": {
+            "title": "Представлен открытый проект ps5-linux для превращения PlayStation 5 в полноценный ПК под управлением Linux",
+            "description": "Разработчик Энди Нгуен представил открытый проект ps5-linux , с помощью которого можно сделать из PlayStation 5 (в режиме софт-мода) полноценный ПК под управлением Linux. В этом случае на устройстве...",
+            "image": "https://habr.com/share/publication/1030104/7b071d91fb6b20db82ad8391fa191ec2/",
+            "url": "https://habr.com/ru/news/1030104/"
         }
     }
 }
