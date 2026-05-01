@@ -13547,6 +13547,12 @@
             "description": "Ценные бумаги Apple упали в цене из-за снижения продаж смартфонов",
             "image": "https://resizer.mail.ru/p/1c825114-8542-54e2-8468-4b6a325aecc3/AQAzNmH0vqZwIN9JBtfetFQ-cWvNDKekJ6aKz9hC0kXcFKI4Jw_ibhCDxiJTQNwrjRLp4-kSzTx9HW0RqFMuLuHtlBc.jpg",
             "url": "https://finance.mail.ru/article/aktsii-apple-podesheveli-na-fone-slabyih-prodazh-iphone-69207141/"
+        },
+        "https://3dnews.ru/1140731/termodinamicheskie-vichisliteli": {
+            "title": "Термодинамические вычислители - это нормально",
+            "description": "Энергии для тренировки и инференса ИИ-моделей требуется всё больше, и особенно обидно, что немалая её доля уходит на генерацию случайного, по сути, шума. Не логичнее ли получать необходимый шум прямо из окружающей среды?",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/04/27/1140731/sm.thermod-01.800.jpg",
+            "url": "https://3dnews.ru/1140731/termodinamicheskie-vichisliteli"
         }
     }
 }
