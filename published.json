@@ -13853,6 +13853,12 @@
             "description": "Серверы Ubuntu и её материнской компании Canonical не работают вторые сутки из-за DDoS-атаки. Ответственность взяла проиранская хакерская группировка. Сбой произошёл через несколько часов после того, как исследователи неудачно раскрыли серьёзную уязвимость в Linux и опубликовали код для её эксплуатации.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/02/1141063/ubuntu-infrastructure-has-been-down-for-more-than-a-day-main.jpg",
             "url": "https://3dnews.ru/1141063/ddos-ataka-proiranskoy-gruppirovki-nakryla-servery-ubuntu-i-canonical-v-moment-raskrytiya-kriticheskoy-uyazvimosti-v-yadre-linux"
+        },
+        "https://habr.com/ru/news/1030620/": {
+            "title": "Мать четверых детей Маска была его шпионом в OpenAI",
+            "description": "На первой неделе процесса Musk v. Altman юристы OpenAI представили в суде переписку Маска с Шивон Зилис — матерью его четверых детей и членом совета директоров некоммерческого OpenAI с 2020 по 2023...",
+            "image": "https://habr.com/share/publication/1030620/09a981232a060f4bfff691b9774d881a/",
+            "url": "https://habr.com/ru/news/1030620/"
         }
     }
 }
