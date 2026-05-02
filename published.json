@@ -13847,6 +13847,12 @@
             "description": "Приветствую, Хабравчане! Рад представить первый публичный релиз библиотеки LDL . Что такое LDL? LDL (Little Directmedia Layer) это не просто кроссплатформенная библиотека, а мост между разными...",
             "image": "https://habr.com/share/publication/1030614/6782faa17bdddf58e27c994171763ca3/",
             "url": "https://habr.com/ru/news/1030614/"
+        },
+        "https://3dnews.ru/1141063/ddos-ataka-proiranskoy-gruppirovki-nakryla-servery-ubuntu-i-canonical-v-moment-raskrytiya-kriticheskoy-uyazvimosti-v-yadre-linux": {
+            "title": "Хакеры \"вырубили\" Ubuntu: серверы не работают, критические патчи застряли",
+            "description": "Серверы Ubuntu и её материнской компании Canonical не работают вторые сутки из-за DDoS-атаки. Ответственность взяла проиранская хакерская группировка. Сбой произошёл через несколько часов после того, как исследователи неудачно раскрыли серьёзную уязвимость в Linux и опубликовали код для её эксплуатации.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/02/1141063/ubuntu-infrastructure-has-been-down-for-more-than-a-day-main.jpg",
+            "url": "https://3dnews.ru/1141063/ddos-ataka-proiranskoy-gruppirovki-nakryla-servery-ubuntu-i-canonical-v-moment-raskrytiya-kriticheskoy-uyazvimosti-v-yadre-linux"
         }
     }
 }
