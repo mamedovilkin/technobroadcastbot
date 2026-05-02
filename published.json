@@ -13841,6 +13841,12 @@
             "description": "В конце марта в сети появилась история Макса Гейтманека, редактора английских текстов и режиссёра озвучки в Warhorse Studios, работавшего над Kingdom Come: Deliverance II. Гейтманек заявил на Reddit, что его...",
             "image": "https://cdn.shazoo.ru/c1200x630/866774_G32FEHc_kcd2.jpg",
             "url": "https://shazoo.ru/2026/05/02/183348/sessiia-otvetov-na-voprosy-razrabotchikov-kingdom-come-deliverance-2-na-reddit-obernulas-pr-katastrofoi-iz-za-obvinenii-v-ispolzovanii-ii"
+        },
+        "https://habr.com/ru/news/1030614/": {
+            "title": "Первый релиз LDL 0.1 - маленькая библиотека с большой душой. Один API на 30 лет компьютерной истории",
+            "description": "Приветствую, Хабравчане! Рад представить первый публичный релиз библиотеки LDL . Что такое LDL? LDL (Little Directmedia Layer) это не просто кроссплатформенная библиотека, а мост между разными...",
+            "image": "https://habr.com/share/publication/1030614/6782faa17bdddf58e27c994171763ca3/",
+            "url": "https://habr.com/ru/news/1030614/"
         }
     }
 }
