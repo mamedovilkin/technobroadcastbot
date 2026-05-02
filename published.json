@@ -13667,6 +13667,12 @@
             "description": "В российские суды с декабря 2025 года поступило не менее восьми административных протоколов о нарушениях при сборе персональных данных (статья 13.11 КоАП) против крупных зарубежных студий компьютерных игр, пишет «Верстка».",
             "image": "https://meduza.io/imgly/share/1777638063/news/2026/05/01/roskomnadzor-massovo-zavodit-dela-na-zarubezhnyh-razrabotchikov-kompyuternyh-igr-za-narushenie-zakona-o-personalnyh-dannyh-sudy-uzhe-oshtrafovali-avtorov-gta-i-the-sims",
             "url": "https://meduza.io/news/2026/05/01/roskomnadzor-massovo-zavodit-dela-na-zarubezhnyh-razrabotchikov-kompyuternyh-igr-za-narushenie-zakona-o-personalnyh-dannyh-sudy-uzhe-oshtrafovali-avtorov-gta-i-the-sims"
+        },
+        "https://habr.com/ru/news/1030446/": {
+            "title": "DeepSeek учит модель \"тыкать пальцем\" в кадр по ходу рассуждения",
+            "description": "DeepSeek совместно с Пекинским университетом и университетом Цинхуа 30 апреля выложил  технический отчет \"Thinking with Visual Primitives\"  — новый подход к мультимодальному рассуждению,...",
+            "image": "https://habr.com/share/publication/1030446/3655fa6ce676f0b3e439563d510eba62/",
+            "url": "https://habr.com/ru/news/1030446/"
         }
     }
 }
