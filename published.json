@@ -13655,6 +13655,12 @@
             "description": "Дорогая память приносит Samsung очень много денег",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/5/image_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/01/samsung-vpervye-bolee-chem-za-sem-let-oboshla-tsmc-po-vyruchke-i-pribyli-na-poluprovodnikovom-rynke.html"
+        },
+        "https://www.securitylab.ru/news/572222.php": {
+            "title": "Сжать текст и не нарушить закон. Задачка со звездочкой для пользователей нового Chrome",
+            "description": "Google Chrome уничтожает универсальность интернета.",
+            "image": "https://www.securitylab.ru/upload/iblock/cc3/t8wq68az9760q4x20l3dqwmewykmffcf.jpg",
+            "url": "https://www.securitylab.ru/news/572222.php"
         }
     }
 }
