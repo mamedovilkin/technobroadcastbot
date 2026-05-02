@@ -13745,6 +13745,12 @@
             "description": "Рынок акций изменил отношение к технологическим гигантам из-за трат на ИИ",
             "image": "https://resizer.mail.ru/p/fbad34f9-1295-5a8d-bdec-b53f678efc0a/AQAzCdXoFkf_H4fp9Z4PWVzFjjHSn_G1e69dAuc2SAvh3iE4GHCHnh4YEsW3bO378kzBe_hUKdkgJvqH9X5AY0AE7OA.jpg",
             "url": "https://finance.mail.ru/article/investoryi-po-raznomu-otsenili-otchetyi-bigteha-iz-za-rashodov-na-ii-69207228/"
+        },
+        "https://www.ixbt.com/news/2026/05/01/intel-amd-x86-apx.html": {
+            "title": "Intel и AMD готовят серьёзную перестройку архитектуры x86: на подходе новое расширение APX",
+            "description": "APX может заметно ускорить будущие процессоры Intel и AMD",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/5/Intel-AMD-x86-APX_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/05/01/intel-amd-x86-apx.html"
         }
     }
 }
