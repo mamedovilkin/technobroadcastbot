@@ -13949,6 +13949,12 @@
             "description": "Valve опросила пользователей и собрала информацию об их системах, используемом разрешении и языковых предпочтениях.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1177344/steamart64.png",
             "url": "https://ixbt.games/news/2026/05/03/valve-nazvala-samye-populiarnye-videokarty-steam-v-aprele-2026-goda-i-podtverdila-vazhnost-russkoi-lokalizatsii.html"
+        },
+        "https://3dnews.ru/1141084/openai-prevratila-codex-iz-instrumenta-dlya-programmistov-v-universalnogo-rabochego-ii-agenta": {
+            "title": "OpenAI превратила Codex из инструмента для программистов в универсального рабочего ИИ-агента",
+            "description": "OpenAI превратила Codex из инструмента для программистов в универсального рабочего ИИ-агента. Обновление позволяет пользователям ChatGPT подключить к Codex Slack, Google Drive, электронную почту, календарь и другие повседневные приложения для автоматизации рутинных задач — система сама предлагает сценарии помощи. Продукт, стартовавший как конкурент Claude Code компании Anthropic, стал очередным шагом компании к суперприложению.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/03/1141084/openai-turns-codex-into-a-daily-work-agent-main.jpg",
+            "url": "https://3dnews.ru/1141084/openai-prevratila-codex-iz-instrumenta-dlya-programmistov-v-universalnogo-rabochego-ii-agenta"
         }
     }
 }
