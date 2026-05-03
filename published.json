@@ -13889,6 +13889,12 @@
             "description": "По производительности и стоимости токена",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/6/832c2fd9b725211e76cfe8ab5e7b9f0c0fc9a8b5-1744x1165_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/02/risc-v-gpu-tenstorrent-galaxy-blackhole-nvidia-gb300.html"
+        },
+        "https://www.bfm.ru/news/605452": {
+            "title": "В некоторых районах Подмосковья ограничен домашний интернет",
+            "description": "У некоторых домашний проводной интернет стал работать с 1 мая только по «белым» спискам. Как это объяснить, если списки действуют только для мобильного интернета и изначально не затрагивали домашний?",
+            "image": "https://cdn.bfm.ru/news/photopreviewextralarge/2026/05/02/tass_90281232.jpg",
+            "url": "https://www.bfm.ru/news/605452"
         }
     }
 }
