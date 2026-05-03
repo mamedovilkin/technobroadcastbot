@@ -13979,6 +13979,12 @@
             "description": "Слотов для памяти DDR5 — два",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/topfeel_mini_pc_amd_am5_ports_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/03/5-topfeel-w1-cpu-amd.html"
+        },
+        "https://habr.com/ru/companies/selectel/articles/1029418/": {
+            "title": "ИИ добрался до Ubuntu",
+            "description": "Это неизбежно должно было случиться: искусственный интеллект докатился и до Linux. Один из самых популярных дистрибутивов, Ubuntu, готовится к внедрению нейросетей. К слову, обсуждение этой новости на...",
+            "image": "https://habr.com/share/publication/1029418/6abcfa06c2e9c9c56dd1c9bd32a4902f/",
+            "url": "https://habr.com/ru/companies/selectel/articles/1029418/"
         }
     }
 }
