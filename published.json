@@ -13961,6 +13961,12 @@
             "description": "Некоторых игроков не устроила политика Sony и они обратились в суд. Теперь у них есть возможность получить компенсацию.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1177350/image.png",
             "url": "https://ixbt.games/news/2026/05/03/sony-vyplatit-kompensatsiiu-posle-kollektivnogo-iska-iz-za-monopolii-playstation-store.html"
+        },
+        "https://www.securitylab.ru/news/572257.php": {
+            "title": "Хакеры устроили склад краденых секретов и назвали его в честь червя - \"Дюна\" на GitHub",
+            "description": "Ключи от всех тайников незаметно сменили владельца.",
+            "image": "https://www.securitylab.ru/upload/iblock/a3f/xvu965qa09khhadvb9slc5r0pvoxymqg.jpg",
+            "url": "https://www.securitylab.ru/news/572257.php"
         }
     }
 }
