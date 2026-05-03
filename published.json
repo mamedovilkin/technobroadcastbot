@@ -14009,6 +14009,12 @@
             "description": "В обновлении приложения Apple Support v5.13, выпущенном 1 мая, Apple случайно оставила два внутренних файла CLAUDE.md с инструкциями для ИИ-ассистента Claude Code. Главное в утечке — не сам факт, что...",
             "image": "https://habr.com/share/publication/1030808/17a2cb2b39d547dc1a44b1e9048e020a/",
             "url": "https://habr.com/ru/news/1030808/"
+        },
+        "https://www.ixbt.com/news/2026/05/03/softbank-ipo-roze-ai-100.html": {
+            "title": "SoftBank готовит IPO Roze AI с оценкой до $100 млрд для строительства дата-центров роботами",
+            "description": "Новый проект делает ставку на автономных роботов для ускорения создания инфраструктуры ИИ, но вызывает скепсис из-за амбициозных сроков и отсутствия готового продукта",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/converted%20-%202026-05-03T132346.119.jpg",
+            "url": "https://www.ixbt.com/news/2026/05/03/softbank-ipo-roze-ai-100.html"
         }
     }
 }
