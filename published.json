@@ -14057,6 +14057,12 @@
             "description": "Вопрос обсуждается с федеральными органами исполнительной власти",
             "image": "https://sharing.vedomosti.ru/1777823875/vedomosti.ru/economics/news/2026/05/03/1194784-minenergo-namereno-uskorit.jpg",
             "url": "https://www.vedomosti.ru/economics/news/2026/05/03/1194784-minenergo-namereno-uskorit"
+        },
+        "https://habr.com/ru/news/1030868/": {
+            "title": "Российский браузер \"Луна\" удалили из App Store",
+            "description": "Браузер «Луна» (разработчик — ООО «Инновационная разработка» Innovative Development LLC, которое на 99% принадлежит компании «Мультибонус», владельцем которой являлся ранее «Почта Банк»)...",
+            "image": "https://habr.com/share/publication/1030868/63615a8dea95c72fa54fccf3edfe7858/",
+            "url": "https://habr.com/ru/news/1030868/"
         }
     }
 }
