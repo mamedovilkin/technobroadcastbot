@@ -14183,6 +14183,12 @@
             "description": "Ресурс Mystic Leaks опубликовал крупную утечку о готовящейся серии смартфонов Google Pixel 11 — раскрыты конфигурация чипа Tensor G6 на ядрах Arm C1, новые сенсоры камер с кодовыми обозначениями chemosh, bastet и barghest, размещение светового RGB-индикатора Pixel Glow на блоке камеры и отказ от модемов Samsung в пользу MediaTek M90 (MT6986D). Выход смартфонов ожидается в августе, по дизайну они будут близки к Pixel 10..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/04/1141133/v-set-utekli-vse-klyuchevye-podrobnosti-lineyki-google-pixel-11-ot-tensor-g6-do-novykh-sensorov-kamery-1.jpg",
             "url": "https://3dnews.ru/1141133/v-set-utekli-vse-klyuchevye-podrobnosti-lineyki-google-pixel-11-ot-tensor-g6-do-novykh-sensorov-kamery"
+        },
+        "https://www.vedomosti.ru/technology/articles/2026/05/05/1195125-operatori-predupredili-abonentov-ob-otklyuchenii-interneta-v-stolitse": {
+            "title": "Операторы предупредили абонентов об отключении интернета в столице",
+            "description": "Такие меры вводятся в связи с проведением праздничных мероприятий",
+            "image": "https://sharing.vedomosti.ru/1777928956/vedomosti.ru/technology/articles/2026/05/05/1195125-operatori-predupredili-abonentov-ob-otklyuchenii-interneta-v-stolitse.jpg",
+            "url": "https://www.vedomosti.ru/technology/articles/2026/05/05/1195125-operatori-predupredili-abonentov-ob-otklyuchenii-interneta-v-stolitse"
         }
     }
 }
