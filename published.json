@@ -14315,6 +14315,12 @@
             "description": "Такие данные позволяют формировать убедительные сценарии атак, рассчитанные на доверие к государственным структурам",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/2/0_3_large.png",
             "url": "https://www.ixbt.com/news/2026/05/05/159-mln-dannyh-iz-gossektora-vylozheno-v-otkrytom-dostupe-za-mesjac.html"
+        },
+        "https://3dnews.ru/1141224/ataka-cherez-daemon-tools-porazila-polzovateley-boleye-chem-v-100-stranakh-i-prodolzhayetsya-vtoroy-mesyats": {
+            "title": "Официальный сайт Daemon Tools уже месяц распространяет заражённый установщик с трояном",
+            "description": "«Лаборатория Касперского» обнаружила, что установщики программы DAEMON Tools для монтирования образов дисков заражены вредоносным кодом: пользователи скачивают доверенное программное обеспечение (ПО), а получают скрытую программу удалённого управления системой. Заражённые версии с 12.5.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/06/1141224/ataka-cherez-daemon-tools-porazila-polzovateley-boleye-chem-v-100-stranakh-i-prodolzhayetsya-vtoroy-mesyats-image.jpg",
+            "url": "https://3dnews.ru/1141224/ataka-cherez-daemon-tools-porazila-polzovateley-boleye-chem-v-100-stranakh-i-prodolzhayetsya-vtoroy-mesyats"
         }
     }
 }
