@@ -14285,6 +14285,12 @@
             "description": "Руководство Coinbase уволит часть сотрудников для оптимизации бизнес-процессов",
             "image": "https://resizer.mail.ru/p/94db222f-e0b5-547f-a16e-1035e03a449a/AQAzNMwsZeSHjE9NHTg1UkFaE8ENAy4uYwVOo5MK_3CtHUD8VIurMOVu_1p7cPAIKe-wgASuDODKGl8ymT7BMVHjiqA.jpg",
             "url": "https://finance.mail.ru/article/kriptobirzha-coinbase-sokratit-shtat-na-14-radi-vnedreniya-iskusstvennogo-intellekta-69207646/"
+        },
+        "https://habr.com/ru/news/1031886/": {
+            "title": "Программирование решено, дальше - циклы: создатель Claude Code о будущем ИИ-кодинга",
+            "description": "Создатель Claude Code Борис Черни на  конференции Sequoia AI Ascent 2026  описал новый режим работы с ИИ: вместо разовых запросов — десятки постоянно крутящихся агентных циклов. Для него...",
+            "image": "https://habr.com/share/publication/1031886/fbaec55cca05c6afc45eba61b1908081/",
+            "url": "https://habr.com/ru/news/1031886/"
         }
     }
 }
