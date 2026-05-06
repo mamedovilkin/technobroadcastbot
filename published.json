@@ -14321,6 +14321,12 @@
             "description": "«Лаборатория Касперского» обнаружила, что установщики программы DAEMON Tools для монтирования образов дисков заражены вредоносным кодом: пользователи скачивают доверенное программное обеспечение (ПО), а получают скрытую программу удалённого управления системой. Заражённые версии с 12.5.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/06/1141224/ataka-cherez-daemon-tools-porazila-polzovateley-boleye-chem-v-100-stranakh-i-prodolzhayetsya-vtoroy-mesyats-image.jpg",
             "url": "https://3dnews.ru/1141224/ataka-cherez-daemon-tools-porazila-polzovateley-boleye-chem-v-100-stranakh-i-prodolzhayetsya-vtoroy-mesyats"
+        },
+        "https://tarantas.news/posts/id66912-buduschee-vtorichki-tesla-nashla-kljuch-k-doveriju-pokupatelej": {
+            "title": "Будущее вторички: Tesla нашла ключ к доверию покупателей",
+            "description": "Компания Tesla выпустила специальное обновление программного обеспечения, которое открывает доступ владельцам автомобилей компании к официальному документу — «Сертификату ремонта высоковольтной батареи».",
+            "image": "https://tarantas.news/uploads/prew/big_images/webp_version/2FzvTM6tuI8O7OgWAtwt.webp",
+            "url": "https://tarantas.news/posts/id66912-buduschee-vtorichki-tesla-nashla-kljuch-k-doveriju-pokupatelej"
         }
     }
 }
