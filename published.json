@@ -14429,6 +14429,12 @@
             "description": "Anthropic запустила  dreaming в Claude Managed Agents  (инфраструктура для запуска агентов в облаке) — фоновую процедуру, в которой агент в простое перебирает свои прошлые разговоры и...",
             "image": "https://habr.com/share/publication/1032266/6ab13e8c14174c2e2018f0fb64a3e8cc/",
             "url": "https://habr.com/ru/news/1032266/"
+        },
+        "https://finance.mail.ru/article/anthropic-i-spacex-zaklyuchili-soglashenie-ob-ispolzovanii-vyichislitelnyih-moschnostej-69207805/": {
+            "title": "Anthropic и SpaceX заключили соглашение об использовании вычислительных мощностей",
+            "description": "Компании Anthropic и SpaceX договорились о совместном развитии дата-центров",
+            "image": "https://resizer.mail.ru/p/cf3b0ecc-57ff-5a78-8c7e-0bbb0f8a93f8/AQAzDvpS8rUFCyP6TE5L1lw1hteppKLUV_2qx3qLPMF3-BGvQQmcQ7oLStmbIxVpzdOHtJLHNBJcnzgXP9fpZeMO0y4.jpg",
+            "url": "https://finance.mail.ru/article/anthropic-i-spacex-zaklyuchili-soglashenie-ob-ispolzovanii-vyichislitelnyih-moschnostej-69207805/"
         }
     }
 }
