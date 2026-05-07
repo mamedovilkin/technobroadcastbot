@@ -14483,6 +14483,12 @@
             "description": "20-летний студент факультета электроники и вычислительной техники университета Торонто Лутира Абейкун выложил на GitHub проект  TALOS-V2  — реализацию трансформера microGPT Андрея Карпати,...",
             "image": "https://habr.com/share/publication/1032380/5ec97929c24c22b576016685e4028d0d/",
             "url": "https://habr.com/ru/news/1032380/"
+        },
+        "https://www.vedomosti.ru/technology/news/2026/05/07/1195803-vlasti-ne-rassmatrivayut": {
+            "title": "Песков: власти не рассматривают мер поддержки бизнеса из-за отключений интернета",
+            "description": "Ограничения вводятся для безопасности граждан",
+            "image": "https://sharing.vedomosti.ru/1778148243/vedomosti.ru/technology/news/2026/05/07/1195803-vlasti-ne-rassmatrivayut.jpg",
+            "url": "https://www.vedomosti.ru/technology/news/2026/05/07/1195803-vlasti-ne-rassmatrivayut"
         }
     }
 }
