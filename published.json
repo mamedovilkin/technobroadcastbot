@@ -14477,6 +14477,12 @@
             "description": "Европейские энергетические гиганты отчитались о рекордных финансовых показателях",
             "image": "https://resizer.mail.ru/p/05e80899-2e74-5eab-a012-1f80f6808d55/AQAzHHHU9r-OgO2P1vs6_HIccgLGLJr-q0v0M8CGIGAKiEZEDXtz2DUjRL4lMyUPWczvhTLOsUeizxPI7Z6_FplVZ2k.jpg",
             "url": "https://finance.mail.ru/article/proizvoditeli-vetrovoj-energii-zafiksirovali-rezkij-rost-kvartalnoj-pribyili-69207836/"
+        },
+        "https://habr.com/ru/news/1032380/": {
+            "title": "Энтузиаст \"выжег\" microGPT Андрея Карпати в FPGA и получил 53 тыс. токенов/сек",
+            "description": "20-летний студент факультета электроники и вычислительной техники университета Торонто Лутира Абейкун выложил на GitHub проект  TALOS-V2  — реализацию трансформера microGPT Андрея Карпати,...",
+            "image": "https://habr.com/share/publication/1032380/5ec97929c24c22b576016685e4028d0d/",
+            "url": "https://habr.com/ru/news/1032380/"
         }
     }
 }
