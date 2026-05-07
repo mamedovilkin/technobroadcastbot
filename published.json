@@ -14423,6 +14423,12 @@
             "description": "Корпорация AMD повысила прогнозы по выручке на фоне высокого спроса на процессоры",
             "image": "https://resizer.mail.ru/p/a26a175c-abdf-5d38-9f80-6496b756b333/AQAzP_jNKMh5a28KSHmjeSVy9WF1EY_9SReKW0sTiHlZVKk2KN9m_fG6emWjdQr9UspE0Ir2jkxigwk9R8gPE0-DdfM.jpg",
             "url": "https://finance.mail.ru/article/glava-amd-obyasnila-rezkij-peresmotr-prognozov-kompanii-bumom-iskusstvennogo-intellekta-69207793/"
+        },
+        "https://habr.com/ru/news/1032266/": {
+            "title": "Claude теперь \"видит сны\": Anthropic выкатила режим dreaming для ИИ-агентов",
+            "description": "Anthropic запустила  dreaming в Claude Managed Agents  (инфраструктура для запуска агентов в облаке) — фоновую процедуру, в которой агент в простое перебирает свои прошлые разговоры и...",
+            "image": "https://habr.com/share/publication/1032266/6ab13e8c14174c2e2018f0fb64a3e8cc/",
+            "url": "https://habr.com/ru/news/1032266/"
         }
     }
 }
