@@ -14681,6 +14681,12 @@
             "description": "Облачная инфраструктура частично восстановлена",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/6/py1VE_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/09/izza-peregreva-serverov-amazon-postradali-klienty-coinbase-i-drugih-kompanij.html"
+        },
+        "https://3dnews.ru/1141444/s-opozdaniem-na-mesyats-openai-otvetila-na-claude-mythos-vishla-model-gpt55cyber-kotoraya-ne-boitsya-obsugdat-kiberataki-i-eksployti": {
+            "title": "С опозданием на месяц OpenAI ответила на Claude Mythos - вышла модель GPT-5.5-Cyber, которая не боится обсуждать кибератаки и эксплойты",
+            "description": "OpenAI представила модель искусственного интеллекта GPT-5.5-Cyber, предназначенную для работы в области кибербезопасности — своего рода аналог нашумевшей Anthropic Mythos. Доступ к ней получит ограниченное число клиентов компании.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/09/1141444/openai.jpg",
+            "url": "https://3dnews.ru/1141444/s-opozdaniem-na-mesyats-openai-otvetila-na-claude-mythos-vishla-model-gpt55cyber-kotoraya-ne-boitsya-obsugdat-kiberataki-i-eksployti"
         }
     }
 }
