@@ -14597,6 +14597,12 @@
             "description": "В Samsung объявили о разработке первой в мире системы, способной предсказать вероятность обморока на основе данных с умных часов. Об этом сообщается на сайте Samsung Newsroom.",
             "image": "https://news.store.rambler.ru/img/9b22fcca2e287d854774daae7d0f2b63?img-1-resize=width%3A1280%2Cheight%3A720%2Cfit%3Acover&img-format=auto",
             "url": "https://news.rambler.ua/tech/56419200-samsung-obyavila-o-proryve-kotoryy-spaset-ot-vnezapnyh-obmorokov/"
+        },
+        "https://finance.mail.ru/article/sboj-v-serverah-amazon-narushil-rabotu-torgovyih-platform-coinbase-i-fanduel-69208138/": {
+            "title": "Сбой в серверах Amazon нарушил работу торговых платформ Coinbase и FanDuel",
+            "description": "Облачный сервис AWS устраняет последствия перегрева оборудования в США",
+            "image": "https://resizer.mail.ru/p/3ad4442c-a74e-560f-8221-c65d9c81a966/AQAz3XWm2sK_0cCakf2lyGPnSZjftdpgoe1CxQEskjd6o9fFxbUKZLfKZ9PFlQUElO6rTR-pSCRLz262oBwgTS8up94.jpg",
+            "url": "https://finance.mail.ru/article/sboj-v-serverah-amazon-narushil-rabotu-torgovyih-platform-coinbase-i-fanduel-69208138/"
         }
     }
 }
