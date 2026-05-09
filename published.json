@@ -14639,6 +14639,12 @@
             "description": "Российский рынок окончательно смещается от простых фитнес-браслетов в сторону полноценных умных часов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/5/image%20(1)_large.png",
             "url": "https://www.ixbt.com/news/2026/05/08/mvideo-samye-populjarnye-umnye-chasy-v-rossii-nachala-2026-goda.html"
+        },
+        "https://habr.com/ru/news/1033150/": {
+            "title": "В открытый доступ выложены исходные коды некоторых версий файлового менеджера Volkov Commander для DOS",
+            "description": "Таллинский музей компьютеров Arvutimuuseum выложил в открытый доступ на GitHub исходные коды на ассемблере некоторых версий файлового менеджера Volkov Commander для DOS. Arvutimuuseum публикует...",
+            "image": "https://habr.com/share/publication/1033150/343109ebfaf7beef9c58e922453820b5/",
+            "url": "https://habr.com/ru/news/1033150/"
         }
     }
 }
