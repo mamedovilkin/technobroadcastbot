@@ -14663,6 +14663,12 @@
             "description": "Базовая версия новой линейки Huawei получила уникальный дизайн, мощную камеру и заметно более доступную цену",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/6/Pura90-img1_large.png",
             "url": "https://www.ixbt.com/news/2026/05/09/huawei-pura-90-pura-90-pro-pro-max.html"
+        },
+        "https://habr.com/ru/news/1033214/": {
+            "title": "Google собрал ИИ-математика - и тот закрыл открытую задачу из Куровской тетради",
+            "description": "Google DeepMind представил AI co-mathematician — агентную систему на базе Gemini 3.1, которая работает не как чатбот, а как рабочее пространство для математика с командой ИИ-агентов. С ее помощью...",
+            "image": "https://habr.com/share/publication/1033214/f699e7d8f42773df4b6fa038a79c0def/",
+            "url": "https://habr.com/ru/news/1033214/"
         }
     }
 }
