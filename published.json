@@ -14561,6 +14561,12 @@
             "description": "Американский облачный сервис Cloudflare объявил о сокращении почти 20% сотрудников — 1,1 тыс. человек. Это решение объясняется быстрым внедрением инструментов искусственного интеллекта (ИИ). Генеральный директор Cloudflare Мэттью Принс заявил, что компания собирается пересмотреть функции и состав всех своих групп с учетом более активного применения ИИ-инструментов.",
             "image": "https://resizer.mail.ru/p/a22c6ad9-1ded-53cf-be5b-d33f1788b159/AQAzKYnjNKIRLHVZLzqh7D2yWux4GliIoVBszb0V6I_k8zniONRFF4sd7bJuhjmCpg9nNbOL201_Kv0YCaZr6BbGHuU.jpg",
             "url": "https://finance.mail.ru/article/oblachnyij-servis-cloudflare-sokratit-20-sotrudnikov-iz-za-vnedreniya-ii-69208094/"
+        },
+        "https://www.interfax.ru/digital/1088499": {
+            "title": "Роскомнадзор заявил, что не блокирует GitHub",
+            "description": "Роскомнадзор (РКН) заявляет, что не ограничивает в РФ работу крупнейшей онлайн-платформы для совместной IT-разработки GitHub",
+            "image": "https://www.interfax.ru/aspimg/1088499.jpg",
+            "url": "https://www.interfax.ru/digital/1088499"
         }
     }
 }
