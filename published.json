@@ -14573,6 +14573,12 @@
             "description": "Для синхронизации потребуется платная подписка",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/5/image_large.png",
             "url": "https://www.ixbt.com/news/2026/05/08/prilozhenie-jandeks-diska-dlja-pk-stanovitsja-platnym.html"
+        },
+        "https://3dnews.ru/1141413/windows-11-do-sih-por-dergitsya-na-kode-epohi-windows-95-popitki-zamenit-ego-provalilis": {
+            "title": "Windows 11 до сих пор держится на коде эпохи Windows 95 - попытки заменить его провалились",
+            "description": "Центральным элементом функциональности Windows 11 до сих пор остаётся проверенный не годами, а десятилетиями API Win32. Своими корнями он восходит к Windows 95, разработчики которого мечтали, что в 2026 году появятся летающие автомобили и лунные станции..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/08/1141413/windows-95.jpg",
+            "url": "https://3dnews.ru/1141413/windows-11-do-sih-por-dergitsya-na-kode-epohi-windows-95-popitki-zamenit-ego-provalilis"
         }
     }
 }
