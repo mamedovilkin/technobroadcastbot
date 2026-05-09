@@ -14687,6 +14687,12 @@
             "description": "OpenAI представила модель искусственного интеллекта GPT-5.5-Cyber, предназначенную для работы в области кибербезопасности — своего рода аналог нашумевшей Anthropic Mythos. Доступ к ней получит ограниченное число клиентов компании.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/09/1141444/openai.jpg",
             "url": "https://3dnews.ru/1141444/s-opozdaniem-na-mesyats-openai-otvetila-na-claude-mythos-vishla-model-gpt55cyber-kotoraya-ne-boitsya-obsugdat-kiberataki-i-eksployti"
+        },
+        "https://habr.com/ru/news/1033262/": {
+            "title": "reCAPTCHA перестала работать для пользователей Android без предустановленных сервисов Google",
+            "description": "В Google связали свою систему reCAPTCHA нового поколения с сервисами Google Play на Android. Это значит, что смартфоны без предустановленных сервисов автоматически не пройдут проверку, когда система...",
+            "image": "https://habr.com/share/publication/1033262/856a0c022fa9cc8e18242462a7b68d30/",
+            "url": "https://habr.com/ru/news/1033262/"
         }
     }
 }
