@@ -14759,6 +14759,12 @@
             "description": "В апреле уровень безработицы в технологическом секторе упал до 3,5%, в то время как крупнейшие игроки — от Cloudflare до Coinbase — сокращают тысячи сотрудников ради перехода на модель управления с помощью ИИ-агентов",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/6/converted%20-%202026-05-09T165733.680_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/09/paradoks-ii-rynok-itvakansij-v-ssha-dostig-trjohletnego-maksimuma-na-fone-volny-avtomaticheskih-uvolnenij.html"
+        },
+        "https://habr.com/ru/news/1033334/": {
+            "title": "Hi-Tech Mail: с 3 июня десктопный клиент \"Яндекс Диск\" для Windows и macOS перестанет полноценно работать без подписки",
+            "description": "По информации Hi-Tech Mail, с 3 июня 2026 года десктопное приложение «Яндекс Диск» для Windows и macOS перестанет полноценно работать без подписки. Бесплатным пользователям отключат облачные функции в...",
+            "image": "https://habr.com/share/publication/1033334/84b4d182662d38e93d774d93ef167b09/",
+            "url": "https://habr.com/ru/news/1033334/"
         }
     }
 }
