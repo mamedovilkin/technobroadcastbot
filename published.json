@@ -14867,6 +14867,12 @@
             "description": "Новых функций не появилось, но стабильность работы должна улучшиться",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/redmi_large.JPG",
             "url": "https://www.ixbt.com/news/2026/05/10/xiaomi-xiaomi-12-poco-f4-redmi-note-11-pro.html"
+        },
+        "https://habr.com/ru/news/1033440/": {
+            "title": "В Ploopy перенесли TrackPoint от ноутбуков ThinkPad в портативную мышь",
+            "description": "Компания Ploopy анонсировала альтернативу мыши с открытым исходным кодом, которая обходится без тачпадов и трекболов. Ploopy Bean получила джойстик, похожий на TrackPoint, который IBM устанавливала на...",
+            "image": "https://habr.com/share/publication/1033440/cdcd13d865af1b8b35c418a8d9022693/",
+            "url": "https://habr.com/ru/news/1033440/"
         }
     }
 }
