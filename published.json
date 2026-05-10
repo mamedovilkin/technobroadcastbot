@@ -14849,6 +14849,12 @@
             "description": "Игровой монстр будет представлен уже 18 мая",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/6Ayeu_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/10/snapdragon-8-elite-gen-5-redmagic-11s-pro.html"
+        },
+        "https://habr.com/ru/news/1033392/": {
+            "title": "Из настроек Chrome пропало сообщение о приватности локального ИИ Gemini Nano. Это может стоить Google миллиарды",
+            "description": "4 мая исследователь приватности Александр Ханфф опубликовал детальный разбор того, как Chrome тихо ставит на устройства пользователей 4-гигабайтный файл с весами Gemini Nano — без диалога и без...",
+            "image": "https://habr.com/share/publication/1033392/414e2f89da2baf4c9e8e8019bdda1fb8/",
+            "url": "https://habr.com/ru/news/1033392/"
         }
     }
 }
