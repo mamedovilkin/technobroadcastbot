@@ -14783,6 +14783,12 @@
             "description": "Supermassive Games опубликовала официальные системные требования для ПК хоррора Directive 8020, и, судя по рекомендуемым характеристикам, ясно, что новая игра будет стремиться предложить визуально амбициозный опыт.",
             "image": "https://i.playground.ru/e/ixBogZ8ProPx9hz0X_G9og.png",
             "url": "https://www.playground.ru/directive_8020/news/supermassive_opublikovali_obnovlyonnye_sistemnye_trebovaniya_horrora_directive_8020-1843754"
+        },
+        "https://www.ixbt.com/news/2026/05/09/odin-iz-krupnejshih-datacentrov-amazon-otkljuchilsja-izza-peregreva.html": {
+            "title": "Один из крупнейших дата-центров Amazon отключился из-за перегрева",
+            "description": "Сбой в облачной инфраструктуре AWS затронул сервисы клиентов, включая Coinbase, и вновь поднял вопрос о растущем энергопотреблении ИИ-индустрии",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/6/converted%20-%202026-05-09T203122.827_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/05/09/odin-iz-krupnejshih-datacentrov-amazon-otkljuchilsja-izza-peregreva.html"
         }
     }
 }
