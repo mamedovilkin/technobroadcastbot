@@ -14999,6 +14999,12 @@
             "description": "Новый драйвер NTSYNC переносит ключевые API Windows на уровень ядра Linux, снижая зависимость от эмуляции Wine и делая Steam Deck и Proton быстрее и стабильнее",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/converted%20-%202026-05-10T212633.701_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/10/linux-nachal-vstraivat-mehanizmy-windows-prjamo-v-jadro-radi-uskorenija-igr.html"
+        },
+        "https://3dnews.ru/1141485/poluprovodnikovye-kompanii-iz-sp-500-za-shest-nedel-pribavili-v-kapitalizatsii-okolo-38-trln-na-sprose-ii": {
+            "title": "ИИ-воронка затягивает всё больше производителей чипов, заставляя расти их акции по экспоненте",
+            "description": "Год назад инвесторы списали Intel со счётов, но теперь её акции стремительно выросли. Впервые за 26 лет акции компании обновили исторический максимум и ушли далеко выше прежней отметки. С начала года бумаги Intel прибавили 239 %, акции SanDisk выросли на 558 %, Micron Technology — на 770 %, а полупроводниковые компании из американского индекса S&P 500 за шесть недель увеличили капитализацию на $3,8 трлн.",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/10/1141485/poluprovodnikovye-kompanii-iz-sp-500-za-shest-nedel-pribavili-v-kapitalizatsii-okolo-38-trln-na-sprose-ii-main.jpg",
+            "url": "https://3dnews.ru/1141485/poluprovodnikovye-kompanii-iz-sp-500-za-shest-nedel-pribavili-v-kapitalizatsii-okolo-38-trln-na-sprose-ii"
         }
     }
 }
