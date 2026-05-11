@@ -15101,6 +15101,12 @@
             "description": "В Windows 11 до сих пор сохранилось немало устаревших инструментов, в том числе «Таблица символов» (charmap.exe). В недавнем обсуждении на Reddit пользователи вспоминали , как его внедрили как минимум...",
             "image": "https://habr.com/share/publication/1033674/fe1ca2b5a5b950303cfe9f6cf3ddb704/",
             "url": "https://habr.com/ru/news/1033674/"
+        },
+        "https://finance.mail.ru/article/circle-privlekla-222-mln-investitsij-na-razvitie-novogo-blokchejna-arc-69208266/": {
+            "title": "Circle привлекла $222 млн инвестиций на развитие нового блокчейна Arc",
+            "description": "Инвесторы оценили новую блокчейн-сеть от создателей USDC в $3 млрд",
+            "image": "https://resizer.mail.ru/p/4ab12b01-7c69-5ffc-a0ea-d18453ee4fd1/AQAz9pZErarDhnzff26VvKrVTLnCmw_Cd-FTVxiLwdpkIVS6ILc-YW3dkCNtiBueKnn6wT8HVehWPsA8_hmEEh0H6w0.jpg",
+            "url": "https://finance.mail.ru/article/circle-privlekla-222-mln-investitsij-na-razvitie-novogo-blokchejna-arc-69208266/"
         }
     }
 }
