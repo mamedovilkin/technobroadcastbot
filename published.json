@@ -15095,6 +15095,12 @@
             "description": "У Heroes of Might and Magic: Olden Era появилась неофициальная русская озвучка, созданная с помощью искусственного интеллекта. За проект взялось сообщество Shimon Mood, которое решило закрыть один из главных запросов игроков после выхода ранней версии...",
             "image": "https://i.playground.ru/e/XrhH-Tz6V1gZmtfEC_2Zjw.jpeg",
             "url": "https://www.playground.ru/heroes_of_might_magic_olden_era/news/novye_geroi_zagovorili_po_russki_dlya_heroes_of_might_and_magic_olden_era_vypustili_ii_ozvuchku-1843912"
+        },
+        "https://habr.com/ru/news/1033674/": {
+            "title": "Инструмент charmap.exe Windows активно используется спустя 30 лет после выхода",
+            "description": "В Windows 11 до сих пор сохранилось немало устаревших инструментов, в том числе «Таблица символов» (charmap.exe). В недавнем обсуждении на Reddit пользователи вспоминали , как его внедрили как минимум...",
+            "image": "https://habr.com/share/publication/1033674/fe1ca2b5a5b950303cfe9f6cf3ddb704/",
+            "url": "https://habr.com/ru/news/1033674/"
         }
     }
 }
