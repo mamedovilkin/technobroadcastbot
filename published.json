@@ -15041,6 +15041,12 @@
             "description": "«Локальный ИИ» теперь без гарантий приватности.",
             "image": "https://www.securitylab.ru/upload/iblock/76e/98ilsp2i72tlalq1ufdk7gxrk513v6zc.jpg",
             "url": "https://www.securitylab.ru/news/572539.php"
+        },
+        "https://habr.com/ru/news/1033610/": {
+            "title": "Впервые с основания Anthropic стоит больше OpenAI: $900 млрд против $852 млрд",
+            "description": "Anthropic ведет переговоры о новом инвестраунде на $40–50 млрд при оценке $850–900 млрд,  сообщил TechCrunch со ссылкой на полдюжины источников; параллельно цифры  подтвердила Financial...",
+            "image": "https://habr.com/share/publication/1033610/97e132ab893de4a404dc527a3663811c/",
+            "url": "https://habr.com/ru/news/1033610/"
         }
     }
 }
