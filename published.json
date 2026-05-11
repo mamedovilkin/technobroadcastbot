@@ -15035,6 +15035,12 @@
             "description": "В тестовых сборках появился механизм, который убирает подтормаживания за счет коротких всплесков производительности.",
             "image": "https://www.securitylab.ru/upload/iblock/021/f46zrjro5l2udqtiwgisoz9jq1eqdcg4.jpg",
             "url": "https://www.securitylab.ru/news/572559.php"
+        },
+        "https://www.securitylab.ru/news/572539.php": {
+            "title": "Google удалила фразу \"не отправляем данные на серверы\" из Chrome - и все сразу поняли: что-то не так",
+            "description": "«Локальный ИИ» теперь без гарантий приватности.",
+            "image": "https://www.securitylab.ru/upload/iblock/76e/98ilsp2i72tlalq1ufdk7gxrk513v6zc.jpg",
+            "url": "https://www.securitylab.ru/news/572539.php"
         }
     }
 }
