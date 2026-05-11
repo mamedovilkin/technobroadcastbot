@@ -15065,6 +15065,12 @@
             "description": "Система прошла сертификацию",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/1/image%20-%202026-05-11T095805.753_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/11/xiaomi-gotovit-avtomobilnyj-jekran-novogo-pokolenija.html"
+        },
+        "https://habr.com/ru/news/1033654/": {
+            "title": "Truecaller сокращает 70 сотрудников или 15% штата на фоне снижения продаж",
+            "description": "Платформа распознавания номеров Truecaller объявила о планах уволить 70 сотрудников или 15% персонала на фоне снижения продаж. В прошлом месяце СМИ сообщили, что акции шведской компании упали примерно...",
+            "image": "https://habr.com/share/publication/1033654/52345bea32ab709c60f07e656ee21f8f/",
+            "url": "https://habr.com/ru/news/1033654/"
         }
     }
 }
