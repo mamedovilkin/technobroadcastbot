@@ -14993,6 +14993,12 @@
             "description": "Минобороны Латвии возглавил полковник Райвис Мелнис. Новый министр обороны имеет значительный опыт и образование. - Политика - 10 мая 2026 | ФОНТАНКА.ру",
             "image": "https://www.fontanka.ru/html-to-img/og/cjb3Mq8byKFHOVPPcZdlDA/article-id7021470-16x9.jpg?1778439680",
             "url": "https://www.fontanka.ru/2026/05/10/76413977/"
+        },
+        "https://www.ixbt.com/news/2026/05/10/linux-nachal-vstraivat-mehanizmy-windows-prjamo-v-jadro-radi-uskorenija-igr.html": {
+            "title": "Linux начал встраивать механизмы Windows прямо в ядро ради ускорения игр",
+            "description": "Новый драйвер NTSYNC переносит ключевые API Windows на уровень ядра Linux, снижая зависимость от эмуляции Wine и делая Steam Deck и Proton быстрее и стабильнее",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/0/converted%20-%202026-05-10T212633.701_large.jpg",
+            "url": "https://www.ixbt.com/news/2026/05/10/linux-nachal-vstraivat-mehanizmy-windows-prjamo-v-jadro-radi-uskorenija-igr.html"
         }
     }
 }
