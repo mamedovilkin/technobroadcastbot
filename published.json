@@ -15029,6 +15029,12 @@
             "description": "Беспроводной пылесос Xiaomi получил мощность 230 AW, съёмный аккумулятор и систему обнаружения пыли синим светом",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/1/ed7Et_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/11/xiaomi-mijia-wireless-vacuum-cleaner-4.html"
+        },
+        "https://www.securitylab.ru/news/572559.php": {
+            "title": "Меню \"Пуск\" открывается на 70% быстрее, приложения - на 40%. Microsoft тихо тестирует механизм, который делает Windows 11 отзывчивее без апгрейда железа",
+            "description": "В тестовых сборках появился механизм, который убирает подтормаживания за счет коротких всплесков производительности.",
+            "image": "https://www.securitylab.ru/upload/iblock/021/f46zrjro5l2udqtiwgisoz9jq1eqdcg4.jpg",
+            "url": "https://www.securitylab.ru/news/572559.php"
         }
     }
 }
