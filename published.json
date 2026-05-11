@@ -14921,6 +14921,12 @@
             "description": "Новости",
             "image": "https://www.bnkomi.ru/content/news/images/198507/PSV_5453.jpg",
             "url": "https://www.bnkomi.ru/data/news/198507/"
+        },
+        "https://habr.com/ru/companies/selectel/articles/1032942/": {
+            "title": "ИИ-серверы Majestic Labs Prometheus: 128 ТБ памяти в одном устройстве, которое заменяет целую стойку",
+            "description": "Majestic Labs — небольшая команда, о которой мало кто слышал до ноября прошлого года. В мае 2026 они анонсировали серверную ИИ-платформу Prometheus. Задача, которую взялась решать компания, хорошо...",
+            "image": "https://habr.com/share/publication/1032942/f7aa06cd0ae36f1b9b0d89357b7be18b/",
+            "url": "https://habr.com/ru/companies/selectel/articles/1032942/"
         }
     }
 }
