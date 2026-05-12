@@ -15197,6 +15197,12 @@
             "description": "Компания «Группа Астра» выпустила коммерческую версию продукта Astra Migration. Инструмент предназначен для автоматической миграции с операционной системы Windows на Astra Linux....",
             "image": "https://habr.com/share/publication/1033836/2550ac4c6e2d13038cc72119639d9f44/",
             "url": "https://habr.com/ru/news/1033836/"
+        },
+        "https://3dnews.ru/1141534/hakery-sozdali-eksploit-nulevogo-dnya-pri-pomoshchi-ii-no-google-neytralizovala": {
+            "title": "Google впервые обнаружила и заблокировала ИИ-эксплойт нулевого дня для взлома 2FA",
+            "description": "Google впервые обнаружила и заблокировала эксплойт нулевого дня (метод атаки через уязвимость, о которой разработчик ещё не знает), созданный с помощью ИИ. По данным Google Threat Intelligence Group (GTIG), известные киберпреступные группировки готовили масштабную атаку на систему двухфакторной аутентификации (2FA) в веб-приложении с открытым исходным кодом для системного администрирования..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/11/1141534/main.jpg",
+            "url": "https://3dnews.ru/1141534/hakery-sozdali-eksploit-nulevogo-dnya-pri-pomoshchi-ii-no-google-neytralizovala"
         }
     }
 }
