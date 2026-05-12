@@ -15215,6 +15215,12 @@
             "description": "Сайт JDownloader восстановил работу после отключения из-за взлома.",
             "image": "https://www.securitylab.ru/upload/iblock/dc4/q8l1pdme14mrdh1ev7smdfpwa7b5jk31.jpg",
             "url": "https://www.securitylab.ru/news/572576.php"
+        },
+        "https://habr.com/ru/news/1033934/": {
+            "title": "\"Маркетинговый хайп\": из пяти уязвимостей Mythos в curl подтвердилась одна",
+            "description": "Дэниел Стенберг, лид и основной разработчик проекта curl, опубликовал  разбор результатов сканирования  кода библиотеки моделью Mythos от Anthropic в рамках Project Glasswing. Из пяти...",
+            "image": "https://habr.com/share/publication/1033934/bcf9fb424d3263c1112e9c5417b40764/",
+            "url": "https://habr.com/ru/news/1033934/"
         }
     }
 }
