@@ -15191,6 +15191,12 @@
             "description": "Остров Ангилья в Карибском море за несколько лет радикально увеличил доходы своего бюджета из-за роста рынка искусственного интеллекта. При этом на самой Ангилье нет крупных ИИ-стартапов, все доходы поступают исключительно за счет продажи доменных имен.",
             "image": "https://meduza.io/imgly/share/1778519649/feature/2026/05/11/malenkiy-ostrov-v-karibskom-more-zarabatyvaet-desyatki-millionov-dollarov-v-god-iz-za-buma-iskusstvennogo-intellekta",
             "url": "https://meduza.io/feature/2026/05/11/malenkiy-ostrov-v-karibskom-more-zarabatyvaet-desyatki-millionov-dollarov-v-god-iz-za-buma-iskusstvennogo-intellekta"
+        },
+        "https://habr.com/ru/news/1033836/": {
+            "title": "\"Группа Астра\" выпустила инструмент для автоматической миграции с Windows на Astra Linux",
+            "description": "Компания «Группа Астра» выпустила коммерческую версию продукта Astra Migration. Инструмент предназначен для автоматической миграции с операционной системы Windows на Astra Linux....",
+            "image": "https://habr.com/share/publication/1033836/2550ac4c6e2d13038cc72119639d9f44/",
+            "url": "https://habr.com/ru/news/1033836/"
         }
     }
 }
