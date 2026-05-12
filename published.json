@@ -15305,6 +15305,12 @@
             "description": "Флагман сохранит фирменную рамку над и под экраном, но сзади теперь всё выглядит иначе",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/2/90682.png",
             "url": "https://www.ixbt.com/news/2026/05/12/sony-xperia-1-viii.html"
+        },
+        "https://www.securitylab.ru/news/572601.php": {
+            "title": "Пассворк стал первым менеджером паролей в России c сертификацией ФСТЭК",
+            "description": "Компания получил сертификат ФСТЭК России № 5603 по 4-му уровню доверия, наивысшему для коммерческих СЗИ",
+            "image": "https://www.securitylab.ru/upload/iblock/653/4hrubkh3at1l31n87qcb01x83jqcszd2.jpg",
+            "url": "https://www.securitylab.ru/news/572601.php"
         }
     }
 }
