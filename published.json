@@ -15401,6 +15401,12 @@
             "description": "Разработчик программного обеспечения GitLab анонсировал сокращение штата и увольнения",
             "image": "https://resizer.mail.ru/p/c075f580-3dbd-578d-8532-6b50907f026d/AQAz0mpTIUsES_WVK-ILsYO99DA9xpUDI1W5scpv7e616u6P4-tZNXn_ujnNY7TLcczGgkxGUo-hRKpKyqt4wCmEo98.jpg",
             "url": "https://finance.mail.ru/article/aktsii-gitlab-ruhnuli-na-fone-planov-masshtabnoj-restrukturizatsii-biznesa-69208476/"
+        },
+        "https://habr.com/ru/news/1034380/": {
+            "title": "Андрей Карпати: главная проблема LLM - в том, как они отвечают",
+            "description": "Сооснователь OpenAI и бывший директор AI в Tesla Андрей Карпати опубликовал в X пост , в котором назвал главное узкое место в общении с большими языковыми моделями — формат их ответа. По его мнению,...",
+            "image": "https://habr.com/share/publication/1034380/74e17834e9d3f694ba7e52c53c4173b7/",
+            "url": "https://habr.com/ru/news/1034380/"
         }
     }
 }
