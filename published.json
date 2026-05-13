@@ -15479,6 +15479,12 @@
             "description": "Инвестиционный фонд SoftBank отчитался о годовой прибыли в размере $46 млрд благодаря OpenAI",
             "image": "https://resizer.mail.ru/p/1ed302a2-bead-5fbd-842c-a2898129a8a7/AQAzUKwhNnLFfy82V12PdMpuPSW5QwrHvHS7TtRJrs5zzQG0AJq0U_6wtf-xYWvuv5FZfojxZxqCv2yv6kLVtC3jdXo.jpg",
             "url": "https://finance.mail.ru/article/yaponskij-konglomerat-softbank-zafiksiroval-pribyil-v-46-mlrd-ot-investitsij-v-openai-69208509/"
+        },
+        "https://habr.com/ru/companies/timeweb/articles/1010036/": {
+            "title": "Lindows OS - фейковая ось с гениальным названием",
+            "description": "Итак, что обещали потребителю? Lindows заменит две операционные системы. Зачем держать две системы? Когда я приобретал этот диск, я думал так же. Но обо всём по порядку. Поехали. CD-диск...",
+            "image": "https://habrastorage.org/getpro/habr/upload_files/206/2f4/cb5/2062f4cb5b3b0ba0139d47000fe6fb72.jpg",
+            "url": "https://habr.com/ru/companies/timeweb/articles/1010036/"
         }
     }
 }
