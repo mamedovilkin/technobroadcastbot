@@ -15485,6 +15485,12 @@
             "description": "Итак, что обещали потребителю? Lindows заменит две операционные системы. Зачем держать две системы? Когда я приобретал этот диск, я думал так же. Но обо всём по порядку. Поехали. CD-диск...",
             "image": "https://habrastorage.org/getpro/habr/upload_files/206/2f4/cb5/2062f4cb5b3b0ba0139d47000fe6fb72.jpg",
             "url": "https://habr.com/ru/companies/timeweb/articles/1010036/"
+        },
+        "https://www.iphones.ru/iNotes/hakery-vzlomali-fabriki-foxconn-i-ukrali-chertezhi-gadzhetov-i-vnutrennie-dokumenty-apple-google-nvidia": {
+            "title": "Большой взлом Foxconn. Хакеры украли 8 ТБ данных с чертежами и документами Apple, Google, Nvidia",
+            "description": "Опубликованные хакерами примеры файлов пока не содержат материалов, напрямую связанных с текущими или будущими устройствами Apple.",
+            "image": "https://cdn.iphones.ru/wp-content/uploads/2026/05/IMG_7641.jpeg",
+            "url": "https://www.iphones.ru/iNotes/hakery-vzlomali-fabriki-foxconn-i-ukrali-chertezhi-gadzhetov-i-vnutrennie-dokumenty-apple-google-nvidia"
         }
     }
 }
