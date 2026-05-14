@@ -15635,6 +15635,12 @@
             "description": "Тихое объединение Apple и Google, революция без анонса; Googlebook как замена Chromebook, попытка догнать MacBook Neo; про Android 17 и на что сделали упор в новой версии ОС; главное шоу в мире Android.",
             "image": "https://mobile-review.com/all/wp-content/uploads/2026/05/56844651.jpg",
             "url": "https://mobile-review.com/all/articles/analytics/razmyshlyaem-pro-android-show-google-i-o-2026-novaya-glava/"
+        },
+        "https://habr.com/ru/news/1034586/": {
+            "title": "Выпуск открытого проекта Scrcpy 4.0, который умеет отзеркалить содержимое экрана смартфона для удалённой работы",
+            "description": "12 мая 2026 года состоялся релиз приложения Scrcpy 4.0 (screen copy). Это решение позволяют отзеркалить содержимое экрана смартфона в стационарном пользовательском окружении с возможностью управлять...",
+            "image": "https://habr.com/share/publication/1034586/2fd497de8a1ff5904da0151429c1fe79/",
+            "url": "https://habr.com/ru/news/1034586/"
         }
     }
 }
