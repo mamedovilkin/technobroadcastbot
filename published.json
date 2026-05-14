@@ -15653,6 +15653,12 @@
             "description": "Попросил Claude подвести итог нашим усилиям по восстановлению: TLDR, попробовали ~3,5 триллиона паролей + ни один не сработал, в итоге сопоставили старую seed-фразу, найденную в студенческой тетради,...",
             "image": "https://habr.com/share/publication/1034966/557e17cc5320845a5bbe0c65bce38f86/",
             "url": "https://habr.com/ru/news/1034966/"
+        },
+        "https://habr.com/ru/companies/alpinadigital/articles/1034954/": {
+            "title": "Шесть техник промптинга, которые работают в 2026 году",
+            "description": "Жемал Хамидун · Head of AI Alpina Digital , CPO AlpinaGPT С 2023 года я курирую внедрение ИИ в Альпине. Мы начинали с того, что пытались ускорить книжное производство, и попутно прошли довольно много...",
+            "image": "https://habr.com/share/publication/1034954/3a1d8b4a00acbc6d887fcb3200a769f7/",
+            "url": "https://habr.com/ru/companies/alpinadigital/articles/1034954/"
         }
     }
 }
