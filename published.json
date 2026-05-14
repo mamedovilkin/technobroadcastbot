@@ -15593,6 +15593,12 @@
             "description": "Многие игроки похвалили разработчиков Space Haven.",
             "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1179760/image.png",
             "url": "https://ixbt.games/news/2026/05/13/spustia-6-let-v-steam-vyshla-polnaia-versiia-simuliatora-kosmicheskoi-kolonii.html"
+        },
+        "https://www.ixbt.com/news/2026/05/13/haker-nashel-prostoj-sposob-obojti-shifrovanie-bitlocker-v-windows.html": {
+            "title": "Хакер нашел простой способ обойти шифрование BitLocker в Windows",
+            "description": "В итоге можно получить полный доступ к зашифрованному диску",
+            "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/3/1778690563484-019e2237-b1ca-7123-8a83-9b8bad8bb942_large.png",
+            "url": "https://www.ixbt.com/news/2026/05/13/haker-nashel-prostoj-sposob-obojti-shifrovanie-bitlocker-v-windows.html"
         }
     }
 }
