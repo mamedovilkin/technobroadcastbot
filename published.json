@@ -15641,6 +15641,12 @@
             "description": "12 мая 2026 года состоялся релиз приложения Scrcpy 4.0 (screen copy). Это решение позволяют отзеркалить содержимое экрана смартфона в стационарном пользовательском окружении с возможностью управлять...",
             "image": "https://habr.com/share/publication/1034586/2fd497de8a1ff5904da0151429c1fe79/",
             "url": "https://habr.com/ru/news/1034586/"
+        },
+        "https://meduza.io/cards/my-uzhe-rasskazyvali-o-nekotoryh-metodah-obhoda-belyh-spiskov-vot-esche-odin-ot-roskomnadzora-chto": {
+            "title": "Мы уже рассказывали о некоторых методах обхода белых списков. Вот еще один — от Роскомнадзора! Что?! Да! Вы и правда можете попробовать обойти цензуру с помощью инфраструктуры цензора. Но сразу предуп",
+            "description": "В феврале 2026 года стало известно, что Роскомнадзор заблокировал на серверах Национальной системы доменных имен (НСДИ) некоторые домены сервисов, которые ранее и так были заблокированы или сильно ограничены в России. Вроде:",
+            "image": "https://meduza.io/imgly/share/1778734909/cards/my-uzhe-rasskazyvali-o-nekotoryh-metodah-obhoda-belyh-spiskov-vot-esche-odin-ot-roskomnadzora-chto",
+            "url": "https://meduza.io/cards/my-uzhe-rasskazyvali-o-nekotoryh-metodah-obhoda-belyh-spiskov-vot-esche-odin-ot-roskomnadzora-chto"
         }
     }
 }
