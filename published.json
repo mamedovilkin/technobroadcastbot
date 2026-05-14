@@ -15647,6 +15647,12 @@
             "description": "В феврале 2026 года стало известно, что Роскомнадзор заблокировал на серверах Национальной системы доменных имен (НСДИ) некоторые домены сервисов, которые ранее и так были заблокированы или сильно ограничены в России. Вроде:",
             "image": "https://meduza.io/imgly/share/1778734909/cards/my-uzhe-rasskazyvali-o-nekotoryh-metodah-obhoda-belyh-spiskov-vot-esche-odin-ot-roskomnadzora-chto",
             "url": "https://meduza.io/cards/my-uzhe-rasskazyvali-o-nekotoryh-metodah-obhoda-belyh-spiskov-vot-esche-odin-ot-roskomnadzora-chto"
+        },
+        "https://habr.com/ru/news/1034966/": {
+            "title": "ИИ-агент Claude Code помог пользователю вернуть доступ к кошельку с 5 BTC, который 12 лет был закрыт из-за утери пароля",
+            "description": "Попросил Claude подвести итог нашим усилиям по восстановлению: TLDR, попробовали ~3,5 триллиона паролей + ни один не сработал, в итоге сопоставили старую seed-фразу, найденную в студенческой тетради,...",
+            "image": "https://habr.com/share/publication/1034966/557e17cc5320845a5bbe0c65bce38f86/",
+            "url": "https://habr.com/ru/news/1034966/"
         }
     }
 }
