@@ -15623,6 +15623,12 @@
             "description": "Из них 10 устройств Redmi и 7 — Poco",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/4/1775909205524-019d7c6f-8a2b-7e5c-8acf-ce44f69e34bc%20(1)_large.png",
             "url": "https://www.ixbt.com/news/2026/05/14/85-xiaomi-hyperos-3-1-17.html"
+        },
+        "https://www.gismeteo.ru/news/health/ii-nauchilsya-vyyavlyat-rak-podzheludochnoj-za-gody-do-diagnoza/": {
+            "title": "ИИ научился выявлять рак поджелудочной за годы до диагноза",
+            "description": "Исследователи разработали систему искусственного интеллекта REDMOD, способную выявлять признаки рака поджелудочной железы задолго до постановки официального диагноза",
+            "image": "https://news-img.gismeteo.st/ru/2026/05/shutterstock_2355545365.jpg",
+            "url": "https://www.gismeteo.ru/news/health/ii-nauchilsya-vyyavlyat-rak-podzheludochnoj-za-gody-do-diagnoza/"
         }
     }
 }
