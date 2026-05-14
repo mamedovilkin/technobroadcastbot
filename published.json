@@ -15545,6 +15545,12 @@
             "description": "Китайский технологический гигант Alibaba сообщил, что его скорректированная прибыль до вычета процентов, налогов и амортизации (Earnings Before Interest, Taxes, and Amortization, EBITA), показатель базовой прибыльности компании, составила 5,1 млрд китайских юаней ($750,9 млн), что на 84 % меньше, чем годом ранее. Тем не менее выручка подразделения облачных вычислений выросла на 38 % благодаря спросу на ИИ..",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/13/1141671/alibaba-group.jpg",
             "url": "https://3dnews.ru/1141671/pribil-alibaba-ruhnula-na-84-no-gendir-nazval-otdachu-ot-ii-absolyutno-ochevidnoy"
+        },
+        "https://3dnews.ru/1141647/sozdatel-claude-code-rasskazal-chto-kazhduju-noch-zapuskaet-tysyachi-ii-agentov-i-upravljaet-imi-s-telefona": {
+            "title": "Создатель Claude Code рассказал, что каждую ночь запускает тысячи ИИ-агентов и управляет ими со смартфона",
+            "description": "Создатель Claude Code Борис Черни (Boris Cherny) рассказал, что каждую ночь запускает около двух тысяч ИИ-агентов — автономных программ, которые самостоятельно выполняют задачи по написанию кода, — а управляет ими в основном со смартфона..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/13/1141647/main.jpg",
+            "url": "https://3dnews.ru/1141647/sozdatel-claude-code-rasskazal-chto-kazhduju-noch-zapuskaet-tysyachi-ii-agentov-i-upravljaet-imi-s-telefona"
         }
     }
 }
