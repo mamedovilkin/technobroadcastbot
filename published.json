@@ -15581,6 +15581,12 @@
             "description": "Акции Nvidia обновили исторический максимум после новостей о поездке Дженсена Хуанга в Китай вместе с Дональдом Трампом",
             "image": "https://media.ixbt.site/1600x900/smart/https://www.ixbt.com/img/n1/news/2026/4/3/converted%20-%202026-05-13T212117.198_large.jpg",
             "url": "https://www.ixbt.com/news/2026/05/13/nvidia-5-5.html"
+        },
+        "https://habr.com/ru/articles/1032574/": {
+            "title": "Про 10x программистов",
+            "description": "Есть такая старая и немного протухшая дискуссия про 10x программистов. То ли они существуют, то ли это миф стартаперов, то ли это просто мечтания менеджеров про «давайте наймем одного волшебника...",
+            "image": "https://habr.com/share/publication/1032574/421b05fd22bc7072c24cb1e4f22a257d/",
+            "url": "https://habr.com/ru/articles/1032574/"
         }
     }
 }
