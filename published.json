@@ -15761,6 +15761,12 @@
             "description": "Половина респондентов осваивает нейросети самостоятельно",
             "image": "https://assets3.klops.ru/media/W1siZiIsIjIwMjYvMDUvMTQvNTdhZDQ0YTMtMzIzMS00NGU5LWExNGItODE3NjA5ZjhlN2I1X2ZpbGUuanBlZyJdLFsicCIsInRodW1iIiwiMTI4MHg2NzIrMCszMCJdLFsicCIsInRodW1iIiwiMTIwMHg2MzAjIl0sWyJwIiwiZW5jb2RlIiwianBnIiwiLXN0cmlwIC1pbnRlcmxhY2UgUGxhbmUiXV0/file.jpg?sha=fdd63c37614b9d85",
             "url": "https://klops.ru/kaliningrad/2026-05-14/383283-kazhdyy-pyatyy-rossiyanin-izuchayuschiy-ii-uzhe-ispolzuet-ego-v-rabote-issledovanie"
+        },
+        "https://habr.com/ru/news/1035338/": {
+            "title": "Claude Mythos обошел защиту macOS всего за пять дней",
+            "description": "Исследователи из калифорнийской фирмы по кибербезопасности Calif обошли флагманскую защиту macOS с помощью Claude Mythos Preview всего за пять дней — а ведь на разработку этой защиты у Apple ушло пять...",
+            "image": "https://habr.com/share/publication/1035338/b1431221d4b1301a5628bc91d7bf51db/",
+            "url": "https://habr.com/ru/news/1035338/"
         }
     }
 }
