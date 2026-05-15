@@ -15809,6 +15809,12 @@
             "description": "В России стартовали продажи телевизоров General Electronics производства Беларуси. В ассортименте есть различные модели, в том числе с экранами QLED и разрешением 4K UHD, а также под управлением российских платформ YaOS («Яндекс») и «Салют ТВ» («Сбер»). Ценники начинаются от 6 тыс.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/14/1141719/ge-tv.jpg",
             "url": "https://3dnews.ru/1141719/v-rossiyskoy-roznitse-poyavilis-belorusskie-televizori-general-electronics-na-baze-yaos-i-salyut-tv-a-takge-bez-nih"
+        },
+        "https://habr.com/ru/news/1035412/": {
+            "title": "Группа хакеров пригрозила опубликовать исходный код Mistral AI",
+            "description": "Группа хакеров TeamPCP угрожает опубликовать исходный код проекта Mistral AI, если не найдёт покупателя на эти данные. В сообщении на хакерском форуме злоумышленники просят $25 000 за набор из почти...",
+            "image": "https://habr.com/share/publication/1035412/7344ec02596adf1a2cd528ded1214856/",
+            "url": "https://habr.com/ru/news/1035412/"
         }
     }
 }
