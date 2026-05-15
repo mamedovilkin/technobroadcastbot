@@ -15815,6 +15815,12 @@
             "description": "Группа хакеров TeamPCP угрожает опубликовать исходный код проекта Mistral AI, если не найдёт покупателя на эти данные. В сообщении на хакерском форуме злоумышленники просят $25 000 за набор из почти...",
             "image": "https://habr.com/share/publication/1035412/7344ec02596adf1a2cd528ded1214856/",
             "url": "https://habr.com/ru/news/1035412/"
+        },
+        "https://www.ixbt.com/news/2026/05/15/intel-nachala-proizvodstvo-processorov-dlja-iphone.html": {
+            "title": "Intel начала производство процессоров для iPhone",
+            "description": "Инсайдерская информация",
+            "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
+            "url": "https://www.ixbt.com/news/2026/05/15/intel-nachala-proizvodstvo-processorov-dlja-iphone.html"
         }
     }
 }
