@@ -15833,6 +15833,12 @@
             "description": "Шлюзы позволяют обращаться ко многим LLM через единый API с единой оплатой. При их использовании в России можно столкнуться с региональными ограничениями, поэтому мы в Kodik создали шлюз KodikRouter :...",
             "image": "https://habr.com/share/publication/1035310/98792f13061aca7052cc11cd46be7954/",
             "url": "https://habr.com/ru/companies/kodik/news/1035310/"
+        },
+        "https://ixbt.games/news/2026/05/15/413880-kompaniia-amd-sdelaet-sag-navstrecu-geimeram-i-vdoxnet-zizn-v-starye-videokarty.html": {
+            "title": "Компания AMD сделает шаг навстречу геймерам и вдохнет жизнь в старые видеокарты",
+            "description": "AMD подтвердила расширение поддержки технологии AMD FidelityFX Super Resolution для старых видеокарт Radeon. Уже в июле владельцы GPU на архитектуре RDNA 3 получат доступ к FSR 4.1 с алгоритмами машинного обучения.",
+            "image": "https://media.ixbt.site/1600x900/smart/ixbt-data/1180124/us0079031078-2025-07-23-19-40-19.jpg",
+            "url": "https://ixbt.games/news/2026/05/15/413880-kompaniia-amd-sdelaet-sag-navstrecu-geimeram-i-vdoxnet-zizn-v-starye-videokarty.html"
         }
     }
 }
