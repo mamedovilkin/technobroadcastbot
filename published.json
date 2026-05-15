@@ -15827,6 +15827,12 @@
             "description": "Китайские учёные создали новую версию фотонного квантового компьютера «Цзючжан» (Jiuzhang), впервые представленного шесть лет назад. Это уже четвёртая реализация системы, с возросшей на порядок мощностью. В 2020 году «Цзючжан 1.",
             "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/15/1141770/quant_00.jpg",
             "url": "https://3dnews.ru/1141770/kitay-sozdal-fotonniy-kvantoviy-kompyuter-kotoriy-superkompyuteram-ne-dognat-dage-za-vremya-gizni-vselennoy"
+        },
+        "https://habr.com/ru/companies/kodik/news/1035310/": {
+            "title": "Запущен российский API-шлюз для LLM KodikRouter",
+            "description": "Шлюзы позволяют обращаться ко многим LLM через единый API с единой оплатой. При их использовании в России можно столкнуться с региональными ограничениями, поэтому мы в Kodik создали шлюз KodikRouter :...",
+            "image": "https://habr.com/share/publication/1035310/98792f13061aca7052cc11cd46be7954/",
+            "url": "https://habr.com/ru/companies/kodik/news/1035310/"
         }
     }
 }
