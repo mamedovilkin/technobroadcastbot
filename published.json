@@ -15989,6 +15989,12 @@
             "description": "Все равно, что сорвать джек-пот",
             "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
             "url": "https://www.ixbt.com/news/2026/05/16/ssd-samsung-990-pro-10-5.html"
+        },
+        "https://www.ixbt.com/news/2026/05/16/intel-core-i9-14900kf-9-2.html": {
+            "title": "Intel Core i9-14900KF стал самым быстрым процессором в истории - его разогнали до 9,2 ГГц",
+            "description": "Предыдущий рекорд Core i9-14900KS побит",
+            "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
+            "url": "https://www.ixbt.com/news/2026/05/16/intel-core-i9-14900kf-9-2.html"
         }
     }
 }
