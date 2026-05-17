@@ -16031,6 +16031,12 @@
             "description": "Аша Шарма узнала, какое название больше нравится поклонникам.",
             "image": "https://gamemag.ru/images/cache/News/News199246/13007e3157-1_1390x600.jpg",
             "url": "https://gamemag.ru/news/199246/microsoft-xbox-rebrand-caps"
+        },
+        "https://habr.com/ru/articles/1035970/": {
+            "title": "Как я за последний год стал программировать по",
+            "description": "Довольно интересное наблюдение: я перестал пользоваться автокомплитом в IDE, который предлагает LLM. Сначала для меня это была одна из ключевых функций. Это казалось жутко...",
+            "image": "https://habr.com/share/publication/1035970/587e89d7a8467a3d3b8f61fc050455fb/",
+            "url": "https://habr.com/ru/articles/1035970/"
         }
     }
 }
