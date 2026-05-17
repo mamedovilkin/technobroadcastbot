@@ -16019,6 +16019,12 @@
             "description": "Чтобы пользователь не отвлекался от рабочих задач или учебы",
             "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
             "url": "https://www.ixbt.com/news/2026/05/16/one-ui-9.html"
+        },
+        "https://servernews.ru/1141830": {
+            "title": "Samsung готовит петабайтные Nearline SSD - ёмкие, но не слишком надёжные",
+            "description": "Компания Scality, специализирующаяся на программно-определяемых хранилищах данных (SDS), раскрыла информацию об SSD нового класса, которые проектирует компания Samsung. Речь идёт о твердотельных Nearline-устройствах большой ёмкости, предназначенных для использования в дата-центрах..",
+            "image": "https://cdn.3dnews.ru/assets/external/illustrations/2026/05/16/1141830/sm.ssd.800.jpg",
+            "url": "https://servernews.ru/1141830"
         }
     }
 }
