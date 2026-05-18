@@ -16187,6 +16187,12 @@
             "description": "В ходе тестирования было проверено более 1300 сервисов и платформ",
             "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
             "url": "https://www.ixbt.com/news/2026/05/18/tbank-ustroil-kiberataku-na-sobstvennuju-infrastrukturu-s-pomoshju-ii.html"
+        },
+        "https://www.interfax.ru/russia/1090153": {
+            "title": "В \"Росатоме\" заявили, что ситуация вокруг ЗАЭС приближается к точке невозврата",
+            "description": "Ситуация вокруг Запорожской АЭС стремительно ухудшается, лидеры европейских стран должны срочно включиться в ее деэскалацию, заявил глава Росатома Алексей",
+            "image": "https://www.interfax.ru/aspimg/1090153.jpg",
+            "url": "https://www.interfax.ru/russia/1090153"
         }
     }
 }
