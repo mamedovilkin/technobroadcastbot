@@ -16127,6 +16127,12 @@
             "description": "Американские угольные компании зафиксировали резкий рост капитализации на фоне развития ИИ",
             "image": "https://resizer.mail.ru/p/01961e26-f1e0-5695-8340-dd29157962b5/AQAzd7WrkWBYcf1pUNot6DlCteBZke0IxaXITbjWgGX_gYf-H7O25llXxPZ-qqJx9VhRDgWd1TDegJuRAn5-MtNjaNw.jpg",
             "url": "https://finance.mail.ru/article/iskusstvennyij-intellekt-sprovotsiroval-masshtabnoe-vozrozhdenie-ugolnoj-energetiki-69209094/"
+        },
+        "https://habr.com/ru/articles/1036226/": {
+            "title": "Иллюзия сохранности, или Бэкап, который не спасает",
+            "description": "Инициативный ИИ Случай, произошедший со стартапом PocketOS, выглядел бы комичным, если бы не обернулся реальной катастрофой. ИИ-агент Cursor, работавший на базе Claude Opus, за девять секунд уничтожил...",
+            "image": "https://habr.com/share/publication/1036226/136ba9782ba45695bd2790479f5fc7af/",
+            "url": "https://habr.com/ru/articles/1036226/"
         }
     }
 }
