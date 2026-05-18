@@ -16103,6 +16103,12 @@
             "description": "Авторы индекса TIOBE опубликовали майский рейтинг популярных языков программирования. Несколько позиций рейтинга в топ-10 претерпели изменения с начала 2026 года (1. Python. 2. C. 3. Java (на 3 с...",
             "image": "https://habr.com/share/publication/1036114/f2fb67068d83dd0f502cab887ad21165/",
             "url": "https://habr.com/ru/news/1036114/"
+        },
+        "https://www.ixbt.com/news/2026/05/17/oneplus-android-oxygenos.html": {
+            "title": "Смартфоны OnePlus уходят в циклическую перезагрузку и не могут загрузить Android - компания приостановила обновления OxygenOS",
+            "description": "OxygenOS версий 16.0.7.XXX и 16.0.5.XXX пока не обновляется",
+            "image": "https://www.ixbt.com/images/ixbt/favicon-96x96.png",
+            "url": "https://www.ixbt.com/news/2026/05/17/oneplus-android-oxygenos.html"
         }
     }
 }
