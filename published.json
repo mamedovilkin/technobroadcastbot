@@ -16289,6 +16289,12 @@
             "description": "Исследователи из  VulnCheck  зафиксировали активную эксплуатацию CVE-2026-42945 — критической уязвимости в NGINX с оценкой 9.2 по шкале CVSS, которую на прошлой неделе  обнаружил...",
             "image": "https://habr.com/share/publication/1036612/fcf614ff256dcb4e7bf10ae65695e77a/",
             "url": "https://habr.com/ru/news/1036612/"
+        },
+        "https://habr.com/ru/news/1036680/": {
+            "title": "Anthropic купила стартап, на котором держатся SDK конкурентов - и сворачивает его продукты",
+            "description": "Anthropic  объявила  о покупке Stainless — нью-йоркского стартапа, который автоматически генерировал SDK для API крупнейших AI-компаний. По данным The Information, сумма сделки превышает...",
+            "image": "https://habr.com/share/publication/1036680/99483abb6c7b51c033ae8cd6786e67bc/",
+            "url": "https://habr.com/ru/news/1036680/"
         }
     }
 }
