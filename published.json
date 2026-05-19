@@ -16259,6 +16259,12 @@
             "description": "TL;DR из-за ООП Я программирую под iOS с 2010 года. Начинал в геймдеве, хорошо прокачался в C/C++, пытался развивать iOS-направление в тогдашнем Мэйл.ру — в 2011-м там была всего одна команда под iOS...",
             "image": "https://habr.com/share/publication/1036590/8bda925d07add1a506195a1727e28898/",
             "url": "https://habr.com/ru/articles/1036590/"
+        },
+        "https://mobile-review.com/all/articles/analytics/pervaya-rossijskaya-os-dlya-televizorov-avrora-os-kogda-pochemu-i-chto-vnutri/": {
+            "title": "Первая российская ОС для телевизоров \"Аврора ОС\". Когда, почему и что внутри",
+            "description": "В чем отличия «Авроры ТВ» от российских марок телевизоров; что умеют такие телевизоры, кто создает дизайн интерфейса; объем рынка умных ТВ в России и как его изменит ИИ, почему впереди новый виток развития.",
+            "image": "https://mobile-review.com/all/wp-content/uploads/2026/05/148461460.jpg",
+            "url": "https://mobile-review.com/all/articles/analytics/pervaya-rossijskaya-os-dlya-televizorov-avrora-os-kogda-pochemu-i-chto-vnutri/"
         }
     }
 }
